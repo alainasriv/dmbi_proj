@@ -1,0 +1,11 @@
+# API key
+.env
+
+__pycache__/
+*.pyc
+venv/
+
+*.json
+
+.vscode/
+.DS_Store

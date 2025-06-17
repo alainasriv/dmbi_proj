@@ -1,0 +1,106 @@
+import os
+import json
+import time
+from PyPDF2 import PdfReader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from openai import OpenAI
+
+# ---------- Text Extraction ----------
+def extract_text_from_pdf(pdf_path):
+    try:
+        with open(pdf_path, "rb") as f:
+            reader = PdfReader(f)
+            text = ""
+            for i, page in enumerate(reader.pages):
+                try:
+                    text += page.extract_text() + " "
+                except Exception as e:
+                    print(f"Error reading page {i+1} in {pdf_path}: {e}")
+                    continue
+            return text.strip()
+    except Exception as e:
+        print(f"Error processing {pdf_path}: {e}")
+        return ""
+
+def extract_text_from_txt(txt_path):
+    try:
+        with open(txt_path, "r", encoding="utf-8") as f:
+            return f.read()
+    except Exception as e:
+        print(f"Error reading {txt_path}: {e}")
+        return ""
+
+def load_all_papers(directory):
+    papers = {}
+    for filename in os.listdir(directory):
+        path = os.path.join(directory, filename)
+        if filename.endswith(".pdf"):
+            text = extract_text_from_pdf(path)
+            if text:
+                papers[filename] = text
+        elif filename.endswith(".txt"):
+            text = extract_text_from_txt(path)
+            if text:
+                papers[filename] = text
+    print(f"Successfully loaded {len(papers)} papers")
+    return papers
+
+# ---------- OpenAI Extraction ----------
+def extract_kg_from_text(text, client):
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{
+                "role": "system",
+                "content": "Extract entities (name, type) and relations (source, target, type) as JSON. Return only valid JSON."
+            }, {
+                "role": "user",
+                "content": f"Text: {text}\n\nReturn valid JSON format: {{'entities': [...], 'relations': [...]}}"
+            }]
+        )
+        content = response.choices[0].message.content.strip()
+        if content.startswith("```json"):
+            content = content[7:-3].strip()
+        elif content.startswith("```"):
+            content = content[3:-3].strip()
+        return json.loads(content)
+    except json.JSONDecodeError as e:
+        print(f"JSON parsing error: {e}")
+        return {"entities": [], "relations": []}
+    except Exception as e:
+        print(f"Error processing chunk with OpenAI: {e}")
+        return {"entities": [], "relations": []}
+
+# ---------- Main Pipeline ----------
+def main():
+    input_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/pdfs"
+    output_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/processed_graphs"
+    os.makedirs(output_dir, exist_ok=True)
+
+    papers = load_all_papers(input_dir)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+    for paper_name, text in papers.items():
+        out_path = os.path.join(output_dir, f"{paper_name}_kg.json")
+        if os.path.exists(out_path):
+            print(f"Skipping {paper_name} (already processed)")
+            continue
+
+        chunks = splitter.split_text(text)
+        print(f"Processing {paper_name} ({len(chunks)} chunks)")
+        paper_kg = {"entities": [], "relations": []}
+
+        for i, chunk in enumerate(chunks):
+            print(f"Processing chunk {i+1}/{len(chunks)} from {paper_name}")
+            result = extract_kg_from_text(chunk, client)
+            paper_kg["entities"].extend(result["entities"])
+            paper_kg["relations"].extend(result["relations"])
+            time.sleep(1)  # Optional: avoid hitting rate limits
+
+        with open(out_path, "w", encoding="utf-8") as f:
+            json.dump(paper_kg, f, indent=2)
+        print(f"Saved: {out_path}")
+
+if __name__ == "__main__":
+    main()
