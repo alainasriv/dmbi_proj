@@ -96,7 +96,7 @@ def main():
             result = extract_kg_from_text(chunk, client)
             paper_kg["entities"].extend(result["entities"])
             paper_kg["relations"].extend(result["relations"])
-            time.sleep(1)  # Optional: avoid hitting rate limits
+            time.sleep(1)
 
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(paper_kg, f, indent=2)
