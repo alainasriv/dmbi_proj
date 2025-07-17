@@ -2,8 +2,12 @@ import os
 import json
 import time
 from PyPDF2 import PdfReader
+from fpdf import FPDF
+from pathlib import Path
+
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from openai import OpenAI
+from langchain_openai import ChatOpenAI
+from langchain_experimental.graph_transformers import LLMGraphTransformer
 
 # ---------- Text Extraction ----------
 def extract_text_from_pdf(pdf_path):
@@ -13,10 +17,11 @@ def extract_text_from_pdf(pdf_path):
             text = ""
             for i, page in enumerate(reader.pages):
                 try:
-                    text += page.extract_text() + " "
+                    page_text = page.extract_text()
+                    if page_text:
+                        text += page_text + " "
                 except Exception as e:
                     print(f"Error reading page {i+1} in {pdf_path}: {e}")
-                    continue
             return text.strip()
     except Exception as e:
         print(f"Error processing {pdf_path}: {e}")
@@ -45,31 +50,53 @@ def load_all_papers(directory):
     print(f"Successfully loaded {len(papers)} papers")
     return papers
 
-# ---------- OpenAI Extraction ----------
-def extract_kg_from_text(text, client):
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{
-                "role": "system",
-                "content": "Extract entities (name, type) and relations (source, target, type) as JSON. Return only valid JSON."
-            }, {
-                "role": "user",
-                "content": f"Text: {text}\n\nReturn valid JSON format: {{'entities': [...], 'relations': [...]}}"
-            }]
-        )
-        content = response.choices[0].message.content.strip()
-        if content.startswith("```json"):
-            content = content[7:-3].strip()
-        elif content.startswith("```"):
-            content = content[3:-3].strip()
-        return json.loads(content)
-    except json.JSONDecodeError as e:
-        print(f"JSON parsing error: {e}")
-        return {"entities": [], "relations": []}
-    except Exception as e:
-        print(f"Error processing chunk with OpenAI: {e}")
-        return {"entities": [], "relations": []}
+# ---------- Chunk-to-PDF Writer ----------
+def save_chunks_to_pdf(chunks, paper_name, output_dir):
+    pdf = FPDF()
+    pdf.set_auto_page_break(auto=True, margin=15)
+
+    # Set font path to your downloaded font
+    font_path = "/Users/alainasrivastav/Downloads/dmbi_proj/fonts/DejaVuSans.ttf"
+    if not Path(font_path).exists():
+        raise FileNotFoundError("DejaVuSans.ttf not found. Download it and place it in the fonts folder.")
+
+    pdf.add_font("DejaVu", "", font_path, uni=True)
+    pdf.set_font("DejaVu", "", 11)
+
+    for i, chunk in enumerate(chunks):
+        pdf.add_page()
+        pdf.multi_cell(0, 10, f"Chunk {i+1}\n\n{chunk}")
+
+    pdf_output_path = os.path.join(output_dir, f"{paper_name}_chunks.pdf")
+    pdf.output(pdf_output_path)
+    print(f"Saved chunk PDF: {pdf_output_path}")
+
+# ---------- LLM Graph Extraction ----------
+def extract_graph_from_chunks(chunks, llm):
+    from langchain_core.documents import Document
+    
+    transformer = LLMGraphTransformer(llm=llm)
+    all_entities = []
+    all_relations = []
+
+    for i, chunk in enumerate(chunks):
+        print(f"Extracting from chunk {i+1}/{len(chunks)}")
+        try:
+            doc = Document(page_content=chunk)
+            graph_documents = transformer.convert_to_graph_documents([doc])
+            
+            for graph_doc in graph_documents:
+                all_entities.extend(graph_doc.nodes)
+                all_relations.extend(graph_doc.relationships)
+                
+        except Exception as e:
+            print(f"Error processing chunk {i+1}: {e}")
+        time.sleep(1)
+
+    return {
+        "entities": [{"id": e.id, "type": e.type, "properties": e.properties} for e in all_entities],
+        "relations": [{"source": r.source.id, "target": r.target.id, "type": r.type, "properties": r.properties} for r in all_relations]
+    }
 
 # ---------- Main Pipeline ----------
 def main():
@@ -79,28 +106,28 @@ def main():
 
     papers = load_all_papers(input_dir)
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
     for paper_name, text in papers.items():
-        out_path = os.path.join(output_dir, f"{paper_name}_kg.json")
-        if os.path.exists(out_path):
+        base_name = os.path.splitext(paper_name)[0]
+        kg_path = os.path.join(output_dir, f"{base_name}_kg.json")
+
+        if os.path.exists(kg_path):
             print(f"Skipping {paper_name} (already processed)")
             continue
 
         chunks = splitter.split_text(text)
-        print(f"Processing {paper_name} ({len(chunks)} chunks)")
-        paper_kg = {"entities": [], "relations": []}
+        print(f"\nProcessing {paper_name} ({len(chunks)} chunks)")
 
-        for i, chunk in enumerate(chunks):
-            print(f"Processing chunk {i+1}/{len(chunks)} from {paper_name}")
-            result = extract_kg_from_text(chunk, client)
-            paper_kg["entities"].extend(result["entities"])
-            paper_kg["relations"].extend(result["relations"])
-            time.sleep(1)
+        # Save chunks to a PDF file for manual inspection
+        save_chunks_to_pdf(chunks, base_name, output_dir)
 
-        with open(out_path, "w", encoding="utf-8") as f:
-            json.dump(paper_kg, f, indent=2)
-        print(f"Saved: {out_path}")
+        # Extract knowledge graph from chunks
+        kg = extract_graph_from_chunks(chunks, llm)
+
+        with open(kg_path, "w", encoding="utf-8") as f:
+            json.dump(kg, f, indent=2)
+        print(f"Saved KG JSON: {kg_path}")
 
 if __name__ == "__main__":
     main()
