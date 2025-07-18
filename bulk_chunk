@@ -3,8 +3,16 @@ import json
 from neo4j import GraphDatabase
 from dotenv import load_dotenv
 
+<<<<<<< HEAD
 # Load environment variables
 load_dotenv()
+=======
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_openai import ChatOpenAI
+from langchain_community.graphs import Neo4jGraph
+from langchain_experimental.graph_transformers import LLMGraphTransformer
+from langchain_core.documents import Document
+>>>>>>> a125af2 (modifying extract_graph_from_chunks function to directly add to graph instance)
 
 # ---------- Neo4j Configuration ----------
 NEO4J_URI = "neo4j://127.0.0.1:7687" 
@@ -28,6 +36,7 @@ def check_paper_processed(driver, paper_name):
         count = result.single()["count"]
         return count > 0
 
+<<<<<<< HEAD
 def write_to_neo4j(kg_data, paper_name, driver):
     """Write knowledge graph data to Neo4j"""
     with driver.session() as session:
@@ -255,6 +264,83 @@ def main():
     finally:
         driver.close()
         print("Neo4j connection closed")
+=======
+# ---------- Chunk-to-PDF Writer ----------
+def save_chunks_to_pdf(chunks, paper_name, output_dir):
+    pdf = FPDF()
+    pdf.set_auto_page_break(auto=True, margin=15)
+
+    # Set font path to your downloaded font
+    font_path = "/Users/alainasrivastav/Downloads/dmbi_proj/fonts/DejaVuSans.ttf"
+    if not Path(font_path).exists():
+        raise FileNotFoundError("DejaVuSans.ttf not found. Download it and place it in the fonts folder.")
+
+    pdf.add_font("DejaVu", "", font_path, uni=True)
+    pdf.set_font("DejaVu", "", 11)
+
+    for i, chunk in enumerate(chunks):
+        pdf.add_page()
+        pdf.multi_cell(0, 10, f"Chunk {i+1}\n\n{chunk}")
+
+    pdf_output_path = os.path.join(output_dir, f"{paper_name}_chunks.pdf")
+    pdf.output(pdf_output_path)
+    print(f"Saved chunk PDF: {pdf_output_path}")
+
+# ---------- LLM Graph Extraction ----------
+def extract_graph_from_chunks(graph, chunks, llm):
+    
+    transformer = LLMGraphTransformer(llm=llm)
+
+    for i, chunk in enumerate(chunks):
+        print(f"Extracting from chunk {i+1}/{len(chunks)}")
+        try:
+            doc = Document(page_content=chunk)
+            graph_documents = transformer.convert_to_graph_documents([doc])
+            graph.add_graph_documents(graph_documents)
+                
+        except Exception as e:
+            print(f"Error processing chunk {i+1}: {e}")
+        time.sleep(1)
+
+    return graph
+
+# ---------- Main Pipeline ----------
+def main():
+    input_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/pdfs"
+    output_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/processed_graphs"
+    os.makedirs(output_dir, exist_ok=True)
+
+    papers = load_all_papers(input_dir)
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
+    llm = ChatOpenAI(model="gpt-4o", temperature=0)
+
+    for paper_name, text in papers.items():
+        base_name = os.path.splitext(paper_name)[0]
+        kg_path = os.path.join(output_dir, f"{base_name}_kg.json")
+
+        if os.path.exists(kg_path):
+            print(f"Skipping {paper_name} (already processed)")
+            continue
+
+        chunks = splitter.split_text(text)
+        print(f"\nProcessing {paper_name} ({len(chunks)} chunks)")
+
+        # Save chunks to a PDF file for manual inspection
+        save_chunks_to_pdf(chunks, base_name, output_dir)
+
+        # Extract knowledge graph from chunks
+        graph = Neo4jGraph(
+            url="bolt://54.87.130.140:7687",
+            username="neo4j",
+            password="cables-anchors-directories",
+            refresh_schema=False
+        )
+        kg = extract_graph_from_chunks(graph, chunks, llm)
+
+        with open(kg_path, "w", encoding="utf-8") as f:
+            json.dump(kg, f, indent=2)
+        print(f"Saved KG JSON: {kg_path}")
+>>>>>>> a125af2 (modifying extract_graph_from_chunks function to directly add to graph instance)
 
 if __name__ == "__main__":
     main()
