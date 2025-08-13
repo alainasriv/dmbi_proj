@@ -1,133 +1,270 @@
 import os
 import json
-import time
-from PyPDF2 import PdfReader
-from fpdf import FPDF
-from pathlib import Path
+from neo4j import GraphDatabase
+from dotenv import load_dotenv
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_openai import ChatOpenAI
-from langchain_experimental.graph_transformers import LLMGraphTransformer
+# Load environment variables
+load_dotenv()
 
-# ---------- Text Extraction ----------
-def extract_text_from_pdf(pdf_path):
-    try:
-        with open(pdf_path, "rb") as f:
-            reader = PdfReader(f)
-            text = ""
-            for i, page in enumerate(reader.pages):
-                try:
-                    page_text = page.extract_text()
-                    if page_text:
-                        text += page_text + " "
-                except Exception as e:
-                    print(f"Error reading page {i+1} in {pdf_path}: {e}")
-            return text.strip()
-    except Exception as e:
-        print(f"Error processing {pdf_path}: {e}")
-        return ""
+# ---------- Neo4j Configuration ----------
+NEO4J_URI = "neo4j://127.0.0.1:7687" 
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "Anewera123!"  
 
-def extract_text_from_txt(txt_path):
-    try:
-        with open(txt_path, "r", encoding="utf-8") as f:
-            return f.read()
-    except Exception as e:
-        print(f"Error reading {txt_path}: {e}")
-        return ""
+# ---------- Neo4j Operations ----------
+def clear_database(driver):
+    """Clear all nodes and relationships from the database"""
+    with driver.session() as session:
+        session.run("MATCH (n) DETACH DELETE n")
+        print("Cleared existing database")
 
-def load_all_papers(directory):
-    papers = {}
-    for filename in os.listdir(directory):
-        path = os.path.join(directory, filename)
-        if filename.endswith(".pdf"):
-            text = extract_text_from_pdf(path)
-            if text:
-                papers[filename] = text
-        elif filename.endswith(".txt"):
-            text = extract_text_from_txt(path)
-            if text:
-                papers[filename] = text
-    print(f"Successfully loaded {len(papers)} papers")
-    return papers
+def check_paper_processed(driver, paper_name):
+    """Check if a paper has already been processed"""
+    with driver.session() as session:
+        result = session.run(
+            "MATCH (n {paper: $paper}) RETURN count(n) as count",
+            paper=paper_name
+        )
+        count = result.single()["count"]
+        return count > 0
 
-# ---------- Chunk-to-PDF Writer ----------
-def save_chunks_to_pdf(chunks, paper_name, output_dir):
-    pdf = FPDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
-
-    # Set font path to your downloaded font
-    font_path = "/Users/alainasrivastav/Downloads/dmbi_proj/fonts/DejaVuSans.ttf"
-    if not Path(font_path).exists():
-        raise FileNotFoundError("DejaVuSans.ttf not found. Download it and place it in the fonts folder.")
-
-    pdf.add_font("DejaVu", "", font_path, uni=True)
-    pdf.set_font("DejaVu", "", 11)
-
-    for i, chunk in enumerate(chunks):
-        pdf.add_page()
-        pdf.multi_cell(0, 10, f"Chunk {i+1}\n\n{chunk}")
-
-    pdf_output_path = os.path.join(output_dir, f"{paper_name}_chunks.pdf")
-    pdf.output(pdf_output_path)
-    print(f"Saved chunk PDF: {pdf_output_path}")
-
-# ---------- LLM Graph Extraction ----------
-def extract_graph_from_chunks(chunks, llm):
-    from langchain_core.documents import Document
-    
-    transformer = LLMGraphTransformer(llm=llm)
-    all_entities = []
-    all_relations = []
-
-    for i, chunk in enumerate(chunks):
-        print(f"Extracting from chunk {i+1}/{len(chunks)}")
+def write_to_neo4j(kg_data, paper_name, driver):
+    """Write knowledge graph data to Neo4j"""
+    with driver.session() as session:
+        # Create constraint for better performance (run only once)
         try:
-            doc = Document(page_content=chunk)
-            graph_documents = transformer.convert_to_graph_documents([doc])
-            
-            for graph_doc in graph_documents:
-                all_entities.extend(graph_doc.nodes)
-                all_relations.extend(graph_doc.relationships)
-                
-        except Exception as e:
-            print(f"Error processing chunk {i+1}: {e}")
-        time.sleep(1)
+            session.run("CREATE CONSTRAINT entity_id IF NOT EXISTS FOR (n:Entity) REQUIRE n.id IS UNIQUE")
+        except Exception:
+            pass  # Constraint might already exist
 
-    return {
-        "entities": [{"id": e.id, "type": e.type, "properties": e.properties} for e in all_entities],
-        "relations": [{"source": r.source.id, "target": r.target.id, "type": r.type, "properties": r.properties} for r in all_relations]
-    }
+        print(f"Writing {len(kg_data['entities'])} entities and {len(kg_data['relations'])} relations to Neo4j")
+        
+        # Create nodes (entities)
+        for entity in kg_data["entities"]:
+            try:
+                # Clean and prepare properties - only include non-empty properties
+                properties = entity.get("properties", {}) or {}
+                if not isinstance(properties, dict):
+                    properties = {}
+                
+                # Filter out empty values and convert to primitive types
+                clean_properties = {}
+                for key, value in properties.items():
+                    if value is not None and value != {} and value != []:
+                        # Convert to string if it's a complex type
+                        if isinstance(value, (dict, list)):
+                            clean_properties[key] = str(value)
+                        else:
+                            clean_properties[key] = value
+                
+                # Only set properties if we have any clean ones
+                if clean_properties:
+                    session.run(
+                        """
+                        MERGE (n:Entity {id: $id})
+                        SET n.type = $type,
+                            n.paper = $paper,
+                            n += $properties
+                        """,
+                        id=str(entity["id"]),
+                        type=str(entity.get("type", "Unknown")),
+                        paper=paper_name,
+                        properties=clean_properties
+                    )
+                else:
+                    # No properties to set, just create the basic entity
+                    session.run(
+                        """
+                        MERGE (n:Entity {id: $id})
+                        SET n.type = $type,
+                            n.paper = $paper
+                        """,
+                        id=str(entity["id"]),
+                        type=str(entity.get("type", "Unknown")),
+                        paper=paper_name
+                    )
+            except Exception as e:
+                print(f"Error creating entity {entity.get('id', 'unknown')}: {e}")
+        
+        # Create relationships
+        relationship_count = 0
+        for relation in kg_data["relations"]:
+            try:
+                # Clean and prepare properties - only include non-empty properties
+                properties = relation.get("properties", {}) or {}
+                if not isinstance(properties, dict):
+                    properties = {}
+                
+                # Filter out empty values and convert to primitive types
+                clean_properties = {}
+                for key, value in properties.items():
+                    if value is not None and value != {} and value != []:
+                        # Convert to string if it's a complex type
+                        if isinstance(value, (dict, list)):
+                            clean_properties[key] = str(value)
+                        else:
+                            clean_properties[key] = value
+                
+                # Create relationship with or without properties
+                if clean_properties:
+                    result = session.run(
+                        """
+                        MATCH (a:Entity {id: $source}), (b:Entity {id: $target})
+                        MERGE (a)-[r:RELATED {type: $rel_type, paper: $paper}]->(b)
+                        SET r += $properties
+                        RETURN r
+                        """,
+                        source=str(relation["source"]),
+                        target=str(relation["target"]),
+                        rel_type=str(relation.get("type", "UNKNOWN")),
+                        paper=paper_name,
+                        properties=clean_properties
+                    )
+                else:
+                    result = session.run(
+                        """
+                        MATCH (a:Entity {id: $source}), (b:Entity {id: $target})
+                        MERGE (a)-[r:RELATED {type: $rel_type, paper: $paper}]->(b)
+                        RETURN r
+                        """,
+                        source=str(relation["source"]),
+                        target=str(relation["target"]),
+                        rel_type=str(relation.get("type", "UNKNOWN")),
+                        paper=paper_name
+                    )
+                
+                if result.single():
+                    relationship_count += 1
+                    
+            except Exception as e:
+                print(f"Error creating relationship {relation.get('source', 'unknown')} -> {relation.get('target', 'unknown')}: {e}")
+        
+        print(f"Successfully created {relationship_count} relationships")
+
+def get_database_stats(driver):
+    """Get basic statistics about the database"""
+    with driver.session() as session:
+        # Count nodes
+        node_result = session.run("MATCH (n) RETURN count(n) as node_count")
+        node_count = node_result.single()["node_count"]
+        
+        # Count relationships
+        rel_result = session.run("MATCH ()-[r]->() RETURN count(r) as rel_count")
+        rel_count = rel_result.single()["rel_count"]
+        
+        # Count papers
+        paper_result = session.run("MATCH (n) RETURN count(DISTINCT n.paper) as paper_count")
+        paper_count = paper_result.single()["paper_count"]
+        
+        return {
+            "nodes": node_count,
+            "relationships": rel_count,
+            "papers": paper_count
+        }
+
+def load_existing_json_files(json_dir):
+    """Load all existing JSON knowledge graph files"""
+    kg_files = {}
+    
+    for filename in os.listdir(json_dir):
+        if filename.endswith("_kg.json"):
+            file_path = os.path.join(json_dir, filename)
+            paper_name = filename.replace("_kg.json", "")
+            
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    kg_data = json.load(f)
+                    kg_files[paper_name] = kg_data
+                    print(f"Loaded {filename}: {len(kg_data.get('entities', []))} entities, {len(kg_data.get('relations', []))} relations")
+            except Exception as e:
+                print(f"Error loading {filename}: {e}")
+    
+    print(f"\nTotal loaded: {len(kg_files)} knowledge graph files")
+    return kg_files
+
+def test_neo4j_connection():
+    """Test Neo4j connection"""
+    try:
+        driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+        with driver.session() as session:
+            result = session.run("RETURN 'Connection successful' as message")
+            print(result.single()["message"])
+        driver.close()
+        return True
+    except Exception as e:
+        print(f"Connection failed: {e}")
+        return False
 
 # ---------- Main Pipeline ----------
 def main():
-    input_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/pdfs"
-    output_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/processed_graphs"
-    os.makedirs(output_dir, exist_ok=True)
-
-    papers = load_all_papers(input_dir)
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-    llm = ChatOpenAI(model="gpt-4o", temperature=0)
-
-    for paper_name, text in papers.items():
-        base_name = os.path.splitext(paper_name)[0]
-        kg_path = os.path.join(output_dir, f"{base_name}_kg.json")
-
-        if os.path.exists(kg_path):
-            print(f"Skipping {paper_name} (already processed)")
-            continue
-
-        chunks = splitter.split_text(text)
-        print(f"\nProcessing {paper_name} ({len(chunks)} chunks)")
-
-        # Save chunks to a PDF file for manual inspection
-        save_chunks_to_pdf(chunks, base_name, output_dir)
-
-        # Extract knowledge graph from chunks
-        kg = extract_graph_from_chunks(chunks, llm)
-
-        with open(kg_path, "w", encoding="utf-8") as f:
-            json.dump(kg, f, indent=2)
-        print(f"Saved KG JSON: {kg_path}")
+    # Directory containing your existing JSON files
+    json_dir = "/Users/alainasrivastav/Downloads/dmbi_proj/processed_graphs"
+    
+    if not os.path.exists(json_dir):
+        print(f"Directory {json_dir} not found!")
+        return
+    
+    # Test Neo4j connection first
+    if not test_neo4j_connection():
+        print("Fix Neo4j connection before proceeding")
+        return
+    
+    # Load existing JSON files
+    kg_files = load_existing_json_files(json_dir)
+    
+    if not kg_files:
+        print("No JSON knowledge graph files found!")
+        return
+    
+    # Connect to Neo4j
+    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    
+    try:
+        # Optional: Clear database (uncomment if you want to start fresh)
+        user_input = input("Do you want to clear the existing database? (y/N): ").lower()
+        if user_input == 'y':
+            clear_database(driver)
+        
+        # Process each JSON file
+        for paper_name, kg_data in kg_files.items():
+            # Check if already processed
+            if check_paper_processed(driver, paper_name):
+                print(f"Skipping {paper_name} (already in database)")
+                continue
+            
+            print(f"\nProcessing {paper_name}")
+            
+            if not kg_data.get("entities") and not kg_data.get("relations"):
+                print(f"No entities or relations found in {paper_name}")
+                continue
+            
+            # Write to Neo4j
+            write_to_neo4j(kg_data, paper_name, driver)
+            print(f"Completed: {paper_name}")
+        
+        print("\n" + "="*50)
+        print("MIGRATION COMPLETE")
+        stats = get_database_stats(driver)
+        print(f"Database contains:")
+        print(f"  - {stats['nodes']} nodes")
+        print(f"  - {stats['relationships']} relationships") 
+        print(f"  - {stats['papers']} papers")
+        print("="*50)
+        print("Try: MATCH (n)-[r]->(m) RETURN n, r, m LIMIT 25")
+        
+    finally:
+        driver.close()
+        print("Neo4j connection closed")
 
 if __name__ == "__main__":
     main()
+    # For querying:
+    # Overview of data (how many of each type of entity are in the graph): 
+        # MATCH (n:Entity) RETURN n.type, count(n) as count ORDER BY count DESC
+
+    # Explanation:
+    # Nodes = Entities = a piece of data
+    # Entities each have an id, a 'type,' and a paper that they came from
+    # This above information describes the category or class of the Entity. Neo4j finds ways to compare all of these categories/classes and,
+    # eventually, create visualizations
+
