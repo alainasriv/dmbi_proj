@@ -1,0 +1,342 @@
+{
+  "entities": [
+    {
+      "name": "PLOS ONE",
+      "type": "Journal"
+    },
+    {
+      "name": "LIZ",
+      "type": "Identifier"
+    },
+    {
+      "name": "VUK",
+      "type": "Identifier"
+    },
+    {
+      "name": "LIZ",
+      "type": "Entity"
+    },
+    {
+      "name": "mkzmo",
+      "type": "Entity"
+    },
+    {
+      "name": "om",
+      "type": "Entity"
+    },
+    {
+      "name": "qok",
+      "type": "Entity"
+    },
+    {
+      "name": "kzn",
+      "type": "Entity"
+    },
+    {
+      "name": "r",
+      "type": "Entity"
+    },
+    {
+      "name": "d6f",
+      "type": "Entity"
+    },
+    {
+      "name": "mwtztmkw",
+      "type": "Entity"
+    },
+    {
+      "name": "d7f",
+      "type": "Entity"
+    },
+    {
+      "name": "q{~yok",
+      "type": "Entity"
+    },
+    {
+      "name": "d9f1",
+      "type": "Entity"
+    },
+    {
+      "name": "t",
+      "type": "Entity"
+    },
+    {
+      "name": "onk",
+      "type": "Entity"
+    },
+    {
+      "name": "t{k",
+      "type": "Entity"
+    },
+    {
+      "name": "s",
+      "type": "Entity"
+    },
+    {
+      "name": "k",
+      "type": "Entity"
+    },
+    {
+      "name": "y",
+      "type": "Entity"
+    },
+    {
+      "name": "zoon",
+      "type": "Entity"
+    },
+    {
+      "name": "LIZ",
+      "type": "Person"
+    },
+    {
+      "name": "\u00d0sk",
+      "type": "Unknown"
+    },
+    {
+      "name": "soy1",
+      "type": "Unknown"
+    },
+    {
+      "name": "mk~o2kq",
+      "type": "Unknown"
+    },
+    {
+      "name": "LIZ",
+      "type": "Organization"
+    },
+    {
+      "name": "PLOS ONE",
+      "type": "Publication"
+    },
+    {
+      "name": "LIZ",
+      "type": "Person"
+    },
+    {
+      "name": "d69",
+      "type": "Location"
+    },
+    {
+      "name": "d66",
+      "type": "Location"
+    },
+    {
+      "name": "d95f",
+      "type": "Location"
+    },
+    {
+      "name": "tNVWK",
+      "type": "Organization"
+    },
+    {
+      "name": "RW",
+      "type": "Organization"
+    },
+    {
+      "name": "LIZ",
+      "type": "Organization"
+    },
+    {
+      "name": "LIZO",
+      "type": "Organization"
+    },
+    {
+      "name": "US",
+      "type": "Country"
+    },
+    {
+      "name": "LIZ",
+      "type": "Organization"
+    },
+    {
+      "name": "VZW",
+      "type": "Organization"
+    },
+    {
+      "name": "GoTtzn",
+      "type": "Unknown"
+    },
+    {
+      "name": "LIZ",
+      "type": "organization"
+    },
+    {
+      "name": "Ozk",
+      "type": "person"
+    },
+    {
+      "name": "PLOS ONE",
+      "type": "Journal"
+    },
+    {
+      "name": "LIZ",
+      "type": "Location/Identifier"
+    },
+    {
+      "name": "WSV",
+      "type": "Identifier"
+    },
+    {
+      "name": "VUK",
+      "type": "Identifier"
+    },
+    {
+      "name": "LIZ",
+      "type": "Organization"
+    },
+    {
+      "name": "IFZK[",
+      "type": "Organization"
+    },
+    {
+      "name": "tzoTGI",
+      "type": "Entity"
+    },
+    {
+      "name": "q{\ufffdzn",
+      "type": "Entity"
+    },
+    {
+      "name": "mkzmo~",
+      "type": "Entity"
+    },
+    {
+      "name": "LIZ1",
+      "type": "entity"
+    },
+    {
+      "name": "Solow",
+      "type": "Person"
+    },
+    {
+      "name": "M.N",
+      "type": "Person"
+    },
+    {
+      "name": "M.T",
+      "type": "Person"
+    },
+    {
+      "name": "G.",
+      "type": "Person"
+    },
+    {
+      "name": "G.o",
+      "type": "Person"
+    },
+    {
+      "name": "W.Jtzvow",
+      "type": "Person"
+    },
+    {
+      "name": "F.N",
+      "type": "Person"
+    },
+    {
+      "name": "I.V",
+      "type": "Person"
+    },
+    {
+      "name": "M.o",
+      "type": "Person"
+    },
+    {
+      "name": "W.Solow",
+      "type": "Person"
+    },
+    {
+      "name": "Q.N",
+      "type": "Person"
+    },
+    {
+      "name": "Wstwt",
+      "type": "Person"
+    },
+    {
+      "name": "KQ.Go~ro~{",
+      "type": "Person"
+    },
+    {
+      "name": "WM.",
+      "type": "Person"
+    },
+    {
+      "name": "S\ufffd\ufffd\ufffdlo~r",
+      "type": "Person"
+    },
+    {
+      "name": "PLOS ONE",
+      "type": "Journal"
+    },
+    {
+      "name": "WTOJ",
+      "type": "Journal"
+    },
+    {
+      "name": "FjGoz",
+      "type": "Author"
+    },
+    {
+      "name": "V.Notztro",
+      "type": "Author"
+    },
+    {
+      "name": "S.M~tyt",
+      "type": "Author"
+    },
+    {
+      "name": "WTOJ",
+      "type": "Organization"
+    },
+    {
+      "name": "Ur\ufffd\ufffdoz W.Not\ufffdo",
+      "type": "Person"
+    },
+    {
+      "name": "Z.Y\ufffdozzo\ufffdtwwo",
+      "type": "Person"
+    },
+    {
+      "name": "I.M{\ufffdwl{",
+      "type": "Person"
+    },
+    {
+      "name": "K.Rskz",
+      "type": "Person"
+    },
+    {
+      "name": "Z.Ztzkwn",
+      "type": "Person"
+    },
+    {
+      "name": "K.o\ufffdkw1Fzo\ufffdkytzk\ufffdt",
+      "type": "Person"
+    },
+    {
+      "name": "VqqQT\ufffdw\ufffdtzk\ufffdw",
+      "type": "Unknown"
+    }
+  ],
+  "relations": [
+    {
+      "source": "LIZ",
+      "target": "LIZO",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "LIZO",
+      "target": "US",
+      "type": "located_in"
+    },
+    {
+      "source": "LIZ",
+      "target": "IFZK[",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "LIZ",
+      "target": "tzoTGI",
+      "type": "related_to"
+    }
+  ]
+}

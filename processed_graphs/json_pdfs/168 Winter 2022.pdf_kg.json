@@ -1,0 +1,7746 @@
+{
+  "entities": [
+    {
+      "name": "Natalie Winter",
+      "type": "Person"
+    },
+    {
+      "name": "Lahiru Russell",
+      "type": "Person"
+    },
+    {
+      "name": "Anna Ugalde",
+      "type": "Person"
+    },
+    {
+      "name": "Victoria White",
+      "type": "Person"
+    },
+    {
+      "name": "Patricia Livingston",
+      "type": "Person"
+    },
+    {
+      "name": "Centre for Quality and Patient Safety Research",
+      "type": "Organization"
+    },
+    {
+      "name": "Institute for Health Transformation",
+      "type": "Organization"
+    },
+    {
+      "name": "Deakin University",
+      "type": "Organization"
+    },
+    {
+      "name": "Geelong",
+      "type": "Location"
+    },
+    {
+      "name": "Australia",
+      "type": "Location"
+    },
+    {
+      "name": "School of Nursing and Midwifery",
+      "type": "Organization"
+    },
+    {
+      "name": "Web-Based Mindfulness Programs",
+      "type": "Program"
+    },
+    {
+      "name": "Centre for Quality and Patient Safety Research",
+      "type": "Organization"
+    },
+    {
+      "name": "Eastern Health Partnership",
+      "type": "Organization"
+    },
+    {
+      "name": "Deakin University",
+      "type": "Organization"
+    },
+    {
+      "name": "Melbourne",
+      "type": "Location"
+    },
+    {
+      "name": "Australia",
+      "type": "Location"
+    },
+    {
+      "name": "School of Psychology",
+      "type": "Organization"
+    },
+    {
+      "name": "Faculty of Health",
+      "type": "Organization"
+    },
+    {
+      "name": "Geelong",
+      "type": "Location"
+    },
+    {
+      "name": "Natalie Winter",
+      "type": "Person"
+    },
+    {
+      "name": "PhD",
+      "type": "Degree"
+    },
+    {
+      "name": "Institute for Health Transformation",
+      "type": "Organization"
+    },
+    {
+      "name": "1 Gheringhap Street",
+      "type": "Address"
+    },
+    {
+      "name": "3220",
+      "type": "Postal Code"
+    },
+    {
+      "name": "61 3 5227 1100",
+      "type": "Phone Number"
+    },
+    {
+      "name": "Geelong",
+      "type": "Location"
+    },
+    {
+      "name": "Australia",
+      "type": "Location"
+    },
+    {
+      "name": "61 3 5227 1100",
+      "type": "Phone"
+    },
+    {
+      "name": "n.heynsber gh@deakin.edu.au",
+      "type": "Email"
+    },
+    {
+      "name": "chronic illnesses",
+      "type": "Condition"
+    },
+    {
+      "name": "Web-based mindfulness programs",
+      "type": "Program"
+    },
+    {
+      "name": "digital health platforms",
+      "type": "Platform"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "web-based mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "adherence",
+      "type": "outcome"
+    },
+    {
+      "name": "narrative systematic review",
+      "type": "method"
+    },
+    {
+      "name": "MEDLINE Complete",
+      "type": "database"
+    },
+    {
+      "name": "CINAHL Complete",
+      "type": "database"
+    },
+    {
+      "name": "APA PsycINFO",
+      "type": "database"
+    },
+    {
+      "name": "Embase",
+      "type": "database"
+    },
+    {
+      "name": "PRISMA",
+      "type": "guideline"
+    },
+    {
+      "name": "Adults",
+      "type": "population"
+    },
+    {
+      "name": "chronic health conditions",
+      "type": "condition"
+    },
+    {
+      "name": "Mindfulness interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mindfulness-based cognitive therapy",
+      "type": "intervention"
+    },
+    {
+      "name": "internet",
+      "type": "technology"
+    },
+    {
+      "name": "smartphone technology",
+      "type": "technology"
+    },
+    {
+      "name": "Interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "randomized controlled trial design",
+      "type": "Methodology"
+    },
+    {
+      "name": "pilot randomized controlled trial design",
+      "type": "Methodology"
+    },
+    {
+      "name": "Engagement strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "web-based program features",
+      "type": "Feature"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "Strategy"
+    },
+    {
+      "name": "adherence",
+      "type": "Concept"
+    },
+    {
+      "name": "retention",
+      "type": "Concept"
+    },
+    {
+      "name": "articles",
+      "type": "Concept"
+    },
+    {
+      "name": "review",
+      "type": "Concept"
+    },
+    {
+      "name": "70.98%",
+      "type": "Percentage"
+    },
+    {
+      "name": "study participants",
+      "type": "group"
+    },
+    {
+      "name": "women",
+      "type": "gender"
+    },
+    {
+      "name": "mean age",
+      "type": "statistic"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health conditions",
+      "type": "condition"
+    },
+    {
+      "name": "program features",
+      "type": "intervention component"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "intervention component"
+    },
+    {
+      "name": "combination of the two",
+      "type": "intervention strategy"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "facilitator-led studies",
+      "type": "study_type"
+    },
+    {
+      "name": "program feature studies",
+      "type": "study_type"
+    },
+    {
+      "name": "participants",
+      "type": "group"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "long-term follow-up",
+      "type": "study feature"
+    },
+    {
+      "name": "follow-up period",
+      "type": "time frame"
+    },
+    {
+      "name": "intervention",
+      "type": "concept"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "reminders",
+      "type": "strategy"
+    },
+    {
+      "name": "facilitator-led component",
+      "type": "feature"
+    },
+    {
+      "name": "retention",
+      "type": "measure"
+    },
+    {
+      "name": "adherence",
+      "type": "measure"
+    },
+    {
+      "name": "variance",
+      "type": "concept"
+    },
+    {
+      "name": "intervention lengths",
+      "type": "concept"
+    },
+    {
+      "name": "follow-up periods",
+      "type": "concept"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "2022",
+      "type": "Publication Year"
+    },
+    {
+      "name": "e30026",
+      "type": "Article ID"
+    },
+    {
+      "name": "doi: 10.2196/30026",
+      "type": "DOI"
+    },
+    {
+      "name": "chronic disease",
+      "type": "medical condition"
+    },
+    {
+      "name": "chronic illness",
+      "type": "medical condition"
+    },
+    {
+      "name": "digital health",
+      "type": "healthcare approach"
+    },
+    {
+      "name": "digital technology",
+      "type": "technology"
+    },
+    {
+      "name": "internet mindfulness",
+      "type": "practice"
+    },
+    {
+      "name": "mindfulness based stress reduction",
+      "type": "therapeutic method"
+    },
+    {
+      "name": "patient dropouts",
+      "type": "phenomenon"
+    },
+    {
+      "name": "mobile phone",
+      "type": "device"
+    },
+    {
+      "name": "health conditions",
+      "type": "concept"
+    },
+    {
+      "name": "psychological benefits",
+      "type": "concept"
+    },
+    {
+      "name": "individuals",
+      "type": "group"
+    },
+    {
+      "name": "cancer",
+      "type": "disease"
+    },
+    {
+      "name": "mental illness",
+      "type": "disease"
+    },
+    {
+      "name": "physical health outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "blood pressure control",
+      "type": "treatment"
+    },
+    {
+      "name": "glycemic control",
+      "type": "treatment"
+    },
+    {
+      "name": "people living with diabetes",
+      "type": "group"
+    },
+    {
+      "name": "mindfulness skills",
+      "type": "concept"
+    },
+    {
+      "name": "meditation",
+      "type": "practice"
+    },
+    {
+      "name": "home practice",
+      "type": "practice"
+    },
+    {
+      "name": "face-to-face",
+      "type": "context"
+    },
+    {
+      "name": "facilitator",
+      "type": "person"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "well-being outcome measures",
+      "type": "measurement"
+    },
+    {
+      "name": "web-based platforms",
+      "type": "platform"
+    },
+    {
+      "name": "conventional face-to-face sessions",
+      "type": "session_type"
+    },
+    {
+      "name": "program adherence",
+      "type": "concept"
+    },
+    {
+      "name": "study attrition",
+      "type": "concept"
+    },
+    {
+      "name": "web-based programs",
+      "type": "program type"
+    },
+    {
+      "name": "face-to-face settings",
+      "type": "program type"
+    },
+    {
+      "name": "39.5%",
+      "type": "percentage"
+    },
+    {
+      "name": "92%",
+      "type": "percentage"
+    },
+    {
+      "name": "26%",
+      "type": "percentage"
+    },
+    {
+      "name": "Mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "8 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "participant outcomes",
+      "type": "outcome"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "unmoderated web-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "attrition",
+      "type": "concept"
+    },
+    {
+      "name": "telehealth interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "web-based interventions",
+      "type": "concept"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "strategies to support engagement",
+      "type": "concept"
+    },
+    {
+      "name": "design and features",
+      "type": "concept"
+    },
+    {
+      "name": "gamification",
+      "type": "technique"
+    },
+    {
+      "name": "content",
+      "type": "concept"
+    },
+    {
+      "name": "video",
+      "type": "format"
+    },
+    {
+      "name": "visuals",
+      "type": "format"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "trained personnel",
+      "type": "role"
+    },
+    {
+      "name": "asynchronous emails",
+      "type": "feature"
+    },
+    {
+      "name": "web-based features",
+      "type": "feature"
+    },
+    {
+      "name": "reminders",
+      "type": "feature"
+    },
+    {
+      "name": "behavior change techniques",
+      "type": "strategy"
+    },
+    {
+      "name": "interventions",
+      "type": "process"
+    },
+    {
+      "name": "sustainable changes in behavior",
+      "type": "goal"
+    },
+    {
+      "name": "notifications",
+      "type": "technique"
+    },
+    {
+      "name": "semiautomated tracking",
+      "type": "technique"
+    },
+    {
+      "name": "app-based interventions",
+      "type": "program"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "meditation",
+      "type": "activity"
+    },
+    {
+      "name": "daily awareness exercises",
+      "type": "activity"
+    },
+    {
+      "name": "intention motivation",
+      "type": "concept"
+    },
+    {
+      "name": "commitment to practice",
+      "type": "concept"
+    },
+    {
+      "name": "self-reflection",
+      "type": "technique"
+    },
+    {
+      "name": "symptoms",
+      "type": "condition"
+    },
+    {
+      "name": "people",
+      "type": "group"
+    },
+    {
+      "name": "anxiety and stress",
+      "type": "condition"
+    },
+    {
+      "name": "machine learning",
+      "type": "technology"
+    },
+    {
+      "name": "interventions",
+      "type": "process"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "program adherence",
+      "type": "process"
+    },
+    {
+      "name": "web-based interventions",
+      "type": "technology"
+    },
+    {
+      "name": "web-based mindfulness",
+      "type": "program"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "web-based mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "adherence",
+      "type": "metric"
+    },
+    {
+      "name": "retention",
+      "type": "metric"
+    },
+    {
+      "name": "study",
+      "type": "research"
+    },
+    {
+      "name": "research question",
+      "type": "concept"
+    },
+    {
+      "name": "PRISMA",
+      "type": "Framework"
+    },
+    {
+      "name": "MEDLINE Complete",
+      "type": "Database"
+    },
+    {
+      "name": "CINAHL Complete",
+      "type": "Database"
+    },
+    {
+      "name": "APA PsycINFO",
+      "type": "Database"
+    },
+    {
+      "name": "Embase",
+      "type": "Database"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Concept"
+    },
+    {
+      "name": "web-based programs",
+      "type": "Concept"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "MEDLINE",
+      "type": "Database"
+    },
+    {
+      "name": "Multimedia Appendix 1",
+      "type": "Appendix"
+    },
+    {
+      "name": "Table S1",
+      "type": "Table"
+    },
+    {
+      "name": "XSL\u2022FO",
+      "type": "Format"
+    },
+    {
+      "name": "RenderX Eligibility Criteria",
+      "type": "Criteria"
+    },
+    {
+      "name": "PICO",
+      "type": "Framework"
+    },
+    {
+      "name": "Adults",
+      "type": "Population"
+    },
+    {
+      "name": "Chronic health condition",
+      "type": "Health Condition"
+    },
+    {
+      "name": "Anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "Depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "Mindfulness interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "Web",
+      "type": "Technology"
+    },
+    {
+      "name": "Smartphone technology",
+      "type": "Technology"
+    },
+    {
+      "name": "mindfulness-based practice",
+      "type": "program"
+    },
+    {
+      "name": "mindfulness and cognitive behavioral therapy",
+      "type": "program"
+    },
+    {
+      "name": "mindfulness-based cognitive therapy",
+      "type": "program"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "interventions",
+      "type": "concept"
+    },
+    {
+      "name": "2 weeks",
+      "type": "time duration"
+    },
+    {
+      "name": "research",
+      "type": "concept"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "interventions",
+      "type": "concept"
+    },
+    {
+      "name": "comparison group",
+      "type": "concept"
+    },
+    {
+      "name": "randomized controlled trial (RCT)",
+      "type": "study design"
+    },
+    {
+      "name": "pilot RCT",
+      "type": "study design"
+    },
+    {
+      "name": "Mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "research groups",
+      "type": "organization"
+    },
+    {
+      "name": "controlled trial settings",
+      "type": "context"
+    },
+    {
+      "name": "Endnote X9",
+      "type": "Software"
+    },
+    {
+      "name": "Clari vate Analytics",
+      "type": "Company"
+    },
+    {
+      "name": "NH",
+      "type": "Author"
+    },
+    {
+      "name": "Covidence",
+      "type": "Software"
+    },
+    {
+      "name": "NH",
+      "type": "author"
+    },
+    {
+      "name": "PL",
+      "type": "author"
+    },
+    {
+      "name": "Microsoft Excel",
+      "type": "tool"
+    },
+    {
+      "name": "mindfulness experience",
+      "type": "concept"
+    },
+    {
+      "name": "recruitment method",
+      "type": "concept"
+    },
+    {
+      "name": "financial compensation",
+      "type": "concept"
+    },
+    {
+      "name": "commercial app",
+      "type": "product"
+    },
+    {
+      "name": "primary outcome",
+      "type": "concept"
+    },
+    {
+      "name": "primary findings",
+      "type": "concept"
+    },
+    {
+      "name": "Gender",
+      "type": "characteristic"
+    },
+    {
+      "name": "age",
+      "type": "characteristic"
+    },
+    {
+      "name": "race",
+      "type": "characteristic"
+    },
+    {
+      "name": "ethnicity",
+      "type": "characteristic"
+    },
+    {
+      "name": "type of chronic illness or condition",
+      "type": "characteristic"
+    },
+    {
+      "name": "patient and caregiver status",
+      "type": "characteristic"
+    },
+    {
+      "name": "Adherence",
+      "type": "concept"
+    },
+    {
+      "name": "per-protocol analyses",
+      "type": "concept"
+    },
+    {
+      "name": "intention-to-treat analyses",
+      "type": "concept"
+    },
+    {
+      "name": "variance",
+      "type": "concept"
+    },
+    {
+      "name": "intervention",
+      "type": "concept"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "compliance",
+      "type": "concept"
+    },
+    {
+      "name": "program completion",
+      "type": "concept"
+    },
+    {
+      "name": "8-week program",
+      "type": "event"
+    },
+    {
+      "name": "authors",
+      "type": "role"
+    },
+    {
+      "name": "sample",
+      "type": "group"
+    },
+    {
+      "name": "0-3 sessions",
+      "type": "session_range"
+    },
+    {
+      "name": "4-6 sessions",
+      "type": "session_range"
+    },
+    {
+      "name": "7-8 sessions",
+      "type": "session_range"
+    },
+    {
+      "name": "adherent",
+      "type": "status"
+    },
+    {
+      "name": "retention rates",
+      "type": "metric"
+    },
+    {
+      "name": "intervention group",
+      "type": "group"
+    },
+    {
+      "name": "postintervention measurements",
+      "type": "time_point"
+    },
+    {
+      "name": "follow-up points",
+      "type": "time_point"
+    },
+    {
+      "name": "Engagement Strategies",
+      "type": "strategy"
+    },
+    {
+      "name": "Engagement Strategies",
+      "type": "concept"
+    },
+    {
+      "name": "Program features",
+      "type": "category"
+    },
+    {
+      "name": "Facilitator-led strategies",
+      "type": "category"
+    },
+    {
+      "name": "chat rooms",
+      "type": "feature"
+    },
+    {
+      "name": "discussion boards",
+      "type": "feature"
+    },
+    {
+      "name": "diaries",
+      "type": "feature"
+    },
+    {
+      "name": "reflective processes",
+      "type": "feature"
+    },
+    {
+      "name": "automated reminders",
+      "type": "feature"
+    },
+    {
+      "name": "social support",
+      "type": "feature"
+    },
+    {
+      "name": "goal setting",
+      "type": "feature"
+    },
+    {
+      "name": "mood tracking",
+      "type": "feature"
+    },
+    {
+      "name": "customization of content",
+      "type": "feature"
+    },
+    {
+      "name": "demonstrations of meditation practice",
+      "type": "feature"
+    },
+    {
+      "name": "immediate feedback on meditation practice",
+      "type": "feature"
+    },
+    {
+      "name": "reminders from the research team",
+      "type": "feature"
+    },
+    {
+      "name": "contact with the research team",
+      "type": "feature"
+    },
+    {
+      "name": "team",
+      "type": "group"
+    },
+    {
+      "name": "practice",
+      "type": "activity"
+    },
+    {
+      "name": "monitoring",
+      "type": "activity"
+    },
+    {
+      "name": "well-being scores",
+      "type": "metric"
+    },
+    {
+      "name": "program features",
+      "type": "component"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "approach"
+    },
+    {
+      "name": "Data Analysis",
+      "type": "process"
+    },
+    {
+      "name": "participant characteristics",
+      "type": "data"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "retention rates",
+      "type": "metric"
+    },
+    {
+      "name": "descriptive statistics",
+      "type": "method"
+    },
+    {
+      "name": "outcomes",
+      "type": "result"
+    },
+    {
+      "name": "financial impact",
+      "type": "concept"
+    },
+    {
+      "name": "compensation",
+      "type": "Concept"
+    },
+    {
+      "name": "adherence",
+      "type": "Concept"
+    },
+    {
+      "name": "intervention",
+      "type": "Concept"
+    },
+    {
+      "name": "retention",
+      "type": "Concept"
+    },
+    {
+      "name": "postintervention measurements",
+      "type": "Concept"
+    },
+    {
+      "name": "data collection point",
+      "type": "Concept"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "program features",
+      "type": "Concept"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "frequency statistics",
+      "type": "Measurement"
+    },
+    {
+      "name": "impact",
+      "type": "Concept"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "engagement strategy",
+      "type": "Concept"
+    },
+    {
+      "name": "program adherence",
+      "type": "Concept"
+    },
+    {
+      "name": "sessions",
+      "type": "Concept"
+    },
+    {
+      "name": "8-week program",
+      "type": "program"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "strategy"
+    },
+    {
+      "name": "retention",
+      "type": "metric"
+    },
+    {
+      "name": "1922 articles",
+      "type": "data"
+    },
+    {
+      "name": "study authors",
+      "type": "group"
+    },
+    {
+      "name": "United States",
+      "type": "Location"
+    },
+    {
+      "name": "RCTs",
+      "type": "Study Type"
+    },
+    {
+      "name": "web-based",
+      "type": "Study Format"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Focus Area"
+    },
+    {
+      "name": "meditation",
+      "type": "Focus Area"
+    },
+    {
+      "name": "1265 articles",
+      "type": "Article Count"
+    },
+    {
+      "name": "126 articles",
+      "type": "Article Count"
+    },
+    {
+      "name": "19 articles",
+      "type": "Included in Review"
+    },
+    {
+      "name": "Multimedia Appendix 1",
+      "type": "Document"
+    },
+    {
+      "name": "mindfulness experiences",
+      "type": "Concept"
+    },
+    {
+      "name": "web-based recruitment strategies",
+      "type": "Method"
+    },
+    {
+      "name": "face-to-face recruitment strategies",
+      "type": "Method"
+    },
+    {
+      "name": "mindfulness apps",
+      "type": "Product"
+    },
+    {
+      "name": "Headspace",
+      "type": "Product"
+    },
+    {
+      "name": "Calm",
+      "type": "app"
+    },
+    {
+      "name": "Pacifica",
+      "type": "app"
+    },
+    {
+      "name": "monetary compensation",
+      "type": "compensation"
+    },
+    {
+      "name": "paid mindfulness apps",
+      "type": "app"
+    },
+    {
+      "name": "intervention duration",
+      "type": "duration"
+    },
+    {
+      "name": "PRISMA",
+      "type": "Methodology"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "psychological measures",
+      "type": "Outcome"
+    },
+    {
+      "name": "studies",
+      "type": "Research"
+    },
+    {
+      "name": "physiological measure",
+      "type": "measure"
+    },
+    {
+      "name": "primary outcome",
+      "type": "outcome"
+    },
+    {
+      "name": "secondary outcomes",
+      "type": "outcome"
+    },
+    {
+      "name": "psychological measures",
+      "type": "measure"
+    },
+    {
+      "name": "program evaluations",
+      "type": "evaluation"
+    },
+    {
+      "name": "mindfulness",
+      "type": "intervention"
+    },
+    {
+      "name": "significant improvement",
+      "type": "result"
+    },
+    {
+      "name": "participants",
+      "type": "population"
+    },
+    {
+      "name": "mean sample size",
+      "type": "metric"
+    },
+    {
+      "name": "participants women",
+      "type": "metric"
+    },
+    {
+      "name": "participants age",
+      "type": "metric"
+    },
+    {
+      "name": "ethnicity",
+      "type": "demographic characteristic"
+    },
+    {
+      "name": "race",
+      "type": "demographic characteristic"
+    },
+    {
+      "name": "White people",
+      "type": "ethnic group"
+    },
+    {
+      "name": "Mindfulness programs",
+      "type": "Program"
+    },
+    {
+      "name": "chronic illnesses",
+      "type": "Condition"
+    },
+    {
+      "name": "mental health",
+      "type": "Condition"
+    },
+    {
+      "name": "cancer",
+      "type": "Condition"
+    },
+    {
+      "name": "studies",
+      "type": "Research"
+    },
+    {
+      "name": "people living with the illness",
+      "type": "Population"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "strategy"
+    },
+    {
+      "name": "encouraging adherence",
+      "type": "activity"
+    },
+    {
+      "name": "contact and reminders from facilitators",
+      "type": "method"
+    },
+    {
+      "name": "contact with a facilitator for discussion",
+      "type": "method"
+    },
+    {
+      "name": "Chandler et al",
+      "type": "study"
+    },
+    {
+      "name": "Compen et al",
+      "type": "study"
+    },
+    {
+      "name": "Kladnitski et al",
+      "type": "study"
+    },
+    {
+      "name": "Kubo et al",
+      "type": "study"
+    },
+    {
+      "name": "Stjernsw ard and Hansson",
+      "type": "study"
+    },
+    {
+      "name": "Thompson et al",
+      "type": "study"
+    },
+    {
+      "name": "Gotink et al",
+      "type": "study"
+    },
+    {
+      "name": "Hearn and Finlay",
+      "type": "study"
+    },
+    {
+      "name": "Henriksson et al",
+      "type": "study"
+    },
+    {
+      "name": "Henriksson et al",
+      "type": "author"
+    },
+    {
+      "name": "Huberty et al",
+      "type": "author"
+    },
+    {
+      "name": "Mober g et al",
+      "type": "author"
+    },
+    {
+      "name": "Rosen et al",
+      "type": "author"
+    },
+    {
+      "name": "Russell et al",
+      "type": "author"
+    },
+    {
+      "name": "Younge et al",
+      "type": "author"
+    },
+    {
+      "name": "Bostock et al",
+      "type": "author"
+    },
+    {
+      "name": "Lindsay et al",
+      "type": "author"
+    },
+    {
+      "name": "Tavallaei et al",
+      "type": "author"
+    },
+    {
+      "name": "Wahbeh et al",
+      "type": "author"
+    },
+    {
+      "name": "Wahbeh",
+      "type": "author"
+    },
+    {
+      "name": "program feature strategies",
+      "type": "feature"
+    },
+    {
+      "name": "automated reminders",
+      "type": "feature"
+    },
+    {
+      "name": "program reminders",
+      "type": "feature"
+    },
+    {
+      "name": "ad hoc basis",
+      "type": "feature"
+    },
+    {
+      "name": "notifications",
+      "type": "feature"
+    },
+    {
+      "name": "mindfulness course content",
+      "type": "feature"
+    },
+    {
+      "name": "home work activities",
+      "type": "feature"
+    },
+    {
+      "name": "self-reflections",
+      "type": "feature"
+    },
+    {
+      "name": "social contact",
+      "type": "concept"
+    },
+    {
+      "name": "personalization of app appearance",
+      "type": "concept"
+    },
+    {
+      "name": "lesson summaries",
+      "type": "concept"
+    },
+    {
+      "name": "progress tracking of mindfulness practice",
+      "type": "concept"
+    },
+    {
+      "name": "immediate feedback on practice",
+      "type": "concept"
+    },
+    {
+      "name": "Winter et al",
+      "type": "author"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "journal"
+    },
+    {
+      "name": "2022",
+      "type": "date"
+    },
+    {
+      "name": "vol. 24",
+      "type": "volume"
+    },
+    {
+      "name": "iss. 1",
+      "type": "issue"
+    },
+    {
+      "name": "e30026",
+      "type": "article_id"
+    },
+    {
+      "name": "demonstration videos",
+      "type": "method"
+    },
+    {
+      "name": "goal setting",
+      "type": "method"
+    },
+    {
+      "name": "tracking psychological outcomes",
+      "type": "method"
+    },
+    {
+      "name": "tracking physical health",
+      "type": "method"
+    },
+    {
+      "name": "Email",
+      "type": "communication method"
+    },
+    {
+      "name": "Telephone",
+      "type": "communication method"
+    },
+    {
+      "name": "facilitators",
+      "type": "role"
+    },
+    {
+      "name": "program reminders",
+      "type": "method"
+    },
+    {
+      "name": "studies",
+      "type": "research"
+    },
+    {
+      "name": "program adherence",
+      "type": "concept"
+    },
+    {
+      "name": "program completion",
+      "type": "concept"
+    },
+    {
+      "name": "studies",
+      "type": "group"
+    },
+    {
+      "name": "measurement for adherence",
+      "type": "concept"
+    },
+    {
+      "name": "program use",
+      "type": "concept"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "program use",
+      "type": "concept"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "Mean Compliance",
+      "type": "metric"
+    },
+    {
+      "name": "standard deviation (SD)",
+      "type": "metric"
+    },
+    {
+      "name": "studies",
+      "type": "entity"
+    },
+    {
+      "name": "facilitator-led",
+      "type": "concept"
+    },
+    {
+      "name": "Table S3",
+      "type": "entity"
+    },
+    {
+      "name": "Multimedia Appendix 1",
+      "type": "entity"
+    },
+    {
+      "name": "strate gies",
+      "type": "concept"
+    },
+    {
+      "name": "adhere nce",
+      "type": "concept"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "facilitator-led strate gies",
+      "type": "concept"
+    },
+    {
+      "name": "studies",
+      "type": "concept"
+    },
+    {
+      "name": "mean",
+      "type": "statistic"
+    },
+    {
+      "name": "SD",
+      "type": "statistic"
+    },
+    {
+      "name": "Strategies",
+      "type": "category"
+    },
+    {
+      "name": "Adherence",
+      "type": "metric"
+    },
+    {
+      "name": "Studies",
+      "type": "category"
+    },
+    {
+      "name": "Programs",
+      "type": "category"
+    },
+    {
+      "name": "Adherence Rate with Reminders",
+      "type": "rate"
+    },
+    {
+      "name": "Adherence Rate without Reminders",
+      "type": "rate"
+    },
+    {
+      "name": "Average Adherence Rate",
+      "type": "rate"
+    },
+    {
+      "name": "Studies using reminders",
+      "type": "study type"
+    },
+    {
+      "name": "Studies not using reminders",
+      "type": "study type"
+    },
+    {
+      "name": "Outcome Variables",
+      "type": "variable"
+    },
+    {
+      "name": "Total Studies Analyzed",
+      "type": "number"
+    },
+    {
+      "name": "mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "depression",
+      "type": "mental health condition"
+    },
+    {
+      "name": "blood pressure",
+      "type": "health metric"
+    },
+    {
+      "name": "quality of life",
+      "type": "health metric"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "studies",
+      "type": "concept"
+    },
+    {
+      "name": "Financial Compensation",
+      "type": "program"
+    },
+    {
+      "name": "mean",
+      "type": "statistic"
+    },
+    {
+      "name": "SD",
+      "type": "statistic"
+    },
+    {
+      "name": "range",
+      "type": "statistic"
+    },
+    {
+      "name": "compensation",
+      "type": "concept"
+    },
+    {
+      "name": "intervention length",
+      "type": "variable"
+    },
+    {
+      "name": "adherence",
+      "type": "variable"
+    },
+    {
+      "name": "58%",
+      "type": "statistic"
+    },
+    {
+      "name": "16%",
+      "type": "statistic"
+    },
+    {
+      "name": "8 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "52%",
+      "type": "statistic"
+    },
+    {
+      "name": "9%",
+      "type": "statistic"
+    },
+    {
+      "name": ">8 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "5 studies",
+      "type": "study count"
+    },
+    {
+      "name": "10 studies",
+      "type": "study count"
+    },
+    {
+      "name": "4 studies",
+      "type": "study count"
+    },
+    {
+      "name": "100%",
+      "type": "percentage"
+    },
+    {
+      "name": "60%",
+      "type": "percentage"
+    },
+    {
+      "name": "Retention",
+      "type": "Concept"
+    },
+    {
+      "name": "Studies",
+      "type": "Concept"
+    },
+    {
+      "name": "Follow-up periods",
+      "type": "Concept"
+    },
+    {
+      "name": "Intervention",
+      "type": "Concept"
+    },
+    {
+      "name": "Weeks",
+      "type": "Time Unit"
+    },
+    {
+      "name": "70% retention",
+      "type": "Measure"
+    },
+    {
+      "name": "Last follow-up point",
+      "type": "Concept"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "engagement strategy"
+    },
+    {
+      "name": "program features",
+      "type": "engagement strategy"
+    },
+    {
+      "name": "retention rate",
+      "type": "metric"
+    },
+    {
+      "name": "duration",
+      "type": "metric"
+    },
+    {
+      "name": "studies",
+      "type": "research"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "mean duration",
+      "type": "metric"
+    },
+    {
+      "name": "8 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "SD",
+      "type": "statistical term"
+    },
+    {
+      "name": "2",
+      "type": "statistic"
+    },
+    {
+      "name": "range",
+      "type": "concept"
+    },
+    {
+      "name": "4-12",
+      "type": "duration range"
+    },
+    {
+      "name": "retention rate",
+      "type": "metric"
+    },
+    {
+      "name": "67%",
+      "type": "percentage"
+    },
+    {
+      "name": "SD 15%",
+      "type": "statistical term"
+    },
+    {
+      "name": "range 30-79",
+      "type": "percentage range"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "concept"
+    },
+    {
+      "name": "40%",
+      "type": "percentage"
+    },
+    {
+      "name": "2/5",
+      "type": "fraction"
+    },
+    {
+      "name": "follow-up periods",
+      "type": "concept"
+    },
+    {
+      "name": "6",
+      "type": "count"
+    },
+    {
+      "name": "5 (50%)",
+      "type": "count and percentage"
+    },
+    {
+      "name": "long-term follow-up",
+      "type": "concept"
+    },
+    {
+      "name": "11",
+      "type": "duration in weeks"
+    },
+    {
+      "name": "retention rate",
+      "type": "metric"
+    },
+    {
+      "name": "weeks",
+      "type": "duration"
+    },
+    {
+      "name": "long-term follow-up period",
+      "type": "duration"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "author"
+    },
+    {
+      "name": "RenderX Studies",
+      "type": "Study"
+    },
+    {
+      "name": "program reminders",
+      "type": "Engagement Strategy"
+    },
+    {
+      "name": "mean retention rates",
+      "type": "Metric"
+    },
+    {
+      "name": "intervention",
+      "type": "Event"
+    },
+    {
+      "name": "follow-up point",
+      "type": "Event"
+    },
+    {
+      "name": "mean retention",
+      "type": "Metric"
+    },
+    {
+      "name": "other strategies",
+      "type": "Engagement Strategy"
+    },
+    {
+      "name": "web-based mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "strategy"
+    },
+    {
+      "name": "adherence rates",
+      "type": "metric"
+    },
+    {
+      "name": "program features",
+      "type": "feature"
+    },
+    {
+      "name": "retention",
+      "type": "metric"
+    },
+    {
+      "name": "intervention",
+      "type": "event"
+    },
+    {
+      "name": "follow-up point",
+      "type": "event"
+    },
+    {
+      "name": "study retention",
+      "type": "concept"
+    },
+    {
+      "name": "Engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "program content",
+      "type": "concept"
+    },
+    {
+      "name": "reminders",
+      "type": "concept"
+    },
+    {
+      "name": "facilitators",
+      "type": "role"
+    },
+    {
+      "name": "attrition",
+      "type": "concept"
+    },
+    {
+      "name": "program adherence",
+      "type": "Concept"
+    },
+    {
+      "name": "health outcomes",
+      "type": "Concept"
+    },
+    {
+      "name": "studies",
+      "type": "Research"
+    },
+    {
+      "name": "adherence measurements",
+      "type": "Concept"
+    },
+    {
+      "name": "sessions completed",
+      "type": "Concept"
+    },
+    {
+      "name": "use",
+      "type": "Concept"
+    },
+    {
+      "name": "program adherence",
+      "type": "concept"
+    },
+    {
+      "name": "interventions",
+      "type": "concept"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "concept"
+    },
+    {
+      "name": "variability in reporting",
+      "type": "concept"
+    },
+    {
+      "name": "e-therapy literature",
+      "type": "concept"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "web-based interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "user outcomes",
+      "type": "Concept"
+    },
+    {
+      "name": "adherence",
+      "type": "Concept"
+    },
+    {
+      "name": "program completion",
+      "type": "Concept"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "study attrition",
+      "type": "Concept"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "study retention",
+      "type": "Concept"
+    },
+    {
+      "name": "postintervention measurement",
+      "type": "Concept"
+    },
+    {
+      "name": "retention rate",
+      "type": "metric"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "follow-up period",
+      "type": "time frame"
+    },
+    {
+      "name": "facilitator",
+      "type": "role"
+    },
+    {
+      "name": "intervention length",
+      "type": "factor"
+    },
+    {
+      "name": "follow-up length",
+      "type": "factor"
+    },
+    {
+      "name": "demographic characteristics",
+      "type": "factor"
+    },
+    {
+      "name": "participants",
+      "type": "group"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "retention",
+      "type": "metric"
+    },
+    {
+      "name": "intervention",
+      "type": "event"
+    },
+    {
+      "name": "follow-up",
+      "type": "event"
+    },
+    {
+      "name": "facilitator",
+      "type": "role"
+    },
+    {
+      "name": "therapist",
+      "type": "role"
+    },
+    {
+      "name": "web-based psychological programs",
+      "type": "program"
+    },
+    {
+      "name": "cognitive behavioral therapy",
+      "type": "treatment"
+    },
+    {
+      "name": "therapist",
+      "type": "profession"
+    },
+    {
+      "name": "facilitator",
+      "type": "role"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "patient outcomes",
+      "type": "result"
+    },
+    {
+      "name": "comorbidities",
+      "type": "health condition"
+    },
+    {
+      "name": "physical illnesses",
+      "type": "condition"
+    },
+    {
+      "name": "mental illnesses",
+      "type": "condition"
+    },
+    {
+      "name": "mindfulness",
+      "type": "intervention"
+    },
+    {
+      "name": "mindfulness program",
+      "type": "program"
+    },
+    {
+      "name": "disease",
+      "type": "condition"
+    },
+    {
+      "name": "comorbid conditions",
+      "type": "condition"
+    },
+    {
+      "name": "facilitator-led strategies",
+      "type": "strategy"
+    },
+    {
+      "name": "self-directed interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "facilitators",
+      "type": "role"
+    },
+    {
+      "name": "therapists",
+      "type": "role"
+    },
+    {
+      "name": "content",
+      "type": "concept"
+    },
+    {
+      "name": "sustainability goals",
+      "type": "concept"
+    },
+    {
+      "name": "cost of the program",
+      "type": "concept"
+    },
+    {
+      "name": "length of the intervention",
+      "type": "concept"
+    },
+    {
+      "name": "trials",
+      "type": "event"
+    },
+    {
+      "name": "web-based mindfulness",
+      "type": "intervention"
+    },
+    {
+      "name": "psychological outcome measures",
+      "type": "measure"
+    },
+    {
+      "name": "physiological outcome measures",
+      "type": "measure"
+    },
+    {
+      "name": "study retention",
+      "type": "concept"
+    },
+    {
+      "name": "baseline functioning",
+      "type": "concept"
+    },
+    {
+      "name": "psychological well-being",
+      "type": "concept"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "worry",
+      "type": "concept"
+    },
+    {
+      "name": "rumination",
+      "type": "concept"
+    },
+    {
+      "name": "mindfulness-based interventions",
+      "type": "program"
+    },
+    {
+      "name": "measurements of adherence",
+      "type": "method"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "interventions",
+      "type": "concept"
+    },
+    {
+      "name": "program features",
+      "type": "concept"
+    },
+    {
+      "name": "user engagement",
+      "type": "concept"
+    },
+    {
+      "name": "diaries",
+      "type": "feature"
+    },
+    {
+      "name": "reminders",
+      "type": "feature"
+    },
+    {
+      "name": "social connectedness",
+      "type": "feature"
+    },
+    {
+      "name": "study retention",
+      "type": "concept"
+    },
+    {
+      "name": "behavior change techniques",
+      "type": "concept"
+    },
+    {
+      "name": "web-based features",
+      "type": "concept"
+    },
+    {
+      "name": "user outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "mindfulness",
+      "type": "concept"
+    },
+    {
+      "name": "engagement",
+      "type": "concept"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "studies",
+      "type": "entity"
+    },
+    {
+      "name": "interventions",
+      "type": "entity"
+    },
+    {
+      "name": "reporting adherence",
+      "type": "concept"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "White",
+      "type": "Demographic Group"
+    },
+    {
+      "name": "Female",
+      "type": "Demographic Group"
+    },
+    {
+      "name": "chronic illnesses",
+      "type": "condition"
+    },
+    {
+      "name": "mindfulness",
+      "type": "practice"
+    },
+    {
+      "name": "depression",
+      "type": "mental health condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health condition"
+    },
+    {
+      "name": "web-based interventions",
+      "type": "treatment method"
+    },
+    {
+      "name": "people living with chronic illness",
+      "type": "population"
+    },
+    {
+      "name": "chronic illness",
+      "type": "health condition"
+    },
+    {
+      "name": "mental well-being",
+      "type": "health status"
+    },
+    {
+      "name": "web-based interventions",
+      "type": "technology"
+    },
+    {
+      "name": "adherence",
+      "type": "behavior"
+    },
+    {
+      "name": "retention",
+      "type": "behavior"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "methodology"
+    },
+    {
+      "name": "effectiveness of interventions",
+      "type": "concept"
+    },
+    {
+      "name": "risk of bias assessment",
+      "type": "evaluation method"
+    },
+    {
+      "name": "web-based mindfulness programs",
+      "type": "program"
+    },
+    {
+      "name": "program",
+      "type": "feature"
+    },
+    {
+      "name": "personalization",
+      "type": "feature"
+    },
+    {
+      "name": "self-reflection activities",
+      "type": "feature"
+    },
+    {
+      "name": "lesson summaries",
+      "type": "feature"
+    },
+    {
+      "name": "adherence",
+      "type": "concept"
+    },
+    {
+      "name": "engagement strategies",
+      "type": "concept"
+    },
+    {
+      "name": "reporting",
+      "type": "process"
+    },
+    {
+      "name": "measurement framework",
+      "type": "concept"
+    },
+    {
+      "name": "Kabat-Zinn J",
+      "type": "Person"
+    },
+    {
+      "name": "Full Catastrophe Living; Using the Wisdom of Your Body and Mind to Face Stress, Pain and Illness",
+      "type": "Book"
+    },
+    {
+      "name": "Piatkus",
+      "type": "Publisher"
+    },
+    {
+      "name": "Niazi AK",
+      "type": "Person"
+    },
+    {
+      "name": "Niazi SK",
+      "type": "Person"
+    },
+    {
+      "name": "Mindfulness-based stress reduction",
+      "type": "Concept"
+    },
+    {
+      "name": "chronic illnesses",
+      "type": "Health Condition"
+    },
+    {
+      "name": "N Am J",
+      "type": "Journal"
+    },
+    {
+      "name": "Russell L",
+      "type": "author"
+    },
+    {
+      "name": "Ugalde A",
+      "type": "author"
+    },
+    {
+      "name": "Orellana L",
+      "type": "author"
+    },
+    {
+      "name": "Milne D",
+      "type": "author"
+    },
+    {
+      "name": "Krishnasamy M",
+      "type": "author"
+    },
+    {
+      "name": "Chambers R",
+      "type": "author"
+    },
+    {
+      "name": "online mindfulness-based program",
+      "type": "intervention"
+    },
+    {
+      "name": "melanoma",
+      "type": "condition"
+    },
+    {
+      "name": "Med Sci",
+      "type": "journal"
+    },
+    {
+      "name": "Support Care Cancer",
+      "type": "journal"
+    },
+    {
+      "name": "2011",
+      "type": "date"
+    },
+    {
+      "name": "2019",
+      "type": "date"
+    },
+    {
+      "name": "Potes A",
+      "type": "Author"
+    },
+    {
+      "name": "Souza G",
+      "type": "Author"
+    },
+    {
+      "name": "Nikolitch K",
+      "type": "Author"
+    },
+    {
+      "name": "Penheiro R",
+      "type": "Author"
+    },
+    {
+      "name": "Moussa Y",
+      "type": "Author"
+    },
+    {
+      "name": "Jarvis E",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Publication"
+    },
+    {
+      "name": "Int J Psychiatry Clin Pract",
+      "type": "Journal"
+    },
+    {
+      "name": "Chandler J",
+      "type": "Author"
+    },
+    {
+      "name": "Sox L",
+      "type": "Author"
+    },
+    {
+      "name": "Diaz V",
+      "type": "Author"
+    },
+    {
+      "name": "Kellam K",
+      "type": "Author"
+    },
+    {
+      "name": "Neely A",
+      "type": "Author"
+    },
+    {
+      "name": "Nemeth L",
+      "type": "Author"
+    },
+    {
+      "name": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Publication"
+    },
+    {
+      "name": "Int J Environ Res Public Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Rosenzweig S",
+      "type": "Author"
+    },
+    {
+      "name": "Reibel DK",
+      "type": "Author"
+    },
+    {
+      "name": "Greeson JM",
+      "type": "Author"
+    },
+    {
+      "name": "Edman JS",
+      "type": "Author"
+    },
+    {
+      "name": "Jasser SA",
+      "type": "Author"
+    },
+    {
+      "name": "McMearty KD",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness-based stress reduction",
+      "type": "Intervention"
+    },
+    {
+      "name": "glycemic control",
+      "type": "Outcome"
+    },
+    {
+      "name": "type 2 diabetes mellitus",
+      "type": "Condition"
+    },
+    {
+      "name": "Altern Ther Health Med",
+      "type": "Journal"
+    },
+    {
+      "name": "Strohmaier S",
+      "type": "Author"
+    },
+    {
+      "name": "mindfulness-based programs",
+      "type": "Intervention"
+    },
+    {
+      "name": "depression",
+      "type": "Outcome"
+    },
+    {
+      "name": "anxiety",
+      "type": "Outcome"
+    },
+    {
+      "name": "stress",
+      "type": "Outcome"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Outcome"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal"
+    },
+    {
+      "name": "Ribeiro L",
+      "type": "Author"
+    },
+    {
+      "name": "Atchley RM",
+      "type": "Author"
+    },
+    {
+      "name": "Oken BS",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness-based intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "Adherence to practice of mindfulness",
+      "type": "Study"
+    },
+    {
+      "name": "2020 Mar 02",
+      "type": "Date"
+    },
+    {
+      "name": "2018 Apr",
+      "type": "Date"
+    },
+    {
+      "name": "Spijkerman M",
+      "type": "Author"
+    },
+    {
+      "name": "Pots W",
+      "type": "Author"
+    },
+    {
+      "name": "Bohlmeijer E",
+      "type": "Author"
+    },
+    {
+      "name": "Clin Psychol Rev",
+      "type": "Journal"
+    },
+    {
+      "name": "Mrazek AJ",
+      "type": "Author"
+    },
+    {
+      "name": "Mrazek MD",
+      "type": "Author"
+    },
+    {
+      "name": "Cherolini CM",
+      "type": "Author"
+    },
+    {
+      "name": "Cloughesy JN",
+      "type": "Author"
+    },
+    {
+      "name": "Cynman DJ",
+      "type": "Author"
+    },
+    {
+      "name": "Gougis LJ",
+      "type": "Author"
+    },
+    {
+      "name": "Curr Opin Psychol",
+      "type": "Journal"
+    },
+    {
+      "name": "Eysenbach G",
+      "type": "Author"
+    },
+    {
+      "name": "The law of attrition",
+      "type": "Article Title"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Sieverink F",
+      "type": "Author"
+    },
+    {
+      "name": "Kelders SM",
+      "type": "Author"
+    },
+    {
+      "name": "van Gemert-Pijnen JE",
+      "type": "Author"
+    },
+    {
+      "name": "Clarifying the concept of adherence to eHealth technology: systematic review on when usage becomes adherence",
+      "type": "Article Title"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "Stanic J",
+      "type": "Author"
+    },
+    {
+      "name": "Barth J",
+      "type": "Author"
+    },
+    {
+      "name": "Danon N",
+      "type": "Author"
+    },
+    {
+      "name": "Bondolf i G",
+      "type": "Author"
+    },
+    {
+      "name": "Jermann F",
+      "type": "Author"
+    },
+    {
+      "name": "Eicher M",
+      "type": "Author"
+    },
+    {
+      "name": "J Psychosos Oncol Res Pract",
+      "type": "Journal"
+    },
+    {
+      "name": "Mindfulness-based interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "Breast cancer",
+      "type": "Disease"
+    },
+    {
+      "name": "Gynecological cancer",
+      "type": "Disease"
+    },
+    {
+      "name": "Gotink RA",
+      "type": "Author"
+    },
+    {
+      "name": "Younge JO",
+      "type": "Author"
+    },
+    {
+      "name": "Wery MF",
+      "type": "Author"
+    },
+    {
+      "name": "Utens EM",
+      "type": "Author"
+    },
+    {
+      "name": "Michels M",
+      "type": "Author"
+    },
+    {
+      "name": "Rizopoulos D",
+      "type": "Author"
+    },
+    {
+      "name": "Online mindfulness",
+      "type": "Method"
+    },
+    {
+      "name": "exercise capacity",
+      "type": "Outcome"
+    },
+    {
+      "name": "heart disease",
+      "type": "Condition"
+    },
+    {
+      "name": "PLoS One",
+      "type": "Journal"
+    },
+    {
+      "name": "2017;12(5):e0175923",
+      "type": "Publication"
+    },
+    {
+      "name": "doi: 10.1371/journal.pone.0175923",
+      "type": "DOI"
+    },
+    {
+      "name": "Linardon J",
+      "type": "Author"
+    },
+    {
+      "name": "Fuller-Tyszkiewicz M",
+      "type": "Author"
+    },
+    {
+      "name": "J Consult Clin Psychol",
+      "type": "Journal"
+    },
+    {
+      "name": "Russell L",
+      "type": "Author"
+    },
+    {
+      "name": "Ugalde A",
+      "type": "Author"
+    },
+    {
+      "name": "Milne D",
+      "type": "Author"
+    },
+    {
+      "name": "Austin D",
+      "type": "Author"
+    },
+    {
+      "name": "Livingston PM",
+      "type": "Author"
+    },
+    {
+      "name": "2020 Jan;88(1):1-13",
+      "type": "Publication Date"
+    },
+    {
+      "name": "doi: 10.1037/ccp0000459",
+      "type": "DOI"
+    },
+    {
+      "name": "Medline: 31697093",
+      "type": "Medline ID"
+    },
+    {
+      "name": "internet-supported mindfulness-based interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "chronic condition",
+      "type": "Concept"
+    },
+    {
+      "name": "JMIR Ment Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Beintner I",
+      "type": "Author"
+    },
+    {
+      "name": "Vollert B",
+      "type": "Author"
+    },
+    {
+      "name": "Zarski A",
+      "type": "Author"
+    },
+    {
+      "name": "Bolinski F",
+      "type": "Author"
+    },
+    {
+      "name": "Musiat P",
+      "type": "Author"
+    },
+    {
+      "name": "G\u00f6rlich D",
+      "type": "Author"
+    },
+    {
+      "name": "adherence reporting",
+      "type": "Concept"
+    },
+    {
+      "name": "randomized controlled trials",
+      "type": "Method"
+    },
+    {
+      "name": "manualized multisession online interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "systematic review of practices",
+      "type": "Concept"
+    },
+    {
+      "name": "reporting standards",
+      "type": "Concept"
+    },
+    {
+      "name": "Kelders SM",
+      "type": "Author"
+    },
+    {
+      "name": "Kok RN",
+      "type": "Author"
+    },
+    {
+      "name": "Ossebaard HC",
+      "type": "Author"
+    },
+    {
+      "name": "Van Gemert-Pijnen JE",
+      "type": "Author"
+    },
+    {
+      "name": "Ubhi HK",
+      "type": "Author"
+    },
+    {
+      "name": "Michie S",
+      "type": "Author"
+    },
+    {
+      "name": "Kotz D",
+      "type": "Author"
+    },
+    {
+      "name": "van Schayck OC",
+      "type": "Author"
+    },
+    {
+      "name": "Selladurai A",
+      "type": "Author"
+    },
+    {
+      "name": "West R",
+      "type": "Author"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Web-based interventions",
+      "type": "Topic"
+    },
+    {
+      "name": "Smoking cessation",
+      "type": "Topic"
+    },
+    {
+      "name": "Transl Beha v Med",
+      "type": "Journal"
+    },
+    {
+      "name": "doi: 10.1007/s13142-015-0352-x",
+      "type": "DOI"
+    },
+    {
+      "name": "Arnold C",
+      "type": "Author"
+    },
+    {
+      "name": "Villagonzalo K",
+      "type": "Author"
+    },
+    {
+      "name": "Meyer D",
+      "type": "Author"
+    },
+    {
+      "name": "Farhall J",
+      "type": "Author"
+    },
+    {
+      "name": "Foley F",
+      "type": "Author"
+    },
+    {
+      "name": "Kyrios M",
+      "type": "Author"
+    },
+    {
+      "name": "Internet Interv",
+      "type": "Journal"
+    },
+    {
+      "name": "Abraham C",
+      "type": "Author"
+    },
+    {
+      "name": "Michie S",
+      "type": "Author"
+    },
+    {
+      "name": "Health Psychol",
+      "type": "Journal"
+    },
+    {
+      "name": "Bardus M",
+      "type": "Author"
+    },
+    {
+      "name": "van Beurden SB",
+      "type": "Author"
+    },
+    {
+      "name": "Smith JR",
+      "type": "Author"
+    },
+    {
+      "name": "Int J Behav Nutr Phys Act",
+      "type": "Journal"
+    },
+    {
+      "name": "Banerjee M",
+      "type": "Author"
+    },
+    {
+      "name": "Cavanagh K",
+      "type": "Author"
+    },
+    {
+      "name": "Strauss C",
+      "type": "Author"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Concept"
+    },
+    {
+      "name": "rumination",
+      "type": "Concept"
+    },
+    {
+      "name": "worry",
+      "type": "Concept"
+    },
+    {
+      "name": "psychological engagement",
+      "type": "Concept"
+    },
+    {
+      "name": "physical engagement",
+      "type": "Concept"
+    },
+    {
+      "name": "online mindfulness-based intervention",
+      "type": "Program"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal"
+    },
+    {
+      "name": "Mober g C",
+      "type": "Author"
+    },
+    {
+      "name": "Niles A",
+      "type": "Author"
+    },
+    {
+      "name": "Beermann D",
+      "type": "Author"
+    },
+    {
+      "name": "Pacifica",
+      "type": "Mobile App"
+    },
+    {
+      "name": "cognitive behavioral therapy",
+      "type": "Therapy"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Practice"
+    },
+    {
+      "name": "stress",
+      "type": "Condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "2019 Jun 08",
+      "type": "Publication Date"
+    },
+    {
+      "name": "10.2196/12556",
+      "type": "DOI"
+    },
+    {
+      "name": "Chien I",
+      "type": "Author"
+    },
+    {
+      "name": "Enrique A",
+      "type": "Author"
+    },
+    {
+      "name": "Palacios J",
+      "type": "Author"
+    },
+    {
+      "name": "Regan T",
+      "type": "Author"
+    },
+    {
+      "name": "Keegan D",
+      "type": "Author"
+    },
+    {
+      "name": "Carter D",
+      "type": "Author"
+    },
+    {
+      "name": "JAMA Netw Open",
+      "type": "Journal"
+    },
+    {
+      "name": "PRISMA Group",
+      "type": "Organization"
+    },
+    {
+      "name": "Preferred reporting items for systematic reviews",
+      "type": "Concept"
+    },
+    {
+      "name": "machine learning",
+      "type": "Concept"
+    },
+    {
+      "name": "internet-delivered mental health interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "doi: 10.1001/jamanetworkopen.2020.10791",
+      "type": "Identifier"
+    },
+    {
+      "name": "PRISMA statement",
+      "type": "document"
+    },
+    {
+      "name": "J Clin Epidemiol",
+      "type": "journal"
+    },
+    {
+      "name": "Schardt C",
+      "type": "author"
+    },
+    {
+      "name": "Adams MB",
+      "type": "author"
+    },
+    {
+      "name": "Owens T",
+      "type": "author"
+    },
+    {
+      "name": "Keitz S",
+      "type": "author"
+    },
+    {
+      "name": "Fontelo P",
+      "type": "author"
+    },
+    {
+      "name": "PICO framework",
+      "type": "concept"
+    },
+    {
+      "name": "BMC Med Inform Decis Mak",
+      "type": "journal"
+    },
+    {
+      "name": "Covidence",
+      "type": "Organization"
+    },
+    {
+      "name": "Veritas Health Innovation Ltd",
+      "type": "Organization"
+    },
+    {
+      "name": "Australia",
+      "type": "Location"
+    },
+    {
+      "name": "Calm",
+      "type": "App"
+    },
+    {
+      "name": "Huberty J",
+      "type": "Person"
+    },
+    {
+      "name": "Green J",
+      "type": "Person"
+    },
+    {
+      "name": "Glissmann C",
+      "type": "Person"
+    },
+    {
+      "name": "Larkey L",
+      "type": "Person"
+    },
+    {
+      "name": "Puzia M",
+      "type": "Person"
+    },
+    {
+      "name": "Lee C",
+      "type": "Person"
+    },
+    {
+      "name": "JMIR Mhealth Uhealth",
+      "type": "Publication"
+    },
+    {
+      "name": "2020-07-08",
+      "type": "Date"
+    },
+    {
+      "name": "2019-06-25",
+      "type": "Date"
+    },
+    {
+      "name": "doi: 10.2196/14273",
+      "type": "Identifier"
+    },
+    {
+      "name": "Kubo A",
+      "type": "Person"
+    },
+    {
+      "name": "Kurtovich E",
+      "type": "Person"
+    },
+    {
+      "name": "McGinnis M",
+      "type": "Person"
+    },
+    {
+      "name": "Aghaee S",
+      "type": "Person"
+    },
+    {
+      "name": "Altschuler A",
+      "type": "Person"
+    },
+    {
+      "name": "Quesenberry C",
+      "type": "Person"
+    },
+    {
+      "name": "mHealth mindfulness intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "cancer patients",
+      "type": "Population"
+    },
+    {
+      "name": "informal cancer caregivers",
+      "type": "Population"
+    },
+    {
+      "name": "integrated health care delivery system",
+      "type": "System"
+    },
+    {
+      "name": "Integr Cancer Ther",
+      "type": "Journal"
+    },
+    {
+      "name": "2019",
+      "type": "Date"
+    },
+    {
+      "name": "1534735419850634",
+      "type": "Identifier"
+    },
+    {
+      "name": "doi: 10.1177/1534735419850634",
+      "type": "Identifier"
+    },
+    {
+      "name": "Medline",
+      "type": "Database"
+    },
+    {
+      "name": "31092044",
+      "type": "Identifier"
+    },
+    {
+      "name": "Lindsay EK",
+      "type": "Author"
+    },
+    {
+      "name": "Young S",
+      "type": "Author"
+    },
+    {
+      "name": "Smyth JM",
+      "type": "Author"
+    },
+    {
+      "name": "Brown KW",
+      "type": "Author"
+    },
+    {
+      "name": "Creswell JD",
+      "type": "Author"
+    },
+    {
+      "name": "Rosen KD",
+      "type": "Author"
+    },
+    {
+      "name": "Paniagua SM",
+      "type": "Author"
+    },
+    {
+      "name": "Kazanis W",
+      "type": "Author"
+    },
+    {
+      "name": "Jones S",
+      "type": "Author"
+    },
+    {
+      "name": "Potter JS",
+      "type": "Author"
+    },
+    {
+      "name": "breast Cancer",
+      "type": "Disease"
+    },
+    {
+      "name": "Psychoneuroendocrinology",
+      "type": "Journal"
+    },
+    {
+      "name": "Acceptance lowers stress reactivity",
+      "type": "Study"
+    },
+    {
+      "name": "randomized waitlist controlled trial",
+      "type": "study design"
+    },
+    {
+      "name": "mobile app-delivered mindfulness training",
+      "type": "intervention"
+    },
+    {
+      "name": "Psychooncology",
+      "type": "journal"
+    },
+    {
+      "name": "2018 Aug 01",
+      "type": "publication date"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "journal"
+    },
+    {
+      "name": "2022",
+      "type": "publication year"
+    },
+    {
+      "name": "Winter et al",
+      "type": "author"
+    },
+    {
+      "name": "e30026",
+      "type": "article identifier"
+    },
+    {
+      "name": "RenderX",
+      "type": "Organization"
+    },
+    {
+      "name": "Thompson NJ",
+      "type": "Person"
+    },
+    {
+      "name": "Patel AH",
+      "type": "Person"
+    },
+    {
+      "name": "Selwa LM",
+      "type": "Person"
+    },
+    {
+      "name": "Stoll SC",
+      "type": "Person"
+    },
+    {
+      "name": "Begley CE",
+      "type": "Person"
+    },
+    {
+      "name": "Johnson EK",
+      "type": "Person"
+    },
+    {
+      "name": "Project UPLIFT",
+      "type": "Project"
+    },
+    {
+      "name": "J Consult Clin Psychol",
+      "type": "Journal"
+    },
+    {
+      "name": "Wahbeh H",
+      "type": "Person"
+    },
+    {
+      "name": "Internet Mindfulness Meditation Intervention (IMMI)",
+      "type": "Program"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "older adults",
+      "type": "Demographic"
+    },
+    {
+      "name": "Basel",
+      "type": "Location"
+    },
+    {
+      "name": "Wahbeh H",
+      "type": "Person"
+    },
+    {
+      "name": "Goodrich E",
+      "type": "Person"
+    },
+    {
+      "name": "Oken B",
+      "type": "Person"
+    },
+    {
+      "name": "Altern Ther Health Med",
+      "type": "Publication"
+    },
+    {
+      "name": "Bostock S",
+      "type": "Person"
+    },
+    {
+      "name": "Crosswell AD",
+      "type": "Person"
+    },
+    {
+      "name": "Prather AA",
+      "type": "Person"
+    },
+    {
+      "name": "Steptoe A",
+      "type": "Person"
+    },
+    {
+      "name": "mindfulness meditation app",
+      "type": "Product"
+    },
+    {
+      "name": "stress and well-being",
+      "type": "concept"
+    },
+    {
+      "name": "J Occup Health Psychol",
+      "type": "journal"
+    },
+    {
+      "name": "2019",
+      "type": "year"
+    },
+    {
+      "name": "Compen F",
+      "type": "author"
+    },
+    {
+      "name": "Bisseling E",
+      "type": "author"
+    },
+    {
+      "name": "Schellekens M",
+      "type": "author"
+    },
+    {
+      "name": "Donders R",
+      "type": "author"
+    },
+    {
+      "name": "Carlson L",
+      "type": "author"
+    },
+    {
+      "name": "van der Lee M",
+      "type": "author"
+    },
+    {
+      "name": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "intervention"
+    },
+    {
+      "name": "psychological distress",
+      "type": "concept"
+    },
+    {
+      "name": "patients with cancer",
+      "type": "population"
+    },
+    {
+      "name": "J Clin Oncol",
+      "type": "journal"
+    },
+    {
+      "name": "2018",
+      "type": "year"
+    },
+    {
+      "name": "multicenter randomized controlled trial",
+      "type": "study design"
+    },
+    {
+      "name": "Kladnitski N",
+      "type": "Author"
+    },
+    {
+      "name": "Smith J",
+      "type": "Author"
+    },
+    {
+      "name": "Uppal S",
+      "type": "Author"
+    },
+    {
+      "name": "James MA",
+      "type": "Author"
+    },
+    {
+      "name": "Allen AR",
+      "type": "Author"
+    },
+    {
+      "name": "Andres G",
+      "type": "Author"
+    },
+    {
+      "name": "Transdiagnostic internet-delivered CBT",
+      "type": "Treatment"
+    },
+    {
+      "name": "Mindfulness-based treatment",
+      "type": "Treatment"
+    },
+    {
+      "name": "Depression",
+      "type": "Condition"
+    },
+    {
+      "name": "Anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "Randomised controlled trial",
+      "type": "Study Type"
+    },
+    {
+      "name": "Hearn JH",
+      "type": "Author"
+    },
+    {
+      "name": "Finlay KA",
+      "type": "Author"
+    },
+    {
+      "name": "Chronic pain",
+      "type": "Condition"
+    },
+    {
+      "name": "Spinal cord",
+      "type": "Anatomical structure"
+    },
+    {
+      "name": "Spinal Cord",
+      "type": "Journal"
+    },
+    {
+      "name": "Henriksson J",
+      "type": "Author"
+    },
+    {
+      "name": "Wasara E",
+      "type": "Author"
+    },
+    {
+      "name": "R\u00f6nnlund M",
+      "type": "Author"
+    },
+    {
+      "name": "Psychol Rep",
+      "type": "Journal"
+    },
+    {
+      "name": "chronic pain",
+      "type": "Condition"
+    },
+    {
+      "name": "mindfulness training",
+      "type": "Intervention"
+    },
+    {
+      "name": "pain intensity",
+      "type": "Measurement"
+    },
+    {
+      "name": "pain acceptance",
+      "type": "Measurement"
+    },
+    {
+      "name": "life satisfaction",
+      "type": "Measurement"
+    },
+    {
+      "name": "Younge JO",
+      "type": "Author"
+    },
+    {
+      "name": "Wery MF",
+      "type": "Author"
+    },
+    {
+      "name": "Gotink RA",
+      "type": "Author"
+    },
+    {
+      "name": "Utens EM",
+      "type": "Author"
+    },
+    {
+      "name": "Michels M",
+      "type": "Author"
+    },
+    {
+      "name": "Rizopoulos D",
+      "type": "Author"
+    },
+    {
+      "name": "Web-based mindfulness intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "heart disease",
+      "type": "Condition"
+    },
+    {
+      "name": "PLoS One",
+      "type": "Journal"
+    },
+    {
+      "name": "Stjernsw\u00e4rd S",
+      "type": "Author"
+    },
+    {
+      "name": "Hansson L",
+      "type": "Author"
+    },
+    {
+      "name": "caregivers of people",
+      "type": "Population"
+    },
+    {
+      "name": "Tavallaei V",
+      "type": "Author"
+    },
+    {
+      "name": "Rezapour -Mirsaleh Y",
+      "type": "Author"
+    },
+    {
+      "name": "Rezaiemaram P",
+      "type": "Author"
+    },
+    {
+      "name": "Saadat SH",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness for female outpatients with chronic primary headaches",
+      "type": "Study"
+    },
+    {
+      "name": "Internet-based bibliotherapy",
+      "type": "Intervention"
+    },
+    {
+      "name": "Eur J Transl Myol",
+      "type": "Journal"
+    },
+    {
+      "name": "2018 Jun;12:46-56",
+      "type": "Publication Date"
+    },
+    {
+      "name": "doi: 10.1016/j.in vent.2018.03.004",
+      "type": "DOI"
+    },
+    {
+      "name": "Medline: 30135768",
+      "type": "Medline ID"
+    },
+    {
+      "name": "2018 Apr 24;28(2):7380",
+      "type": "Publication Date"
+    },
+    {
+      "name": "doi: 10.4081/ejtm.2018.7380",
+      "type": "DOI"
+    },
+    {
+      "name": "Medline: 29991985",
+      "type": "Medline ID"
+    },
+    {
+      "name": "Donkin L",
+      "type": "Author"
+    },
+    {
+      "name": "Christensen H",
+      "type": "Author"
+    },
+    {
+      "name": "Naismith SL",
+      "type": "Author"
+    },
+    {
+      "name": "Neal B",
+      "type": "Author"
+    },
+    {
+      "name": "Hickie IB",
+      "type": "Author"
+    },
+    {
+      "name": "Glozier N",
+      "type": "Author"
+    },
+    {
+      "name": "e-therapies",
+      "type": "Intervention"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Mindfulness interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal Article"
+    },
+    {
+      "name": "Saddichha S",
+      "type": "Author"
+    },
+    {
+      "name": "Al-Desouki M",
+      "type": "Author"
+    },
+    {
+      "name": "Lamia A",
+      "type": "Author"
+    },
+    {
+      "name": "Linden IA",
+      "type": "Author"
+    },
+    {
+      "name": "Krausz M",
+      "type": "Author"
+    },
+    {
+      "name": "Health Psychol Behav Med",
+      "type": "Journal Article"
+    },
+    {
+      "name": "2016 Jun",
+      "type": "Publication Date"
+    },
+    {
+      "name": "2014 Jan 1",
+      "type": "Publication Date"
+    },
+    {
+      "name": "doi: 10.1007/s12671-016-0548-2",
+      "type": "DOI"
+    },
+    {
+      "name": "doi: 10.1080/21642850.2014.945934",
+      "type": "DOI"
+    },
+    {
+      "name": "Medline: 27642370",
+      "type": "Medline ID"
+    },
+    {
+      "name": "Medline: 25750823",
+      "type": "Medline ID"
+    },
+    {
+      "name": "Alsubaie M",
+      "type": "Author"
+    },
+    {
+      "name": "Abbott R",
+      "type": "Author"
+    },
+    {
+      "name": "Dunn B",
+      "type": "Author"
+    },
+    {
+      "name": "Dickens C",
+      "type": "Author"
+    },
+    {
+      "name": "Keil TF",
+      "type": "Author"
+    },
+    {
+      "name": "Henley W",
+      "type": "Author"
+    },
+    {
+      "name": "mindfulness-based cognitive therapy (MBCT)",
+      "type": "Therapy"
+    },
+    {
+      "name": "mindfulness-based stress reduction (MBSR)",
+      "type": "Therapy"
+    },
+    {
+      "name": "Clin Psychol Rev",
+      "type": "Journal"
+    },
+    {
+      "name": "25750823",
+      "type": "MedlineID"
+    },
+    {
+      "name": "10.1016/j.cpr.2017.04.008",
+      "type": "DOI"
+    },
+    {
+      "name": "Riva S",
+      "type": "Author"
+    },
+    {
+      "name": "Camerini A",
+      "type": "Author"
+    },
+    {
+      "name": "Allam A",
+      "type": "Author"
+    },
+    {
+      "name": "Schulz PJ",
+      "type": "Author"
+    },
+    {
+      "name": "Parks AC",
+      "type": "Author"
+    },
+    {
+      "name": "Williams AL",
+      "type": "Author"
+    },
+    {
+      "name": "Kackloudis GM",
+      "type": "Author"
+    },
+    {
+      "name": "Stafford JL",
+      "type": "Author"
+    },
+    {
+      "name": "Boucher EM",
+      "type": "Author"
+    },
+    {
+      "name": "Honomichl RD",
+      "type": "Author"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "chronic back pain",
+      "type": "Condition"
+    },
+    {
+      "name": "digital well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "RCT",
+      "type": "Abbreviation"
+    },
+    {
+      "name": "Chronic Conditions",
+      "type": "Medical Condition"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "2020 Jan 10",
+      "type": "Date"
+    },
+    {
+      "name": "2022",
+      "type": "Year"
+    },
+    {
+      "name": "10.2196/16211",
+      "type": "DOI"
+    },
+    {
+      "name": "31922491",
+      "type": "Medline ID"
+    },
+    {
+      "name": "e16211",
+      "type": "Article Identifier"
+    },
+    {
+      "name": "e30026",
+      "type": "Article Identifier"
+    },
+    {
+      "name": "R Kukafka",
+      "type": "Editor"
+    },
+    {
+      "name": "H Wahbeh",
+      "type": "Reviewer"
+    },
+    {
+      "name": "H Hask elber g",
+      "type": "Reviewer"
+    },
+    {
+      "name": "Winter N",
+      "type": "Author"
+    },
+    {
+      "name": "Russell L",
+      "type": "Author"
+    },
+    {
+      "name": "Ugalde A",
+      "type": "Author"
+    },
+    {
+      "name": "White V",
+      "type": "Author"
+    },
+    {
+      "name": "Livingston P",
+      "type": "Author"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Journal"
+    },
+    {
+      "name": "Systematic Review",
+      "type": "Title"
+    },
+    {
+      "name": "https://www.jmir.org/2022/1/e30026",
+      "type": "URL"
+    },
+    {
+      "name": "10.2196/30026",
+      "type": "DOI"
+    },
+    {
+      "name": "PMID",
+      "type": "Identifier"
+    },
+    {
+      "name": "Natalie Winter",
+      "type": "Author"
+    },
+    {
+      "name": "Lahiru Russell",
+      "type": "Author"
+    },
+    {
+      "name": "Anna Ugalde",
+      "type": "Author"
+    },
+    {
+      "name": "Victoria White",
+      "type": "Author"
+    },
+    {
+      "name": "Patricia Livingston",
+      "type": "Author"
+    },
+    {
+      "name": "Journal of Medical Internet Research",
+      "type": "Publication"
+    },
+    {
+      "name": "Creative Commons Attribution License",
+      "type": "License"
+    },
+    {
+      "name": "10.2196/30026",
+      "type": "DOI"
+    },
+    {
+      "name": "12.01.2022",
+      "type": "Publication Date"
+    },
+    {
+      "name": "Journal of Medical Internet Research",
+      "type": "Publication"
+    },
+    {
+      "name": "J Med Internet Res",
+      "type": "Publication"
+    },
+    {
+      "name": "Winter et al",
+      "type": "Author"
+    },
+    {
+      "name": "2022",
+      "type": "Year"
+    },
+    {
+      "name": "vol. 24",
+      "type": "Volume"
+    },
+    {
+      "name": "iss. 1",
+      "type": "Issue"
+    },
+    {
+      "name": "e30026",
+      "type": "Article ID"
+    },
+    {
+      "name": "p. 11",
+      "type": "Page Number"
+    },
+    {
+      "name": "https://www.jmir.org/",
+      "type": "URL"
+    },
+    {
+      "name": "XSL\u2022FO",
+      "type": "Technology"
+    },
+    {
+      "name": "RenderX",
+      "type": "Company"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Natalie Winter",
+      "target": "Centre for Quality and Patient Safety Research",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Lahiru Russell",
+      "target": "School of Nursing and Midwifery",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Anna Ugalde",
+      "target": "Centre for Quality and Patient Safety Research",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Victoria White",
+      "target": "Centre for Quality and Patient Safety Research",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Patricia Livingston",
+      "target": "Centre for Quality and Patient Safety Research",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Centre for Quality and Patient Safety Research",
+      "target": "Deakin University",
+      "type": "part_of"
+    },
+    {
+      "source": "School of Nursing and Midwifery",
+      "target": "Deakin University",
+      "type": "part_of"
+    },
+    {
+      "source": "Natalie Winter",
+      "target": "Deakin University",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Centre for Quality and Patient Safety Research",
+      "target": "Eastern Health Partnership",
+      "type": "part_of"
+    },
+    {
+      "source": "School of Psychology",
+      "target": "Faculty of Health",
+      "type": "part_of"
+    },
+    {
+      "source": "Faculty of Health",
+      "target": "Deakin University",
+      "type": "part_of"
+    },
+    {
+      "source": "Institute for Health Transformation",
+      "target": "Deakin University",
+      "type": "part_of"
+    },
+    {
+      "source": "1 Gheringhap Street",
+      "target": "Geelong",
+      "type": "located_at"
+    },
+    {
+      "source": "Geelong",
+      "target": "Australia",
+      "type": "located_in"
+    },
+    {
+      "source": "Deakin University",
+      "target": "Australia",
+      "type": "located_in"
+    },
+    {
+      "source": "Web-based mindfulness programs",
+      "target": "chronic illnesses",
+      "type": "beneficial for"
+    },
+    {
+      "source": "digital health platforms",
+      "target": "engagement",
+      "type": "enhance"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "web-based mindfulness programs",
+      "type": "used_in"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence",
+      "type": "impact_on"
+    },
+    {
+      "source": "narrative systematic review",
+      "target": "MEDLINE Complete",
+      "type": "conducted_across"
+    },
+    {
+      "source": "narrative systematic review",
+      "target": "CINAHL Complete",
+      "type": "conducted_across"
+    },
+    {
+      "source": "narrative systematic review",
+      "target": "APA PsycINFO",
+      "type": "conducted_across"
+    },
+    {
+      "source": "Adults",
+      "target": "chronic health conditions",
+      "type": "included in study"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "mindfulness-based cognitive therapy",
+      "type": "includes"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "internet",
+      "type": "delivered through"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "smartphone technology",
+      "type": "delivered through"
+    },
+    {
+      "source": "Interventions",
+      "target": "randomized controlled trial design",
+      "type": "includes"
+    },
+    {
+      "source": "Interventions",
+      "target": "pilot randomized controlled trial design",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "web-based program features",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "facilitator-led strategies",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "adherence",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "retention",
+      "type": "includes"
+    },
+    {
+      "source": "articles",
+      "target": "review",
+      "type": "included in"
+    },
+    {
+      "source": "articles",
+      "target": "1265",
+      "type": "total screened"
+    },
+    {
+      "source": "relevant articles",
+      "target": "19",
+      "type": "included in"
+    },
+    {
+      "source": "review",
+      "target": "70.98%",
+      "type": "average percentage"
+    },
+    {
+      "source": "study participants",
+      "target": "women",
+      "type": "includes"
+    },
+    {
+      "source": "women",
+      "target": "mean age",
+      "type": "has"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "mental health conditions",
+      "type": "delivered to"
+    },
+    {
+      "source": "19 studies",
+      "target": "program features",
+      "type": "includes"
+    },
+    {
+      "source": "19 studies",
+      "target": "facilitator-led strategies",
+      "type": "includes"
+    },
+    {
+      "source": "19 studies",
+      "target": "combination of the two",
+      "type": "includes"
+    },
+    {
+      "source": "facilitator-led studies",
+      "target": "adherence",
+      "type": "usage"
+    },
+    {
+      "source": "program feature studies",
+      "target": "adherence",
+      "type": "usage"
+    },
+    {
+      "source": "studies",
+      "target": "definition of adherence",
+      "type": "provides"
+    },
+    {
+      "source": "participants",
+      "target": "mindfulness programs",
+      "type": "compliance"
+    },
+    {
+      "source": "studies",
+      "target": "long-term follow-up",
+      "type": "includes"
+    },
+    {
+      "source": "long-term follow-up",
+      "target": "follow-up period",
+      "type": "defines"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "reminders",
+      "type": "comprises"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "facilitator-led component",
+      "type": "may result in"
+    },
+    {
+      "source": "retention",
+      "target": "intervention",
+      "type": "measured by"
+    },
+    {
+      "source": "adherence",
+      "target": "intervention",
+      "type": "may be encouraged by"
+    },
+    {
+      "source": "variance",
+      "target": "adherence",
+      "type": "influences"
+    },
+    {
+      "source": "intervention lengths",
+      "target": "follow-up periods",
+      "type": "are inconsistent with"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "authored"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "2022",
+      "type": "published_in"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e30026",
+      "type": "contains_article"
+    },
+    {
+      "source": "e30026",
+      "target": "doi: 10.2196/30026",
+      "type": "has_doi"
+    },
+    {
+      "source": "psychological benefits",
+      "target": "individuals",
+      "type": "evident in"
+    },
+    {
+      "source": "individuals",
+      "target": "cancer",
+      "type": "includes"
+    },
+    {
+      "source": "individuals",
+      "target": "mental illness",
+      "type": "includes"
+    },
+    {
+      "source": "physical health outcomes",
+      "target": "blood pressure control",
+      "type": "observed through"
+    },
+    {
+      "source": "physical health outcomes",
+      "target": "glycemic control",
+      "type": "observed through"
+    },
+    {
+      "source": "glycemic control",
+      "target": "people living with diabetes",
+      "type": "applicable to"
+    },
+    {
+      "source": "mindfulness skills",
+      "target": "greater engagement with meditation",
+      "type": "improved through"
+    },
+    {
+      "source": "mindfulness skills",
+      "target": "home practice",
+      "type": "improved through"
+    },
+    {
+      "source": "mindfulness skills",
+      "target": "face-to-face",
+      "type": "improved through"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "web-based platforms",
+      "type": "adapted_to"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "well-being outcome measures",
+      "type": "improves"
+    },
+    {
+      "source": "web-based platforms",
+      "target": "conventional face-to-face sessions",
+      "type": "compared_with"
+    },
+    {
+      "source": "program adherence",
+      "target": "study attrition",
+      "type": "related to"
+    },
+    {
+      "source": "web-based programs",
+      "target": "39.5%",
+      "type": "adherence rate"
+    },
+    {
+      "source": "web-based programs",
+      "target": "92%",
+      "type": "adherence rate"
+    },
+    {
+      "source": "face-to-face settings",
+      "target": "26%",
+      "type": "adherence rate"
+    },
+    {
+      "source": "Mindfulness programs",
+      "target": "8 weeks",
+      "type": "has duration"
+    },
+    {
+      "source": "adherence",
+      "target": "participant outcomes",
+      "type": "impacts"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence",
+      "type": "improves"
+    },
+    {
+      "source": "attrition",
+      "target": "telehealth interventions",
+      "type": "affects"
+    },
+    {
+      "source": "adherence",
+      "target": "unmoderated web-based interventions",
+      "type": "influences"
+    },
+    {
+      "source": "engagement",
+      "target": "web-based interventions",
+      "type": "enhances"
+    },
+    {
+      "source": "strategies to support engagement",
+      "target": "web-based interventions",
+      "type": "promotes"
+    },
+    {
+      "source": "design and features",
+      "target": "engagement",
+      "type": "enhances"
+    },
+    {
+      "source": "gamification",
+      "target": "content",
+      "type": "uses"
+    },
+    {
+      "source": "content",
+      "target": "manageable blocks",
+      "type": "breaks into"
+    },
+    {
+      "source": "content",
+      "target": "video",
+      "type": "delivered as"
+    },
+    {
+      "source": "content",
+      "target": "visuals",
+      "type": "delivered as"
+    },
+    {
+      "source": "engagement",
+      "target": "trained personnel",
+      "type": "enhanced by"
+    },
+    {
+      "source": "engagement",
+      "target": "asynchronous emails",
+      "type": "enhanced by"
+    },
+    {
+      "source": "engagement",
+      "target": "web-based features",
+      "type": "enhanced by"
+    },
+    {
+      "source": "web-based features",
+      "target": "reminders",
+      "type": "includes"
+    },
+    {
+      "source": "behavior change techniques",
+      "target": "interventions",
+      "type": "incorporated into"
+    },
+    {
+      "source": "interventions",
+      "target": "sustainable changes in behavior",
+      "type": "aims to promote"
+    },
+    {
+      "source": "notifications",
+      "target": "app-based interventions",
+      "type": "adopted_in"
+    },
+    {
+      "source": "semiautomated tracking",
+      "target": "app-based interventions",
+      "type": "adopted_in"
+    },
+    {
+      "source": "engagement",
+      "target": "mindfulness programs",
+      "type": "involves"
+    },
+    {
+      "source": "meditation",
+      "target": "engagement",
+      "type": "is_a_part_of"
+    },
+    {
+      "source": "daily awareness exercises",
+      "target": "engagement",
+      "type": "is_a_part_of"
+    },
+    {
+      "source": "intention motivation",
+      "target": "engagement",
+      "type": "is_related_to"
+    },
+    {
+      "source": "commitment to practice",
+      "target": "engagement",
+      "type": "is_related_to"
+    },
+    {
+      "source": "self-reflection",
+      "target": "mindfulness programs",
+      "type": "incorporated_in"
+    },
+    {
+      "source": "self-reflection",
+      "target": "symptoms",
+      "type": "impacts"
+    },
+    {
+      "source": "machine learning",
+      "target": "interventions",
+      "type": "used for"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "program adherence",
+      "type": "influences"
+    },
+    {
+      "source": "web-based interventions",
+      "target": "engagement strategies",
+      "type": "application of"
+    },
+    {
+      "source": "web-based mindfulness",
+      "target": "engagement strategies",
+      "type": "applied in"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "web-based mindfulness programs",
+      "type": "incorporated in"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence",
+      "type": "impact on"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "retention",
+      "type": "impact on"
+    },
+    {
+      "source": "study",
+      "target": "research question",
+      "type": "investigates"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "PRISMA",
+      "type": "Guided By"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "MEDLINE Complete",
+      "type": "Search Database"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "CINAHL Complete",
+      "type": "Search Database"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "APA PsycINFO",
+      "type": "Search Database"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "Embase",
+      "type": "Search Database"
+    },
+    {
+      "source": "Literature Search",
+      "target": "mindfulness",
+      "type": "Related To"
+    },
+    {
+      "source": "Literature Search",
+      "target": "web-based programs",
+      "type": "Related To"
+    },
+    {
+      "source": "Literature Search",
+      "target": "engagement strategies",
+      "type": "Related To"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "Authors of"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "2022",
+      "type": "Publication Year"
+    },
+    {
+      "source": "Table S1",
+      "target": "MEDLINE",
+      "type": "Related to"
+    },
+    {
+      "source": "relevant articles and systematic reviews",
+      "target": "additional articles",
+      "type": "Search for"
+    },
+    {
+      "source": "RenderX Eligibility Criteria",
+      "target": "PICO",
+      "type": "Guides"
+    },
+    {
+      "source": "PICO",
+      "target": "Adults",
+      "type": "Includes"
+    },
+    {
+      "source": "Population",
+      "target": "Chronic health condition",
+      "type": "Includes"
+    },
+    {
+      "source": "Population",
+      "target": "Anxiety",
+      "type": "Includes"
+    },
+    {
+      "source": "Population",
+      "target": "Depression",
+      "type": "Includes"
+    },
+    {
+      "source": "Intervention",
+      "target": "Mindfulness interventions",
+      "type": "Involves"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "Web",
+      "type": "Delivered Through"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "Smartphone technology",
+      "type": "Delivered Through"
+    },
+    {
+      "source": "mindfulness-based practice",
+      "target": "interventions",
+      "type": "focuses_on"
+    },
+    {
+      "source": "mindfulness and cognitive behavioral therapy",
+      "target": "interventions",
+      "type": "uses"
+    },
+    {
+      "source": "mindfulness-based cognitive therapy",
+      "target": "interventions",
+      "type": "uses"
+    },
+    {
+      "source": "interventions",
+      "target": "engagement strategies",
+      "type": "allows_analysis_of"
+    },
+    {
+      "source": "interventions",
+      "target": "adherence",
+      "type": "allows_analysis_of"
+    },
+    {
+      "source": "interventions",
+      "target": "2 weeks",
+      "type": "duration_requirement"
+    },
+    {
+      "source": "research",
+      "target": "interventions",
+      "type": "describes"
+    },
+    {
+      "source": "engagement",
+      "target": "interventions",
+      "type": "measured by"
+    },
+    {
+      "source": "interventions",
+      "target": "2 weeks",
+      "type": "duration"
+    },
+    {
+      "source": "studies",
+      "target": "comparison group",
+      "type": "required to have"
+    },
+    {
+      "source": "comparison group",
+      "target": "randomized controlled trial (RCT)",
+      "type": "design"
+    },
+    {
+      "source": "Mindfulness programs",
+      "target": "research groups",
+      "type": "developed by"
+    },
+    {
+      "source": "Mindfulness programs",
+      "target": "commercially available",
+      "type": "type"
+    },
+    {
+      "source": "Mindfulness programs",
+      "target": "controlled trial settings",
+      "type": "tested in"
+    },
+    {
+      "source": "Endnote X9",
+      "target": "Clari vate Analytics",
+      "type": "developed by"
+    },
+    {
+      "source": "NH",
+      "target": "Screening",
+      "type": "performed by"
+    },
+    {
+      "source": "Full-text articles",
+      "target": "Covidence",
+      "type": "uploaded to"
+    },
+    {
+      "source": "NH",
+      "target": "data extraction",
+      "type": "performed"
+    },
+    {
+      "source": "PL",
+      "target": "data extraction",
+      "type": "cross-checked"
+    },
+    {
+      "source": "data extraction tool",
+      "target": "Microsoft Excel",
+      "type": "developed in"
+    },
+    {
+      "source": "mindfulness experience",
+      "target": "follow-up measurements",
+      "type": "associated with"
+    },
+    {
+      "source": "recruitment method",
+      "target": "participant characteristics",
+      "type": "influences"
+    },
+    {
+      "source": "financial compensation",
+      "target": "participant characteristics",
+      "type": "influences"
+    },
+    {
+      "source": "commercial app",
+      "target": "primary findings",
+      "type": "affects"
+    },
+    {
+      "source": "primary outcome",
+      "target": "primary findings",
+      "type": "reported in"
+    },
+    {
+      "source": "Gender",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "age",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "race",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "ethnicity",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "type of chronic illness or condition",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "patient and caregiver status",
+      "target": "participant characteristics",
+      "type": "descriptor of"
+    },
+    {
+      "source": "Adherence",
+      "target": "per-protocol analyses",
+      "type": "measured by"
+    },
+    {
+      "source": "Adherence",
+      "target": "intention-to-treat analyses",
+      "type": "measured by"
+    },
+    {
+      "source": "variance",
+      "target": "per-protocol analyses",
+      "type": "influences"
+    },
+    {
+      "source": "variance",
+      "target": "intention-to-treat analyses",
+      "type": "influences"
+    },
+    {
+      "source": "intervention",
+      "target": "adherence",
+      "type": "assessed by"
+    },
+    {
+      "source": "adherence",
+      "target": "compliance",
+      "type": "defined as"
+    },
+    {
+      "source": "program completion",
+      "target": "adherence",
+      "type": "measured as percentage of"
+    },
+    {
+      "source": "authors",
+      "target": "8-week program",
+      "type": "reported for"
+    },
+    {
+      "source": "sample",
+      "target": "adherence",
+      "type": "recorded as"
+    },
+    {
+      "source": "intervention group",
+      "target": "retention rates",
+      "type": "reported_for"
+    },
+    {
+      "source": "retention rates",
+      "target": "postintervention measurements",
+      "type": "measured_at"
+    },
+    {
+      "source": "retention rates",
+      "target": "follow-up points",
+      "type": "measured_at"
+    },
+    {
+      "source": "session_range",
+      "target": "adherent",
+      "type": "defines_group"
+    },
+    {
+      "source": "Engagement Strategies",
+      "target": "Program features",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement Strategies",
+      "target": "Facilitator-led strategies",
+      "type": "includes"
+    },
+    {
+      "source": "team",
+      "target": "practice",
+      "type": "discusses"
+    },
+    {
+      "source": "team",
+      "target": "monitoring",
+      "type": "discusses"
+    },
+    {
+      "source": "team",
+      "target": "well-being scores",
+      "type": "responds to"
+    },
+    {
+      "source": "program features",
+      "target": "facilitator-led strategies",
+      "type": "combination of"
+    },
+    {
+      "source": "Data Analysis",
+      "target": "study characteristics",
+      "type": "analyzes"
+    },
+    {
+      "source": "Data Analysis",
+      "target": "participant characteristics",
+      "type": "analyzes"
+    },
+    {
+      "source": "Data Analysis",
+      "target": "adherence",
+      "type": "analyzes"
+    },
+    {
+      "source": "Data Analysis",
+      "target": "retention rates",
+      "type": "analyzes"
+    },
+    {
+      "source": "adherence",
+      "target": "outcomes",
+      "type": "impact on"
+    },
+    {
+      "source": "adherence",
+      "target": "financial impact",
+      "type": "impact on"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence",
+      "type": "assesses"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "compensation",
+      "type": "influences"
+    },
+    {
+      "source": "intervention",
+      "target": "adherence",
+      "type": "affects"
+    },
+    {
+      "source": "engagement strategy",
+      "target": "program adherence",
+      "type": "analyzed by"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "published in"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "retention",
+      "type": "measured_by"
+    },
+    {
+      "source": "8-week program",
+      "target": "engagement strategies",
+      "type": "defines"
+    },
+    {
+      "source": "1922 articles",
+      "target": "databases",
+      "type": "retrieved_from"
+    },
+    {
+      "source": "19 articles",
+      "target": "United States",
+      "type": "conducted in"
+    },
+    {
+      "source": "19 articles",
+      "target": "RCTs",
+      "type": "are"
+    },
+    {
+      "source": "19 articles",
+      "target": "web-based",
+      "type": "are"
+    },
+    {
+      "source": "19 articles",
+      "target": "mindfulness",
+      "type": "focus on"
+    },
+    {
+      "source": "19 articles",
+      "target": "meditation",
+      "type": "focus on"
+    },
+    {
+      "source": "mindfulness experiences",
+      "target": "studies",
+      "type": "excludes"
+    },
+    {
+      "source": "web-based recruitment strategies",
+      "target": "studies",
+      "type": "uses"
+    },
+    {
+      "source": "face-to-face recruitment strategies",
+      "target": "studies",
+      "type": "uses"
+    },
+    {
+      "source": "mindfulness apps",
+      "target": "Headspace",
+      "type": "includes"
+    },
+    {
+      "source": "Calm",
+      "target": "studies",
+      "type": "used in"
+    },
+    {
+      "source": "Pacifica",
+      "target": "studies",
+      "type": "used in"
+    },
+    {
+      "source": "monetary compensation",
+      "target": "studies",
+      "type": "provided by"
+    },
+    {
+      "source": "paid mindfulness apps",
+      "target": "studies",
+      "type": "provided by"
+    },
+    {
+      "source": "intervention duration",
+      "target": "studies",
+      "type": "ranges from"
+    },
+    {
+      "source": "studies",
+      "target": "psychological measures",
+      "type": "focuses_on"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "PRISMA",
+      "type": "includes"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "7 studies",
+      "target": "primary outcome",
+      "type": "did not report"
+    },
+    {
+      "source": "8 studies",
+      "target": "psychological measures",
+      "type": "included in"
+    },
+    {
+      "source": "17 studies",
+      "target": "mindfulness",
+      "type": "resulted in"
+    },
+    {
+      "source": "psychological outcomes",
+      "target": "mindfulness",
+      "type": "related to"
+    },
+    {
+      "source": "physical outcomes",
+      "target": "mindfulness",
+      "type": "related to"
+    },
+    {
+      "source": "participants",
+      "target": "mean sample size",
+      "type": "includes"
+    },
+    {
+      "source": "participants",
+      "target": "participants women",
+      "type": "demographic characteristic"
+    },
+    {
+      "source": "participants",
+      "target": "participants age",
+      "type": "demographic characteristic"
+    },
+    {
+      "source": "participants",
+      "target": "ethnicity",
+      "type": "reported characteristic"
+    },
+    {
+      "source": "participants",
+      "target": "race",
+      "type": "reported characteristic"
+    },
+    {
+      "source": "participants",
+      "target": "White people",
+      "type": "ethnic classification"
+    },
+    {
+      "source": "Mindfulness programs",
+      "target": "people with a variety of chronic illnesses",
+      "type": "delivered to"
+    },
+    {
+      "source": "mental health",
+      "target": "chronic illnesses",
+      "type": "related to"
+    },
+    {
+      "source": "cancer",
+      "target": "chronic illnesses",
+      "type": "related to"
+    },
+    {
+      "source": "studies",
+      "target": "people living with the illness",
+      "type": "delivered to"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "encouraging adherence",
+      "type": "used_for"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "contact and reminders from facilitators",
+      "type": "includes"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "contact with a facilitator for discussion",
+      "type": "includes"
+    },
+    {
+      "source": "Chandler et al",
+      "target": "39",
+      "type": "adherence"
+    },
+    {
+      "source": "Compen et al",
+      "target": "79",
+      "type": "adherence"
+    },
+    {
+      "source": "Kladnitski et al",
+      "target": "66",
+      "type": "adherence"
+    },
+    {
+      "source": "Kubo et al",
+      "target": "56",
+      "type": "adherence"
+    },
+    {
+      "source": "Stjernsw ard and Hansson",
+      "target": "57",
+      "type": "adherence"
+    },
+    {
+      "source": "Thompson et al",
+      "target": "NRa",
+      "type": "adherence"
+    },
+    {
+      "source": "Gotink et al",
+      "target": "50N/A",
+      "type": "adherence"
+    },
+    {
+      "source": "Hearn and Finlay",
+      "target": "72 N/A",
+      "type": "adherence"
+    },
+    {
+      "source": "Henriksson et al",
+      "target": "58 N/A",
+      "type": "adherence"
+    },
+    {
+      "source": "Henriksson et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Huberty et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Mober g et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Rosen et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Russell et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Younge et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Bostock et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Lindsay et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Tavallaei et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Wahbeh et al",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "Wahbeh",
+      "target": "program feature strategies",
+      "type": "studied"
+    },
+    {
+      "source": "program reminders",
+      "target": "automated reminders",
+      "type": "influences"
+    },
+    {
+      "source": "participants",
+      "target": "notifications",
+      "type": "personalization"
+    },
+    {
+      "source": "program features",
+      "target": "adherence",
+      "type": "encouragement"
+    },
+    {
+      "source": "program features",
+      "target": "mindfulness course content",
+      "type": "personalization"
+    },
+    {
+      "source": "program features",
+      "target": "home work activities",
+      "type": "provides"
+    },
+    {
+      "source": "program features",
+      "target": "self-reflections",
+      "type": "provides"
+    },
+    {
+      "source": "social contact",
+      "target": "3/14",
+      "type": "percentage"
+    },
+    {
+      "source": "personalization of app appearance",
+      "target": "2/14",
+      "type": "percentage"
+    },
+    {
+      "source": "lesson summaries",
+      "target": "1/14",
+      "type": "percentage"
+    },
+    {
+      "source": "progress tracking of mindfulness practice",
+      "target": "1/14",
+      "type": "percentage"
+    },
+    {
+      "source": "immediate feedback on practice",
+      "target": "1/14",
+      "type": "percentage"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "authorship"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "2022",
+      "type": "publication_year"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "vol. 24",
+      "type": "volume_issue"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "iss. 1",
+      "type": "volume_issue"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e30026",
+      "type": "article_identifier"
+    },
+    {
+      "source": "facilitators",
+      "target": "Email",
+      "type": "delivers"
+    },
+    {
+      "source": "facilitators",
+      "target": "Telephone",
+      "type": "delivers"
+    },
+    {
+      "source": "studies",
+      "target": "demonstration videos",
+      "type": "uses"
+    },
+    {
+      "source": "studies",
+      "target": "goal setting",
+      "type": "uses"
+    },
+    {
+      "source": "studies",
+      "target": "tracking psychological outcomes",
+      "type": "uses"
+    },
+    {
+      "source": "studies",
+      "target": "tracking physical health",
+      "type": "uses"
+    },
+    {
+      "source": "program adherence",
+      "target": "program completion",
+      "type": "defined as"
+    },
+    {
+      "source": "studies",
+      "target": "program completion",
+      "type": "varied range"
+    },
+    {
+      "source": "studies",
+      "target": "measurement for adherence",
+      "type": "lacked"
+    },
+    {
+      "source": "studies",
+      "target": "program use",
+      "type": "analyzed"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence",
+      "type": "affects"
+    },
+    {
+      "source": "studies",
+      "target": "adherence",
+      "type": "records"
+    },
+    {
+      "source": "studies",
+      "target": "program use",
+      "type": "analyzes"
+    },
+    {
+      "source": "Mean Compliance",
+      "target": "adherence",
+      "type": "is measured by"
+    },
+    {
+      "source": "standard deviation (SD)",
+      "target": "Mean Compliance",
+      "type": "describes"
+    },
+    {
+      "source": "studies",
+      "target": "strate gies",
+      "type": "used"
+    },
+    {
+      "source": "studies",
+      "target": "program features",
+      "type": "used"
+    },
+    {
+      "source": "studies",
+      "target": "adhere nce",
+      "type": "measured"
+    },
+    {
+      "source": "strate gies",
+      "target": "facilitator-led strate gies",
+      "type": "combined with"
+    },
+    {
+      "source": "adhere nce",
+      "target": "mean",
+      "type": "calculated"
+    },
+    {
+      "source": "adhere nce",
+      "target": "SD",
+      "type": "calculated"
+    },
+    {
+      "source": "Studies",
+      "target": "Strategies",
+      "type": "used"
+    },
+    {
+      "source": "Studies",
+      "target": "Adherence",
+      "type": "measured"
+    },
+    {
+      "source": "Programs",
+      "target": "Strategies",
+      "type": "include"
+    },
+    {
+      "source": "Programs",
+      "target": "Adherence",
+      "type": "recorded"
+    },
+    {
+      "source": "Studies using reminders",
+      "target": "Adherence Rate with Reminders",
+      "type": "has"
+    },
+    {
+      "source": "Studies not using reminders",
+      "target": "Adherence Rate without Reminders",
+      "type": "has"
+    },
+    {
+      "source": "Total Studies Analyzed",
+      "target": "Adherence Rate",
+      "type": "affects"
+    },
+    {
+      "source": "Adherence Rate",
+      "target": "Outcome Variables",
+      "type": "influences"
+    },
+    {
+      "source": "mindfulness programs",
+      "target": "outcomes",
+      "type": "improvement"
+    },
+    {
+      "source": "depression",
+      "target": "mindfulness programs",
+      "type": "adherence"
+    },
+    {
+      "source": "blood pressure",
+      "target": "mindfulness programs",
+      "type": "compliance"
+    },
+    {
+      "source": "quality of life",
+      "target": "improvement",
+      "type": "association"
+    },
+    {
+      "source": "studies",
+      "target": "adherence",
+      "type": "measured"
+    },
+    {
+      "source": "Financial Compensation",
+      "target": "adherence",
+      "type": "influences"
+    },
+    {
+      "source": "studies",
+      "target": "Financial Compensation",
+      "type": "provides"
+    },
+    {
+      "source": "mean",
+      "target": "adherence",
+      "type": "represents"
+    },
+    {
+      "source": "SD",
+      "target": "mean",
+      "type": "defines"
+    },
+    {
+      "source": "range",
+      "target": "mean",
+      "type": "describes"
+    },
+    {
+      "source": "compensation",
+      "target": "adherence",
+      "type": "affects"
+    },
+    {
+      "source": "5 studies",
+      "target": "intervention <8 weeks",
+      "type": "measured"
+    },
+    {
+      "source": "8-week intervention",
+      "target": "58%",
+      "type": "recorded adherence"
+    },
+    {
+      "source": "4 studies",
+      "target": "interventions >8 weeks",
+      "type": "measured"
+    },
+    {
+      "source": "interventions >8 weeks",
+      "target": "52%",
+      "type": "recorded adherence"
+    },
+    {
+      "source": "10 studies",
+      "target": "60%",
+      "type": "measured adherence"
+    },
+    {
+      "source": "Studies",
+      "target": "Retention",
+      "type": "has"
+    },
+    {
+      "source": "Follow-up periods",
+      "target": "Intervention",
+      "type": "related to"
+    },
+    {
+      "source": "Retention",
+      "target": "70% retention",
+      "type": "indicates"
+    },
+    {
+      "source": "Last follow-up point",
+      "target": "Studies",
+      "type": "has"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "retention rate",
+      "type": "affects"
+    },
+    {
+      "source": "program features",
+      "target": "retention rate",
+      "type": "affects"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "duration",
+      "type": "measures"
+    },
+    {
+      "source": "program features",
+      "target": "duration",
+      "type": "measures"
+    },
+    {
+      "source": "studies",
+      "target": "facilitator-led strategies",
+      "type": "conducted with"
+    },
+    {
+      "source": "studies",
+      "target": "program features",
+      "type": "conducted with"
+    },
+    {
+      "source": "program features",
+      "target": "mean duration",
+      "type": "defines"
+    },
+    {
+      "source": "mean duration",
+      "target": "8 weeks",
+      "type": "is"
+    },
+    {
+      "source": "retention rate",
+      "target": "67%",
+      "type": "is"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "40%",
+      "type": "percentage of studies"
+    },
+    {
+      "source": "follow-up periods",
+      "target": "average",
+      "type": "has"
+    },
+    {
+      "source": "follow-up periods",
+      "target": "7 weeks",
+      "type": "is average duration"
+    },
+    {
+      "source": "long-term follow-up",
+      "target": "11",
+      "type": "has average duration"
+    },
+    {
+      "source": "retention rate",
+      "target": "weeks",
+      "type": "measured in"
+    },
+    {
+      "source": "long-term follow-up period",
+      "target": "weeks",
+      "type": "duration of"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "Winter et al",
+      "type": "published by"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "program reminders",
+      "type": "used"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "mean retention rates",
+      "type": "measured by"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "intervention",
+      "type": "followed by"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "follow-up point",
+      "type": "measured at"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "mean retention",
+      "type": "measured by"
+    },
+    {
+      "source": "RenderX Studies",
+      "target": "other strategies",
+      "type": "used"
+    },
+    {
+      "source": "web-based mindfulness programs",
+      "target": "engagement strategies",
+      "type": "applied_to"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "adherence rates",
+      "type": "impact"
+    },
+    {
+      "source": "program features",
+      "target": "program adherence",
+      "type": "associated_with"
+    },
+    {
+      "source": "retention",
+      "target": "intervention",
+      "type": "measured_after"
+    },
+    {
+      "source": "retention",
+      "target": "follow-up point",
+      "type": "measured_at"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "reminders",
+      "type": "includes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "program content",
+      "type": "customizes"
+    },
+    {
+      "source": "Engagement strategies",
+      "target": "facilitators",
+      "type": "interacts_with"
+    },
+    {
+      "source": "study retention",
+      "target": "attrition",
+      "type": "reports_on"
+    },
+    {
+      "source": "program adherence",
+      "target": "health outcomes",
+      "type": "association"
+    },
+    {
+      "source": "studies",
+      "target": "adherence measurements",
+      "type": "measures"
+    },
+    {
+      "source": "studies",
+      "target": "sessions completed",
+      "type": "describes"
+    },
+    {
+      "source": "studies",
+      "target": "use",
+      "type": "describes"
+    },
+    {
+      "source": "web-based interventions",
+      "target": "user outcomes",
+      "type": "affects"
+    },
+    {
+      "source": "adherence",
+      "target": "program completion",
+      "type": "measures"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "study attrition",
+      "type": "impacts"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "study retention",
+      "type": "influences"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "postintervention measurement",
+      "type": "related to"
+    },
+    {
+      "source": "strategies",
+      "target": "retention rate",
+      "type": "has"
+    },
+    {
+      "source": "program features",
+      "target": "retention rate",
+      "type": "has"
+    },
+    {
+      "source": "follow-up period",
+      "target": "retention rate",
+      "type": "has"
+    },
+    {
+      "source": "facilitator",
+      "target": "variability",
+      "type": "influences"
+    },
+    {
+      "source": "intervention length",
+      "target": "attrition",
+      "type": "contributes to"
+    },
+    {
+      "source": "follow-up length",
+      "target": "attrition",
+      "type": "contributes to"
+    },
+    {
+      "source": "demographic characteristics",
+      "target": "attrition",
+      "type": "contributes to"
+    },
+    {
+      "source": "participants",
+      "target": "attrition",
+      "type": "affected by"
+    },
+    {
+      "source": "intervention",
+      "target": "retention",
+      "type": "affects"
+    },
+    {
+      "source": "program features",
+      "target": "engagement",
+      "type": "influences"
+    },
+    {
+      "source": "facilitator",
+      "target": "web-based psychological programs",
+      "type": "guides"
+    },
+    {
+      "source": "therapist",
+      "target": "web-based psychological programs",
+      "type": "guides"
+    },
+    {
+      "source": "cognitive behavioral therapy",
+      "target": "intervention",
+      "type": "is type of"
+    },
+    {
+      "source": "therapist",
+      "target": "facilitator",
+      "type": "is a"
+    },
+    {
+      "source": "facilitator",
+      "target": "depression",
+      "type": "affects"
+    },
+    {
+      "source": "facilitator",
+      "target": "anxiety",
+      "type": "affects"
+    },
+    {
+      "source": "patient outcomes",
+      "target": "comorbidities",
+      "type": "influenced by"
+    },
+    {
+      "source": "mindfulness",
+      "target": "comorbidities",
+      "type": "positively impacts"
+    },
+    {
+      "source": "mindfulness",
+      "target": "mental illnesses",
+      "type": "positively impacts"
+    },
+    {
+      "source": "mindfulness",
+      "target": "physical illnesses",
+      "type": "positively impacts"
+    },
+    {
+      "source": "mindfulness program",
+      "target": "disease",
+      "type": "targets"
+    },
+    {
+      "source": "mindfulness program",
+      "target": "comorbid conditions",
+      "type": "benefits"
+    },
+    {
+      "source": "facilitator-led strategies",
+      "target": "retention rate",
+      "type": "effectiveness"
+    },
+    {
+      "source": "self-directed interventions",
+      "target": "facilitator support",
+      "type": "requires"
+    },
+    {
+      "source": "facilitators",
+      "target": "adherence",
+      "type": "encourages"
+    },
+    {
+      "source": "web-based mindfulness",
+      "target": "psychological outcome measures",
+      "type": "resulted_in"
+    },
+    {
+      "source": "web-based mindfulness",
+      "target": "physiological outcome measures",
+      "type": "resulted_in"
+    },
+    {
+      "source": "study retention",
+      "target": "baseline functioning",
+      "type": "highlighted_relationship"
+    },
+    {
+      "source": "psychological well-being",
+      "target": "drop out",
+      "type": "influences"
+    },
+    {
+      "source": "adherence",
+      "target": "improvements in outcomes",
+      "type": "positively correlates with"
+    },
+    {
+      "source": "worry and rumination",
+      "target": "disengagement from mindfulness-based interventions",
+      "type": "results in"
+    },
+    {
+      "source": "measurements of adherence",
+      "target": "understand role",
+      "type": "required in"
+    },
+    {
+      "source": "program features",
+      "target": "user engagement",
+      "type": "influences"
+    },
+    {
+      "source": "program features",
+      "target": "adherence",
+      "type": "impacts"
+    },
+    {
+      "source": "program features",
+      "target": "study retention",
+      "type": "impacts"
+    },
+    {
+      "source": "diaries",
+      "target": "interventions",
+      "type": "used in"
+    },
+    {
+      "source": "reminders",
+      "target": "interventions",
+      "type": "used in"
+    },
+    {
+      "source": "social connectedness",
+      "target": "interventions",
+      "type": "used in"
+    },
+    {
+      "source": "web-based features",
+      "target": "user outcomes",
+      "type": "improves"
+    },
+    {
+      "source": "mindfulness",
+      "target": "engagement",
+      "type": "assesses"
+    },
+    {
+      "source": "engagement",
+      "target": "adherence",
+      "type": "determines"
+    },
+    {
+      "source": "adherence",
+      "target": "outcomes",
+      "type": "influences"
+    },
+    {
+      "source": "studies",
+      "target": "interventions",
+      "type": "evidences"
+    },
+    {
+      "source": "interventions",
+      "target": "reporting adherence",
+      "type": "affects"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "Published In"
+    },
+    {
+      "source": "Included Studies",
+      "target": "White",
+      "type": "Demographics"
+    },
+    {
+      "source": "Included Studies",
+      "target": "Female",
+      "type": "Demographics"
+    },
+    {
+      "source": "people living with chronic illness",
+      "target": "chronic illnesses",
+      "type": "has_condition"
+    },
+    {
+      "source": "people living with chronic illness",
+      "target": "depression",
+      "type": "may_experience"
+    },
+    {
+      "source": "people living with chronic illness",
+      "target": "anxiety",
+      "type": "may_experience"
+    },
+    {
+      "source": "adherence to mindfulness",
+      "target": "general population",
+      "type": "measured_in"
+    },
+    {
+      "source": "engagement strategies",
+      "target": "web-based interventions",
+      "type": "evaluated_in"
+    },
+    {
+      "source": "mental well-being",
+      "target": "web-based interventions",
+      "type": "affect"
+    },
+    {
+      "source": "adherence",
+      "target": "engagement strategies",
+      "type": "related to"
+    },
+    {
+      "source": "retention",
+      "target": "engagement strategies",
+      "type": "related to"
+    },
+    {
+      "source": "risk of bias assessment",
+      "target": "engagement strategies",
+      "type": "less relevant"
+    },
+    {
+      "source": "web-based mindfulness programs",
+      "target": "engagement strategies",
+      "type": "focus on"
+    },
+    {
+      "source": "personalization",
+      "target": "adherence",
+      "type": "impact"
+    },
+    {
+      "source": "self-reflection activities",
+      "target": "adherence",
+      "type": "impact"
+    },
+    {
+      "source": "lesson summaries",
+      "target": "adherence",
+      "type": "impact"
+    },
+    {
+      "source": "adherence",
+      "target": "engagement strategies",
+      "type": "evaluation"
+    },
+    {
+      "source": "reporting",
+      "target": "measurement framework",
+      "type": "requirement"
+    },
+    {
+      "source": "Kabat-Zinn J",
+      "target": "Full Catastrophe Living; Using the Wisdom of Your Body and Mind to Face Stress, Pain and Illness",
+      "type": "Authored"
+    },
+    {
+      "source": "Kabat-Zinn J",
+      "target": "Piatkus",
+      "type": "Published By"
+    },
+    {
+      "source": "Niazi AK",
+      "target": "Mindfulness-based stress reduction",
+      "type": "Authored"
+    },
+    {
+      "source": "Niazi SK",
+      "target": "Mindfulness-based stress reduction",
+      "type": "Authored"
+    },
+    {
+      "source": "Mindfulness-based stress reduction",
+      "target": "chronic illnesses",
+      "type": "Related To"
+    },
+    {
+      "source": "Mindfulness-based stress reduction",
+      "target": "N Am J",
+      "type": "Published In"
+    },
+    {
+      "source": "Russell L",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "Ugalde A",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "Orellana L",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "Milne D",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "Krishnasamy M",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "Chambers R",
+      "target": "online mindfulness-based program",
+      "type": "author_of"
+    },
+    {
+      "source": "online mindfulness-based program",
+      "target": "melanoma",
+      "type": "targets"
+    },
+    {
+      "source": "Med Sci",
+      "target": "2011",
+      "type": "published_in"
+    },
+    {
+      "source": "Support Care Cancer",
+      "target": "2019",
+      "type": "published_in"
+    },
+    {
+      "source": "Potes A",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Souza G",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Nikolitch K",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Penheiro R",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Moussa Y",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Jarvis E",
+      "target": "Mindfulness in severe and persistent mental illness: a systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Chandler J",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Sox L",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Diaz V",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Kellam K",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Neely A",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Nemeth L",
+      "target": "Impact of 12-month smartphone breathing meditation program upon systolic blood pressure among non-medicated stage 1 hypertensive adults",
+      "type": "Authored"
+    },
+    {
+      "source": "Mindfulness-based stress reduction",
+      "target": "glycemic control",
+      "type": "associated with"
+    },
+    {
+      "source": "type 2 diabetes mellitus",
+      "target": "glycemic control",
+      "type": "condition for"
+    },
+    {
+      "source": "Mindfulness-based stress reduction",
+      "target": "type 2 diabetes mellitus",
+      "type": "intervention for"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "depression",
+      "type": "related to"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "anxiety",
+      "type": "related to"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "stress",
+      "type": "related to"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "mindfulness",
+      "type": "related to"
+    },
+    {
+      "source": "Ribeiro L",
+      "target": "Adherence to practice of mindfulness",
+      "type": "Authored"
+    },
+    {
+      "source": "Atchley RM",
+      "target": "Adherence to practice of mindfulness",
+      "type": "Authored"
+    },
+    {
+      "source": "Oken BS",
+      "target": "Adherence to practice of mindfulness",
+      "type": "Authored"
+    },
+    {
+      "source": "Mindfulness",
+      "target": "2020 Mar 02",
+      "type": "Published"
+    },
+    {
+      "source": "Mindfulness (N Y)",
+      "target": "2018 Apr",
+      "type": "Published"
+    },
+    {
+      "source": "Spijkerman M",
+      "target": "Clin Psychol Rev",
+      "type": "Authored"
+    },
+    {
+      "source": "Pots W",
+      "target": "Clin Psychol Rev",
+      "type": "Authored"
+    },
+    {
+      "source": "Bohlmeijer E",
+      "target": "Clin Psychol Rev",
+      "type": "Authored"
+    },
+    {
+      "source": "Mrazek AJ",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Mrazek MD",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Cherolini CM",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Cloughesy JN",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Cynman DJ",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Gougis LJ",
+      "target": "The future of mindfulness training",
+      "type": "Authored"
+    },
+    {
+      "source": "Curr Opin Psychol",
+      "target": "2019 Aug;28:81-86",
+      "type": "Published"
+    },
+    {
+      "source": "Eysenbach G",
+      "target": "The law of attrition",
+      "type": "Authored"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "2005;7(1):e11",
+      "type": "Published"
+    },
+    {
+      "source": "Sieverink F",
+      "target": "Clarifying the concept of adherence to eHealth technology: systematic review on when usage becomes adherence",
+      "type": "Authored"
+    },
+    {
+      "source": "Kelders SM",
+      "target": "Clarifying the concept of adherence to eHealth technology: systematic review on when usage becomes adherence",
+      "type": "Authored"
+    },
+    {
+      "source": "van Gemert-Pijnen JE",
+      "target": "Clarifying the concept of adherence to eHealth technology: systematic review on when usage becomes adherence",
+      "type": "Authored"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "Published in"
+    },
+    {
+      "source": "Stanic J",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Barth J",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Danon N",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Bondolf i G",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Jermann F",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Eicher M",
+      "target": "Mindfulness-based interventions",
+      "type": "Author of"
+    },
+    {
+      "source": "Mindfulness-based interventions",
+      "target": "Breast cancer",
+      "type": "Targeting"
+    },
+    {
+      "source": "Mindfulness-based interventions",
+      "target": "Gynecological cancer",
+      "type": "Targeting"
+    },
+    {
+      "source": "Stanic J",
+      "target": "J Psychosos Oncol Res Pract",
+      "type": "Published in"
+    },
+    {
+      "source": "Gotink RA",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Younge JO",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Wery MF",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Utens EM",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Michels M",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Rizopoulos D",
+      "target": "PLoS One",
+      "type": "Wrote"
+    },
+    {
+      "source": "Online mindfulness",
+      "target": "exercise capacity",
+      "type": "Improves"
+    },
+    {
+      "source": "exercise capacity",
+      "target": "heart disease",
+      "type": "Related To"
+    },
+    {
+      "source": "PLoS One",
+      "target": "2017;12(5):e0175923",
+      "type": "Published"
+    },
+    {
+      "source": "Linardon J",
+      "target": "J Consult Clin Psychol",
+      "type": "Authored"
+    },
+    {
+      "source": "Fuller-Tyszkiewicz M",
+      "target": "J Consult Clin Psychol",
+      "type": "Authored"
+    },
+    {
+      "source": "Russell L",
+      "target": "Journal",
+      "type": "Authored"
+    },
+    {
+      "source": "Ugalde A",
+      "target": "Journal",
+      "type": "Authored"
+    },
+    {
+      "source": "Milne D",
+      "target": "Journal",
+      "type": "Authored"
+    },
+    {
+      "source": "Austin D",
+      "target": "Journal",
+      "type": "Authored"
+    },
+    {
+      "source": "Livingston PM",
+      "target": "Journal",
+      "type": "Authored"
+    },
+    {
+      "source": "internet-supported mindfulness-based interventions",
+      "target": "chronic condition",
+      "type": "focuses on"
+    },
+    {
+      "source": "Beintner I",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "Vollert B",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "Zarski A",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "Bolinski F",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "Musiat P",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "G\u00f6rlich D",
+      "target": "adherence reporting",
+      "type": "conducted research on"
+    },
+    {
+      "source": "randomized controlled trials",
+      "target": "manualized multisession online interventions",
+      "type": "evaluates"
+    },
+    {
+      "source": "systematic review of practices",
+      "target": "reporting standards",
+      "type": "proposes"
+    },
+    {
+      "source": "Kelders SM",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Kok RN",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Ossebaard HC",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Van Gemert-Pijnen JE",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Ubhi HK",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Michie S",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Kotz D",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "van Schayck OC",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Selladurai A",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "West R",
+      "target": "J Med Internet Res",
+      "type": "Published_in"
+    },
+    {
+      "source": "Web-based interventions",
+      "target": "J Med Internet Res",
+      "type": "Investigated_in"
+    },
+    {
+      "source": "Smoking cessation",
+      "target": "J Med Internet Res",
+      "type": "Discussed_in"
+    },
+    {
+      "source": "Arnold C",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Villagonzalo K",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Meyer D",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Farhall J",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Foley F",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Kyrios M",
+      "target": "Internet Interv",
+      "type": "Author of"
+    },
+    {
+      "source": "Abraham C",
+      "target": "Michie S",
+      "type": "co-author"
+    },
+    {
+      "source": "Abraham C",
+      "target": "Bardus M",
+      "type": "co-author"
+    },
+    {
+      "source": "Bardus M",
+      "target": "van Beurden SB",
+      "type": "co-author"
+    },
+    {
+      "source": "Bardus M",
+      "target": "Smith JR",
+      "type": "co-author"
+    },
+    {
+      "source": "Abraham C",
+      "target": "Health Psychol",
+      "type": "published in"
+    },
+    {
+      "source": "Michie S",
+      "target": "Health Psychol",
+      "type": "published in"
+    },
+    {
+      "source": "Banerjee M",
+      "target": "mindfulness",
+      "type": "studies"
+    },
+    {
+      "source": "Cavanagh K",
+      "target": "mindfulness",
+      "type": "studies"
+    },
+    {
+      "source": "Strauss C",
+      "target": "mindfulness",
+      "type": "studies"
+    },
+    {
+      "source": "rumination",
+      "target": "psychological engagement",
+      "type": "predicts"
+    },
+    {
+      "source": "worry",
+      "target": "physical engagement",
+      "type": "predicts"
+    },
+    {
+      "source": "online mindfulness-based intervention",
+      "target": "mindfulness",
+      "type": "utilizes"
+    },
+    {
+      "source": "Mober g C",
+      "target": "Pacifica",
+      "type": "Developed"
+    },
+    {
+      "source": "Niles A",
+      "target": "Pacifica",
+      "type": "Developed"
+    },
+    {
+      "source": "Beermann D",
+      "target": "Pacifica",
+      "type": "Developed"
+    },
+    {
+      "source": "Pacifica",
+      "target": "cognitive behavioral therapy",
+      "type": "Integrates"
+    },
+    {
+      "source": "Pacifica",
+      "target": "mindfulness",
+      "type": "Integrates"
+    },
+    {
+      "source": "Pacifica",
+      "target": "stress",
+      "type": "Addresses"
+    },
+    {
+      "source": "Pacifica",
+      "target": "anxiety",
+      "type": "Addresses"
+    },
+    {
+      "source": "Pacifica",
+      "target": "depression",
+      "type": "Addresses"
+    },
+    {
+      "source": "Pacifica",
+      "target": "J Med Internet Res",
+      "type": "Published In"
+    },
+    {
+      "source": "2019 Jun 08",
+      "target": "J Med Internet Res",
+      "type": "Publication Date"
+    },
+    {
+      "source": "Chien I",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "Enrique A",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "Palacios J",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "Regan T",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "Keegan D",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "Carter D",
+      "target": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "type": "Authored"
+    },
+    {
+      "source": "A machine learning approach to understanding patterns of engagement with internet-delivered mental health interventions",
+      "target": "JAMA Netw Open",
+      "type": "Published In"
+    },
+    {
+      "source": "Moher D",
+      "target": "Preferred reporting items for systematic reviews",
+      "type": "Authored"
+    },
+    {
+      "source": "Liberati A",
+      "target": "Preferred reporting items for systematic reviews",
+      "type": "Authored"
+    },
+    {
+      "source": "Tetzlaff J",
+      "target": "Preferred reporting items for systematic reviews",
+      "type": "Authored"
+    },
+    {
+      "source": "Altman DG",
+      "target": "Preferred reporting items for systematic reviews",
+      "type": "Authored"
+    },
+    {
+      "source": "PRISMA Group",
+      "target": "Preferred reporting items for systematic reviews",
+      "type": "Created"
+    },
+    {
+      "source": "PRISMA statement",
+      "target": "J Clin Epidemiol",
+      "type": "published_in"
+    },
+    {
+      "source": "Schardt C",
+      "target": "BMC Med Inform Decis Mak",
+      "type": "author_of"
+    },
+    {
+      "source": "Adams MB",
+      "target": "BMC Med Inform Decis Mak",
+      "type": "author_of"
+    },
+    {
+      "source": "Owens T",
+      "target": "BMC Med Inform Decis Mak",
+      "type": "author_of"
+    },
+    {
+      "source": "Keitz S",
+      "target": "BMC Med Inform Decis Mak",
+      "type": "author_of"
+    },
+    {
+      "source": "Fontelo P",
+      "target": "BMC Med Inform Decis Mak",
+      "type": "author_of"
+    },
+    {
+      "source": "PICO framework",
+      "target": "PubMed",
+      "type": "utilizes"
+    },
+    {
+      "source": "Calm",
+      "target": "stress",
+      "type": "reduces"
+    },
+    {
+      "source": "Huberty J",
+      "target": "Efficacy of the mindfulness meditation mobile app \"Calm\"",
+      "type": "conducted"
+    },
+    {
+      "source": "JMIR Mhealth Uhealth",
+      "target": "Calm",
+      "type": "published_in"
+    },
+    {
+      "source": "Veritas Health Innovation Ltd",
+      "target": "Covidence",
+      "type": "operates"
+    },
+    {
+      "source": "Kubo A",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Kurtovich E",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "McGinnis M",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Aghaee S",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Altschuler A",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Quesenberry C",
+      "target": "mHealth mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "mHealth mindfulness intervention",
+      "target": "cancer patients",
+      "type": "Targeted"
+    },
+    {
+      "source": "mHealth mindfulness intervention",
+      "target": "informal cancer caregivers",
+      "type": "Targeted"
+    },
+    {
+      "source": "mHealth mindfulness intervention",
+      "target": "integrated health care delivery system",
+      "type": "Conducted In"
+    },
+    {
+      "source": "Integr Cancer Ther",
+      "target": "mHealth mindfulness intervention",
+      "type": "Published In"
+    },
+    {
+      "source": "mHealth mindfulness intervention",
+      "target": "2019",
+      "type": "Conducted In"
+    },
+    {
+      "source": "Lindsay EK",
+      "target": "Acceptance lowers stress reactivity",
+      "type": "authored"
+    },
+    {
+      "source": "Young S",
+      "target": "Acceptance lowers stress reactivity",
+      "type": "authored"
+    },
+    {
+      "source": "Smyth JM",
+      "target": "Acceptance lowers stress reactivity",
+      "type": "authored"
+    },
+    {
+      "source": "Brown KW",
+      "target": "Acceptance lowers stress reactivity",
+      "type": "authored"
+    },
+    {
+      "source": "Creswell JD",
+      "target": "Acceptance lowers stress reactivity",
+      "type": "authored"
+    },
+    {
+      "source": "Rosen KD",
+      "target": "Quality of life among women diagnosed with breast Cancer",
+      "type": "authored"
+    },
+    {
+      "source": "Paniagua SM",
+      "target": "Quality of life among women diagnosed with breast Cancer",
+      "type": "authored"
+    },
+    {
+      "source": "Kazanis W",
+      "target": "Quality of life among women diagnosed with breast Cancer",
+      "type": "authored"
+    },
+    {
+      "source": "Jones S",
+      "target": "Quality of life among women diagnosed with breast Cancer",
+      "type": "authored"
+    },
+    {
+      "source": "Potter JS",
+      "target": "Quality of life among women diagnosed with breast Cancer",
+      "type": "authored"
+    },
+    {
+      "source": "randomized waitlist controlled trial",
+      "target": "mobile app-delivered mindfulness training",
+      "type": "evaluates"
+    },
+    {
+      "source": "randomized waitlist controlled trial",
+      "target": "Psychooncology",
+      "type": "published in"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "Winter et al",
+      "type": "authored by"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e30026",
+      "type": "article code"
+    },
+    {
+      "source": "Project UPLIFT",
+      "target": "mindfulness-based depression prevention",
+      "type": "focus"
+    },
+    {
+      "source": "Wahbeh H",
+      "target": "Internet Mindfulness Meditation Intervention (IMMI)",
+      "type": "associated_with"
+    },
+    {
+      "source": "Internet Mindfulness Meditation Intervention (IMMI)",
+      "target": "depression symptoms",
+      "type": "improves"
+    },
+    {
+      "source": "depression symptoms",
+      "target": "older adults",
+      "type": "affects"
+    },
+    {
+      "source": "Thompson NJ",
+      "target": "Project UPLIFT",
+      "type": "contributes_to"
+    },
+    {
+      "source": "RenderX",
+      "target": "J Consult Clin Psychol",
+      "type": "publishes"
+    },
+    {
+      "source": "Wahbeh H",
+      "target": "Altern Ther Health Med",
+      "type": "author_of"
+    },
+    {
+      "source": "Goodrich E",
+      "target": "Altern Ther Health Med",
+      "type": "author_of"
+    },
+    {
+      "source": "Oken B",
+      "target": "Altern Ther Health Med",
+      "type": "author_of"
+    },
+    {
+      "source": "Bostock S",
+      "target": "mindfulness meditation app",
+      "type": "studied"
+    },
+    {
+      "source": "Crosswell AD",
+      "target": "mindfulness meditation app",
+      "type": "studied"
+    },
+    {
+      "source": "Prather AA",
+      "target": "mindfulness meditation app",
+      "type": "studied"
+    },
+    {
+      "source": "Steptoe A",
+      "target": "mindfulness meditation app",
+      "type": "studied"
+    },
+    {
+      "source": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "target": "psychological distress",
+      "type": "aim"
+    },
+    {
+      "source": "psychological distress",
+      "target": "patients with cancer",
+      "type": "target population"
+    },
+    {
+      "source": "J Occup Health Psychol",
+      "target": "2019",
+      "type": "published_in"
+    },
+    {
+      "source": "J Clin Oncol",
+      "target": "2018",
+      "type": "published_in"
+    },
+    {
+      "source": "Compen F",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "Bisseling E",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "Schellekens M",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "Donders R",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "Carlson L",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "van der Lee M",
+      "target": "Face-to-face and internet-based mindfulness-based cognitive therapy",
+      "type": "contributor"
+    },
+    {
+      "source": "Kladnitski N",
+      "target": "Transdiagnostic internet-delivered CBT",
+      "type": "Authored"
+    },
+    {
+      "source": "Kladnitski N",
+      "target": "Mindfulness-based treatment",
+      "type": "Authored"
+    },
+    {
+      "source": "Transdiagnostic internet-delivered CBT",
+      "target": "Depression",
+      "type": "Treats"
+    },
+    {
+      "source": "Transdiagnostic internet-delivered CBT",
+      "target": "Anxiety",
+      "type": "Treats"
+    },
+    {
+      "source": "Hearn JH",
+      "target": "Internet-delivered mindfulness",
+      "type": "Authored"
+    },
+    {
+      "source": "Internet-delivered mindfulness",
+      "target": "Depression",
+      "type": "Treats"
+    },
+    {
+      "source": "Internet-delivered mindfulness",
+      "target": "Chronic pain",
+      "type": "Treats"
+    },
+    {
+      "source": "Chronic pain",
+      "target": "Spinal cord",
+      "type": "Related to"
+    },
+    {
+      "source": "Henriksson J",
+      "target": "mindfulness training",
+      "type": "studied"
+    },
+    {
+      "source": "Henriksson J",
+      "target": "chronic pain",
+      "type": "targeted"
+    },
+    {
+      "source": "mindfulness training",
+      "target": "pain intensity",
+      "type": "affects"
+    },
+    {
+      "source": "mindfulness training",
+      "target": "pain acceptance",
+      "type": "affects"
+    },
+    {
+      "source": "mindfulness training",
+      "target": "life satisfaction",
+      "type": "affects"
+    },
+    {
+      "source": "Younge JO",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Wery MF",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Gotink RA",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Utens EM",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Michels M",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Rizopoulos D",
+      "target": "Web-based mindfulness intervention",
+      "type": "Conducted"
+    },
+    {
+      "source": "Web-based mindfulness intervention",
+      "target": "heart disease",
+      "type": "Targets"
+    },
+    {
+      "source": "Stjernsw\u00e4rd S",
+      "target": "web-based mindfulness intervention",
+      "type": "Evaluated"
+    },
+    {
+      "source": "Hansson L",
+      "target": "web-based mindfulness intervention",
+      "type": "Evaluated"
+    },
+    {
+      "source": "web-based mindfulness intervention",
+      "target": "caregivers of people",
+      "type": "Targets"
+    },
+    {
+      "source": "Tavallaei V",
+      "target": "Mindfulness for female outpatients with chronic primary headaches",
+      "type": "Authored"
+    },
+    {
+      "source": "Rezapour -Mirsaleh Y",
+      "target": "Mindfulness for female outpatients with chronic primary headaches",
+      "type": "Authored"
+    },
+    {
+      "source": "Rezaiemaram P",
+      "target": "Mindfulness for female outpatients with chronic primary headaches",
+      "type": "Authored"
+    },
+    {
+      "source": "Saadat SH",
+      "target": "Mindfulness for female outpatients with chronic primary headaches",
+      "type": "Authored"
+    },
+    {
+      "source": "Mindfulness for female outpatients with chronic primary headaches",
+      "target": "Eur J Transl Myol",
+      "type": "Published In"
+    },
+    {
+      "source": "Eur J Transl Myol",
+      "target": "doi: 10.4081/ejtm.2018.7380",
+      "type": "Cites"
+    },
+    {
+      "source": "Donkin L",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "Christensen H",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "Naismith SL",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "Neal B",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "Hickie IB",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "Glozier N",
+      "target": "A systematic review of the impact of adherence on the effectiveness of e-therapies",
+      "type": "Authorship"
+    },
+    {
+      "source": "e-therapies",
+      "target": "J Med Internet Res",
+      "type": "Published in"
+    },
+    {
+      "source": "Mindfulness interventions",
+      "target": "Technology without facilitator involvement",
+      "type": "Type of intervention"
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Saddichha S",
+      "type": "published_in"
+    },
+    {
+      "source": "Mindfulness",
+      "target": "doi: 10.1007/s12671-016-0548-2",
+      "type": "has_doi"
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Medline: 27642370",
+      "type": "has_medline_id"
+    },
+    {
+      "source": "Health Psychol Behav Med",
+      "target": "Saddichha S",
+      "type": "published_in"
+    },
+    {
+      "source": "Health Psychol Behav Med",
+      "target": "doi: 10.1080/21642850.2014.945934",
+      "type": "has_doi"
+    },
+    {
+      "source": "Health Psychol Behav Med",
+      "target": "Medline: 25750823",
+      "type": "has_medline_id"
+    },
+    {
+      "source": "Alsubaie M",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "Abbott R",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "Dunn B",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "Dickens C",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "Keil TF",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "Henley W",
+      "target": "Clin Psychol Rev",
+      "type": "Author Of"
+    },
+    {
+      "source": "mindfulness-based cognitive therapy (MBCT)",
+      "target": "Clin Psychol Rev",
+      "type": "Discussed In"
+    },
+    {
+      "source": "mindfulness-based stress reduction (MBSR)",
+      "target": "Clin Psychol Rev",
+      "type": "Discussed In"
+    },
+    {
+      "source": "Riva S",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Camerini A",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Allam A",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Schulz PJ",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Parks AC",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Williams AL",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Kackloudis GM",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Stafford JL",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Boucher EM",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "Honomichl RD",
+      "target": "J Med Internet Res",
+      "type": "published_in"
+    },
+    {
+      "source": "jmir .3474",
+      "target": "chronic back pain",
+      "type": "related_to"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e16211",
+      "type": "Publishes"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e30026",
+      "type": "Publishes"
+    },
+    {
+      "source": "RCT",
+      "target": "Randomized Controlled Trial",
+      "type": "Definition"
+    },
+    {
+      "source": "Winter et al",
+      "target": "J Med Internet Res",
+      "type": "Author of"
+    },
+    {
+      "source": "R Kukafka",
+      "target": "XSL\u2022FO",
+      "type": "edited by"
+    },
+    {
+      "source": "H Wahbeh",
+      "target": "XSL\u2022FO",
+      "type": "peer-reviewed by"
+    },
+    {
+      "source": "H Hask elber g",
+      "target": "XSL\u2022FO",
+      "type": "peer-reviewed by"
+    },
+    {
+      "source": "Winter N",
+      "target": "Systematic Review",
+      "type": "author"
+    },
+    {
+      "source": "Russell L",
+      "target": "Systematic Review",
+      "type": "author"
+    },
+    {
+      "source": "Ugalde A",
+      "target": "Systematic Review",
+      "type": "author"
+    },
+    {
+      "source": "White V",
+      "target": "Systematic Review",
+      "type": "author"
+    },
+    {
+      "source": "Livingston P",
+      "target": "Systematic Review",
+      "type": "author"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "J Med Internet Res",
+      "type": "published in"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "https://www.jmir.org/2022/1/e30026",
+      "type": "has URL"
+    },
+    {
+      "source": "Systematic Review",
+      "target": "10.2196/30026",
+      "type": "has DOI"
+    },
+    {
+      "source": "Natalie Winter",
+      "target": "Journal of Medical Internet Research",
+      "type": "Author of"
+    },
+    {
+      "source": "Lahiru Russell",
+      "target": "Journal of Medical Internet Research",
+      "type": "Author of"
+    },
+    {
+      "source": "Anna Ugalde",
+      "target": "Journal of Medical Internet Research",
+      "type": "Author of"
+    },
+    {
+      "source": "Victoria White",
+      "target": "Journal of Medical Internet Research",
+      "type": "Author of"
+    },
+    {
+      "source": "Patricia Livingston",
+      "target": "Journal of Medical Internet Research",
+      "type": "Author of"
+    },
+    {
+      "source": "Journal of Medical Internet Research",
+      "target": "Creative Commons Attribution License",
+      "type": "Published under"
+    },
+    {
+      "source": "10.2196/30026",
+      "target": "Journal of Medical Internet Research",
+      "type": "Identifies"
+    },
+    {
+      "source": "12.01.2022",
+      "target": "Journal of Medical Internet Research",
+      "type": "Published on"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "Winter et al",
+      "type": "Authored By"
+    },
+    {
+      "source": "Journal of Medical Internet Research",
+      "target": "J Med Internet Res",
+      "type": "Is A"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "2022",
+      "type": "Published In"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "vol. 24",
+      "type": "Volume Of"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "iss. 1",
+      "type": "Issue Of"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "e30026",
+      "type": "Article ID Of"
+    },
+    {
+      "source": "J Med Internet Res",
+      "target": "p. 11",
+      "type": "Page Number Of"
+    },
+    {
+      "source": "Journal of Medical Internet Research",
+      "target": "https://www.jmir.org/",
+      "type": "Linked To"
+    }
+  ]
+}

@@ -1,0 +1,8364 @@
+{
+  "entities": [
+    {
+      "name": "Cynthia Moore",
+      "type": "Person"
+    },
+    {
+      "name": "Stephanie Kelly",
+      "type": "Person"
+    },
+    {
+      "name": "Bernadette Mazurek Melnyk",
+      "type": "Person"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Concept"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Occupation"
+    },
+    {
+      "name": "mental health",
+      "type": "Concept"
+    },
+    {
+      "name": "well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "REVIEW ARTICLE",
+      "type": "Publication Type"
+    },
+    {
+      "name": "Worldv Evid-Based Nu.",
+      "type": "Journal"
+    },
+    {
+      "name": "DOI: 10.1111/wvn.12716",
+      "type": "Identifier"
+    },
+    {
+      "name": "PhD",
+      "type": "Degree"
+    },
+    {
+      "name": "APRN-CNP",
+      "type": "Certification"
+    },
+    {
+      "name": "EBP-C",
+      "type": "Certification"
+    },
+    {
+      "name": "FAANP",
+      "type": "Certification"
+    },
+    {
+      "name": "FNAP",
+      "type": "Certification"
+    },
+    {
+      "name": "FAAN",
+      "type": "Certification"
+    },
+    {
+      "name": "Worldviews on Evidence-based Nursing",
+      "type": "Journal"
+    },
+    {
+      "name": "Wiley Periodicals LLC",
+      "type": "Publisher"
+    },
+    {
+      "name": "Sigma Theta Tau International",
+      "type": "Organization"
+    },
+    {
+      "name": "College of Nursing, The Ohio State University",
+      "type": "Institution"
+    },
+    {
+      "name": "Columbus, Ohio, USA",
+      "type": "Location"
+    },
+    {
+      "name": "College of Nursing, University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "College of Nursing, University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "Evidence-Based Practice, College of Nursing, Columbus, Ohio",
+      "type": "Institution"
+    },
+    {
+      "name": "Pediatrics and Psychiatry, College of Medicine, Columbus, Ohio",
+      "type": "Institution"
+    },
+    {
+      "name": "College of Nursing, The Helene Fuld Health Trust National Institute for EBP, Columbus, Ohio",
+      "type": "Institution"
+    },
+    {
+      "name": "Cynthia Moore",
+      "type": "Person"
+    },
+    {
+      "name": "College of Nursing, The Ohio State University",
+      "type": "Institution"
+    },
+    {
+      "name": "Columbus, OH 43210, USA",
+      "type": "Location"
+    },
+    {
+      "name": "cindimoore@hotmail.com",
+      "type": "Email"
+    },
+    {
+      "name": "Cindi Moore",
+      "type": "Email"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "Nursing",
+      "type": "Profession"
+    },
+    {
+      "name": "Burnout",
+      "type": "Condition"
+    },
+    {
+      "name": "Anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "Depression",
+      "type": "Condition"
+    },
+    {
+      "name": "Exhaustion",
+      "type": "Condition"
+    },
+    {
+      "name": "Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "2030",
+      "type": "Year"
+    },
+    {
+      "name": "Half a million nurses",
+      "type": "Quantity"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "mental health promotion mHealth app",
+      "type": "intervention"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "profession"
+    },
+    {
+      "name": "CINAHL Plus",
+      "type": "database"
+    },
+    {
+      "name": "MEDLINE",
+      "type": "database"
+    },
+    {
+      "name": "Professional Development Collection",
+      "type": "database"
+    },
+    {
+      "name": "Psychology and Behavioral Sciences Collection",
+      "type": "database"
+    },
+    {
+      "name": "Sociological Collection",
+      "type": "database"
+    },
+    {
+      "name": "PsycInfo",
+      "type": "database"
+    },
+    {
+      "name": "Embase",
+      "type": "database"
+    },
+    {
+      "name": "PubMed",
+      "type": "database"
+    },
+    {
+      "name": "January 2012",
+      "type": "Date"
+    },
+    {
+      "name": "November 15, 2022",
+      "type": "Date"
+    },
+    {
+      "name": "mHealth intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "smartphone",
+      "type": "Device"
+    },
+    {
+      "name": "hospital nurse participants",
+      "type": "Participants"
+    },
+    {
+      "name": "anxiety",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "burnout",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "coping",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "depression",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "self-efficacy",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "stress",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "well-being",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "work engagement",
+      "type": "Outcome Variable"
+    },
+    {
+      "name": "mindfulness-based",
+      "type": "Intervention Type"
+    },
+    {
+      "name": "157 articles",
+      "type": "Articles Screened"
+    },
+    {
+      "name": "6 articles",
+      "type": "Articles Included"
+    },
+    {
+      "name": "interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "MBIs",
+      "type": "Therapy"
+    },
+    {
+      "name": "cognitive behavioral therapy",
+      "type": "Therapy"
+    },
+    {
+      "name": "CBT",
+      "type": "Therapy"
+    },
+    {
+      "name": "stress inoculation therapy",
+      "type": "Therapy"
+    },
+    {
+      "name": "SIT",
+      "type": "Therapy"
+    },
+    {
+      "name": "psychoeducation",
+      "type": "Concept"
+    },
+    {
+      "name": "stress management",
+      "type": "Concept"
+    },
+    {
+      "name": "Anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "well-being",
+      "type": "Mental Health Concept"
+    },
+    {
+      "name": "burnout",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "mental health of hospital nurses",
+      "type": "Concept"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health symptom"
+    },
+    {
+      "name": "burnout",
+      "type": "mental health symptom"
+    },
+    {
+      "name": "mental health",
+      "type": "field"
+    },
+    {
+      "name": "mHealth app",
+      "type": "technology"
+    },
+    {
+      "name": "mindfulness-based intervention",
+      "type": "intervention"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "review",
+      "type": "document type"
+    },
+    {
+      "name": "smartphone",
+      "type": "device"
+    },
+    {
+      "name": "stress",
+      "type": "mental health symptom"
+    },
+    {
+      "name": "well-being",
+      "type": "mental health concept"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Technology"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "mental health",
+      "type": "Health"
+    },
+    {
+      "name": "well-being",
+      "type": "Health"
+    },
+    {
+      "name": "stress",
+      "type": "Health"
+    },
+    {
+      "name": "exhaustion",
+      "type": "Health"
+    },
+    {
+      "name": "anxiety",
+      "type": "Health"
+    },
+    {
+      "name": "burnout",
+      "type": "Health"
+    },
+    {
+      "name": "thoughts of leaving",
+      "type": "Mental State"
+    },
+    {
+      "name": "American Nurses Association",
+      "type": "Organization"
+    },
+    {
+      "name": "Zhang et al.",
+      "type": "Person"
+    },
+    {
+      "name": "United States",
+      "type": "Location"
+    },
+    {
+      "name": "nursing workforce",
+      "type": "Concept"
+    },
+    {
+      "name": "nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "mental health",
+      "type": "Concept"
+    },
+    {
+      "name": "healthcare",
+      "type": "Concept"
+    },
+    {
+      "name": "communities",
+      "type": "Concept"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "healthcare workforce",
+      "type": "workforce"
+    },
+    {
+      "name": "mental health promotion programs",
+      "type": "program"
+    },
+    {
+      "name": "health",
+      "type": "concept"
+    },
+    {
+      "name": "Melnyk et al.",
+      "type": "author"
+    },
+    {
+      "name": "randomized controlled trials (RCTs)",
+      "type": "study"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "Mistretta et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Spinelli et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Stratton et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Melnyk et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Ross et al.",
+      "type": "author"
+    },
+    {
+      "name": "Lewis et al.",
+      "type": "author"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "mHealth app",
+      "type": "concept"
+    },
+    {
+      "name": "mental health promotion programs",
+      "type": "program"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "mental health mHealth apps",
+      "type": "Product"
+    },
+    {
+      "name": "Grand View Research",
+      "type": "Organization"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "meditation",
+      "type": "Practice"
+    },
+    {
+      "name": "stress",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "stress management",
+      "type": "Concept"
+    },
+    {
+      "name": "2020",
+      "type": "Date"
+    },
+    {
+      "name": "2023",
+      "type": "Date"
+    },
+    {
+      "name": "2030",
+      "type": "Date"
+    },
+    {
+      "name": "GVR",
+      "type": "Organization"
+    },
+    {
+      "name": "2023",
+      "type": "Date"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Olsen",
+      "type": "Person"
+    },
+    {
+      "name": "2021",
+      "type": "Date"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Disorder"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Disorder"
+    },
+    {
+      "name": "Goldberg et al.",
+      "type": "author"
+    },
+    {
+      "name": "Lu et al.",
+      "type": "author"
+    },
+    {
+      "name": "Tsai et al.",
+      "type": "author"
+    },
+    {
+      "name": "mental health promotion mHealth app",
+      "type": "intervention"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "population"
+    },
+    {
+      "name": "mental health outcomes",
+      "type": "outcome"
+    },
+    {
+      "name": "occupational health outcomes",
+      "type": "outcome"
+    },
+    {
+      "name": "Centre for Reviews and Dissemination",
+      "type": "Organization"
+    },
+    {
+      "name": "International Prospective Register of Systematic Reviews",
+      "type": "Organization"
+    },
+    {
+      "name": "PROSPERO",
+      "type": "Project"
+    },
+    {
+      "name": "CRD42023384846",
+      "type": "Identifier"
+    },
+    {
+      "name": "CINAHL Plus with Full Text",
+      "type": "Database"
+    },
+    {
+      "name": "MEDLINE with Full Text",
+      "type": "Database"
+    },
+    {
+      "name": "Professional Development Collection",
+      "type": "Database"
+    },
+    {
+      "name": "Psychology and Behavioral Sciences Collection",
+      "type": "Database"
+    },
+    {
+      "name": "Sociological Collection",
+      "type": "Database"
+    },
+    {
+      "name": "PsycInfo",
+      "type": "Database"
+    },
+    {
+      "name": "Embase",
+      "type": "Database"
+    },
+    {
+      "name": "PubMed",
+      "type": "Database"
+    },
+    {
+      "name": "January 2012",
+      "type": "Date"
+    },
+    {
+      "name": "smartphones",
+      "type": "Technology"
+    },
+    {
+      "name": "MeSH terms",
+      "type": "Search Technique"
+    },
+    {
+      "name": "Boolean operations",
+      "type": "Search Technique"
+    },
+    {
+      "name": "Table 1",
+      "type": "Reference"
+    },
+    {
+      "name": "CM",
+      "type": "author"
+    },
+    {
+      "name": "SK",
+      "type": "author"
+    },
+    {
+      "name": "November 15, 2022",
+      "type": "date"
+    },
+    {
+      "name": "nurse*",
+      "type": "search term"
+    },
+    {
+      "name": "nurses",
+      "type": "search term"
+    },
+    {
+      "name": "nursing",
+      "type": "search term"
+    },
+    {
+      "name": "nursing student*",
+      "type": "search term"
+    },
+    {
+      "name": "nurse, registered",
+      "type": "search term"
+    },
+    {
+      "name": "registered nurse*",
+      "type": "search term"
+    },
+    {
+      "name": "nursing personnel",
+      "type": "search term"
+    },
+    {
+      "name": "new grad",
+      "type": "phrase"
+    },
+    {
+      "name": "newly graduated nurse",
+      "type": "phrase"
+    },
+    {
+      "name": "nursing staff",
+      "type": "phrase"
+    },
+    {
+      "name": "mindfulness",
+      "type": "concept"
+    },
+    {
+      "name": "meditation",
+      "type": "concept"
+    },
+    {
+      "name": "mindfulness meditation",
+      "type": "phrase"
+    },
+    {
+      "name": "CBT",
+      "type": "abbreviation"
+    },
+    {
+      "name": "cognitive behavioral therapy",
+      "type": "phrase"
+    },
+    {
+      "name": "cognitive behavioral",
+      "type": "phrase"
+    },
+    {
+      "name": "stress management",
+      "type": "concept"
+    },
+    {
+      "name": "well being",
+      "type": "phrase"
+    },
+    {
+      "name": "resilience",
+      "type": "concept"
+    },
+    {
+      "name": "coping",
+      "type": "concept"
+    },
+    {
+      "name": "guided imagery",
+      "type": "phrase"
+    },
+    {
+      "name": "mindfulness-based intervention",
+      "type": "phrase"
+    },
+    {
+      "name": "mind\u2013body therapy",
+      "type": "phrase"
+    },
+    {
+      "name": "self-care",
+      "type": "phrase"
+    },
+    {
+      "name": "self help",
+      "type": "phrase"
+    },
+    {
+      "name": "mhealth app",
+      "type": "phrase"
+    },
+    {
+      "name": "ehealth app",
+      "type": "phrase"
+    },
+    {
+      "name": "mobile phone",
+      "type": "phrase"
+    },
+    {
+      "name": "cell",
+      "type": "phrase"
+    },
+    {
+      "name": "m-health",
+      "type": "concept"
+    },
+    {
+      "name": "e-health",
+      "type": "concept"
+    },
+    {
+      "name": "smartphone",
+      "type": "device"
+    },
+    {
+      "name": "mobile phone",
+      "type": "device"
+    },
+    {
+      "name": "application, mobile",
+      "type": "application"
+    },
+    {
+      "name": "digital health",
+      "type": "concept"
+    },
+    {
+      "name": "mobile health",
+      "type": "concept"
+    },
+    {
+      "name": "compassion fatigue",
+      "type": "condition"
+    },
+    {
+      "name": "burnout",
+      "type": "condition"
+    },
+    {
+      "name": "career burnout",
+      "type": "condition"
+    },
+    {
+      "name": "work burnout",
+      "type": "condition"
+    },
+    {
+      "name": "emotional distress",
+      "type": "condition"
+    },
+    {
+      "name": "emotional stress",
+      "type": "condition"
+    },
+    {
+      "name": "job stress",
+      "type": "condition"
+    },
+    {
+      "name": "occupational stress",
+      "type": "condition"
+    },
+    {
+      "name": "mental strain",
+      "type": "condition"
+    },
+    {
+      "name": "mental fatigue",
+      "type": "condition"
+    },
+    {
+      "name": "work stress",
+      "type": "condition"
+    },
+    {
+      "name": "work-related stress",
+      "type": "condition"
+    },
+    {
+      "name": "workplace stress",
+      "type": "condition"
+    },
+    {
+      "name": "Patient",
+      "type": "excluded"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health",
+      "type": "Health Condition"
+    },
+    {
+      "name": "Well-being",
+      "type": "Health Concept"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Publication"
+    },
+    {
+      "name": "Patient",
+      "type": "Entity"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "profession"
+    },
+    {
+      "name": "nurse practitioners",
+      "type": "profession"
+    },
+    {
+      "name": "nursing students",
+      "type": "profession"
+    },
+    {
+      "name": "smartphone",
+      "type": "technology"
+    },
+    {
+      "name": "intervention",
+      "type": "concept"
+    },
+    {
+      "name": "Page et al.",
+      "type": "author"
+    },
+    {
+      "name": "2021",
+      "type": "year"
+    },
+    {
+      "name": "Database",
+      "type": "data_source"
+    },
+    {
+      "name": "Studies",
+      "type": "study"
+    },
+    {
+      "name": "Duplicate records",
+      "type": "study_status"
+    },
+    {
+      "name": "Research",
+      "type": "study_exclusion_reason"
+    },
+    {
+      "name": "Abstract Only",
+      "type": "study_exclusion_reason"
+    },
+    {
+      "name": "Protocol Only",
+      "type": "study_exclusion_reason"
+    },
+    {
+      "name": "Editorial Only",
+      "type": "study_exclusion_reason"
+    },
+    {
+      "name": "Wrong Population",
+      "type": "study_exclusion_reason"
+    },
+    {
+      "name": "Editorial Only",
+      "type": "Category"
+    },
+    {
+      "name": "Wrong Population",
+      "type": "Category"
+    },
+    {
+      "name": "Wrong Intervention",
+      "type": "Category"
+    },
+    {
+      "name": "Wrong Study Design",
+      "type": "Category"
+    },
+    {
+      "name": "No Data Reported",
+      "type": "Category"
+    },
+    {
+      "name": "Sample Size \u2264 30",
+      "type": "Category"
+    },
+    {
+      "name": "JBI critical appraisal checklist tool",
+      "type": "Tool"
+    },
+    {
+      "name": "RCT studies",
+      "type": "Study Type"
+    },
+    {
+      "name": "treatment groups",
+      "type": "group"
+    },
+    {
+      "name": "participants",
+      "type": "individual"
+    },
+    {
+      "name": "outcomes assessors",
+      "type": "role"
+    },
+    {
+      "name": "intervention of interest",
+      "type": "intervention"
+    },
+    {
+      "name": "follow up",
+      "type": "process"
+    },
+    {
+      "name": "Villani",
+      "type": "Author"
+    },
+    {
+      "name": "Hwang",
+      "type": "Author"
+    },
+    {
+      "name": "Imamura",
+      "type": "Author"
+    },
+    {
+      "name": "2013",
+      "type": "Year"
+    },
+    {
+      "name": "Imamura Y N U N N N N Y Y Y Y Y Y",
+      "type": "Person"
+    },
+    {
+      "name": "Sasaki Y N U N N N N Y Y Y Y Y Y",
+      "type": "Person"
+    },
+    {
+      "name": "JBI",
+      "type": "Organization"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health",
+      "type": "Health Concern"
+    },
+    {
+      "name": "Well-being",
+      "type": "Health Concern"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Publication"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "Terms and Conditions",
+      "type": "Legal Document"
+    },
+    {
+      "name": "phone",
+      "type": "object"
+    },
+    {
+      "name": "in-person class delivery",
+      "type": "method"
+    },
+    {
+      "name": "intervention",
+      "type": "process"
+    },
+    {
+      "name": "computer",
+      "type": "object"
+    },
+    {
+      "name": "synchronous participation",
+      "type": "method"
+    },
+    {
+      "name": "group setting",
+      "type": "environment"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "Smartphone",
+      "type": "object"
+    },
+    {
+      "name": "Technology-based intervention",
+      "type": "program"
+    },
+    {
+      "name": "software application",
+      "type": "object"
+    },
+    {
+      "name": "Supplemental coaching",
+      "type": "concept"
+    },
+    {
+      "name": "participant",
+      "type": "role"
+    },
+    {
+      "name": "In-person class",
+      "type": "program"
+    },
+    {
+      "name": "Zotero\u00a9",
+      "type": "software"
+    },
+    {
+      "name": "Covidence",
+      "type": "Software"
+    },
+    {
+      "name": "CM",
+      "type": "Author"
+    },
+    {
+      "name": "SK",
+      "type": "Author"
+    },
+    {
+      "name": "study design",
+      "type": "variable"
+    },
+    {
+      "name": "demographic variables",
+      "type": "variable"
+    },
+    {
+      "name": "intervention description",
+      "type": "variable"
+    },
+    {
+      "name": "dose",
+      "type": "variable"
+    },
+    {
+      "name": "time span",
+      "type": "variable"
+    },
+    {
+      "name": "mhealth app name",
+      "type": "variable"
+    },
+    {
+      "name": "outcome variables",
+      "type": "variable"
+    },
+    {
+      "name": "measures",
+      "type": "variable"
+    },
+    {
+      "name": "Joanna Briggs Institute",
+      "type": "organization"
+    },
+    {
+      "name": "JBI critical appraisal tools",
+      "type": "tool"
+    },
+    {
+      "name": "RCTs",
+      "type": "study type"
+    },
+    {
+      "name": "cohort studies",
+      "type": "study type"
+    },
+    {
+      "name": "Moola et al.",
+      "type": "author"
+    },
+    {
+      "name": "Tufanaru et al.",
+      "type": "author"
+    },
+    {
+      "name": "CM",
+      "type": "author"
+    },
+    {
+      "name": "SK",
+      "type": "author"
+    },
+    {
+      "name": "Data analysis",
+      "type": "Process"
+    },
+    {
+      "name": "statistical analysis",
+      "type": "Method"
+    },
+    {
+      "name": "outcome variables",
+      "type": "Variable"
+    },
+    {
+      "name": "included studies",
+      "type": "Group"
+    },
+    {
+      "name": "alpha",
+      "type": "Statistical Parameter"
+    },
+    {
+      "name": "RESULTS",
+      "type": "Section"
+    },
+    {
+      "name": "Search results",
+      "type": "Section"
+    },
+    {
+      "name": "articles",
+      "type": "Document"
+    },
+    {
+      "name": "195",
+      "type": "Number"
+    },
+    {
+      "name": "38",
+      "type": "Number"
+    },
+    {
+      "name": "duplicates",
+      "type": "Status"
+    },
+    {
+      "name": "Hommelson",
+      "type": "author"
+    },
+    {
+      "name": "Jakel et al.",
+      "type": "author"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "author"
+    },
+    {
+      "name": "Gliner et al.",
+      "type": "author"
+    },
+    {
+      "name": "2017",
+      "type": "year"
+    },
+    {
+      "name": "2022",
+      "type": "year"
+    },
+    {
+      "name": "2016",
+      "type": "year"
+    },
+    {
+      "name": "2012",
+      "type": "year"
+    },
+    {
+      "name": "30 articles",
+      "type": "count"
+    },
+    {
+      "name": "9 studies",
+      "type": "count"
+    },
+    {
+      "name": "6",
+      "type": "count"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "Study"
+    },
+    {
+      "name": "Hwang & Jo",
+      "type": "Study"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "Study"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "Study"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "Study"
+    },
+    {
+      "name": "Foley & Lanzillotta-Rangeley",
+      "type": "Study"
+    },
+    {
+      "name": "JBI critical appraisal checklist tool",
+      "type": "Tool"
+    },
+    {
+      "name": "RCT studies",
+      "type": "Study Type"
+    },
+    {
+      "name": "randomization",
+      "type": "Method"
+    },
+    {
+      "name": "participants",
+      "type": "Population"
+    },
+    {
+      "name": "treatment groups",
+      "type": "Group"
+    },
+    {
+      "name": "treatment assignment",
+      "type": "Process"
+    },
+    {
+      "name": "outcomes assessors",
+      "type": "Role"
+    },
+    {
+      "name": "intervention",
+      "type": "Event"
+    },
+    {
+      "name": "intervention of interest",
+      "type": "concept"
+    },
+    {
+      "name": "follow up",
+      "type": "process"
+    },
+    {
+      "name": "participants",
+      "type": "group"
+    },
+    {
+      "name": "treatment groups",
+      "type": "group"
+    },
+    {
+      "name": "outcomes",
+      "type": "measure"
+    },
+    {
+      "name": "statistical analysis",
+      "type": "process"
+    },
+    {
+      "name": "trial design",
+      "type": "process"
+    },
+    {
+      "name": "standard",
+      "type": "concept"
+    },
+    {
+      "name": "Villani",
+      "type": "Person"
+    },
+    {
+      "name": "Hwang",
+      "type": "Person"
+    },
+    {
+      "name": "Imamura",
+      "type": "Person"
+    },
+    {
+      "name": "Sasaki",
+      "type": "Person"
+    },
+    {
+      "name": "JBI",
+      "type": "Organization"
+    },
+    {
+      "name": "RCT design",
+      "type": "Concept"
+    },
+    {
+      "name": "standard RCT design",
+      "type": "Concept"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Website"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Application"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Well-being",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Terms and Conditions",
+      "type": "Document"
+    },
+    {
+      "name": "2024",
+      "type": "Date"
+    },
+    {
+      "name": "06/05/2025",
+      "type": "Date"
+    },
+    {
+      "name": "Foley & Lanzillotta",
+      "type": "study"
+    },
+    {
+      "name": "Rangeley",
+      "type": "location"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "study"
+    },
+    {
+      "name": "Hwang & Jo",
+      "type": "study"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "study"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "study"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "study"
+    },
+    {
+      "name": "2021",
+      "type": "year"
+    },
+    {
+      "name": "2019",
+      "type": "year"
+    },
+    {
+      "name": "2013",
+      "type": "year"
+    },
+    {
+      "name": "RCTs",
+      "type": "study type"
+    },
+    {
+      "name": "hospital clinical nurses",
+      "type": "participant group"
+    },
+    {
+      "name": "30 to 949",
+      "type": "sample size range"
+    },
+    {
+      "name": "female",
+      "type": "gender"
+    },
+    {
+      "name": "associate degree or diploma",
+      "type": "education level"
+    },
+    {
+      "name": "bachelor's degree",
+      "type": "education level"
+    },
+    {
+      "name": "graduate degree",
+      "type": "education level"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "author"
+    },
+    {
+      "name": "Hwang & Jo",
+      "type": "authors"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "NPs",
+      "type": "profession"
+    },
+    {
+      "name": "well-being",
+      "type": "concept"
+    },
+    {
+      "name": "burnout",
+      "type": "concept"
+    },
+    {
+      "name": "stress",
+      "type": "concept"
+    },
+    {
+      "name": "self-efficacy",
+      "type": "concept"
+    },
+    {
+      "name": "30 days",
+      "type": "time period"
+    },
+    {
+      "name": "60 days",
+      "type": "time period"
+    },
+    {
+      "name": "90 days",
+      "type": "time period"
+    },
+    {
+      "name": "4 weeks",
+      "type": "time period"
+    },
+    {
+      "name": "study",
+      "type": "research"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "author"
+    },
+    {
+      "name": "Hwang & Jo",
+      "type": "author"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "author"
+    },
+    {
+      "name": "Depression Anxiety Stress Scale-21",
+      "type": "measurement"
+    },
+    {
+      "name": "CBT modules",
+      "type": "intervention"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "well-being",
+      "type": "condition"
+    },
+    {
+      "name": "burn-out",
+      "type": "condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Foley and Lanzillotta-Rangeley",
+      "type": "Author"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "Author"
+    },
+    {
+      "name": "CBT modules",
+      "type": "Intervention"
+    },
+    {
+      "name": "work engagement",
+      "type": "Outcome"
+    },
+    {
+      "name": "depression",
+      "type": "Outcome"
+    },
+    {
+      "name": "anxiety",
+      "type": "Outcome"
+    },
+    {
+      "name": "stress",
+      "type": "Outcome"
+    },
+    {
+      "name": "coping",
+      "type": "Outcome"
+    },
+    {
+      "name": "4 weeks",
+      "type": "Time Period"
+    },
+    {
+      "name": "7 months",
+      "type": "Time Period"
+    },
+    {
+      "name": "Lanzillotta",
+      "type": "Author"
+    },
+    {
+      "name": "Rangeley",
+      "type": "Author"
+    },
+    {
+      "name": "Knill",
+      "type": "Author"
+    },
+    {
+      "name": "Fleming",
+      "type": "Author"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Concept"
+    },
+    {
+      "name": "nurse group",
+      "type": "Group"
+    },
+    {
+      "name": "NP group",
+      "type": "Group"
+    },
+    {
+      "name": "completion rate",
+      "type": "Metric"
+    },
+    {
+      "name": "attrition",
+      "type": "Metric"
+    },
+    {
+      "name": "user engagement",
+      "type": "Concept"
+    },
+    {
+      "name": "program usage",
+      "type": "Concept"
+    },
+    {
+      "name": "Foley and Lanzillotta-Rangeley",
+      "type": "Person"
+    },
+    {
+      "name": "JBI critical appraisal checklist tool",
+      "type": "Tool"
+    },
+    {
+      "name": "mHealth app usage metrics",
+      "type": "Metric"
+    },
+    {
+      "name": "cohort studies",
+      "type": "Study Type"
+    },
+    {
+      "name": "confounding factors",
+      "type": "concept"
+    },
+    {
+      "name": "strategies",
+      "type": "concept"
+    },
+    {
+      "name": "groups/participants",
+      "type": "concept"
+    },
+    {
+      "name": "outcome",
+      "type": "concept"
+    },
+    {
+      "name": "study",
+      "type": "concept"
+    },
+    {
+      "name": "outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "follow up time",
+      "type": "concept"
+    },
+    {
+      "name": "loss to follow up",
+      "type": "concept"
+    },
+    {
+      "name": "Foley",
+      "type": "Person"
+    },
+    {
+      "name": "Knill",
+      "type": "Person"
+    },
+    {
+      "name": "JBI",
+      "type": "Organization"
+    },
+    {
+      "name": "Joanna Briggs Institute",
+      "type": "Organization"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Technology"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "mental health",
+      "type": "Health"
+    },
+    {
+      "name": "well-being",
+      "type": "Health"
+    },
+    {
+      "name": "nurse anesthesia students",
+      "type": "Profession"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Website"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "Researcher"
+    },
+    {
+      "name": "oncology nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "NPs",
+      "type": "Profession"
+    },
+    {
+      "name": "meditation",
+      "type": "Activity"
+    },
+    {
+      "name": "app",
+      "type": "Technology"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Hwang and Jo",
+      "type": "Author"
+    },
+    {
+      "name": "program A",
+      "type": "Program"
+    },
+    {
+      "name": "program B",
+      "type": "Program"
+    },
+    {
+      "name": "control group",
+      "type": "Group"
+    },
+    {
+      "name": "sleep hygiene",
+      "type": "Intervention"
+    },
+    {
+      "name": "module completion rate",
+      "type": "Metric"
+    },
+    {
+      "name": "survey completion rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Headspace\u2122",
+      "type": "intervention"
+    },
+    {
+      "name": "Andy Puddicombe",
+      "type": "person"
+    },
+    {
+      "name": "Foley & Lanzillotta-Rangeley",
+      "type": "study"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "study"
+    },
+    {
+      "name": "Buddhist monk",
+      "type": "role"
+    },
+    {
+      "name": "2012",
+      "type": "date"
+    },
+    {
+      "name": "2100 businesses",
+      "type": "organization"
+    },
+    {
+      "name": "employees",
+      "type": "group"
+    },
+    {
+      "name": "Headspace",
+      "type": "Application"
+    },
+    {
+      "name": "Curry",
+      "type": "Author"
+    },
+    {
+      "name": "Economides et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Flett et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Howells et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Wang et al.",
+      "type": "Author"
+    },
+    {
+      "name": "10 day program",
+      "type": "Program"
+    },
+    {
+      "name": "Jo",
+      "type": "Person"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "Person"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "Person"
+    },
+    {
+      "name": "Villani et al.",
+      "type": "Person"
+    },
+    {
+      "name": "undefined proprietary stress-management app",
+      "type": "Application"
+    },
+    {
+      "name": "ABC SM",
+      "type": "Application"
+    },
+    {
+      "name": "meditation",
+      "type": "Module"
+    },
+    {
+      "name": "breathing",
+      "type": "Module"
+    },
+    {
+      "name": "yoga",
+      "type": "Module"
+    },
+    {
+      "name": "healing music",
+      "type": "Module"
+    },
+    {
+      "name": "physical fitness",
+      "type": "Module"
+    },
+    {
+      "name": "diet education",
+      "type": "Module"
+    },
+    {
+      "name": "behavioral activation",
+      "type": "Module"
+    },
+    {
+      "name": "problem solving",
+      "type": "Module"
+    },
+    {
+      "name": "CBT techniques",
+      "type": "Module"
+    },
+    {
+      "name": "coping",
+      "type": "Module"
+    },
+    {
+      "name": "assertiveness",
+      "type": "Module"
+    },
+    {
+      "name": "job crafting",
+      "type": "Module"
+    },
+    {
+      "name": "self-compassion",
+      "type": "Module"
+    },
+    {
+      "name": "stress inoculation therapy",
+      "type": "therapy"
+    },
+    {
+      "name": "muscle relaxation exercises",
+      "type": "exercise"
+    },
+    {
+      "name": "autogenic training",
+      "type": "training"
+    },
+    {
+      "name": "calming video scenes",
+      "type": "media"
+    },
+    {
+      "name": "mHealth app interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "occupational health outcomes",
+      "type": "outcome"
+    },
+    {
+      "name": "work engagement",
+      "type": "outcome metric"
+    },
+    {
+      "name": "perceived stress",
+      "type": "outcome metric"
+    },
+    {
+      "name": "job",
+      "type": "work aspect"
+    },
+    {
+      "name": "stress",
+      "type": "concept"
+    },
+    {
+      "name": "emotional labor",
+      "type": "concept"
+    },
+    {
+      "name": "burnout",
+      "type": "concept"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health outcome"
+    },
+    {
+      "name": "depression",
+      "type": "mental health outcome"
+    },
+    {
+      "name": "self-efficacy",
+      "type": "mental health outcome"
+    },
+    {
+      "name": "well-being",
+      "type": "mental health outcome"
+    },
+    {
+      "name": "coping",
+      "type": "mental health outcome"
+    },
+    {
+      "name": "Imamura et al. (2021)",
+      "type": "study"
+    },
+    {
+      "name": "Sasaki et al. (2021)",
+      "type": "study"
+    },
+    {
+      "name": "depression",
+      "type": "mental health condition"
+    },
+    {
+      "name": "work engagement",
+      "type": "workplace outcome"
+    },
+    {
+      "name": "mHealth interventions",
+      "type": "health intervention"
+    },
+    {
+      "name": "hospital inpatient nurse population",
+      "type": "population group"
+    },
+    {
+      "name": "stress",
+      "type": "mental health condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health condition"
+    },
+    {
+      "name": "well-being",
+      "type": "mental health state"
+    },
+    {
+      "name": "burnout",
+      "type": "mental health condition"
+    },
+    {
+      "name": "MBIs",
+      "type": "intervention"
+    },
+    {
+      "name": "MBIs",
+      "type": "intervention"
+    },
+    {
+      "name": "nursing population",
+      "type": "population"
+    },
+    {
+      "name": "Green & Kinchen",
+      "type": "author"
+    },
+    {
+      "name": "Stratton et al.",
+      "type": "author"
+    },
+    {
+      "name": "meta-analysis",
+      "type": "study"
+    },
+    {
+      "name": "tablet",
+      "type": "device"
+    },
+    {
+      "name": "computer",
+      "type": "device"
+    },
+    {
+      "name": "smartphone",
+      "type": "device"
+    },
+    {
+      "name": "overall well-being",
+      "type": "outcome"
+    },
+    {
+      "name": "depression",
+      "type": "mental health condition"
+    },
+    {
+      "name": "stress",
+      "type": "mental health condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health condition"
+    },
+    {
+      "name": "CBT SM app",
+      "type": "intervention"
+    },
+    {
+      "name": "6 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "baseline depression",
+      "type": "measure"
+    },
+    {
+      "name": "\u226410 (mild)",
+      "type": "psychological condition"
+    },
+    {
+      "name": "Depression Anxiety Stress Scale",
+      "type": "Assessment Tool"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "Firth et al.",
+      "type": "Author"
+    },
+    {
+      "name": "CBT-based mHealth",
+      "type": "Intervention"
+    },
+    {
+      "name": "systematic reviews",
+      "type": "Research Method"
+    },
+    {
+      "name": "Hrynyschyn",
+      "type": "Person"
+    },
+    {
+      "name": "Dockweiler",
+      "type": "Person"
+    },
+    {
+      "name": "Lu",
+      "type": "Person"
+    },
+    {
+      "name": "SIT",
+      "type": "Intervention"
+    },
+    {
+      "name": "nurses",
+      "type": "Occupation"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "stress",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "2021",
+      "type": "Year"
+    },
+    {
+      "name": "2022",
+      "type": "Year"
+    },
+    {
+      "name": "SIT",
+      "type": "Intervention"
+    },
+    {
+      "name": "Khatoni et al.",
+      "type": "Study"
+    },
+    {
+      "name": "Suryanto & Alfian",
+      "type": "Study"
+    },
+    {
+      "name": "PTSD",
+      "type": "Condition"
+    },
+    {
+      "name": "Lee et al.",
+      "type": "Study"
+    },
+    {
+      "name": "SM mHealth app",
+      "type": "Application"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Sasaki 2021",
+      "type": "Author"
+    },
+    {
+      "name": "Lecomte et al.",
+      "type": "Author"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "mental health",
+      "type": "Field"
+    },
+    {
+      "name": "anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "RCTs",
+      "type": "Study Type"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Website"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Well-Being",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Terms and Conditions",
+      "type": "Document"
+    },
+    {
+      "name": "DOI: 10.1111/wvn.12716",
+      "type": "Publication Identifier"
+    },
+    {
+      "name": "Study characteristics",
+      "type": "Research Aspect"
+    },
+    {
+      "name": "Villani",
+      "type": "Author"
+    },
+    {
+      "name": "2013",
+      "type": "Year"
+    },
+    {
+      "name": "Karasek's Job Strain Model",
+      "type": "Study Conceptual Model"
+    },
+    {
+      "name": "RCT",
+      "type": "Study Design"
+    },
+    {
+      "name": "Medical oncology wards in Milan, Italy",
+      "type": "Study Setting"
+    },
+    {
+      "name": "Oncology nurses",
+      "type": "Population Description"
+    },
+    {
+      "name": "F\u201430; M\u20140",
+      "type": "Sample Size"
+    },
+    {
+      "name": "Mobile SIT 2",
+      "type": "mHealth App Description"
+    },
+    {
+      "name": "15-minute videos twice weekly for 4 weeks",
+      "type": "mHealth Intervention Instructions"
+    },
+    {
+      "name": "Foley",
+      "type": "Author"
+    },
+    {
+      "name": "2021",
+      "type": "Year"
+    },
+    {
+      "name": "Lazarus Theory of Stress, Coping, and Adaptation",
+      "type": "Study Conceptual Model"
+    },
+    {
+      "name": "Pre-experimental (one-group design)",
+      "type": "Study Design"
+    },
+    {
+      "name": "University DNP",
+      "type": "Study Setting"
+    },
+    {
+      "name": "University DNP anesthesia program",
+      "type": "program"
+    },
+    {
+      "name": "DNP Anesthesia students",
+      "type": "students"
+    },
+    {
+      "name": "Mindfulness-based Intervention",
+      "type": "intervention"
+    },
+    {
+      "name": "Hwang",
+      "type": "author"
+    },
+    {
+      "name": "2019",
+      "type": "year"
+    },
+    {
+      "name": "College hospitals in metropolitan Seoul, Korea",
+      "type": "location"
+    },
+    {
+      "name": "Hospital nurses",
+      "type": "profession"
+    },
+    {
+      "name": "Proprietary stress management app",
+      "type": "technology"
+    },
+    {
+      "name": "Knill",
+      "type": "author"
+    },
+    {
+      "name": "2021",
+      "type": "year"
+    },
+    {
+      "name": "Evidence-based practice quality improvement",
+      "type": "practice"
+    },
+    {
+      "name": "Inpatient BMT units",
+      "type": "Location"
+    },
+    {
+      "name": "Midwest hospital",
+      "type": "Location"
+    },
+    {
+      "name": "BMT nurses",
+      "type": "Role"
+    },
+    {
+      "name": "nurse practitioners",
+      "type": "Role"
+    },
+    {
+      "name": "Mindfulness-based Intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "Imamura 2021",
+      "type": "Study"
+    },
+    {
+      "name": "Cognitive behavioral therapy",
+      "type": "Intervention"
+    },
+    {
+      "name": "RCT",
+      "type": "Study Design"
+    },
+    {
+      "name": "Large general hospital in Hanoi, Vietnam",
+      "type": "Location"
+    },
+    {
+      "name": "Hospital nurses",
+      "type": "Role"
+    },
+    {
+      "name": "Proprietary cognitive behavioral therapy stress management programs",
+      "type": "Program"
+    },
+    {
+      "name": "Program A",
+      "type": "Program"
+    },
+    {
+      "name": "Program B",
+      "type": "Program"
+    },
+    {
+      "name": "Sasaki 2021",
+      "type": "study"
+    },
+    {
+      "name": "Hanoi, Vietnam",
+      "type": "location"
+    },
+    {
+      "name": "Hospital nurses",
+      "type": "occupation"
+    },
+    {
+      "name": "Program A",
+      "type": "intervention"
+    },
+    {
+      "name": "Program B",
+      "type": "intervention"
+    },
+    {
+      "name": "cognitive behavioral therapy",
+      "type": "therapy"
+    },
+    {
+      "name": "work engagement",
+      "type": "concept"
+    },
+    {
+      "name": "RCT",
+      "type": "study type"
+    },
+    {
+      "name": "Large general hospital",
+      "type": "institution"
+    },
+    {
+      "name": "BMT",
+      "type": "abbreviation"
+    },
+    {
+      "name": "bone marrow transplant",
+      "type": "medical procedure"
+    },
+    {
+      "name": "DNP",
+      "type": "abbreviation"
+    },
+    {
+      "name": "Doctor of Nursing Practice",
+      "type": "academic degree"
+    },
+    {
+      "name": "F",
+      "type": "gender"
+    },
+    {
+      "name": "female",
+      "type": "gender"
+    },
+    {
+      "name": "M",
+      "type": "gender"
+    },
+    {
+      "name": "male",
+      "type": "gender"
+    },
+    {
+      "name": "SIT",
+      "type": "abbreviation"
+    },
+    {
+      "name": "stress inoculation therapy",
+      "type": "therapy"
+    },
+    {
+      "name": "RCT",
+      "type": "abbreviation"
+    },
+    {
+      "name": "randomized controlled trial",
+      "type": "research design"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "technology"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "profession"
+    },
+    {
+      "name": "mental health",
+      "type": "concept"
+    },
+    {
+      "name": "well-being",
+      "type": "concept"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "organization"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "license"
+    },
+    {
+      "name": "https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/wvn.12716",
+      "type": "url"
+    },
+    {
+      "name": "https://onlinelibrary.wiley.com/terms-and-conditions",
+      "type": "url"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "college students",
+      "type": "demographic"
+    },
+    {
+      "name": "people with chronic conditions",
+      "type": "demographic"
+    },
+    {
+      "name": "Lecomte et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Knill et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Fleming et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Imamura et al.",
+      "type": "Author"
+    },
+    {
+      "name": "Sasaki et al.",
+      "type": "Author"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Szinay et al.",
+      "type": "Author"
+    },
+    {
+      "name": "reminder emails and texts",
+      "type": "Communication Method"
+    },
+    {
+      "name": "participants",
+      "type": "Population"
+    },
+    {
+      "name": "app use",
+      "type": "Behavior"
+    },
+    {
+      "name": "stress",
+      "type": "Emotion"
+    },
+    {
+      "name": "anxiety",
+      "type": "Emotion"
+    },
+    {
+      "name": "RCT designs",
+      "type": "Study Design"
+    },
+    {
+      "name": "studies",
+      "type": "study"
+    },
+    {
+      "name": "post-intervention measures",
+      "type": "measure"
+    },
+    {
+      "name": "participants",
+      "type": "participant"
+    },
+    {
+      "name": "baseline measures",
+      "type": "measure"
+    },
+    {
+      "name": "interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "app usage rates",
+      "type": "metric"
+    },
+    {
+      "name": "module completion rates",
+      "type": "metric"
+    },
+    {
+      "name": "response bias",
+      "type": "concept"
+    },
+    {
+      "name": "Study duration",
+      "type": "concept"
+    },
+    {
+      "name": "12 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "included studies",
+      "type": "group"
+    },
+    {
+      "name": "sustainability",
+      "type": "concept"
+    },
+    {
+      "name": "positive effects",
+      "type": "concept"
+    },
+    {
+      "name": "mHealth app usage",
+      "type": "technology"
+    },
+    {
+      "name": "review",
+      "type": "document"
+    },
+    {
+      "name": "different measures",
+      "type": "concept"
+    },
+    {
+      "name": "outcomes",
+      "type": "concept"
+    },
+    {
+      "name": "pooled analysis",
+      "type": "method"
+    },
+    {
+      "name": "data",
+      "type": "concept"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Technology"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "physicians",
+      "type": "Profession"
+    },
+    {
+      "name": "pharmacists",
+      "type": "Profession"
+    },
+    {
+      "name": "healthcare professionals",
+      "type": "Profession"
+    },
+    {
+      "name": "stressors",
+      "type": "Concept"
+    },
+    {
+      "name": "demands",
+      "type": "Concept"
+    },
+    {
+      "name": "mHealth app",
+      "type": "application"
+    },
+    {
+      "name": "mental health",
+      "type": "field"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "occupation"
+    },
+    {
+      "name": "RCTs",
+      "type": "study type"
+    },
+    {
+      "name": "sample sizes",
+      "type": "parameter"
+    },
+    {
+      "name": "mHealth app",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health symptoms",
+      "type": "condition"
+    },
+    {
+      "name": "Longitudinal follow-up",
+      "type": "method"
+    },
+    {
+      "name": "Foley",
+      "type": "author"
+    },
+    {
+      "name": "DASS-21",
+      "type": "measurement tool"
+    },
+    {
+      "name": "Depression, Anxiety, Stress scales",
+      "type": "scale"
+    },
+    {
+      "name": "Anxiety",
+      "type": "symptom"
+    },
+    {
+      "name": "Depression",
+      "type": "symptom"
+    },
+    {
+      "name": "stress",
+      "type": "symptom"
+    },
+    {
+      "name": "10 days",
+      "type": "time frame"
+    },
+    {
+      "name": "NA",
+      "type": "follow-up result"
+    },
+    {
+      "name": "Villani",
+      "type": "Author"
+    },
+    {
+      "name": "Hwang",
+      "type": "Author"
+    },
+    {
+      "name": "Active coping",
+      "type": "Coping Strategy"
+    },
+    {
+      "name": "Denial",
+      "type": "Coping Strategy"
+    },
+    {
+      "name": "Job latitude",
+      "type": "Work Factor"
+    },
+    {
+      "name": "Psychological Job demand",
+      "type": "Work Factor"
+    },
+    {
+      "name": "Social support at work",
+      "type": "Work Factor"
+    },
+    {
+      "name": "Perceived stress",
+      "type": "Psychological Condition"
+    },
+    {
+      "name": "Anxiety, State",
+      "type": "Psychological Condition"
+    },
+    {
+      "name": "Anxiety, Trait",
+      "type": "Psychological Condition"
+    },
+    {
+      "name": "COPE\u2014Brief Coping Orientation to Problems Experienced",
+      "type": "Assessment Tool"
+    },
+    {
+      "name": "JCQ- Job Content Questionnaire",
+      "type": "Assessment Tool"
+    },
+    {
+      "name": "MSP\u2014Mesure du Stress Psychologique",
+      "type": "Assessment Tool"
+    },
+    {
+      "name": "STAI\u2014State Trait Anxiety Index",
+      "type": "Assessment Tool"
+    },
+    {
+      "name": "Depression",
+      "type": "Psychological Condition"
+    },
+    {
+      "name": "Well-being",
+      "type": "Psychological Condition"
+    },
+    {
+      "name": "Job stress",
+      "type": "Work Factor"
+    },
+    {
+      "name": "Emotional labor",
+      "type": "Work Factor"
+    },
+    {
+      "name": "Well- being",
+      "type": "Concept"
+    },
+    {
+      "name": "Job stress",
+      "type": "Concept"
+    },
+    {
+      "name": "Emotional labor",
+      "type": "Concept"
+    },
+    {
+      "name": "Self- efficacy",
+      "type": "Concept"
+    },
+    {
+      "name": "GAD- 7",
+      "type": "Scale"
+    },
+    {
+      "name": "PHQ- 9",
+      "type": "Scale"
+    },
+    {
+      "name": "PSS",
+      "type": "Scale"
+    },
+    {
+      "name": "WHO-5",
+      "type": "Scale"
+    },
+    {
+      "name": "Korean Occupational Stress Scale (KOSS)",
+      "type": "Scale"
+    },
+    {
+      "name": "Korean- Emotional Labor scale",
+      "type": "Scale"
+    },
+    {
+      "name": "Self-Efficacy Likert scale",
+      "type": "Scale"
+    },
+    {
+      "name": "Imamura 2021",
+      "type": "Study"
+    },
+    {
+      "name": "Anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "DASS- 21",
+      "type": "Scale"
+    },
+    {
+      "name": "Knill 2021",
+      "type": "Study"
+    },
+    {
+      "name": "Burnout",
+      "type": "Condition"
+    },
+    {
+      "name": "Burnout",
+      "type": "concept"
+    },
+    {
+      "name": "WBI",
+      "type": "abbreviation"
+    },
+    {
+      "name": "Well-being Index",
+      "type": "concept"
+    },
+    {
+      "name": "Sasaki",
+      "type": "author"
+    },
+    {
+      "name": "2021",
+      "type": "year"
+    },
+    {
+      "name": "UWES",
+      "type": "abbreviation"
+    },
+    {
+      "name": "Utrecht Work Engagement Scale",
+      "type": "concept"
+    },
+    {
+      "name": "90",
+      "type": "scale"
+    },
+    {
+      "name": "9q",
+      "type": "scale"
+    },
+    {
+      "name": "12 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "28 weeks",
+      "type": "duration"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Technology"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Well-Being",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Publication"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "Terms and Conditions",
+      "type": "Legal Document"
+    },
+    {
+      "name": "URL",
+      "type": "Link"
+    },
+    {
+      "name": "mHealth mental health interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health",
+      "type": "concept"
+    },
+    {
+      "name": "well-being",
+      "type": "concept"
+    },
+    {
+      "name": "RCTs",
+      "type": "study design"
+    },
+    {
+      "name": "mHealth interventions",
+      "type": "concept"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "hospital and healthcare settings",
+      "type": "location"
+    },
+    {
+      "name": "Cynthia Moore",
+      "type": "person"
+    },
+    {
+      "name": "Bernadette Melnyk",
+      "type": "person"
+    },
+    {
+      "name": "ORCID",
+      "type": "identifier"
+    },
+    {
+      "name": "American Nurses Association",
+      "type": "Organization"
+    },
+    {
+      "name": "COVID-19 survey series: Workplace impact survey",
+      "type": "Report"
+    },
+    {
+      "name": "ANA",
+      "type": "Organization"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "Health safety",
+      "type": "Concept"
+    },
+    {
+      "name": "Centre for Reviews and Dissemination",
+      "type": "Organization"
+    },
+    {
+      "name": "Systematic reviews",
+      "type": "Publication"
+    },
+    {
+      "name": "University of York NHS Centre for Reviews & Dissemination",
+      "type": "Organization"
+    },
+    {
+      "name": "Curry, D.",
+      "type": "Person"
+    },
+    {
+      "name": "Headspace",
+      "type": "Organization"
+    },
+    {
+      "name": "Business of Apps",
+      "type": "Organization"
+    },
+    {
+      "name": "Headspace revenue and usage statistics",
+      "type": "Publication"
+    },
+    {
+      "name": "2023",
+      "type": "Date"
+    },
+    {
+      "name": "2008",
+      "type": "Date"
+    },
+    {
+      "name": "2009th ed.",
+      "type": "Edition"
+    },
+    {
+      "name": "Economides, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Martman, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Bell, M. J.",
+      "type": "Author"
+    },
+    {
+      "name": "Sanderson, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal"
+    },
+    {
+      "name": "2018",
+      "type": "Year"
+    },
+    {
+      "name": "Firth, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Torous, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Nicholas, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Carney, R.",
+      "type": "Author"
+    },
+    {
+      "name": "Pratap, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Rosenbaum, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Sarris, J.",
+      "type": "Author"
+    },
+    {
+      "name": "World Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "Fleming, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Bavin, L.",
+      "type": "Author"
+    },
+    {
+      "name": "Lucassen, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Stasiak, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Hopkins, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Merry, S.",
+      "type": "Author"
+    },
+    {
+      "name": "2017",
+      "type": "Year"
+    },
+    {
+      "name": "2018",
+      "type": "Year"
+    },
+    {
+      "name": "meta-analysis",
+      "type": "Research Type"
+    },
+    {
+      "name": "randomized controlled trials",
+      "type": "Research Type"
+    },
+    {
+      "name": "systematic review",
+      "type": "Research Type"
+    },
+    {
+      "name": "digital self-help interventions",
+      "type": "Intervention Type"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "Journal of Medical Internet Research",
+      "type": "Journal"
+    },
+    {
+      "name": "Flett, J. M.",
+      "type": "Author"
+    },
+    {
+      "name": "Hayne, H.",
+      "type": "Author"
+    },
+    {
+      "name": "Riordan, B. C.",
+      "type": "Author"
+    },
+    {
+      "name": "Thompson, L. M.",
+      "type": "Author"
+    },
+    {
+      "name": "Conner, T. S.",
+      "type": "Author"
+    },
+    {
+      "name": "Mobile mindfulness meditation",
+      "type": "Study"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal"
+    },
+    {
+      "name": "randomised controlled trial",
+      "type": "Study Type"
+    },
+    {
+      "name": "two popular apps",
+      "type": "Method"
+    },
+    {
+      "name": "mental health",
+      "type": "Field"
+    },
+    {
+      "name": "Foley, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Lanzillotta- Rangeley, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Stress reduction through mindfulness meditation in student registered nurse anesthetists",
+      "type": "Article"
+    },
+    {
+      "name": "AANA Journal",
+      "type": "Journal"
+    },
+    {
+      "name": "Gliner, J. A.",
+      "type": "Author"
+    },
+    {
+      "name": "Morgan, G. A.",
+      "type": "Author"
+    },
+    {
+      "name": "Leech, N. L.",
+      "type": "Author"
+    },
+    {
+      "name": "Research methods in applied settings",
+      "type": "Book"
+    },
+    {
+      "name": "Routledge",
+      "type": "Publisher"
+    },
+    {
+      "name": "Goldberg, S. B.",
+      "type": "Author"
+    },
+    {
+      "name": "Lam, S. U.",
+      "type": "Author"
+    },
+    {
+      "name": "Simonsson, O.",
+      "type": "Author"
+    },
+    {
+      "name": "Torous, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Sun, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Mobile phone- based interventions for mental health",
+      "type": "Article"
+    },
+    {
+      "name": "systematic meta- review of 14 meta- analyses of randomized controlled trials",
+      "type": "Study"
+    },
+    {
+      "name": "PLOS Digital Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Grand View Research",
+      "type": "Organization"
+    },
+    {
+      "name": "Mental health apps market size, share & trends analysis report",
+      "type": "Report"
+    },
+    {
+      "name": "Android",
+      "type": "Platform"
+    },
+    {
+      "name": "iOS",
+      "type": "Platform"
+    },
+    {
+      "name": "depression and anxiety management",
+      "type": "Application Type"
+    },
+    {
+      "name": "stress management",
+      "type": "Application Type"
+    },
+    {
+      "name": "2023\u20132030",
+      "type": "Time Period"
+    },
+    {
+      "name": "Green, A. A.",
+      "type": "Author"
+    },
+    {
+      "name": "Kinchen, E. V.",
+      "type": "Author"
+    },
+    {
+      "name": "Hassen, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Journal of Holistic Nursing",
+      "type": "Journal"
+    },
+    {
+      "name": "mindfulness meditation",
+      "type": "Topic"
+    },
+    {
+      "name": "stress",
+      "type": "Concept"
+    },
+    {
+      "name": "burnout",
+      "type": "Concept"
+    },
+    {
+      "name": "nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mobile-aided diagnosis systems",
+      "type": "Technology"
+    },
+    {
+      "name": "Eastern Mediterranean Health Journal",
+      "type": "Journal"
+    },
+    {
+      "name": "Headspace",
+      "type": "Website"
+    },
+    {
+      "name": "Hommelson, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness meditation to decrease stress in pediatric nurses",
+      "type": "Dissertation"
+    },
+    {
+      "name": "University of Missouri-Kansas City",
+      "type": "Institution"
+    },
+    {
+      "name": "MoSpace",
+      "type": "Repository"
+    },
+    {
+      "name": "Howells, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Ivtzan, I.",
+      "type": "Author"
+    },
+    {
+      "name": "Eiroa-Orosa, F.",
+      "type": "Author"
+    },
+    {
+      "name": "Journal of Happiness Studies",
+      "type": "Journal"
+    },
+    {
+      "name": "Hrynyschyn, R.",
+      "type": "Author"
+    },
+    {
+      "name": "Dockweiler, C.",
+      "type": "Author"
+    },
+    {
+      "name": "JMIR mHealth and uHealth",
+      "type": "journal"
+    },
+    {
+      "name": "Hwang, W.",
+      "type": "author"
+    },
+    {
+      "name": "Jo, H.",
+      "type": "author"
+    },
+    {
+      "name": "International Journal of Environmental Research and Public Health",
+      "type": "journal"
+    },
+    {
+      "name": "mobile app-based stress-management program",
+      "type": "program"
+    },
+    {
+      "name": "randomized controlled trial",
+      "type": "study type"
+    },
+    {
+      "name": "Imamura, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Tran, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, H.",
+      "type": "Author"
+    },
+    {
+      "name": "Sasaki, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Kuribayashi, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Sakuraya, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Bui, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, Q.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, G.",
+      "type": "Author"
+    },
+    {
+      "name": "Tran, X.",
+      "type": "Author"
+    },
+    {
+      "name": "Truong, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Zhang, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Minas, H.",
+      "type": "Author"
+    },
+    {
+      "name": "Sekiya, Y.",
+      "type": "Author"
+    },
+    {
+      "name": "Watanabe, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Tsutsumi, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Kawakami, N.",
+      "type": "Author"
+    },
+    {
+      "name": "smartphone-based stress management programs",
+      "type": "Intervention"
+    },
+    {
+      "name": "depression",
+      "type": "Condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "Condition"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Population"
+    },
+    {
+      "name": "Vietnam",
+      "type": "Location"
+    },
+    {
+      "name": "randomized controlled trial",
+      "type": "Study Design"
+    },
+    {
+      "name": "2021",
+      "type": "Year"
+    },
+    {
+      "name": "Jakel, P.",
+      "type": "Author"
+    },
+    {
+      "name": "Kenney, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Ludan, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Miller, P.",
+      "type": "Author"
+    },
+    {
+      "name": "McNair, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Matesic, E.",
+      "type": "Author"
+    },
+    {
+      "name": "Scientific Reports",
+      "type": "Journal"
+    },
+    {
+      "name": "Clinical Journal of Oncology Nursing",
+      "type": "Journal"
+    },
+    {
+      "name": "provider resilience mobile application",
+      "type": "Application"
+    },
+    {
+      "name": "Khatoni, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Teymouri, F.",
+      "type": "Author"
+    },
+    {
+      "name": "Pishgooie, S. A.",
+      "type": "Author"
+    },
+    {
+      "name": "Khodabakhsh, M. R.",
+      "type": "Author"
+    },
+    {
+      "name": "Knill, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Warren, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Melnyk, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Thrane, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Military Caring Sciences",
+      "type": "Journal"
+    },
+    {
+      "name": "Stress Inoculation Training",
+      "type": "Intervention"
+    },
+    {
+      "name": "Nurses' job stress",
+      "type": "Concept"
+    },
+    {
+      "name": "Military hospitals",
+      "type": "Location"
+    },
+    {
+      "name": "Burnout and well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "Bone marrow transplantation",
+      "type": "Concept"
+    },
+    {
+      "name": "2020",
+      "type": "Publication Year"
+    },
+    {
+      "name": "2021",
+      "type": "Publication Year"
+    },
+    {
+      "name": "Clinical Journal of Oncology Nursing",
+      "type": "Journal"
+    },
+    {
+      "name": "Lecomte, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Potvin, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Corbi\u00e8re, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Guay, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Samson, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Cloutier, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Francoeur, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Pennou, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Khazaal, Y.",
+      "type": "Author"
+    },
+    {
+      "name": "JMIR mHealth and uHealth",
+      "type": "Journal"
+    },
+    {
+      "name": "mindfulness application",
+      "type": "Application"
+    },
+    {
+      "name": "mobile apps for mental health issues",
+      "type": "Research Topic"
+    },
+    {
+      "name": "Lee, D. J.",
+      "type": "Author"
+    },
+    {
+      "name": "Schnitzlein, C. W.",
+      "type": "Author"
+    },
+    {
+      "name": "Wolf, J. P.",
+      "type": "Author"
+    },
+    {
+      "name": "Vythilingam, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Rasmusson, A. M.",
+      "type": "Author"
+    },
+    {
+      "name": "Hoge, C. W.",
+      "type": "Author"
+    },
+    {
+      "name": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Title"
+    },
+    {
+      "name": "Depression and Anxiety",
+      "type": "Journal"
+    },
+    {
+      "name": "2016",
+      "type": "Publication Year"
+    },
+    {
+      "name": "33(9), 792\u2013806",
+      "type": "Volume and Issue"
+    },
+    {
+      "name": "10.1002/da.22511",
+      "type": "DOI"
+    },
+    {
+      "name": "Lewis, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Boissaud-Cooke, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Aungst, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Eysenbach, G.",
+      "type": "Author"
+    },
+    {
+      "name": "mHealth Apps",
+      "type": "Concept"
+    },
+    {
+      "name": "Hospital Nurses",
+      "type": "Profession"
+    },
+    {
+      "name": "Mental Health and Well-Being",
+      "type": "Topic"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Publisher"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "Terms and Conditions",
+      "type": "Document"
+    },
+    {
+      "name": "https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/wvn.12716",
+      "type": "URL"
+    },
+    {
+      "name": "https://onlinelibrary.wiley.com/terms-and-conditions",
+      "type": "URL"
+    },
+    {
+      "name": "2014",
+      "type": "Date"
+    },
+    {
+      "name": "Journal of Medical Internet Research",
+      "type": "Journal"
+    },
+    {
+      "name": "Lu, S.-C.",
+      "type": "Author"
+    },
+    {
+      "name": "Xu, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Wang, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Hardi, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Cheng, A. L.",
+      "type": "Author"
+    },
+    {
+      "name": "Chang, S.-H.",
+      "type": "Author"
+    },
+    {
+      "name": "Yen, P.-Y.",
+      "type": "Author"
+    },
+    {
+      "name": "JMIR Mental Health",
+      "type": "Journal"
+    },
+    {
+      "name": "app",
+      "type": "Term"
+    },
+    {
+      "name": "application",
+      "type": "Term"
+    },
+    {
+      "name": "mobile health interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "anxiety and depression",
+      "type": "Condition"
+    },
+    {
+      "name": "Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Melnyk, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Tan, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Hsieh, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Gawlik, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Arslanian-Engoren, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Braun, L. T.",
+      "type": "Author"
+    },
+    {
+      "name": "Dunbar, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Dunbar-Jacob, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Lewis, L. M.",
+      "type": "Author"
+    },
+    {
+      "name": "Millan, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Orsolini, L.",
+      "type": "Author"
+    },
+    {
+      "name": "Robbins, L. B.",
+      "type": "Author"
+    },
+    {
+      "name": "Russell, C. L.",
+      "type": "Author"
+    },
+    {
+      "name": "Tucker, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Wilbur, J.",
+      "type": "Author"
+    },
+    {
+      "name": "American Journal of Critical Care",
+      "type": "Journal"
+    },
+    {
+      "name": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Article"
+    },
+    {
+      "name": "Mistretta, E. G.",
+      "type": "Author"
+    },
+    {
+      "name": "Davis, M. C.",
+      "type": "Author"
+    },
+    {
+      "name": "Temkit, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Lorenz, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Darby, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Stonnington, C. M.",
+      "type": "Author"
+    },
+    {
+      "name": "Journal of Occupational & Environmental Medicine",
+      "type": "Journal"
+    },
+    {
+      "name": "Resilience training for work-related stress among health care workers",
+      "type": "Publication"
+    },
+    {
+      "name": "Moola, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Munn, Z.",
+      "type": "Author"
+    },
+    {
+      "name": "Tufanaru, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Aromataris, E.",
+      "type": "Author"
+    },
+    {
+      "name": "Sears, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Sfetcu,",
+      "type": "Author"
+    },
+    {
+      "name": "R. Currie",
+      "type": "Author"
+    },
+    {
+      "name": "M. Qureshi",
+      "type": "Author"
+    },
+    {
+      "name": "R. Mattis",
+      "type": "Author"
+    },
+    {
+      "name": "K. Lisy",
+      "type": "Author"
+    },
+    {
+      "name": "P. Mu",
+      "type": "Author"
+    },
+    {
+      "name": "E. Aromataris",
+      "type": "Editor"
+    },
+    {
+      "name": "Z. Munn",
+      "type": "Editor"
+    },
+    {
+      "name": "JBI Manual for Evidence Synthesis",
+      "type": "Publication"
+    },
+    {
+      "name": "E. Olsen",
+      "type": "Author"
+    },
+    {
+      "name": "IQVIA",
+      "type": "Organization"
+    },
+    {
+      "name": "Mobi",
+      "type": "Publication"
+    },
+    {
+      "name": "2020",
+      "type": "Date"
+    },
+    {
+      "name": "2021-08-04",
+      "type": "Date"
+    },
+    {
+      "name": "Health News",
+      "type": "Organization"
+    },
+    {
+      "name": "iqvia",
+      "type": "Organization"
+    },
+    {
+      "name": "Page, M. J.",
+      "type": "Person"
+    },
+    {
+      "name": "Moher, D.",
+      "type": "Person"
+    },
+    {
+      "name": "Bossuyt, P. M.",
+      "type": "Person"
+    },
+    {
+      "name": "Boutron, I.",
+      "type": "Person"
+    },
+    {
+      "name": "Hoffmann, T. C.",
+      "type": "Person"
+    },
+    {
+      "name": "Mulrow, C. D.",
+      "type": "Person"
+    },
+    {
+      "name": "Shamseer, L.",
+      "type": "Person"
+    },
+    {
+      "name": "Tetzlaff, J. M.",
+      "type": "Person"
+    },
+    {
+      "name": "Akl, E. A.",
+      "type": "Person"
+    },
+    {
+      "name": "Brennan, S. E.",
+      "type": "Person"
+    },
+    {
+      "name": "Chou, R.",
+      "type": "Person"
+    },
+    {
+      "name": "Glanville, J.",
+      "type": "Person"
+    },
+    {
+      "name": "Grimshaw, J. M.",
+      "type": "Person"
+    },
+    {
+      "name": "Hr\u00f3bjartsson, A.",
+      "type": "Person"
+    },
+    {
+      "name": "Lalu, M.",
+      "type": "Person"
+    },
+    {
+      "name": "M. Li",
+      "type": "Author"
+    },
+    {
+      "name": "T. Loder",
+      "type": "Author"
+    },
+    {
+      "name": "E. W. Mayo-Wilson",
+      "type": "Author"
+    },
+    {
+      "name": "S. McDonald",
+      "type": "Author"
+    },
+    {
+      "name": "J. E. McKenzie",
+      "type": "Author"
+    },
+    {
+      "name": "Prisma 2020 explanation and elaboration",
+      "type": "Publication"
+    },
+    {
+      "name": "BMJ",
+      "type": "Journal"
+    },
+    {
+      "name": "Ross, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Touchton-Leonard, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Perez, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Wehrlen, L.",
+      "type": "Author"
+    },
+    {
+      "name": "Kazmi, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Gibbons, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Publication"
+    },
+    {
+      "name": "Advances in Nursing Science",
+      "type": "Journal"
+    },
+    {
+      "name": "Sasaki, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Imamura, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Tran, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, H.",
+      "type": "Author"
+    },
+    {
+      "name": "Kuribayashi, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Sakuraya, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Bui, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, Q.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Nguyen, G.",
+      "type": "Author"
+    },
+    {
+      "name": "Zhang, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Minas, H.",
+      "type": "Author"
+    },
+    {
+      "name": "Sekiya, Y.",
+      "type": "Author"
+    },
+    {
+      "name": "Watanabe, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Tsutsumi, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Shimazu, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Kawakami, N.",
+      "type": "Author"
+    },
+    {
+      "name": "Vietnam",
+      "type": "Location"
+    },
+    {
+      "name": "Journal of",
+      "type": "Publication"
+    },
+    {
+      "name": "smartphone-based stress management",
+      "type": "Intervention"
+    },
+    {
+      "name": "work engagement",
+      "type": "Concept"
+    },
+    {
+      "name": "Medical Internet Research",
+      "type": "Journal"
+    },
+    {
+      "name": "Spinelli, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Wisener, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Khoury, B.",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Article"
+    },
+    {
+      "name": "Journal of Psychosomatic Research",
+      "type": "Journal"
+    },
+    {
+      "name": "Stratton, E.",
+      "type": "Author"
+    },
+    {
+      "name": "Lampit, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Choi, I.",
+      "type": "Author"
+    },
+    {
+      "name": "Calvo, R. A.",
+      "type": "Author"
+    },
+    {
+      "name": "Harvey, S. B.",
+      "type": "Author"
+    },
+    {
+      "name": "Glozier, N.",
+      "type": "Author"
+    },
+    {
+      "name": "ehealth interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health conditions",
+      "type": "health condition"
+    },
+    {
+      "name": "employees",
+      "type": "population"
+    },
+    {
+      "name": "PLoS ONE",
+      "type": "journal"
+    },
+    {
+      "name": "2017",
+      "type": "year"
+    },
+    {
+      "name": "Suryanto, A. P.",
+      "type": "author"
+    },
+    {
+      "name": "Alfian, I. N.",
+      "type": "author"
+    },
+    {
+      "name": "2020",
+      "type": "year"
+    },
+    {
+      "name": "stress inoculation training",
+      "type": "intervention"
+    },
+    {
+      "name": "stress",
+      "type": "health condition"
+    },
+    {
+      "name": "intensive care nurses",
+      "type": "population"
+    },
+    {
+      "name": "R. Ardi",
+      "type": "editor"
+    },
+    {
+      "name": "P. Chobthamkit",
+      "type": "editor"
+    },
+    {
+      "name": "3rd International",
+      "type": "event"
+    },
+    {
+      "name": "Conference on Psychology in Health, Educational, Social, and Organizational Settings",
+      "type": "Event"
+    },
+    {
+      "name": "ICP- HESOS 2018",
+      "type": "Event"
+    },
+    {
+      "name": "Improving Mental Health and Harmony in Global Community",
+      "type": "Publication"
+    },
+    {
+      "name": "Science and Technology Publications",
+      "type": "Publisher"
+    },
+    {
+      "name": "Szinay, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Jones, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Chadborn, T.",
+      "type": "Author"
+    },
+    {
+      "name": "Brown, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Naughton, F.",
+      "type": "Author"
+    },
+    {
+      "name": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Publication"
+    },
+    {
+      "name": "Journal of Medical",
+      "type": "Journal"
+    },
+    {
+      "name": "Internet Research",
+      "type": "Journal"
+    },
+    {
+      "name": "Tsai, Z.",
+      "type": "Author"
+    },
+    {
+      "name": "Kiss, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Nadeem, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Sidhom, K.",
+      "type": "Author"
+    },
+    {
+      "name": "Owais, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Faltyn, M.",
+      "type": "Author"
+    },
+    {
+      "name": "Lieshout, R.",
+      "type": "Author"
+    },
+    {
+      "name": "Journal of Affective Disorders",
+      "type": "Journal"
+    },
+    {
+      "name": "2022",
+      "type": "Publication Year"
+    },
+    {
+      "name": "DOI: 10.2196/17572",
+      "type": "DOI"
+    },
+    {
+      "name": "DOI: 10.1016/j.jad.2021.09.106",
+      "type": "DOI"
+    },
+    {
+      "name": "Tufanaru, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Munn, Z.",
+      "type": "Author"
+    },
+    {
+      "name": "Aromataris, E.",
+      "type": "Author"
+    },
+    {
+      "name": "Campbell, J.",
+      "type": "Author"
+    },
+    {
+      "name": "Hopp, L.",
+      "type": "Author"
+    },
+    {
+      "name": "American Journal of Medical Quality",
+      "type": "Journal"
+    },
+    {
+      "name": "Villani, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Grassi, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Cognetta, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Cipresso, P.",
+      "type": "Author"
+    },
+    {
+      "name": "Toniolo, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Riva, G.",
+      "type": "Author"
+    },
+    {
+      "name": "mobile stress management protocol",
+      "type": "Intervention"
+    },
+    {
+      "name": "cancer patients",
+      "type": "Patient Population"
+    },
+    {
+      "name": "Study",
+      "type": "Publication"
+    },
+    {
+      "name": "Health Technology and Informatics",
+      "type": "Journal"
+    },
+    {
+      "name": "Villani, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Grassi, A.",
+      "type": "Author"
+    },
+    {
+      "name": "Cognetta, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Toniolo, D.",
+      "type": "Author"
+    },
+    {
+      "name": "Cipresso, P.",
+      "type": "Author"
+    },
+    {
+      "name": "Riva, G.",
+      "type": "Author"
+    },
+    {
+      "name": "Psychological Services",
+      "type": "Journal"
+    },
+    {
+      "name": "Wang, X.",
+      "type": "Author"
+    },
+    {
+      "name": "Markert, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Sasangohar, F.",
+      "type": "Author"
+    },
+    {
+      "name": "mental health mobile application",
+      "type": "Application"
+    },
+    {
+      "name": "COVID-19 Pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
+      "type": "Publication"
+    },
+    {
+      "name": "Zhang, X.",
+      "type": "Person"
+    },
+    {
+      "name": "Tai, D.",
+      "type": "Person"
+    },
+    {
+      "name": "Pforsich, H.",
+      "type": "Person"
+    },
+    {
+      "name": "Lin, V. W.",
+      "type": "Person"
+    },
+    {
+      "name": "United States Registered Nurse Workforce Report Card and Shortage Forecast",
+      "type": "Report"
+    },
+    {
+      "name": "American Journal of Medical Quality",
+      "type": "Publication"
+    },
+    {
+      "name": "Moore, C.",
+      "type": "Author"
+    },
+    {
+      "name": "Kelly, S.",
+      "type": "Author"
+    },
+    {
+      "name": "Melnyk, B. M.",
+      "type": "Author"
+    },
+    {
+      "name": "mHealth apps",
+      "type": "Topic"
+    },
+    {
+      "name": "hospital nurses",
+      "type": "Subject"
+    },
+    {
+      "name": "mental health and well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "systematic review",
+      "type": "Publication Type"
+    },
+    {
+      "name": "Worldviews on Evidence-Based Nursing",
+      "type": "Journal"
+    },
+    {
+      "name": "2024",
+      "type": "Year"
+    },
+    {
+      "name": "21",
+      "type": "Volume"
+    },
+    {
+      "name": "110\u2013119",
+      "type": "Page Range"
+    },
+    {
+      "name": "10.1111/wvn.12716",
+      "type": "DOI"
+    },
+    {
+      "name": "Wiley Online Library",
+      "type": "Website"
+    },
+    {
+      "name": "Creative Commons License",
+      "type": "License"
+    },
+    {
+      "name": "10.1111/wvn.12716",
+      "type": "DOI"
+    },
+    {
+      "name": "17416787",
+      "type": "Article ID"
+    },
+    {
+      "name": "2024",
+      "type": "Publication Year"
+    },
+    {
+      "name": "OA articles",
+      "type": "Article Type"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Cynthia Moore",
+      "target": "mHealth apps",
+      "type": "Contributes To"
+    },
+    {
+      "source": "Stephanie Kelly",
+      "target": "mHealth apps",
+      "type": "Contributes To"
+    },
+    {
+      "source": "Bernadette Mazurek Melnyk",
+      "target": "mHealth apps",
+      "type": "Contributes To"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "hospital nurses",
+      "type": "Aims To Improve"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mental health",
+      "type": "Concerns"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "well-being",
+      "type": "Concerns"
+    },
+    {
+      "source": "Worldv Evid-Based Nu.",
+      "target": "REVIEW ARTICLE",
+      "type": "Presents"
+    },
+    {
+      "source": "Worldviews on Evidence-based Nursing",
+      "target": "Wiley Periodicals LLC",
+      "type": "published by"
+    },
+    {
+      "source": "Wiley Periodicals LLC",
+      "target": "Sigma Theta Tau International",
+      "type": "on behalf of"
+    },
+    {
+      "source": "The Authors",
+      "target": "Worldviews on Evidence-based Nursing",
+      "type": "published in"
+    },
+    {
+      "source": "College of Nursing, The Ohio State University",
+      "target": "Columbus, Ohio, USA",
+      "type": "located in"
+    },
+    {
+      "source": "College of Nursing, University of Arizona",
+      "target": "Location",
+      "type": "not specified"
+    },
+    {
+      "source": "Cynthia Moore",
+      "target": "College of Nursing, The Ohio State University",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "College of Nursing, University of Arizona",
+      "target": "Gilbert, Arizona, USA",
+      "type": "located_in"
+    },
+    {
+      "source": "Evidence-Based Practice, College of Nursing, Columbus, Ohio",
+      "target": "Columbus, Ohio, USA",
+      "type": "located_in"
+    },
+    {
+      "source": "Pediatrics and Psychiatry, College of Medicine, Columbus, Ohio",
+      "target": "Columbus, Ohio, USA",
+      "type": "located_in"
+    },
+    {
+      "source": "College of Nursing, The Helene Fuld Health Trust National Institute for EBP, Columbus, Ohio",
+      "target": "Columbus, Ohio, USA",
+      "type": "located_in"
+    },
+    {
+      "source": "Cindi Moore",
+      "target": "Email",
+      "type": "has"
+    },
+    {
+      "source": "Nursing",
+      "target": "COVID-19",
+      "type": "impacted by"
+    },
+    {
+      "source": "Nurses",
+      "target": "Burnout",
+      "type": "experience"
+    },
+    {
+      "source": "Nurses",
+      "target": "Anxiety",
+      "type": "experience"
+    },
+    {
+      "source": "Nurses",
+      "target": "Depression",
+      "type": "experience"
+    },
+    {
+      "source": "Nurses",
+      "target": "Exhaustion",
+      "type": "experience"
+    },
+    {
+      "source": "Nurses",
+      "target": "Half a million nurses",
+      "type": "shortage by"
+    },
+    {
+      "source": "Half a million nurses",
+      "target": "2030",
+      "type": "projected by"
+    },
+    {
+      "source": "mental health promotion mHealth app",
+      "target": "hospital nurses",
+      "type": "aims to improve"
+    },
+    {
+      "source": "CINAHL Plus",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "MEDLINE",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "Professional Development Collection",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "Psychology and Behavioral Sciences Collection",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "Sociological Collection",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "PsycInfo",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "Embase",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "PubMed",
+      "target": "systematic search",
+      "type": "used in"
+    },
+    {
+      "source": "mHealth intervention",
+      "target": "hospital nurse participants",
+      "type": "delivered through"
+    },
+    {
+      "source": "mHealth intervention",
+      "target": "smartphone",
+      "type": "delivered through"
+    },
+    {
+      "source": "6 articles",
+      "target": "157 articles",
+      "type": "included from"
+    },
+    {
+      "source": "anxiety",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "burnout",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "coping",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "depression",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "self-efficacy",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "stress",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "well-being",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "work engagement",
+      "target": "Primary outcome variables",
+      "type": "category of"
+    },
+    {
+      "source": "mindfulness-based",
+      "target": "Intervention types",
+      "type": "type of"
+    },
+    {
+      "source": "MBIs",
+      "target": "Anxiety",
+      "type": "improves"
+    },
+    {
+      "source": "MBIs",
+      "target": "depression",
+      "type": "improves"
+    },
+    {
+      "source": "CBT",
+      "target": "depression",
+      "type": "improves"
+    },
+    {
+      "source": "SIT",
+      "target": "anxiety",
+      "type": "improves"
+    },
+    {
+      "source": "SIT",
+      "target": "active coping",
+      "type": "improves"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "mental health of hospital nurses",
+      "type": "improves"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "hospital nurses",
+      "type": "improves"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "well-being",
+      "type": "affects"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "stress",
+      "type": "experiences"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "exhaustion",
+      "type": "experiences"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "anxiety",
+      "type": "experiences"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "burnout",
+      "type": "experiences"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "thoughts of leaving",
+      "type": "experiences"
+    },
+    {
+      "source": "American Nurses Association",
+      "target": "nursing workforce",
+      "type": "impacts"
+    },
+    {
+      "source": "Zhang et al.",
+      "target": "nursing workforce",
+      "type": "estimates shortfall"
+    },
+    {
+      "source": "nursing workforce",
+      "target": "nurses",
+      "type": "includes"
+    },
+    {
+      "source": "nurses",
+      "target": "mental health",
+      "type": "supports"
+    },
+    {
+      "source": "nursing workforce",
+      "target": "healthcare",
+      "type": "affects delivery of"
+    },
+    {
+      "source": "healthcare",
+      "target": "communities",
+      "type": "serves"
+    },
+    {
+      "source": "nurses",
+      "target": "healthcare workforce",
+      "type": "contributes to"
+    },
+    {
+      "source": "nurses",
+      "target": "mental health promotion programs",
+      "type": "participates in"
+    },
+    {
+      "source": "mental health promotion programs",
+      "target": "health",
+      "type": "improves"
+    },
+    {
+      "source": "randomized controlled trials (RCTs)",
+      "target": "healthcare workers",
+      "type": "demonstrates effect on"
+    },
+    {
+      "source": "Mistretta et al.",
+      "target": "Interventions",
+      "type": "Discussed"
+    },
+    {
+      "source": "Spinelli et al.",
+      "target": "Interventions",
+      "type": "Discussed"
+    },
+    {
+      "source": "Stratton et al.",
+      "target": "Interventions",
+      "type": "Discussed"
+    },
+    {
+      "source": "Melnyk et al.",
+      "target": "Web-based activity",
+      "type": "Discussed"
+    },
+    {
+      "source": "mHealth app",
+      "target": "mental health promotion programs",
+      "type": "delivers"
+    },
+    {
+      "source": "World Health Organization",
+      "target": "mHealth app",
+      "type": "defines"
+    },
+    {
+      "source": "Ross et al.",
+      "target": "personal obligations",
+      "type": "mentions"
+    },
+    {
+      "source": "Ross et al.",
+      "target": "work schedules",
+      "type": "mentions"
+    },
+    {
+      "source": "Ross et al.",
+      "target": "lengthy work commute",
+      "type": "mentions"
+    },
+    {
+      "source": "Lewis et al.",
+      "target": "smartphone",
+      "type": "utilizes"
+    },
+    {
+      "source": "COVID-19",
+      "target": "mental health mHealth apps",
+      "type": "causes growth"
+    },
+    {
+      "source": "Grand View Research",
+      "target": "mental health mHealth apps",
+      "type": "provides forecast"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "depression",
+      "type": "includes"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "anxiety",
+      "type": "includes"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "meditation",
+      "type": "includes"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "stress",
+      "type": "includes"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "stress management",
+      "type": "includes"
+    },
+    {
+      "source": "mental health mHealth apps",
+      "target": "2030",
+      "type": "projected growth until"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "positive outcomes",
+      "type": "produces"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "health needs of the users",
+      "type": "meets"
+    },
+    {
+      "source": "Olsen",
+      "target": "2021",
+      "type": "published"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "depression",
+      "type": "ineffective on"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "anxiety",
+      "type": "ineffective on"
+    },
+    {
+      "source": "mental health promotion mHealth app",
+      "target": "hospital nurses",
+      "type": "targets"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mental health outcomes",
+      "type": "measures"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "occupational health outcomes",
+      "type": "measures"
+    },
+    {
+      "source": "Centre for Reviews and Dissemination",
+      "target": "health care",
+      "type": "provides guidance for"
+    },
+    {
+      "source": "PROSPERO",
+      "target": "CRD42023384846",
+      "type": "is registered under"
+    },
+    {
+      "source": "CM",
+      "target": "search",
+      "type": "performed"
+    },
+    {
+      "source": "CM",
+      "target": "titles and abstracts",
+      "type": "reviewed"
+    },
+    {
+      "source": "SK",
+      "target": "titles and abstracts",
+      "type": "reviewed"
+    },
+    {
+      "source": "November 15, 2022",
+      "target": "search",
+      "type": "performed on"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "Hospital Nurses",
+      "type": "aims to improve"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Mental Health",
+      "type": "affects"
+    },
+    {
+      "source": "Mental Health",
+      "target": "Well-being",
+      "type": "is related to"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "governed by"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "intervention",
+      "type": "involved in"
+    },
+    {
+      "source": "nurse practitioners",
+      "target": "intervention",
+      "type": "involved in"
+    },
+    {
+      "source": "nursing students",
+      "target": "intervention",
+      "type": "involved in"
+    },
+    {
+      "source": "intervention",
+      "target": "smartphone",
+      "type": "delivered by"
+    },
+    {
+      "source": "Database",
+      "target": "Studies",
+      "type": "identifies"
+    },
+    {
+      "source": "Studies",
+      "target": "Duplicate records",
+      "type": "removed"
+    },
+    {
+      "source": "Studies",
+      "target": "Studies screened",
+      "type": "screened"
+    },
+    {
+      "source": "Studies screened",
+      "target": "Studies excluded",
+      "type": "excludes"
+    },
+    {
+      "source": "Studies screened",
+      "target": "Studies sought for retrieval",
+      "type": "sought_for_retrieval"
+    },
+    {
+      "source": "Studies sought for retrieval",
+      "target": "Studies assessed for eligibility",
+      "type": "assessed"
+    },
+    {
+      "source": "Studies assessed for eligibility",
+      "target": "Studies excluded",
+      "type": "excludes"
+    },
+    {
+      "source": "JBI critical appraisal checklist tool",
+      "target": "RCT studies",
+      "type": "evaluates"
+    },
+    {
+      "source": "Editorial Only",
+      "target": "n = 2",
+      "type": "count"
+    },
+    {
+      "source": "Wrong Population",
+      "target": "n = 7",
+      "type": "count"
+    },
+    {
+      "source": "Wrong Intervention",
+      "target": "n = 4",
+      "type": "count"
+    },
+    {
+      "source": "Wrong Study Design",
+      "target": "n = 2",
+      "type": "count"
+    },
+    {
+      "source": "No Data Reported",
+      "target": "n = 1",
+      "type": "count"
+    },
+    {
+      "source": "Sample Size \u2264 30",
+      "target": "n = 2",
+      "type": "count"
+    },
+    {
+      "source": "Studies included in review",
+      "target": "n = 6",
+      "type": "count"
+    },
+    {
+      "source": "treatment groups",
+      "target": "participants",
+      "type": "assignment"
+    },
+    {
+      "source": "participants",
+      "target": "outcomes assessors",
+      "type": "blind"
+    },
+    {
+      "source": "treatment groups",
+      "target": "intervention of interest",
+      "type": "comparison"
+    },
+    {
+      "source": "follow up",
+      "target": "treatment groups",
+      "type": "evaluation"
+    },
+    {
+      "source": "Villani",
+      "target": "2013",
+      "type": "Published"
+    },
+    {
+      "source": "Hwang",
+      "target": "2013",
+      "type": "Published"
+    },
+    {
+      "source": "Imamura",
+      "target": "2013",
+      "type": "Published"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Hospital Nurses",
+      "type": "Improves"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Mental Health",
+      "type": "Concern"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Well-being",
+      "type": "Concern"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Terms and Conditions",
+      "type": "Contains"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "Governed By"
+    },
+    {
+      "source": "Supplemental coaching",
+      "target": "participant",
+      "type": "provides"
+    },
+    {
+      "source": "In-person class",
+      "target": "group setting",
+      "type": "requires attendance at"
+    },
+    {
+      "source": "relevant articles",
+      "target": "Zotero\u00a9",
+      "type": "exported into"
+    },
+    {
+      "source": "CM",
+      "target": "eligible articles",
+      "type": "applies criteria"
+    },
+    {
+      "source": "SK",
+      "target": "eligible articles",
+      "type": "applies criteria"
+    },
+    {
+      "source": "CM",
+      "target": "disagreements",
+      "type": "discusses"
+    },
+    {
+      "source": "SK",
+      "target": "disagreements",
+      "type": "discusses"
+    },
+    {
+      "source": "Joanna Briggs Institute",
+      "target": "JBI critical appraisal tools",
+      "type": "provides"
+    },
+    {
+      "source": "Moola et al.",
+      "target": "RCTs",
+      "type": "references"
+    },
+    {
+      "source": "Tufanaru et al.",
+      "target": "cohort studies",
+      "type": "references"
+    },
+    {
+      "source": "CM",
+      "target": "quality assessment",
+      "type": "conducted by"
+    },
+    {
+      "source": "SK",
+      "target": "quality assessment",
+      "type": "conducted by"
+    },
+    {
+      "source": "CM",
+      "target": "disagreements",
+      "type": "discussed with"
+    },
+    {
+      "source": "SK",
+      "target": "disagreements",
+      "type": "discussed with"
+    },
+    {
+      "source": "initial search",
+      "target": "articles",
+      "type": "resulted in"
+    },
+    {
+      "source": "included studies",
+      "target": "outcome variables",
+      "type": "measured using"
+    },
+    {
+      "source": "alpha",
+      "target": "0.05",
+      "type": "significance level"
+    },
+    {
+      "source": "articles",
+      "target": "duplicates",
+      "type": "contains"
+    },
+    {
+      "source": "Hommelson",
+      "target": "2022",
+      "type": "published"
+    },
+    {
+      "source": "Jakel et al.",
+      "target": "2016",
+      "type": "published"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "2012",
+      "type": "published"
+    },
+    {
+      "source": "Gliner et al.",
+      "target": "2017",
+      "type": "published"
+    },
+    {
+      "source": "9 studies",
+      "target": "6",
+      "type": "remaining after exclusion"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "Foley & Lanzillotta-Rangeley",
+      "target": "criteria",
+      "type": "met"
+    },
+    {
+      "source": "randomization",
+      "target": "participants",
+      "type": "assigns to"
+    },
+    {
+      "source": "participants",
+      "target": "treatment groups",
+      "type": "divided into"
+    },
+    {
+      "source": "treatment groups",
+      "target": "treatment assignment",
+      "type": "undergoes"
+    },
+    {
+      "source": "outcomes assessors",
+      "target": "treatment assignment",
+      "type": "blind to"
+    },
+    {
+      "source": "treatment groups",
+      "target": "intervention",
+      "type": "distinct from"
+    },
+    {
+      "source": "intervention of interest",
+      "target": "follow up",
+      "type": "affects"
+    },
+    {
+      "source": "participants",
+      "target": "treatment groups",
+      "type": "belong to"
+    },
+    {
+      "source": "outcomes",
+      "target": "treatment groups",
+      "type": "measured in"
+    },
+    {
+      "source": "statistical analysis",
+      "target": "trial design",
+      "type": "applies to"
+    },
+    {
+      "source": "trial design",
+      "target": "standard",
+      "type": "compared to"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Hospital Nurses",
+      "type": "Improves"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Mental Health",
+      "type": "Affects"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Well-being",
+      "type": "Affects"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Terms and Conditions",
+      "type": "Contains"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "Governed By"
+    },
+    {
+      "source": "Foley & Lanzillotta",
+      "target": "Rangeley",
+      "type": "location_of"
+    },
+    {
+      "source": "Foley & Lanzillotta",
+      "target": "2021",
+      "type": "published_in"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "2019",
+      "type": "published_in"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "2021",
+      "type": "published_in"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "2021",
+      "type": "published_in"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "2021",
+      "type": "published_in"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "2013",
+      "type": "published_in"
+    },
+    {
+      "source": "hospital clinical nurses",
+      "target": "female",
+      "type": "gender percentage"
+    },
+    {
+      "source": "hospital clinical nurses",
+      "target": "30 to 949",
+      "type": "sample size range"
+    },
+    {
+      "source": "hospital clinical nurses",
+      "target": "associate degree or diploma",
+      "type": "education level percentage"
+    },
+    {
+      "source": "hospital clinical nurses",
+      "target": "bachelor's degree",
+      "type": "education level percentage"
+    },
+    {
+      "source": "hospital clinical nurses",
+      "target": "graduate degree",
+      "type": "education level percentage"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "nurses",
+      "type": "studied"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "NPs",
+      "type": "studied"
+    },
+    {
+      "source": "study",
+      "target": "well-being",
+      "type": "improved"
+    },
+    {
+      "source": "study",
+      "target": "burnout",
+      "type": "improved"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "experimental group",
+      "type": "studied"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "stress",
+      "type": "improved"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "self-efficacy",
+      "type": "improved"
+    },
+    {
+      "source": "study",
+      "target": "30 days",
+      "type": "duration"
+    },
+    {
+      "source": "study",
+      "target": "60 days",
+      "type": "duration"
+    },
+    {
+      "source": "study",
+      "target": "90 days",
+      "type": "duration"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "4 weeks",
+      "type": "duration"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "well-being",
+      "type": "study"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "burn-out",
+      "type": "study"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "anxiety",
+      "type": "study"
+    },
+    {
+      "source": "Hwang & Jo",
+      "target": "depression",
+      "type": "study"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "depression",
+      "type": "findings"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "CBT modules",
+      "type": "used in"
+    },
+    {
+      "source": "CBT modules",
+      "target": "depression",
+      "type": "intervention on"
+    },
+    {
+      "source": "CBT modules",
+      "target": "6-week period",
+      "type": "duration"
+    },
+    {
+      "source": "baseline depression",
+      "target": "Depression Anxiety Stress Scale-21",
+      "type": "measurement of"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "work engagement",
+      "type": "reported"
+    },
+    {
+      "source": "Foley and Lanzillotta-Rangeley",
+      "target": "depression",
+      "type": "demonstrated"
+    },
+    {
+      "source": "Foley and Lanzillotta-Rangeley",
+      "target": "anxiety",
+      "type": "demonstrated"
+    },
+    {
+      "source": "Foley and Lanzillotta-Rangeley",
+      "target": "stress",
+      "type": "demonstrated"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "anxiety",
+      "type": "improved"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "coping",
+      "type": "improved"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "7 months",
+      "type": "time frame"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "4 weeks",
+      "type": "time frame"
+    },
+    {
+      "source": "Lanzillotta",
+      "target": "completion rate",
+      "type": "reported"
+    },
+    {
+      "source": "Knill",
+      "target": "completion rate",
+      "type": "reported"
+    },
+    {
+      "source": "nurse group",
+      "target": "completion rate",
+      "type": "has"
+    },
+    {
+      "source": "NP group",
+      "target": "completion rate",
+      "type": "has"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "user engagement",
+      "type": "analyzes"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "program usage",
+      "type": "analyzes"
+    },
+    {
+      "source": "groups/participants",
+      "target": "outcome",
+      "type": "free of"
+    },
+    {
+      "source": "outcomes",
+      "target": "study",
+      "type": "measured in"
+    },
+    {
+      "source": "follow up time",
+      "target": "outcomes",
+      "type": "sufficient to"
+    },
+    {
+      "source": "follow up time",
+      "target": "follow up",
+      "type": "reported"
+    },
+    {
+      "source": "follow up",
+      "target": "reasons",
+      "type": "described and explored"
+    },
+    {
+      "source": "strategies",
+      "target": "incomplete follow up",
+      "type": "address"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "hospital nurses",
+      "type": "improves"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "well-being",
+      "type": "affects"
+    },
+    {
+      "source": "nurse anesthesia students",
+      "target": "6.5 ses",
+      "type": "completed"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "oncology nurses",
+      "type": "reported"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "NPs",
+      "type": "reported"
+    },
+    {
+      "source": "oncology nurses",
+      "target": "app",
+      "type": "used"
+    },
+    {
+      "source": "NPs",
+      "target": "app",
+      "type": "used"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "sleep hygiene",
+      "type": "reports"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "program A",
+      "type": "reports"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "program B",
+      "type": "reports"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "program A",
+      "type": "reports"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "program B",
+      "type": "reports"
+    },
+    {
+      "source": "Villani et al.",
+      "target": "videos",
+      "type": "reports"
+    },
+    {
+      "source": "Hwang and Jo",
+      "target": "app usage history",
+      "type": "did not report"
+    },
+    {
+      "source": "Headspace\u2122",
+      "target": "Andy Puddicombe",
+      "type": "developed by"
+    },
+    {
+      "source": "Headspace\u2122",
+      "target": "Foley & Lanzillotta-Rangeley",
+      "type": "cited in"
+    },
+    {
+      "source": "Headspace\u2122",
+      "target": "Knill et al.",
+      "type": "cited in"
+    },
+    {
+      "source": "Headspace\u2122",
+      "target": "Buddhist monk",
+      "type": "is a"
+    },
+    {
+      "source": "Headspace\u2122",
+      "target": "2100 businesses",
+      "type": "partnered with"
+    },
+    {
+      "source": "2100 businesses",
+      "target": "employees",
+      "type": "provide access to"
+    },
+    {
+      "source": "Headspace",
+      "target": "Curry",
+      "type": "cited by"
+    },
+    {
+      "source": "Headspace",
+      "target": "Economides et al.",
+      "type": "supported by"
+    },
+    {
+      "source": "Headspace",
+      "target": "Flett et al.",
+      "type": "supported by"
+    },
+    {
+      "source": "Headspace",
+      "target": "Howells et al.",
+      "type": "supported by"
+    },
+    {
+      "source": "Headspace",
+      "target": "Wang et al.",
+      "type": "assessed by"
+    },
+    {
+      "source": "Headspace",
+      "target": "10 day program",
+      "type": "offers"
+    },
+    {
+      "source": "Jo",
+      "target": "undefined proprietary stress-management app",
+      "type": "used"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "ABC SM",
+      "type": "used"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "ABC SM",
+      "type": "used"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "meditation",
+      "type": "delivers"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "breathing",
+      "type": "delivers"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "yoga",
+      "type": "delivers"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "healing music",
+      "type": "delivers"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "physical fitness",
+      "type": "delivers"
+    },
+    {
+      "source": "undefined proprietary stress-management app",
+      "target": "diet education",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "behavioral activation",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "problem solving",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "CBT techniques",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "coping",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "assertiveness",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "job crafting",
+      "type": "delivers"
+    },
+    {
+      "source": "ABC SM",
+      "target": "self-compassion",
+      "type": "delivers"
+    },
+    {
+      "source": "stress inoculation therapy",
+      "target": "muscle relaxation exercises",
+      "type": "includes"
+    },
+    {
+      "source": "stress inoculation therapy",
+      "target": "autogenic training",
+      "type": "includes"
+    },
+    {
+      "source": "stress inoculation therapy",
+      "target": "calming video scenes",
+      "type": "includes"
+    },
+    {
+      "source": "mHealth app interventions",
+      "target": "occupational health outcomes",
+      "type": "evaluates"
+    },
+    {
+      "source": "occupational health outcomes",
+      "target": "work engagement",
+      "type": "includes"
+    },
+    {
+      "source": "occupational health outcomes",
+      "target": "perceived stress",
+      "type": "includes"
+    },
+    {
+      "source": "occupational health outcomes",
+      "target": "job",
+      "type": "related to"
+    },
+    {
+      "source": "Imamura et al. (2021)",
+      "target": "outcomes",
+      "type": "evaluated"
+    },
+    {
+      "source": "Sasaki et al. (2021)",
+      "target": "outcomes",
+      "type": "evaluated"
+    },
+    {
+      "source": "MBIs",
+      "target": "depression",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "work engagement",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "stress",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "anxiety",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "well-being",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "burnout",
+      "type": "effect on"
+    },
+    {
+      "source": "MBIs",
+      "target": "nursing population",
+      "type": "improves"
+    },
+    {
+      "source": "Stratton et al.",
+      "target": "meta-analysis",
+      "type": "conducted"
+    },
+    {
+      "source": "meta-analysis",
+      "target": "tablet",
+      "type": "delivered by"
+    },
+    {
+      "source": "meta-analysis",
+      "target": "computer",
+      "type": "delivered by"
+    },
+    {
+      "source": "meta-analysis",
+      "target": "smartphone",
+      "type": "delivered by"
+    },
+    {
+      "source": "meta-analysis",
+      "target": "overall well-being",
+      "type": "improves"
+    },
+    {
+      "source": "CBT SM app",
+      "target": "depression",
+      "type": "decreases"
+    },
+    {
+      "source": "baseline depression",
+      "target": "\u226410 (mild)",
+      "type": "condition"
+    },
+    {
+      "source": "Firth et al.",
+      "target": "mHealth apps",
+      "type": "studied"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "depression",
+      "type": "treats"
+    },
+    {
+      "source": "CBT-based mHealth",
+      "target": "depression",
+      "type": "intervention for"
+    },
+    {
+      "source": "systematic reviews",
+      "target": "mHealth apps",
+      "type": "analyzes"
+    },
+    {
+      "source": "Hrynyschyn",
+      "target": "Dockweiler",
+      "type": "Co-author"
+    },
+    {
+      "source": "Lu",
+      "target": "2022",
+      "type": "Publication Year"
+    },
+    {
+      "source": "SIT",
+      "target": "anxiety",
+      "type": "Effect"
+    },
+    {
+      "source": "SIT",
+      "target": "nurses",
+      "type": "Target Group"
+    },
+    {
+      "source": "SIT",
+      "target": "stress",
+      "type": "Effect"
+    },
+    {
+      "source": "2021",
+      "target": "Hrynyschyn & Dockweiler",
+      "type": "Publication Year"
+    },
+    {
+      "source": "Khatoni et al.",
+      "target": "SIT",
+      "type": "reported effect"
+    },
+    {
+      "source": "Suryanto & Alfian",
+      "target": "SIT",
+      "type": "reported effect"
+    },
+    {
+      "source": "Lee et al.",
+      "target": "SIT",
+      "type": "examined effect"
+    },
+    {
+      "source": "SIT",
+      "target": "PTSD",
+      "type": "improved symptoms"
+    },
+    {
+      "source": "SM mHealth app",
+      "target": "included studies",
+      "type": "reported sustainability"
+    },
+    {
+      "source": "Lecomte et al.",
+      "target": "mHealth apps",
+      "type": "found"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "mental health",
+      "type": "related to"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "anxiety",
+      "type": "studied in relation to"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "depression",
+      "type": "studied in relation to"
+    },
+    {
+      "source": "RCTs",
+      "target": "anxiety",
+      "type": "studied"
+    },
+    {
+      "source": "RCTs",
+      "target": "depression",
+      "type": "studied"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Hospital Nurses",
+      "type": "used_by"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Mental Health",
+      "type": "improves"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Well-Being",
+      "type": "improves"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Terms and Conditions",
+      "type": "contains"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "governed_by"
+    },
+    {
+      "source": "Villani",
+      "target": "2013",
+      "type": "Authored"
+    },
+    {
+      "source": "Villani",
+      "target": "Karasek's Job Strain Model",
+      "type": "Described"
+    },
+    {
+      "source": "Villani",
+      "target": "RCT",
+      "type": "Conducted"
+    },
+    {
+      "source": "Villani",
+      "target": "Medical oncology wards in Milan, Italy",
+      "type": "Conducted In"
+    },
+    {
+      "source": "Villani",
+      "target": "Oncology nurses",
+      "type": "Involved Population"
+    },
+    {
+      "source": "Villani",
+      "target": "F\u201430; M\u20140",
+      "type": "Sample Size"
+    },
+    {
+      "source": "Villani",
+      "target": "Mobile SIT 2",
+      "type": "Utilized"
+    },
+    {
+      "source": "Villani",
+      "target": "15-minute videos twice weekly for 4 weeks",
+      "type": "Intervention Instructions"
+    },
+    {
+      "source": "Foley",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Foley",
+      "target": "Lazarus Theory of Stress, Coping, and Adaptation",
+      "type": "Described"
+    },
+    {
+      "source": "Foley",
+      "target": "Pre-experimental (one-group design)",
+      "type": "Conducted"
+    },
+    {
+      "source": "Foley",
+      "target": "University DNP",
+      "type": "Conducted In"
+    },
+    {
+      "source": "University DNP anesthesia program",
+      "target": "DNP Anesthesia students",
+      "type": "offers"
+    },
+    {
+      "source": "Mindfulness-based Intervention",
+      "target": "Hospital nurses",
+      "type": "participants"
+    },
+    {
+      "source": "Hwang",
+      "target": "Mindfulness-based Intervention",
+      "type": "conducted"
+    },
+    {
+      "source": "College hospitals in metropolitan Seoul, Korea",
+      "target": "Hospital nurses",
+      "type": "location"
+    },
+    {
+      "source": "Proprietary stress management app",
+      "target": "Hospital nurses",
+      "type": "used by"
+    },
+    {
+      "source": "Knill",
+      "target": "Evidence-based practice quality improvement",
+      "type": "conducted"
+    },
+    {
+      "source": "Evidence-based practice quality improvement",
+      "target": "DNP Anesthesia students",
+      "type": "applied to"
+    },
+    {
+      "source": "Inpatient BMT units",
+      "target": "Midwest hospital",
+      "type": "exists_in"
+    },
+    {
+      "source": "BMT nurses",
+      "target": "Inpatient BMT units",
+      "type": "works_in"
+    },
+    {
+      "source": "nurse practitioners",
+      "target": "Inpatient BMT units",
+      "type": "works_in"
+    },
+    {
+      "source": "Mindfulness-based Intervention",
+      "target": "Imamura 2021",
+      "type": "related_to"
+    },
+    {
+      "source": "Cognitive behavioral therapy",
+      "target": "RCT",
+      "type": "is_a"
+    },
+    {
+      "source": "Large general hospital in Hanoi, Vietnam",
+      "target": "Hospital nurses",
+      "type": "employs"
+    },
+    {
+      "source": "Hospital nurses",
+      "target": "Proprietary cognitive behavioral therapy stress management programs",
+      "type": "use"
+    },
+    {
+      "source": "Program A",
+      "target": "Proprietary cognitive behavioral therapy stress management programs",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Program B",
+      "target": "Proprietary cognitive behavioral therapy stress management programs",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Sasaki 2021",
+      "target": "Hospital nurses",
+      "type": "focuses on"
+    },
+    {
+      "source": "Hanoi, Vietnam",
+      "target": "Large general hospital",
+      "type": "located in"
+    },
+    {
+      "source": "Program A",
+      "target": "work engagement",
+      "type": "aims to improve"
+    },
+    {
+      "source": "Program B",
+      "target": "work engagement",
+      "type": "aims to improve"
+    },
+    {
+      "source": "cognitive behavioral therapy",
+      "target": "Program A",
+      "type": "is a type of"
+    },
+    {
+      "source": "cognitive behavioral therapy",
+      "target": "Program B",
+      "type": "is a type of"
+    },
+    {
+      "source": "RCT",
+      "target": "Sasaki 2021",
+      "type": "is a"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "hospital nurses",
+      "type": "improve"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mental health",
+      "type": "affect"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "well-being",
+      "type": "affect"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "govern"
+    },
+    {
+      "source": "Knill et al.",
+      "target": "mHealth apps",
+      "type": "UsageRateComparison"
+    },
+    {
+      "source": "Fleming et al.",
+      "target": "mHealth apps",
+      "type": "UsageRateStat"
+    },
+    {
+      "source": "Imamura et al.",
+      "target": "ParticipationRate",
+      "type": "Report"
+    },
+    {
+      "source": "Sasaki et al.",
+      "target": "ParticipationRate",
+      "type": "Report"
+    },
+    {
+      "source": "Lecomte et al.",
+      "target": "Illness",
+      "type": "Study"
+    },
+    {
+      "source": "reminder emails and texts",
+      "target": "participants",
+      "type": "sent to"
+    },
+    {
+      "source": "reminders and messaging",
+      "target": "app use",
+      "type": "increases engagement in"
+    },
+    {
+      "source": "reminders",
+      "target": "user's stress",
+      "type": "increases"
+    },
+    {
+      "source": "reminders",
+      "target": "user's anxiety",
+      "type": "increases"
+    },
+    {
+      "source": "RCT designs",
+      "target": "studies in this review",
+      "type": "are a strength of"
+    },
+    {
+      "source": "studies",
+      "target": "participants",
+      "type": "involves"
+    },
+    {
+      "source": "participants",
+      "target": "baseline measures",
+      "type": "has"
+    },
+    {
+      "source": "interventions",
+      "target": "post-intervention measures",
+      "type": "affects"
+    },
+    {
+      "source": "studies",
+      "target": "app usage rates",
+      "type": "reports"
+    },
+    {
+      "source": "studies",
+      "target": "module completion rates",
+      "type": "reports"
+    },
+    {
+      "source": "Study duration",
+      "target": "12 weeks",
+      "type": "duration restriction"
+    },
+    {
+      "source": "sustainability",
+      "target": "positive effects",
+      "type": "assessment"
+    },
+    {
+      "source": "mHealth app usage",
+      "target": "positive effects",
+      "type": "causal relationship"
+    },
+    {
+      "source": "included studies",
+      "target": "study period",
+      "type": "temporal relationship"
+    },
+    {
+      "source": "different measures",
+      "target": "outcomes",
+      "type": "evaluation metric"
+    },
+    {
+      "source": "pooled analysis",
+      "target": "data",
+      "type": "relationship"
+    },
+    {
+      "source": "mHealth apps",
+      "target": "hospital nurses",
+      "type": "measures effects on"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "stressors",
+      "type": "faces"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "demands",
+      "type": "faces"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "mHealth app interventions",
+      "type": "interacts with"
+    },
+    {
+      "source": "mHealth app",
+      "target": "mental health",
+      "type": "improves"
+    },
+    {
+      "source": "mHealth app",
+      "target": "hospital nurses",
+      "type": "usage"
+    },
+    {
+      "source": "RCTs",
+      "target": "sample sizes",
+      "type": "influences"
+    },
+    {
+      "source": "mHealth app",
+      "target": "mental health symptoms",
+      "type": "improves"
+    },
+    {
+      "source": "Foley",
+      "target": "DASS-21",
+      "type": "used in"
+    },
+    {
+      "source": "DASS-21",
+      "target": "Anxiety",
+      "type": "measures"
+    },
+    {
+      "source": "DASS-21",
+      "target": "Depression",
+      "type": "measures"
+    },
+    {
+      "source": "DASS-21",
+      "target": "stress",
+      "type": "measures"
+    },
+    {
+      "source": "Longitudinal follow-up",
+      "target": "mental health improvements",
+      "type": "studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Active coping",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Denial",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Job latitude",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Psychological Job demand",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Social support at work",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Perceived stress",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Anxiety, State",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "Anxiety, Trait",
+      "type": "Studies"
+    },
+    {
+      "source": "Villani",
+      "target": "COPE\u2014Brief Coping Orientation to Problems Experienced",
+      "type": "Uses"
+    },
+    {
+      "source": "Villani",
+      "target": "JCQ- Job Content Questionnaire",
+      "type": "Uses"
+    },
+    {
+      "source": "Villani",
+      "target": "MSP\u2014Mesure du Stress Psychologique",
+      "type": "Uses"
+    },
+    {
+      "source": "Villani",
+      "target": "STAI\u2014State Trait Anxiety Index",
+      "type": "Uses"
+    },
+    {
+      "source": "Hwang",
+      "target": "Anxiety",
+      "type": "Studies"
+    },
+    {
+      "source": "Hwang",
+      "target": "Depression",
+      "type": "Studies"
+    },
+    {
+      "source": "Hwang",
+      "target": "Perceived stress",
+      "type": "Studies"
+    },
+    {
+      "source": "Hwang",
+      "target": "Well-being",
+      "type": "Studies"
+    },
+    {
+      "source": "Hwang",
+      "target": "Job stress",
+      "type": "Studies"
+    },
+    {
+      "source": "Hwang",
+      "target": "Emotional labor",
+      "type": "Studies"
+    },
+    {
+      "source": "GAD- 7",
+      "target": "Generalized Anxiety Disorder- 7",
+      "type": "Measures"
+    },
+    {
+      "source": "PHQ- 9",
+      "target": "Personal Health Questionnaire- 9",
+      "type": "Measures"
+    },
+    {
+      "source": "PSS",
+      "target": "Perceived Stress Scale",
+      "type": "Measures"
+    },
+    {
+      "source": "WHO-5",
+      "target": "Well- Being Index - 5",
+      "type": "Measures"
+    },
+    {
+      "source": "DASS- 21",
+      "target": "Depression, Anxiety, Stress scales",
+      "type": "Measures"
+    },
+    {
+      "source": "Imamura 2021",
+      "target": "Anxiety",
+      "type": "Research focus"
+    },
+    {
+      "source": "Imamura 2021",
+      "target": "depression",
+      "type": "Research focus"
+    },
+    {
+      "source": "Knill 2021",
+      "target": "Burnout",
+      "type": "Research focus"
+    },
+    {
+      "source": "Job stress",
+      "target": "Well- being",
+      "type": "Affects"
+    },
+    {
+      "source": "Emotional labor",
+      "target": "Well- being",
+      "type": "Affects"
+    },
+    {
+      "source": "Self- efficacy",
+      "target": "Well- being",
+      "type": "Affects"
+    },
+    {
+      "source": "WBI",
+      "target": "Well-being Index",
+      "type": "is_abbreviation_for"
+    },
+    {
+      "source": "Sasaki",
+      "target": "2021",
+      "type": "published_in"
+    },
+    {
+      "source": "UWES",
+      "target": "Utrecht Work Engagement Scale",
+      "type": "is_abbreviation_for"
+    },
+    {
+      "source": "Utrecht Work Engagement Scale",
+      "target": "90",
+      "type": "scale_value"
+    },
+    {
+      "source": "Utrecht Work Engagement Scale",
+      "target": "9q",
+      "type": "scale_value"
+    },
+    {
+      "source": "12 weeks",
+      "target": "duration",
+      "type": "duration_of"
+    },
+    {
+      "source": "28 weeks",
+      "target": "duration",
+      "type": "duration_of"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Hospital Nurses",
+      "type": "Improves"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Mental Health",
+      "type": "Affects"
+    },
+    {
+      "source": "Hospital Nurses",
+      "target": "Well-Being",
+      "type": "Affects"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "Governs"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Terms and Conditions",
+      "type": "Contains"
+    },
+    {
+      "source": "Terms and Conditions",
+      "target": "URL",
+      "type": "Related To"
+    },
+    {
+      "source": "mHealth mental health interventions",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "mHealth mental health interventions",
+      "target": "well-being",
+      "type": "affects"
+    },
+    {
+      "source": "RCTs",
+      "target": "mental health",
+      "type": "provides evidence for"
+    },
+    {
+      "source": "RCTs",
+      "target": "well-being",
+      "type": "provides evidence for"
+    },
+    {
+      "source": "Cynthia Moore",
+      "target": "ORCID",
+      "type": "has_identifier"
+    },
+    {
+      "source": "Bernadette Melnyk",
+      "target": "ORCID",
+      "type": "has_identifier"
+    },
+    {
+      "source": "mHealth interventions",
+      "target": "nurses",
+      "type": "involves"
+    },
+    {
+      "source": "nurses",
+      "target": "hospital and healthcare settings",
+      "type": "work_in"
+    },
+    {
+      "source": "American Nurses Association",
+      "target": "COVID-19 survey series: Workplace impact survey",
+      "type": "produced"
+    },
+    {
+      "source": "COVID-19 survey series: Workplace impact survey",
+      "target": "ANA",
+      "type": "published by"
+    },
+    {
+      "source": "COVID-19 survey series: Workplace impact survey",
+      "target": "COVID-19",
+      "type": "related to"
+    },
+    {
+      "source": "COVID-19 survey series: Workplace impact survey",
+      "target": "Health safety",
+      "type": "concerns"
+    },
+    {
+      "source": "Centre for Reviews and Dissemination",
+      "target": "Systematic reviews",
+      "type": "published"
+    },
+    {
+      "source": "University of York NHS Centre for Reviews & Dissemination",
+      "target": "Systematic reviews",
+      "type": "affiliated_with"
+    },
+    {
+      "source": "Curry, D.",
+      "target": "Headspace revenue and usage statistics",
+      "type": "authored"
+    },
+    {
+      "source": "Headspace",
+      "target": "Headspace revenue and usage statistics",
+      "type": "discussed_in"
+    },
+    {
+      "source": "Curry, D.",
+      "target": "Business of Apps",
+      "type": "published_in"
+    },
+    {
+      "source": "Economides, M.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Martman, J.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Bell, M. J.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Sanderson, B.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Firth, J.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Torous, J.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Nicholas, J.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Carney, R.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Pratap, A.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Rosenbaum, S.",
+      "target": "Mindfulness",
+      "type": "published_in"
+    },
+    {
+      "source": "Sarris, J.",
+      "target": "World Psychiatry",
+      "type": "published in"
+    },
+    {
+      "source": "Fleming, T.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Bavin, L.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Lucassen, M.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Stasiak, K.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Hopkins, S.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Merry, S.",
+      "target": "digital self-help interventions",
+      "type": "discusses"
+    },
+    {
+      "source": "Sarris, J.",
+      "target": "meta-analysis",
+      "type": "conducted"
+    },
+    {
+      "source": "Fleming, T.",
+      "target": "systematic review",
+      "type": "conducted"
+    },
+    {
+      "source": "Flett, J. M.",
+      "target": "Mobile mindfulness meditation",
+      "type": "conducted"
+    },
+    {
+      "source": "Hayne, H.",
+      "target": "Mobile mindfulness meditation",
+      "type": "conducted"
+    },
+    {
+      "source": "Riordan, B. C.",
+      "target": "Mobile mindfulness meditation",
+      "type": "conducted"
+    },
+    {
+      "source": "Thompson, L. M.",
+      "target": "Mobile mindfulness meditation",
+      "type": "conducted"
+    },
+    {
+      "source": "Conner, T. S.",
+      "target": "Mobile mindfulness meditation",
+      "type": "conducted"
+    },
+    {
+      "source": "Mobile mindfulness meditation",
+      "target": "Mental health",
+      "type": "affects"
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Mobile mindfulness meditation",
+      "type": "publishes"
+    },
+    {
+      "source": "randomised controlled trial",
+      "target": "Mobile mindfulness meditation",
+      "type": "describes"
+    },
+    {
+      "source": "Foley, T.",
+      "target": "Stress reduction through mindfulness meditation in student registered nurse anesthetists",
+      "type": "Authored"
+    },
+    {
+      "source": "Lanzillotta- Rangeley, J.",
+      "target": "Stress reduction through mindfulness meditation in student registered nurse anesthetists",
+      "type": "Authored"
+    },
+    {
+      "source": "Stress reduction through mindfulness meditation in student registered nurse anesthetists",
+      "target": "AANA Journal",
+      "type": "Published in"
+    },
+    {
+      "source": "Gliner, J. A.",
+      "target": "Research methods in applied settings",
+      "type": "Authored"
+    },
+    {
+      "source": "Morgan, G. A.",
+      "target": "Research methods in applied settings",
+      "type": "Authored"
+    },
+    {
+      "source": "Leech, N. L.",
+      "target": "Research methods in applied settings",
+      "type": "Authored"
+    },
+    {
+      "source": "Research methods in applied settings",
+      "target": "Routledge",
+      "type": "Published by"
+    },
+    {
+      "source": "Goldberg, S. B.",
+      "target": "Mobile phone- based interventions for mental health",
+      "type": "Authored"
+    },
+    {
+      "source": "Lam, S. U.",
+      "target": "Mobile phone- based interventions for mental health",
+      "type": "Authored"
+    },
+    {
+      "source": "Simonsson, O.",
+      "target": "Mobile phone- based interventions for mental health",
+      "type": "Authored"
+    },
+    {
+      "source": "Torous, J.",
+      "target": "Mobile phone- based interventions for mental health",
+      "type": "Authored"
+    },
+    {
+      "source": "Sun, S.",
+      "target": "Mobile phone- based interventions for mental health",
+      "type": "Authored"
+    },
+    {
+      "source": "Mobile phone- based interventions for mental health",
+      "target": "systematic meta- review of 14 meta- analyses of randomized controlled trials",
+      "type": "Part of"
+    },
+    {
+      "source": "Grand View Research",
+      "target": "Mental health apps market size, share & trends analysis report",
+      "type": "publishes"
+    },
+    {
+      "source": "Mental health apps market size, share & trends analysis report",
+      "target": "Android",
+      "type": "includes"
+    },
+    {
+      "source": "Mental health apps market size, share & trends analysis report",
+      "target": "iOS",
+      "type": "includes"
+    },
+    {
+      "source": "Mental health apps market size, share & trends analysis report",
+      "target": "depression and anxiety management",
+      "type": "focuses on"
+    },
+    {
+      "source": "Mental health apps market size, share & trends analysis report",
+      "target": "stress management",
+      "type": "focuses on"
+    },
+    {
+      "source": "Mental health apps market size, share & trends analysis report",
+      "target": "2023\u20132030",
+      "type": "time frame"
+    },
+    {
+      "source": "Green, A. A.",
+      "target": "Journal of Holistic Nursing",
+      "type": "Author of"
+    },
+    {
+      "source": "Kinchen, E. V.",
+      "target": "Journal of Holistic Nursing",
+      "type": "Author of"
+    },
+    {
+      "source": "Journal of Holistic Nursing",
+      "target": "mindfulness meditation",
+      "type": "Discusses"
+    },
+    {
+      "source": "mindfulness meditation",
+      "target": "stress",
+      "type": "Affects"
+    },
+    {
+      "source": "mindfulness meditation",
+      "target": "burnout",
+      "type": "Affects"
+    },
+    {
+      "source": "burnout",
+      "target": "nurses",
+      "type": "Relates to"
+    },
+    {
+      "source": "Hassen, D.",
+      "target": "Mobile-aided diagnosis systems",
+      "type": "Discusses"
+    },
+    {
+      "source": "Hommelson, T.",
+      "target": "Mindfulness meditation to decrease stress in pediatric nurses",
+      "type": "Wrote"
+    },
+    {
+      "source": "Mindfulness meditation to decrease stress in pediatric nurses",
+      "target": "University of Missouri-Kansas City",
+      "type": "Submitted to"
+    },
+    {
+      "source": "Eastern Mediterranean Health Journal",
+      "target": "health care",
+      "type": "Published"
+    },
+    {
+      "source": "Headspace",
+      "target": "Be kind to your mind",
+      "type": "Contains"
+    },
+    {
+      "source": "MoSpace",
+      "target": "Mindfulness meditation to decrease stress in pediatric nurses",
+      "type": "Houses"
+    },
+    {
+      "source": "Howells, A.",
+      "target": "Journal of Happiness Studies",
+      "type": "Authored"
+    },
+    {
+      "source": "Ivtzan, I.",
+      "target": "Journal of Happiness Studies",
+      "type": "Authored"
+    },
+    {
+      "source": "Eiroa-Orosa, F.",
+      "target": "Journal of Happiness Studies",
+      "type": "Authored"
+    },
+    {
+      "source": "Hrynyschyn, R.",
+      "target": "Effectiveness of smartphone-based cognitive behavioral therapy among patients with major depression",
+      "type": "Authored"
+    },
+    {
+      "source": "Dockweiler, C.",
+      "target": "Effectiveness of smartphone-based cognitive behavioral therapy among patients with major depression",
+      "type": "Authored"
+    },
+    {
+      "source": "Hwang, W.",
+      "target": "mobile app-based stress-management program",
+      "type": "developed"
+    },
+    {
+      "source": "Jo, H.",
+      "target": "mobile app-based stress-management program",
+      "type": "developed"
+    },
+    {
+      "source": "mobile app-based stress-management program",
+      "target": "randomized controlled trial",
+      "type": "evaluated by"
+    },
+    {
+      "source": "randomized controlled trial",
+      "target": "International Journal of Environmental Research and Public Health",
+      "type": "published in"
+    },
+    {
+      "source": "randomized controlled trial",
+      "target": "JMIR mHealth and uHealth",
+      "type": "cited in"
+    },
+    {
+      "source": "Imamura, K.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Tran, T.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, H.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Sasaki, N.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Kuribayashi, K.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Sakuraya, A.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Bui, T.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, A.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, Q.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, N.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, K.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, G.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Tran, X.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Truong, T.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Zhang, M.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Minas, H.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Sekiya, Y.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Watanabe, K.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Tsutsumi, A.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "Kawakami, N.",
+      "target": "2021",
+      "type": "Authored"
+    },
+    {
+      "source": "smartphone-based stress management programs",
+      "target": "depression",
+      "type": "Affects"
+    },
+    {
+      "source": "smartphone-based stress management programs",
+      "target": "anxiety",
+      "type": "Affects"
+    },
+    {
+      "source": "hospital nurses",
+      "target": "Vietnam",
+      "type": "Located In"
+    },
+    {
+      "source": "smartphone-based stress management programs",
+      "target": "randomized controlled trial",
+      "type": "Implemented In"
+    },
+    {
+      "source": "2021",
+      "target": "randomized controlled trial",
+      "type": "Conducted In"
+    },
+    {
+      "source": "Jakel, P.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "Kenney, J.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "Ludan, N.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "Miller, P.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "McNair, N.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "Matesic, E.",
+      "target": "Clinical Journal of Oncology Nursing",
+      "type": "Authored"
+    },
+    {
+      "source": "provider resilience mobile application",
+      "target": "compassion fatigue",
+      "type": "Used for"
+    },
+    {
+      "source": "provider resilience mobile application",
+      "target": "oncology nursing",
+      "type": "Applicable in"
+    },
+    {
+      "source": "Khatoni, S.",
+      "target": "Military Caring Sciences",
+      "type": "published in"
+    },
+    {
+      "source": "Teymouri, F.",
+      "target": "Military Caring Sciences",
+      "type": "published in"
+    },
+    {
+      "source": "Pishgooie, S. A.",
+      "target": "Military Caring Sciences",
+      "type": "published in"
+    },
+    {
+      "source": "Khodabakhsh, M. R.",
+      "target": "Military Caring Sciences",
+      "type": "published in"
+    },
+    {
+      "source": "Knill, K.",
+      "target": "Journal",
+      "type": "published in"
+    },
+    {
+      "source": "Warren, B.",
+      "target": "Journal",
+      "type": "published in"
+    },
+    {
+      "source": "Melnyk, B.",
+      "target": "Journal",
+      "type": "published in"
+    },
+    {
+      "source": "Thrane, S.",
+      "target": "Journal",
+      "type": "published in"
+    },
+    {
+      "source": "Stress Inoculation Training",
+      "target": "Nurses' job stress",
+      "type": "affects"
+    },
+    {
+      "source": "Nurses' job stress",
+      "target": "Military hospitals",
+      "type": "context"
+    },
+    {
+      "source": "Burnout and well-being",
+      "target": "Bone marrow transplantation",
+      "type": "evaluates"
+    },
+    {
+      "source": "mindfulness application",
+      "target": "nurses",
+      "type": "uses"
+    },
+    {
+      "source": "Lecomte, T.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Potvin, S.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Corbi\u00e8re, M.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Guay, S.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Samson, C.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Cloutier, B.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Francoeur, A.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Pennou, A.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Khazaal, Y.",
+      "target": "Mobile apps for mental health issues",
+      "type": "author_of"
+    },
+    {
+      "source": "Lee, D. J.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Schnitzlein, C. W.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Wolf, J. P.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Vythilingam, M.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Rasmusson, A. M.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Hoge, C. W.",
+      "target": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "type": "Authored"
+    },
+    {
+      "source": "Psychotherapy versus pharmacotherapy for posttraumatic stress disorder",
+      "target": "Depression and Anxiety",
+      "type": "Published In"
+    },
+    {
+      "source": "Lewis, T.",
+      "target": "mHealth Apps",
+      "type": "AuthorOf"
+    },
+    {
+      "source": "Boissaud-Cooke, M.",
+      "target": "mHealth Apps",
+      "type": "AuthorOf"
+    },
+    {
+      "source": "Aungst, T.",
+      "target": "mHealth Apps",
+      "type": "AuthorOf"
+    },
+    {
+      "source": "Eysenbach, G.",
+      "target": "mHealth Apps",
+      "type": "AuthorOf"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Hospital Nurses",
+      "type": "TargetAudience"
+    },
+    {
+      "source": "mHealth Apps",
+      "target": "Mental Health and Well-Being",
+      "type": "Improves"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Creative Commons License",
+      "type": "Governs"
+    },
+    {
+      "source": "Wiley Online Library",
+      "target": "Terms and Conditions",
+      "type": "Includes"
+    },
+    {
+      "source": "Lu, S.-C.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Xu, M.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Wang, M.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Hardi, A.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Cheng, A. L.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Chang, S.-H.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "Yen, P.-Y.",
+      "target": "JMIR Mental Health",
+      "type": "published_in"
+    },
+    {
+      "source": "mobile health interventions",
+      "target": "anxiety and depression",
+      "type": "addresses"
+    },
+    {
+      "source": "Melnyk, B.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Tan, A.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Hsieh, A.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Gawlik, K.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Arslanian-Engoren, C.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Braun, L. T.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Dunbar, S.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Dunbar-Jacob, J.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Lewis, L. M.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Millan, A.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Orsolini, L.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Robbins, L. B.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Russell, C. L.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Tucker, S.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Wilbur, J.",
+      "target": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "type": "Authorship"
+    },
+    {
+      "source": "Critical care nurses' physical and mental health, worksite wellness support, and medical errors",
+      "target": "American Journal of Critical Care",
+      "type": "Published In"
+    },
+    {
+      "source": "Mistretta, E. G.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Davis, M. C.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Temkit, M.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Lorenz, C.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Darby, B.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Stonnington, C. M.",
+      "target": "Resilience training for work-related stress among health care workers",
+      "type": "Authored"
+    },
+    {
+      "source": "Resilience training for work-related stress among health care workers",
+      "target": "Journal of Occupational & Environmental Medicine",
+      "type": "Published In"
+    },
+    {
+      "source": "Moola, S.",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "Munn, Z.",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "Tufanaru, C.",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "Aromataris, E.",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "Sears, K.",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "Sfetcu,",
+      "target": "Authored",
+      "type": "Authored"
+    },
+    {
+      "source": "R. Currie",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Authored"
+    },
+    {
+      "source": "M. Qureshi",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Authored"
+    },
+    {
+      "source": "R. Mattis",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Authored"
+    },
+    {
+      "source": "K. Lisy",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Authored"
+    },
+    {
+      "source": "P. Mu",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Authored"
+    },
+    {
+      "source": "E. Aromataris",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Edited"
+    },
+    {
+      "source": "Z. Munn",
+      "target": "JBI Manual for Evidence Synthesis",
+      "type": "Edited"
+    },
+    {
+      "source": "E. Olsen",
+      "target": "Mobi",
+      "type": "Authored"
+    },
+    {
+      "source": "IQVIA",
+      "target": "Digital health apps",
+      "type": "Reported"
+    },
+    {
+      "source": "M. Li",
+      "target": "Prisma 2020 explanation and elaboration",
+      "type": "Authored"
+    },
+    {
+      "source": "T. Loder",
+      "target": "Prisma 2020 explanation and elaboration",
+      "type": "Authored"
+    },
+    {
+      "source": "E. W. Mayo-Wilson",
+      "target": "Prisma 2020 explanation and elaboration",
+      "type": "Authored"
+    },
+    {
+      "source": "S. McDonald",
+      "target": "Prisma 2020 explanation and elaboration",
+      "type": "Authored"
+    },
+    {
+      "source": "J. E. McKenzie",
+      "target": "Prisma 2020 explanation and elaboration",
+      "type": "Authored"
+    },
+    {
+      "source": "Ross, A.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Touchton-Leonard, K.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Perez, A.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Wehrlen, L.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Kazmi, N.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Gibbons, S.",
+      "target": "Factors that influence health-promoting self-care in registered nurses",
+      "type": "Authored"
+    },
+    {
+      "source": "Sasaki, N.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Imamura, K.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Tran, T.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, H.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Kuribayashi, K.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Sakuraya, A.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Bui, T.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, Q.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, N.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Nguyen, G.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Zhang, M.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Minas, H.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Sekiya, Y.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Watanabe, K.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Tsutsumi, A.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Shimazu, A.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "Kawakami, N.",
+      "target": "Journal of",
+      "type": "Authored"
+    },
+    {
+      "source": "smartphone-based stress management",
+      "target": "work engagement",
+      "type": "Improves"
+    },
+    {
+      "source": "work engagement",
+      "target": "Vietnam",
+      "type": "Context"
+    },
+    {
+      "source": "Spinelli, C.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Wisener, M.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Khoury, B.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Journal of Psychosomatic Research",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Published In"
+    },
+    {
+      "source": "Stratton, E.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Lampit, A.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Choi, I.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Calvo, R. A.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Harvey, S. B.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "Glozier, N.",
+      "target": "Mindfulness training for healthcare professionals and trainees: A meta-analysis of randomized controlled trials",
+      "type": "Authored"
+    },
+    {
+      "source": "ehealth interventions",
+      "target": "mental health conditions",
+      "type": "addresses"
+    },
+    {
+      "source": "ehealth interventions",
+      "target": "employees",
+      "type": "targeted at"
+    },
+    {
+      "source": "stress inoculation training",
+      "target": "stress",
+      "type": "addresses"
+    },
+    {
+      "source": "stress inoculation training",
+      "target": "intensive care nurses",
+      "type": "targeted at"
+    },
+    {
+      "source": "Suryanto, A. P.",
+      "target": "2020",
+      "type": "published in"
+    },
+    {
+      "source": "Alfian, I. N.",
+      "target": "2020",
+      "type": "published in"
+    },
+    {
+      "source": "R. Ardi",
+      "target": "3rd International",
+      "type": "editor of"
+    },
+    {
+      "source": "P. Chobthamkit",
+      "target": "3rd International",
+      "type": "editor of"
+    },
+    {
+      "source": "Szinay, D.",
+      "target": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Jones, A.",
+      "target": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Chadborn, T.",
+      "target": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Brown, J.",
+      "target": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Naughton, F.",
+      "target": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "type": "Authored"
+    },
+    {
+      "source": "Improving Mental Health and Harmony in Global Community",
+      "target": "Science and Technology Publications",
+      "type": "Published by"
+    },
+    {
+      "source": "Influences on the uptake of and engagement with health and well-being smartphone apps: Systematic review",
+      "target": "Journal of Medical",
+      "type": "Published in"
+    },
+    {
+      "source": "Tsai, Z.",
+      "target": "Evaluating the effectiveness and quality of mobile applications for perinatal depression and anxiety: A systematic review and meta-analysis",
+      "type": "Authorship"
+    },
+    {
+      "source": "Journal of Affective Disorders",
+      "target": "Evaluating the effectiveness and quality of mobile applications for perinatal depression and anxiety: A systematic review and meta-analysis",
+      "type": "Publication"
+    },
+    {
+      "source": "Internet Research",
+      "target": "DOI: 10.2196/17572",
+      "type": "References"
+    },
+    {
+      "source": "Journal of Affective Disorders",
+      "target": "DOI: 10.1016/j.jad.2021.09.106",
+      "type": "References"
+    },
+    {
+      "source": "Tufanaru, C.",
+      "target": "Munn, Z.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Tufanaru, C.",
+      "target": "Aromataris, E.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Tufanaru, C.",
+      "target": "Campbell, J.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Tufanaru, C.",
+      "target": "Hopp, L.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Aromataris, E.",
+      "target": "Munn, Z.",
+      "type": "edited_by"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Grassi, A.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Cognetta, C.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Cipresso, P.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Toniolo, D.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Riva, G.",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "mobile stress management protocol",
+      "target": "cancer patients",
+      "type": "targets"
+    },
+    {
+      "source": "Villani, D.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Grassi, A.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Cognetta, C.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Toniolo, D.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Cipresso, P.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Riva, G.",
+      "target": "Psychological Services",
+      "type": "Wrote"
+    },
+    {
+      "source": "Wang, X.",
+      "target": "Health Technology and Informatics",
+      "type": "Wrote"
+    },
+    {
+      "source": "Markert, C.",
+      "target": "Health Technology and Informatics",
+      "type": "Wrote"
+    },
+    {
+      "source": "Sasangohar, F.",
+      "target": "Health Technology and Informatics",
+      "type": "Wrote"
+    },
+    {
+      "source": "mental health mobile application",
+      "target": "Wang, X.",
+      "type": "Researches"
+    },
+    {
+      "source": "Zhang, X.",
+      "target": "Tai, D.",
+      "type": "co-author"
+    },
+    {
+      "source": "Zhang, X.",
+      "target": "Pforsich, H.",
+      "type": "co-author"
+    },
+    {
+      "source": "Zhang, X.",
+      "target": "Lin, V. W.",
+      "type": "co-author"
+    },
+    {
+      "source": "United States Registered Nurse Workforce Report Card and Shortage Forecast",
+      "target": "American Journal of Medical Quality",
+      "type": "published in"
+    },
+    {
+      "source": "Moore, C.",
+      "target": "The use of mHealth apps to improve hospital nurses' mental health and well-being",
+      "type": "Authored"
+    },
+    {
+      "source": "Kelly, S.",
+      "target": "The use of mHealth apps to improve hospital nurses' mental health and well-being",
+      "type": "Authored"
+    },
+    {
+      "source": "Melnyk, B. M.",
+      "target": "The use of mHealth apps to improve hospital nurses' mental health and well-being",
+      "type": "Authored"
+    },
+    {
+      "source": "The use of mHealth apps to improve hospital nurses' mental health and well-being",
+      "target": "Worldviews on Evidence-Based Nursing",
+      "type": "Published In"
+    },
+    {
+      "source": "Worldviews on Evidence-Based Nursing",
+      "target": "2024",
+      "type": "Published In Year"
+    },
+    {
+      "source": "Worldviews on Evidence-Based Nursing",
+      "target": "21",
+      "type": "Published In Volume"
+    },
+    {
+      "source": "Worldviews on Evidence-Based Nursing",
+      "target": "110\u2013119",
+      "type": "Published In Page Range"
+    },
+    {
+      "source": "The use of mHealth apps to improve hospital nurses' mental health and well-being",
+      "target": "10.1111/wvn.12716",
+      "type": "Has DOI"
+    },
+    {
+      "source": "10.1111/wvn.12716",
+      "target": "Wiley Online Library",
+      "type": "hosted_on"
+    },
+    {
+      "source": "OA articles",
+      "target": "Creative Commons License",
+      "type": "governed_by"
+    }
+  ]
+}

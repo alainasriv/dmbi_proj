@@ -1,0 +1,6700 @@
+{
+  "entities": [
+    {
+      "id": "Alissa J Mrazek",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Michael D Mrazek",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Casey M Cherolini",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jonathan N Cloughesy",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "David J Cynman",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lefeba J Gougis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Alex P Landry",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jordan V Reese",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jonathan W Schooler",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness-Based Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Smartphone Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Web-Based Platforms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional Face-To-Face Formats",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Approach",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Low Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Shallow Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Unaddressed Obstacles Or Frustrations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Best Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Multiple Fields Of Research",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Strategies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Dept. Of Psychological & Brain Sciences, University Of California Santa Barbara, United States",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Alissa J Mrazek",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Michael D Mrazek",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Current Opinion In Psychology",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Amit Bernstein",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Dave Vago",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Thorsten Barnhofer",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Elsevier Ltd.",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Millions Of People",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Apps",
+      "type": "Product",
+      "properties": {}
+    },
+    {
+      "id": "Venture Capital",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "2017",
+      "type": "Time",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Stress Reduction",
+      "type": "Program",
+      "properties": {}
+    },
+    {
+      "id": "E-Courses",
+      "type": "Product",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness Teacher Training",
+      "type": "Program",
+      "properties": {}
+    },
+    {
+      "id": "Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness-Based Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Global Audience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Research",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Challenges",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Best Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Accessibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Standardization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Personalization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Efficacy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Geographical Constraints",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Logistical Constraints",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Financial Constraints",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "High Quality Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digital Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Scheduling Flexibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Training'S Accessibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Devices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Times Of Their Choosing",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Curriculum",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Course Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Presentation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Personalized Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional Classrooms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "U.S. Department Of Education\u2019S Institute Of Education Sciences",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Grant Number R305A170445",
+      "type": "Grant",
+      "properties": {}
+    },
+    {
+      "id": "Sciencedirect",
+      "type": "Website",
+      "properties": {}
+    },
+    {
+      "id": "Sciencedirect",
+      "type": "Website",
+      "properties": {}
+    },
+    {
+      "id": "Current Opinion In Psychology 2019",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Digital Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Outcomes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi'S",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Face-To-Face Mindfulness Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Face-To-Face Mindfulness Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Benefits",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness And Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stjernsward & Hansson",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "97 Individuals",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Distress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Illness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Family",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Eight-Week Course",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Mbsr Training Protocol",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "960 Minutes Of Mindfulness Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Intervention",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Post-Test",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "3-Month Follow Up",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Acting With Awareness Subscale",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Five Facet Mindfulness Questionnaire",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Shore Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "University Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ffmq",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Post-Test",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "1-Week Follow Up Assessments",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Noone",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hogan",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kemper",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Health Professionals",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Attention Awareness Scale",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Program",
+      "properties": {}
+    },
+    {
+      "id": "Headspace",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Maas",
+      "type": "Assessment",
+      "properties": {}
+    },
+    {
+      "id": "Jayawardene",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness Interventions",
+      "type": "Program",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mbsr Protocol",
+      "type": "Protocol",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Interventions",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Perceived Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Boettcher Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants With Anxiety Disorder",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Querstret Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Krusche Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Querstret Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Community Sample",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "University Staff And Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Course",
+      "properties": {}
+    },
+    {
+      "id": "University Staff",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Control Condition",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Completion Rates",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attrition Rate",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adherence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Studies",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Challenges",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "In-Person Training Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Audience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Middle School Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Military Veterans",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Spiritual Dimension",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users With Strong Religious Affiliations",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Religious Beliefs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Objectives",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Potential Impact",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Valued Outcome Measures",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Querstret Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Three Facets Of Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Acting With Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Key Outcome Measures Of Work-Related Rumination",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Nation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Fatigue",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sleep Quality",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Audience Diversity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individual Differences",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Fixed Mindset",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ability To Be Mindful",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Growth Mindset",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Tailored Instruction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participant",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Review Paper",
+      "type": "Document",
+      "properties": {}
+    },
+    {
+      "id": "Attrition Rates",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi Exercises",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Meditation Practices",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Ruminative Thinking",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental To-Do List",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Effective Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Retention Of Factual Knowledge",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Conceptual Understanding",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Flexible Use, Transfer, And Application Of Knowledge",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants Of Mbis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Core Concepts Of Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individuals",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Users Of D-Mbis",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Negative Thoughts",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxious Feelings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditations",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Instructor",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Peers",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Discomfort",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Difficulty Sustaining Focus",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Feeling Self-Critical",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Doubts That Mindfulness Is Helpful",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Decreased Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Challenges",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Best Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Program Creators",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Audience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Target Audience Demographics",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User Research",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Target Audience Behaviors",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Target Audience Needs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Target Audience Motivations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Design",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User Research Methodologies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Surveys",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focus Groups",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Persona Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individual Interviews",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Program Creators",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Learning Objectives",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Training Outcomes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Target Audience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adhd",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Growth Mindset About Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sustained Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Program Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Audience Diversity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Personalization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Program Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individual Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Learning Outcomes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User Experience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Existing Knowledge",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Interests",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Goals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Alization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Chunking Content Into Short Segments",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Enhancing Intrinsic Motivation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Designing Content That Is Truly Interesting",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Embedding Frequent Constructive Learning Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Effective Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Best Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Instruction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Materials",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Graphics And Visuals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Learning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Instruction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Extraneous Words, Graphics, And Sounds",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Working Memory Capacity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Presentational Clutter",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Processing Of Key Concepts",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness-Based Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mrazek Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Challenges",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Support Page",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Discussion Forums",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Community",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individuals",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Trained Staff",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Counselors",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Support",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Courses",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "People",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "World",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Direct Transmission",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Instructor",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Student",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Distribution Method",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Approach",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Challenges",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Community Building",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Embodiment",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Bmis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Revolution",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emerging Literature",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Best Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Empirical Approach",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Highest Quality Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Internet-Connected Device",
+      "type": "Object",
+      "properties": {}
+    },
+    {
+      "id": "Chaykowski K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Headspace",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Forbes",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "2017",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "August 15, 2018",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "Payne He",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lister C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "West Jh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bernhardt Jm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Jmir Mhealth Uhealth",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Garlick H",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "The Madness Of Mindfulness",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Financial Times",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Potter D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Palouse Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Based Stress Reduction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Greene D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mullins M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Baggett P",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cherry D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Self-Care For Helping Professionals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Students\u2019 Perceived Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Coping Self-Efficacy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Subjective Experiences",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "J Baccalaureate Soc Work",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Asuncion Jv",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fichten Cs",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Ferraro V",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Chwojka C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Barile M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Nguyen Mn",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wolforth J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Multiple Perspectives On The Accessibility Of E-Learning In Canadian Colleges And Universities",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Fichten Cs",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Asuncion Jv",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Barile M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fossey M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "De Simone C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Bernard Rm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Abrami Pc",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lou Y",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Borokhovski E",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wade A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wozney L",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wallet Pa",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fiset M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Huang B",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Rev Educ Res",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Intervention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Families Living With Mental Illness",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Feasibility Study",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Inform Health Soc Care 2017, 42:97-108",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Http://Dx.Doi.Org/10.1080/17538157.2016.1177533",
+      "type": "Url",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "97 Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Relative Diagnosed With Mental Illness",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Perceived Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Caregiver Burden",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Compassion",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Puzziferro M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Shelton K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Clarke T",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Kenney J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hermens A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A Model For Developing High-Quality Online Courses",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "The Political Economy Of E-Learning Educational Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Learning Educational Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Strategies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Standardisation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Scalability",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Educ + Train 2004",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Dixson Md",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Student Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Online Courses",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "J Scholarsh Teach Learn 2010",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Wang T-H",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Assessment-Centered E-Learning System",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Student Learning Effectiveness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sciencedirect",
+      "type": "Website",
+      "properties": {}
+    },
+    {
+      "id": "Elsevier",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Maki Rh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Maki Ws",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Online Courses, Handbook Of Applied Cognition",
+      "type": "Book",
+      "properties": {}
+    },
+    {
+      "id": "Wiley-Blackwell",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Krusche A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cyhlarova E",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Williams Jmg",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Online",
+      "type": "Article",
+      "properties": {}
+    },
+    {
+      "id": "Course For Stress, Anxiety And Depression",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Bmj Open 2013",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "David Creswell J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Interventions",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Annu Rev Psychol 2017",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Stjernswa \u00a8Rd S",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hansson L",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "User Value And Usability Of A Web-Based Mindfulness Intervention For Families Living With Mental Health Problems",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Health Soc Care Commun 2017",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "R Shore",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C Strauss",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "K Cavanagh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M Hayward",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "L Ellett",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Randomised Controlled Trial",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Brief Online Mindfulness-Based Intervention",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Paranoia",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Non-Clinical Sample",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "2018",
+      "type": "Year",
+      "properties": {}
+    },
+    {
+      "id": "110 Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "D-Mbi",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Participant Scores",
+      "type": "Measure",
+      "properties": {}
+    },
+    {
+      "id": "Current Opinion In Psychology 2019",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Sciencedirect",
+      "type": "Website",
+      "properties": {}
+    },
+    {
+      "id": "Acting With Awareness Subscale",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ffmq",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Noone C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hogan Mj",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Randomised Active-Controlled Trial",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Online Mindfulness Intervention",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Executive Control",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Critical Thinking",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Key Thinking Dispositions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "University Student Sample",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Bmc Psychol 2018",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Kemper Kj",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bennike Ih",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wieghorst A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Kirk U",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Brief Online Mindfulness Training: Immediate Impact",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Online-Based Mindfulness Training Reduces Behavioral Markers Of Mind Wandering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Jayawardene Wp",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lohrmann Dk",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Erbe Rg",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Torabi Mr",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Preventive Online Mindfulness Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meta-Analysis Of Randomized Controlled Trials",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Prevent Med Rep 2017",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Perceived Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mbsr Protocol",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kabat-Zinn J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Gu J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cavanagh K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Strauss C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Online Mindfulness-Based Self-Help Intervention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Underlying Mechanisms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness 2018, 9:1245-1257",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Economides M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Martman J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bell Mj",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Sanderson B",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Smartphone App",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress Improvement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Affect Improvement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Irritability Improvement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Randomized Controlled Trial",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness 2018:1-10",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Yang",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Schamber",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Meyer",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Gold",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Happier Healers: Randomized Controlled Trial Of Mobile Mindfulness For Stress Management",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Bailey Nw",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Nguyen J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bialylew E",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Corin Se",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Gilbertson T",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Chambers R",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fitzgerald Pb",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Spadaro Kc",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hunker Df",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Ralston E",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Exploring The Effects Of An Online Asynchronous Mindfulness Meditation Intervention With Nursing Students On Stress, Mood, And Cognition: A Descriptive Study",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "The Influence Of An Application-Based Mindfulness Intervention On Self-Reported Rumination, Stress, Emotional",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Intelligence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Life Satisfaction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Undergraduate Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mmu Psychol J",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Lindsay",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Young",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Smyth",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Brown",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Creswell",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Boettcher J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A\u02daStro\u00a8M V",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Pa\u02daHlsson D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Schenstro \u00a8M O",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Andersson G",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Carlbring P",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Internet-Based Mindfulness Treatment For Anxiety Disorders: A Randomized Controlled Trial",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Behav Ther",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "2014",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "Querstret D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cropley M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fife-Schaw C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "2018",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "Krusche A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Dymond M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Murphy Se",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Crane C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness For Pregnancy",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Midwifery",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Cavanagh K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Strauss C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cicconi F",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Griffiths N",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wyper A",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jones F",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Behav Res Ther",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Sobczak Lr",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "West Lm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Querstret D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cropley M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fife-Schaw C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness- And Acceptance-Based Approaches",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Diverse Populations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Service Delivery",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Diverse Community Settings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Internet-Based Instructor-Led Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Work-Related Rumination",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Fatigue",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sleep",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Randomized Waitlist Control Trial",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "J Occupa Health Psychol",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Querstret",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cropley",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Fife-Schaw",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Four-Week D-Mbi",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Lessons",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Guided Meditations",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Community Sample",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Depressive Symptoms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Hong Y",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Chiu C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Dweck Cs",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lin M-S",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wan W",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Robins Rw",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Pals Jl",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Implicit Self-Theories In The Academic Domain: Implications For Goal Orientation, Attributions, Affect",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Self-Esteem Change",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self Identity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Fish J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Brimson J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Lynch S",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Clinical Outcomes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Banerjee M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cavanagh K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Strauss C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Healthcare Staff",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Self-Help Mindfulness-Based Intervention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Banerjee",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cavanagh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Strauss",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Change",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Perceived Consequences",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Facilitation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Hinderance",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Engagement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Intervention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Shorter Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Motivation To Reduce Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Increased Feeling Of Control Over Thoughts",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "B. Sciences Cognitive And Sensory",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "C. On D. In The S. Of L.",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "C. On L.R. And E. Practice",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "National Academies Press",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "2000",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "Moss D",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Waugh M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Barnes R",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Int J Qual Stud Health Well-Being",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "2008",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "3:132-142",
+      "type": "Volume",
+      "properties": {}
+    },
+    {
+      "id": "Http://Dx.Doi.Org/10.1080/17482620801939592",
+      "type": "Url",
+      "properties": {}
+    },
+    {
+      "id": "Banerjee M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cavanagh K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Strauss C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Baxter K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Courage C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Caine K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Barriers To Mindfulness: A Path Analytic Model Exploring The Role Of Rumination And Worry In Predicting Psychological And Physical Engagement In An Online Mindfulness-Based Intervention",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness (Ny)",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Understanding Your Users: A Practical Guide To User Research Methods",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Morgan Kaufmann",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "National Research Council",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Knowing What Students Know: The Science And Design Of Educational Assessment",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "The National Academies Press",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Grant Lk",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Courtoreille M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Comparison Of Fixed-Item And Response-Sensitive Versions Of An Online Tutorial",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Wang Kh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wang Th",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wang Wl",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Huang Sc",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "J Comput Assist Learn",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness-Based Interventions",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mrazek Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Current Opinion In Psychology",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Harackiewicz Jm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Smith Jl",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Priniski Sj",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Interest Matters",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Importance Of Promoting Interest In Education",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Policy Insights Behav Brain Sci 2016, 3:220-227",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Educators",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Situational Interest",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Feelings Of Enjoyment And Excitement",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Topic",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Clark Rc",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mayer Re",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "E-Learning And The Science Of Instruction",
+      "type": "Book",
+      "properties": {}
+    },
+    {
+      "id": "John Wiley & Sons, Inc",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "2016",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "August 15, 2018",
+      "type": "Date",
+      "properties": {}
+    },
+    {
+      "id": "Https://Www.Wiley.Com/En-Us/E+Learning+And+The+Science+Of+Instruction%3A+Proven+Guidelines+For+Consumers+And+Designers+Of+Multimedia+Learning%2C+4Th+Edition-P-9781119158660",
+      "type": "Url",
+      "properties": {}
+    },
+    {
+      "id": "Means B",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Toyama Y",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Murphy R",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bakia M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jones K",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Washington, D.C",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "U.S.",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Education",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Office Of Planning, Evaluation, And Policy Development",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Bernard Rm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Abrami Pc",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Borokhovski E",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Wade Ca",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Tamim Rm",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Surkes Ma",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Bethel Ec",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Rev Educ Res",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Butcher Kr",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "The Multimedia Principle",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "The Cambridge Handbook Of Multimedia Learning, 2Nd Ed.",
+      "type": "Book",
+      "properties": {}
+    },
+    {
+      "id": "Mayer Re",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cambridge University Press",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Mayer Re, Jackson J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "The Case For Coherence In Scientific Explanations: Quantitative Details Can Hurt Qualitative Understanding",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "J Exp Psychol: Appl",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Castles J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Persistence And The Adult Learner: Factors Affecting",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Persistence In Open University Students",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Act Learn Higher Educ",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Perry B",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Boman J",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Care Wd",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Edwards M",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Park C",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mu\u00a8Ller T",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Persistence Of Women In Online Degree-Completion Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Int Rev Res Open Distrib Learn",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Current Opinion In Psychology",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "2019",
+      "type": "Year",
+      "properties": {}
+    },
+    {
+      "id": "28",
+      "type": "Volume",
+      "properties": {}
+    },
+    {
+      "id": "81\u201386",
+      "type": "Pages",
+      "properties": {}
+    },
+    {
+      "id": "Www.Sciencedirect.Com",
+      "type": "Website",
+      "properties": {}
+    }
+  ],
+  "relations": [
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Mindfulness Instruction",
+      "type": "DISSEMINATION",
+      "properties": {}
+    },
+    {
+      "source": "Smartphone Applications",
+      "target": "Digital Mindfulness-Based Interventions",
+      "type": "SUPPORT",
+      "properties": {}
+    },
+    {
+      "source": "Web-Based Platforms",
+      "target": "Traditional Face-To-Face Formats",
+      "type": "OFFER_POTENTIAL_ADVANTAGES_OVER",
+      "properties": {}
+    },
+    {
+      "source": "Web-Based Platforms",
+      "target": "Mindfulness Training",
+      "type": "ENHANCE_ACCESSIBILITY_OF",
+      "properties": {}
+    },
+    {
+      "source": "Web-Based Platforms",
+      "target": "Mindfulness Training",
+      "type": "ENHANCE_STANDARDIZATION_OF",
+      "properties": {}
+    },
+    {
+      "source": "Web-Based Platforms",
+      "target": "Mindfulness Training",
+      "type": "ENHANCE_PERSONALIZATION_OF",
+      "properties": {}
+    },
+    {
+      "source": "Web-Based Platforms",
+      "target": "Mindfulness Training",
+      "type": "ENHANCE_EFFICACY_OF",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Mindfulness Training",
+      "type": "TEACH",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Attention",
+      "type": "IMPROVE_MEASURES_OF",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Stress",
+      "type": "IMPROVE_MEASURES_OF",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Depression",
+      "type": "IMPROVE_MEASURES_OF",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Anxiety",
+      "type": "IMPROVE_MEASURES_OF",
+      "properties": {}
+    },
+    {
+      "source": "Best Practices",
+      "target": "Multiple Fields Of Research",
+      "type": "FROM",
+      "properties": {}
+    },
+    {
+      "source": "Best Practices",
+      "target": "Strategies",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Strategies",
+      "target": "Low Engagement",
+      "type": "OVERCOME",
+      "properties": {}
+    },
+    {
+      "source": "Strategies",
+      "target": "Shallow Learning",
+      "type": "OVERCOME",
+      "properties": {}
+    },
+    {
+      "source": "Strategies",
+      "target": "Unaddressed Obstacles Or Frustrations",
+      "type": "OVERCOME",
+      "properties": {}
+    },
+    {
+      "source": "Alissa J Mrazek",
+      "target": "Dept. Of Psychological & Brain Sciences, University Of California Santa Barbara, United States",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Michael D Mrazek",
+      "target": "Current Opinion In Psychology",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology",
+      "target": "Mindfulness",
+      "type": "THEME",
+      "properties": {}
+    },
+    {
+      "source": "Amit Bernstein",
+      "target": "Current Opinion In Psychology",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "Dave Vago",
+      "target": "Current Opinion In Psychology",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "Thorsten Barnhofer",
+      "target": "Current Opinion In Psychology",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "Elsevier Ltd.",
+      "target": "Current Opinion In Psychology",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Millions Of People",
+      "type": "REACHED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Venture Capital",
+      "type": "ATTRACTED",
+      "properties": {}
+    },
+    {
+      "source": "Venture Capital",
+      "target": "2017",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Stress Reduction",
+      "target": "E-Courses",
+      "type": "TURNED_INTO",
+      "properties": {}
+    },
+    {
+      "source": "Programs",
+      "target": "Popularity",
+      "type": "GROWING_IN",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Training",
+      "type": "DELIVER",
+      "properties": {}
+    },
+    {
+      "source": "Training",
+      "target": "Global Audience",
+      "type": "DELIVER_TO",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Research",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Challenges",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Best Practices",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Mindfulness Training",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Accessibility",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Standardization",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Personalization",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Efficacy",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Geographical Constraints",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Logistical Constraints",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Financial Constraints",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "High Quality Training",
+      "type": "ACCESS",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Digital Training",
+      "type": "ENJOY",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Scheduling Flexibility",
+      "type": "ENJOY",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "D-Mbi",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Training'S Accessibility",
+      "target": "Engagement",
+      "type": "FACILITATE",
+      "properties": {}
+    },
+    {
+      "source": "Training'S Accessibility",
+      "target": "Devices",
+      "type": "ACROSS",
+      "properties": {}
+    },
+    {
+      "source": "Training'S Accessibility",
+      "target": "Times Of Their Choosing",
+      "type": "AT",
+      "properties": {}
+    },
+    {
+      "source": "Digital Training",
+      "target": "Standardize",
+      "type": "ENABLE",
+      "properties": {}
+    },
+    {
+      "source": "Curriculum",
+      "target": "Benefits",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Course Content",
+      "target": "Standardize",
+      "type": "ELEMENT_OF",
+      "properties": {}
+    },
+    {
+      "source": "Presentation",
+      "target": "Standardize",
+      "type": "ELEMENT_OF",
+      "properties": {}
+    },
+    {
+      "source": "Digital Training",
+      "target": "Personalized Learning",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Personalized Learning",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Traditional Classrooms",
+      "type": "COMPARE",
+      "properties": {}
+    },
+    {
+      "source": "U.S. Department Of Education\u2019S Institute Of Education Sciences",
+      "target": "Grant Number R305A170445",
+      "type": "SUPPORT",
+      "properties": {}
+    },
+    {
+      "source": "Sciencedirect",
+      "target": "Www.Sciencedirect.Com",
+      "type": "AVAILABLE_AT",
+      "properties": {}
+    },
+    {
+      "source": "Sciencedirect",
+      "target": "Current Opinion In Psychology 2019",
+      "type": "PUBLISH",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology 2019",
+      "target": "Digital Training",
+      "type": "SUGGEST",
+      "properties": {}
+    },
+    {
+      "source": "Digital Training",
+      "target": "Outcomes",
+      "type": "ELICIT",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi'S",
+      "target": "Face-To-Face Mindfulness Interventions",
+      "type": "EQUAL_EFFECTIVENESS",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi'S",
+      "target": "Depression",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi'S",
+      "target": "Anxiety",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi'S",
+      "target": "Stress",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Face-To-Face Mindfulness Interventions",
+      "target": "Depression",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Face-To-Face Mindfulness Interventions",
+      "target": "Anxiety",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Face-To-Face Mindfulness Interventions",
+      "target": "Stress",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Face-To-Face Mindfulness Interventions",
+      "target": "Benefits",
+      "type": "LEAD_TO",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mbis",
+      "target": "Mindfulness And Attention",
+      "type": "EFFECTS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Stjernsward & Hansson",
+      "target": "D-Mbi",
+      "type": "ADMINISTERED",
+      "properties": {}
+    },
+    {
+      "source": "97 Individuals",
+      "target": "Distress",
+      "type": "EXPERIENCING",
+      "properties": {}
+    },
+    {
+      "source": "Distress",
+      "target": "Mental Illness",
+      "type": "DUE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mental Illness",
+      "target": "Family",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Eight-Week Course",
+      "target": "Mbsr Training Protocol",
+      "type": "ADAPTED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Eight-Week Course",
+      "target": "960 Minutes Of Mindfulness Practice",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Intervention",
+      "target": "Post-Test",
+      "type": "ASSOCIATED_WITH_INCREASE_AT",
+      "properties": {}
+    },
+    {
+      "source": "Intervention",
+      "target": "3-Month Follow Up",
+      "type": "ASSOCIATED_WITH_INCREASE_AT",
+      "properties": {}
+    },
+    {
+      "source": "Acting With Awareness Subscale",
+      "target": "Five Facet Mindfulness Questionnaire",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Shore Et Al.",
+      "target": "D-Mbi",
+      "type": "DELIVERED",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "University Students",
+      "type": "TO",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "University Students",
+      "type": "INTRODUCED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Acting With Awareness Subscale",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Ffmq",
+      "target": "Post-Test",
+      "type": "ASSESSMENT",
+      "properties": {}
+    },
+    {
+      "source": "Ffmq",
+      "target": "1-Week Follow Up Assessments",
+      "type": "ASSESSMENT",
+      "properties": {}
+    },
+    {
+      "source": "Noone",
+      "target": "Participants",
+      "type": "REPORTED_INCREASE_IN_SCORES",
+      "properties": {}
+    },
+    {
+      "source": "Hogan",
+      "target": "Participants",
+      "type": "REPORTED_INCREASE_IN_SCORES",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Participants",
+      "type": "INCREASED_SCORES",
+      "properties": {}
+    },
+    {
+      "source": "Kemper",
+      "target": "Health Professionals",
+      "type": "INVESTIGATED_EFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Health Professionals",
+      "type": "COMPLETION_ASSOCIATED_WITH_IMPROVEMENTS",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Attention Awareness Scale",
+      "target": "Health Professionals",
+      "type": "IMPROVEMENTS",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "D-Mbi",
+      "type": "ENGAGED_IN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Headspace",
+      "type": "USING",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "Maas",
+      "type": "REPORTED_IMPROVEMENTS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Jayawardene",
+      "target": "Digital Mindfulness Interventions",
+      "type": "CONDUCTED_META_ANALYSIS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness Interventions",
+      "target": "Stress",
+      "type": "MEASURED_EFFECTS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Mbsr Protocol",
+      "target": "Mindfulness Interventions",
+      "type": "VARIATION",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Perceived Stress",
+      "type": "EFFECT",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Stress",
+      "type": "EFFICACY",
+      "properties": {}
+    },
+    {
+      "source": "Boettcher Et Al.",
+      "target": "D-Mbi",
+      "type": "ANALYZED_EFFECT",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Depression",
+      "type": "DECREASED",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Anxiety",
+      "type": "DECREASED",
+      "properties": {}
+    },
+    {
+      "source": "Participants With Anxiety Disorder",
+      "target": "D-Mbi",
+      "type": "RECEIVED",
+      "properties": {}
+    },
+    {
+      "source": "Querstret Et Al.",
+      "target": "D-Mbi",
+      "type": "ANALYZED_EFFECT",
+      "properties": {}
+    },
+    {
+      "source": "Krusche Et Al.",
+      "target": "Course",
+      "type": "UTILIZED",
+      "properties": {}
+    },
+    {
+      "source": "Querstret Et Al.",
+      "target": "Course",
+      "type": "UTILIZED",
+      "properties": {}
+    },
+    {
+      "source": "Course",
+      "target": "Community Sample",
+      "type": "REDUCED_DEPRESSION",
+      "properties": {}
+    },
+    {
+      "source": "Course",
+      "target": "University Staff And Students",
+      "type": "DECREASED_ANXIETY",
+      "properties": {}
+    },
+    {
+      "source": "Course",
+      "target": "University Staff And Students",
+      "type": "DECREASED_DEPRESSION",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Mindfulness Training",
+      "type": "APPROACH",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Control Condition",
+      "type": "LACK",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Completion Rates",
+      "type": "LOW",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Attrition Rate",
+      "type": "AVERAGE",
+      "properties": {}
+    },
+    {
+      "source": "Studies",
+      "target": "Adherence",
+      "type": "MENTION",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "Adherence",
+      "type": "PROBLEM",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Adherence",
+      "type": "CHALLENGE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Challenges",
+      "type": "FACE",
+      "properties": {}
+    },
+    {
+      "source": "In-Person Training Programs",
+      "target": "Challenges",
+      "type": "FACE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Audience",
+      "type": "SELECTING",
+      "properties": {}
+    },
+    {
+      "source": "Middle School Students",
+      "target": "Audience",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Military Veterans",
+      "target": "Audience",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Spiritual Dimension",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Spiritual Dimension",
+      "target": "Users With Strong Religious Affiliations",
+      "type": "AFFECT",
+      "properties": {}
+    },
+    {
+      "source": "Users With Strong Religious Affiliations",
+      "target": "Mindfulness",
+      "type": "INCONSISTENT_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Religious Beliefs",
+      "type": "INCONSISTENT_WITH",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Objectives",
+      "type": "LACK",
+      "properties": {}
+    },
+    {
+      "source": "Objectives",
+      "target": "Potential Impact",
+      "type": "AFFECT",
+      "properties": {}
+    },
+    {
+      "source": "Potential Impact",
+      "target": "Valued Outcome Measures",
+      "type": "AFFECT",
+      "properties": {}
+    },
+    {
+      "source": "Querstret Et Al.",
+      "target": "D-Mbi",
+      "type": "OBSERVED",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Three Facets Of Mindfulness",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Acting With Awareness",
+      "target": "Key Outcome Measures Of Work-Related Rumination",
+      "type": "MEDIATED_EFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Nation",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Fatigue",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Sleep Quality",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Mindfulness",
+      "type": "EMPHASIZES",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Audience Diversity",
+      "type": "ADDRESSES",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Individual Differences",
+      "type": "ADDRESSES",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Fixed Mindset",
+      "type": "POSSESS",
+      "properties": {}
+    },
+    {
+      "source": "Fixed Mindset",
+      "target": "Ability To Be Mindful",
+      "type": "ABOUT",
+      "properties": {}
+    },
+    {
+      "source": "Fixed Mindset",
+      "target": "Decreased Effort",
+      "type": "LEAD_TO",
+      "properties": {}
+    },
+    {
+      "source": "Fixed Mindset",
+      "target": "Tailored Instruction",
+      "type": "BENEFIT_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Tailored Instruction",
+      "target": "Growth Mindset",
+      "type": "PROMOTE",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Engagement",
+      "type": "MAINTAIN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Engagement",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Participant",
+      "type": "REPORT_HIGH_DROP-OUT",
+      "properties": {}
+    },
+    {
+      "source": "Review Paper",
+      "target": "Attrition Rates",
+      "type": "REPORT",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "D-Mbi Exercises",
+      "type": "REPORT_DIFFICULTY_STAYING_ENGAGED",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Meditation Practices",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Ruminative Thinking",
+      "type": "ENGAGE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Mental To-Do List",
+      "type": "CREATE",
+      "properties": {}
+    },
+    {
+      "source": "Effective Learning",
+      "target": "Retention Of Factual Knowledge",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Effective Learning",
+      "target": "Conceptual Understanding",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Conceptual Understanding",
+      "target": "Flexible Use, Transfer, And Application Of Knowledge",
+      "type": "ALLOWS_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Effective Learning",
+      "target": "D-Mbis",
+      "type": "CHALLENGE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Participants Of Mbis",
+      "target": "Core Concepts Of Mindfulness",
+      "type": "STRUGGLE_TO_GRASP",
+      "properties": {}
+    },
+    {
+      "source": "Individuals",
+      "target": "Obstacles",
+      "type": "ENCOUNTER",
+      "properties": {}
+    },
+    {
+      "source": "Individuals",
+      "target": "Frustration",
+      "type": "ENCOUNTER",
+      "properties": {}
+    },
+    {
+      "source": "Users Of D-Mbis",
+      "target": "Negative Thoughts",
+      "type": "EXPERIENCE",
+      "properties": {}
+    },
+    {
+      "source": "Users Of D-Mbis",
+      "target": "Anxious Feelings",
+      "type": "EXPERIENCE",
+      "properties": {}
+    },
+    {
+      "source": "Negative Thoughts",
+      "target": "Meditations",
+      "type": "DURING",
+      "properties": {}
+    },
+    {
+      "source": "Anxious Feelings",
+      "target": "Meditations",
+      "type": "DURING",
+      "properties": {}
+    },
+    {
+      "source": "Challenges",
+      "target": "Discomfort",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Challenges",
+      "target": "Difficulty Sustaining Focus",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Challenges",
+      "target": "Feeling Self-Critical",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Challenges",
+      "target": "Doubts That Mindfulness Is Helpful",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Challenges",
+      "target": "Decreased Engagement",
+      "type": "LEADS_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Challenges",
+      "type": "FACE",
+      "properties": {}
+    },
+    {
+      "source": "Best Practices",
+      "target": "Digital Learning",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Program Creators",
+      "target": "Audience",
+      "type": "UNDERSTAND",
+      "properties": {}
+    },
+    {
+      "source": "Program Creators",
+      "target": "Target Audience Demographics",
+      "type": "DEFINE",
+      "properties": {}
+    },
+    {
+      "source": "Target Audience Demographics",
+      "target": "User Research",
+      "type": "PAVE_THE_WAY_FOR",
+      "properties": {}
+    },
+    {
+      "source": "User Research",
+      "target": "Target Audience Behaviors",
+      "type": "CONDUCT_ON",
+      "properties": {}
+    },
+    {
+      "source": "User Research",
+      "target": "Target Audience Needs",
+      "type": "CONDUCT_ON",
+      "properties": {}
+    },
+    {
+      "source": "User Research",
+      "target": "Target Audience Motivations",
+      "type": "CONDUCT_ON",
+      "properties": {}
+    },
+    {
+      "source": "User Research",
+      "target": "D-Mbi",
+      "type": "INFORM",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Design",
+      "type": "INFORM",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Content",
+      "type": "INFORM",
+      "properties": {}
+    },
+    {
+      "source": "User Research Methodologies",
+      "target": "Surveys",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "User Research Methodologies",
+      "target": "Focus Groups",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "User Research Methodologies",
+      "target": "Persona Development",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "User Research Methodologies",
+      "target": "Individual Interviews",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Program Creators",
+      "target": "Learning Objectives",
+      "type": "SELECT",
+      "properties": {}
+    },
+    {
+      "source": "Program Creators",
+      "target": "Training Outcomes",
+      "type": "SELECT",
+      "properties": {}
+    },
+    {
+      "source": "Program Creators",
+      "target": "Target Audience",
+      "type": "UNDERSTAND",
+      "properties": {}
+    },
+    {
+      "source": "Adhd",
+      "target": "Growth Mindset About Attention",
+      "type": "LEARNING_OBJECTIVE",
+      "properties": {}
+    },
+    {
+      "source": "Adhd",
+      "target": "Sustained Attention",
+      "type": "TARGET_OUTCOME",
+      "properties": {}
+    },
+    {
+      "source": "Growth Mindset About Attention",
+      "target": "Program Content",
+      "type": "INFORM",
+      "properties": {}
+    },
+    {
+      "source": "Sustained Attention",
+      "target": "Program Content",
+      "type": "INFORM",
+      "properties": {}
+    },
+    {
+      "source": "Program Content",
+      "target": "D-Mbi",
+      "type": "INCREASE_RELEVANCE_AND_EFFICACY",
+      "properties": {}
+    },
+    {
+      "source": "Audience Diversity",
+      "target": "Adhd",
+      "type": "ADDRESSING",
+      "properties": {}
+    },
+    {
+      "source": "Personalization",
+      "target": "Program Content",
+      "type": "OF",
+      "properties": {}
+    },
+    {
+      "source": "Personalization",
+      "target": "Individual Engagement",
+      "type": "FACILITATE",
+      "properties": {}
+    },
+    {
+      "source": "Personalization",
+      "target": "Learning Outcomes",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "User Experience",
+      "target": "Existing Knowledge",
+      "type": "ALIGN_WITH",
+      "properties": {}
+    },
+    {
+      "source": "User Experience",
+      "target": "Interests",
+      "type": "ALIGN_WITH",
+      "properties": {}
+    },
+    {
+      "source": "User Experience",
+      "target": "Goals",
+      "type": "ALIGN_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Engagement",
+      "target": "D-Mbi",
+      "type": "SUSTAIN",
+      "properties": {}
+    },
+    {
+      "source": "Chunking Content Into Short Segments",
+      "target": "Effective Learning",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Enhancing Intrinsic Motivation",
+      "target": "Effective Learning",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Designing Content That Is Truly Interesting",
+      "target": "Enhancing Intrinsic Motivation",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Embedding Frequent Constructive Learning Exercises",
+      "target": "Users",
+      "type": "ENGAGES",
+      "properties": {}
+    },
+    {
+      "source": "Best Practices",
+      "target": "Effective Learning",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Materials",
+      "target": "Effective Learning",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Graphics And Visuals",
+      "target": "Learning",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Extraneous Words, Graphics, And Sounds",
+      "target": "Digital Instruction",
+      "type": "OMITTED_ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Working Memory Capacity",
+      "target": "Presentational Clutter",
+      "type": "LIMITED_PREVENTS",
+      "properties": {}
+    },
+    {
+      "source": "Presentational Clutter",
+      "target": "Processing Of Key Concepts",
+      "type": "PREVENTS",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Mrazek Et Al.",
+      "type": "RESEARCHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Challenges",
+      "type": "ADDRESS",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Users",
+      "type": "SUPPORT",
+      "properties": {}
+    },
+    {
+      "source": "Support Page",
+      "target": "Common Challenges",
+      "type": "PROVIDES_RESPONSES_TO",
+      "properties": {}
+    },
+    {
+      "source": "Discussion Forums",
+      "target": "Users",
+      "type": "CONNECT",
+      "properties": {}
+    },
+    {
+      "source": "Community",
+      "target": "Individuals",
+      "type": "CONSISTS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Individuals",
+      "target": "Support",
+      "type": "OFFER",
+      "properties": {}
+    },
+    {
+      "source": "Trained Staff",
+      "target": "Emotional Support",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Counselors",
+      "target": "Emotional Support",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Courses",
+      "type": "PREDOMINANT_WAY",
+      "properties": {}
+    },
+    {
+      "source": "People",
+      "target": "World",
+      "type": "AROUND",
+      "properties": {}
+    },
+    {
+      "source": "People",
+      "target": "Mindfulness",
+      "type": "INTRODUCED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Direct Transmission",
+      "target": "Mindfulness",
+      "type": "OF",
+      "properties": {}
+    },
+    {
+      "source": "Instructor",
+      "target": "Student",
+      "type": "TO",
+      "properties": {}
+    },
+    {
+      "source": "Distribution Method",
+      "target": "Promising",
+      "type": "IS",
+      "properties": {}
+    },
+    {
+      "source": "Digital Approach",
+      "target": "Challenges",
+      "type": "HAS",
+      "properties": {}
+    },
+    {
+      "source": "Community Building",
+      "target": "D-Bmis",
+      "type": "OBSTACLE",
+      "properties": {}
+    },
+    {
+      "source": "Embodiment",
+      "target": "D-Bmis",
+      "type": "OBSTACLE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "D-Mbis",
+      "type": "INTERSECTION",
+      "properties": {}
+    },
+    {
+      "source": "Technology",
+      "target": "D-Mbis",
+      "type": "INTERSECTION",
+      "properties": {}
+    },
+    {
+      "source": "Digital Revolution",
+      "target": "Accessibility",
+      "type": "IMPROVING",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Emerging Literature",
+      "type": "GUIDED_BY",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Best Practices",
+      "type": "COMBINED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbis",
+      "target": "Empirical Approach",
+      "type": "COMBINED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Highest Quality Mindfulness Training",
+      "target": "Internet-Connected Device",
+      "type": "ACCESSIBLE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Chaykowski K",
+      "target": "Headspace",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Chaykowski K",
+      "target": "Forbes",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Headspace",
+      "target": "2017",
+      "type": "MENTIONED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Headspace",
+      "target": "August 15, 2018",
+      "type": "ACCESSED_ON",
+      "properties": {}
+    },
+    {
+      "source": "Payne He",
+      "target": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Lister C",
+      "target": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "West Jh",
+      "target": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bernhardt Jm",
+      "target": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Behavioral Functionality Of Mobile Apps In Health Interventions: A Systematic Review Of The Literature",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Garlick H",
+      "target": "The Madness Of Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "The Madness Of Mindfulness",
+      "target": "Financial Times",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Potter D",
+      "target": "Palouse Mindfulness",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Potter D",
+      "target": "Mindfulness Based Stress Reduction",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Greene D",
+      "target": "Self-Care For Helping Professionals",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Mullins M",
+      "target": "Self-Care For Helping Professionals",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Baggett P",
+      "target": "Self-Care For Helping Professionals",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Cherry D",
+      "target": "Self-Care For Helping Professionals",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Self-Care For Helping Professionals",
+      "target": "Students\u2019 Perceived Stress",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Self-Care For Helping Professionals",
+      "target": "Coping Self-Efficacy",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Self-Care For Helping Professionals",
+      "target": "Subjective Experiences",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Self-Care For Helping Professionals",
+      "target": "J Baccalaureate Soc Work",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Asuncion Jv",
+      "target": "J Baccalaureate Soc Work",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Fichten Cs",
+      "target": "J Baccalaureate Soc Work",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Ferraro V",
+      "target": "J Baccalaureate Soc Work",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Chwojka C",
+      "target": "J Baccalaureate Soc Work",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Barile M",
+      "target": "J Baccalaureate Soc Work",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Nguyen Mn",
+      "target": "Multiple Perspectives On The Accessibility Of E-Learning In Canadian Colleges And Universities",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wolforth J",
+      "target": "Multiple Perspectives On The Accessibility Of E-Learning In Canadian Colleges And Universities",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Fichten Cs",
+      "target": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Asuncion Jv",
+      "target": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Barile M",
+      "target": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Fossey M",
+      "target": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "De Simone C",
+      "target": "Access To Educational And Instructional Computer Technologies For Post-Secondary Students With Disabilities: Lessons From Three Empirical Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bernard Rm",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Abrami Pc",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Lou Y",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Borokhovski E",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wade A",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wozney L",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wallet Pa",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Fiset M",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Huang B",
+      "target": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "How Does Distance Education Compare With Classroom Instruction? A Meta-Analysis Of The Empirical Literature",
+      "target": "Rev Educ Res",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Families Living With Mental Illness",
+      "type": "TARGET",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Feasibility Study",
+      "type": "SUBJECT",
+      "properties": {}
+    },
+    {
+      "source": "Feasibility Study",
+      "target": "Inform Health Soc Care 2017, 42:97-108",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Feasibility Study",
+      "target": "Http://Dx.Doi.Org/10.1080/17538157.2016.1177533",
+      "type": "REFERENCE",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "97 Participants",
+      "type": "USED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "97 Participants",
+      "target": "Relative Diagnosed With Mental Illness",
+      "type": "HAD",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Mindfulness",
+      "type": "IMPROVEMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Perceived Stress",
+      "type": "IMPROVEMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Caregiver Burden",
+      "type": "IMPROVEMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Self-Compassion",
+      "type": "IMPROVEMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "D-Mbi",
+      "type": "RATED_HIGH",
+      "properties": {}
+    },
+    {
+      "source": "Puzziferro M",
+      "target": "A Model For Developing High-Quality Online Courses",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Shelton K",
+      "target": "A Model For Developing High-Quality Online Courses",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Clarke T",
+      "target": "The Political Economy Of E-Learning Educational Development",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Kenney J",
+      "target": "The Political Economy Of E-Learning Educational Development",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Hermens A",
+      "target": "The Political Economy Of E-Learning Educational Development",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Learning Educational Development",
+      "target": "Strategies",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Learning Educational Development",
+      "target": "Standardisation",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Learning Educational Development",
+      "target": "Scalability",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Educ + Train 2004",
+      "target": "Learning Educational Development",
+      "type": "DISCUSSES",
+      "properties": {}
+    },
+    {
+      "source": "Dixson Md",
+      "target": "Student Engagement",
+      "type": "RESEARCHES",
+      "properties": {}
+    },
+    {
+      "source": "Student Engagement",
+      "target": "Online Courses",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "J Scholarsh Teach Learn 2010",
+      "target": "Student Engagement",
+      "type": "DISCUSSES",
+      "properties": {}
+    },
+    {
+      "source": "Wang T-H",
+      "target": "Assessment-Centered E-Learning System",
+      "type": "DEVELOPS",
+      "properties": {}
+    },
+    {
+      "source": "Assessment-Centered E-Learning System",
+      "target": "Student Learning Effectiveness",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Sciencedirect",
+      "target": "Elsevier",
+      "type": "PUBLISHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Maki Rh",
+      "target": "Online Courses, Handbook Of Applied Cognition",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Maki Ws",
+      "target": "Online Courses, Handbook Of Applied Cognition",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Online Courses, Handbook Of Applied Cognition",
+      "target": "Wiley-Blackwell",
+      "type": "PUBLISHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Krusche A",
+      "target": "Mindfulness Online",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Cyhlarova E",
+      "target": "Mindfulness Online",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Williams Jmg",
+      "target": "Mindfulness Online",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Course For Stress, Anxiety And Depression",
+      "target": "Bmj Open 2013",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "David Creswell J",
+      "target": "Mindfulness Interventions",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Annu Rev Psychol 2017",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Stjernswa \u00a8Rd S",
+      "target": "User Value And Usability Of A Web-Based Mindfulness Intervention For Families Living With Mental Health Problems",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Hansson L",
+      "target": "User Value And Usability Of A Web-Based Mindfulness Intervention For Families Living With Mental Health Problems",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "User Value And Usability Of A Web-Based Mindfulness Intervention For Families Living With Mental Health Problems",
+      "target": "Health Soc Care Commun 2017",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "R Shore",
+      "target": "Randomised Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "C Strauss",
+      "target": "Randomised Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "K Cavanagh",
+      "target": "Randomised Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "M Hayward",
+      "target": "Randomised Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "L Ellett",
+      "target": "Randomised Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Controlled Trial",
+      "target": "Brief Online Mindfulness-Based Intervention",
+      "type": "TESTED",
+      "properties": {}
+    },
+    {
+      "source": "Brief Online Mindfulness-Based Intervention",
+      "target": "Paranoia",
+      "type": "TARGETED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Controlled Trial",
+      "target": "Non-Clinical Sample",
+      "type": "INVOLVED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Controlled Trial",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Controlled Trial",
+      "target": "2018",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "110 Participants",
+      "type": "INTRODUCED_TO",
+      "properties": {}
+    },
+    {
+      "source": "D-Mbi",
+      "target": "Participant Scores",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology 2019",
+      "target": "Sciencedirect",
+      "type": "PUBLISHED_ON",
+      "properties": {}
+    },
+    {
+      "source": "Acting With Awareness Subscale",
+      "target": "Ffmq",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Noone C",
+      "target": "Randomised Active-Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Hogan Mj",
+      "target": "Randomised Active-Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "Online Mindfulness Intervention",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "Executive Control",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "Critical Thinking",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "Key Thinking Dispositions",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "University Student Sample",
+      "type": "INVOLVED",
+      "properties": {}
+    },
+    {
+      "source": "Randomised Active-Controlled Trial",
+      "target": "Bmc Psychol 2018",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Kemper Kj",
+      "target": "Brief Online Mindfulness Training: Immediate Impact",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bennike Ih",
+      "target": "Online-Based Mindfulness Training Reduces Behavioral Markers Of Mind Wandering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wieghorst A",
+      "target": "Online-Based Mindfulness Training Reduces Behavioral Markers Of Mind Wandering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Kirk U",
+      "target": "Online-Based Mindfulness Training Reduces Behavioral Markers Of Mind Wandering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Jayawardene Wp",
+      "target": "Meta-Analysis Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Lohrmann Dk",
+      "target": "Meta-Analysis Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Erbe Rg",
+      "target": "Meta-Analysis Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Torabi Mr",
+      "target": "Meta-Analysis Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Preventive Online Mindfulness Interventions",
+      "target": "Stress",
+      "type": "AFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "Preventive Online Mindfulness Interventions",
+      "target": "Mindfulness",
+      "type": "AFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "Meta-Analysis Of Randomized Controlled Trials",
+      "target": "Preventive Online Mindfulness Interventions",
+      "type": "ANALYZES",
+      "properties": {}
+    },
+    {
+      "source": "Meta-Analysis Of Randomized Controlled Trials",
+      "target": "Prevent Med Rep 2017",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Digital Interventions",
+      "target": "Perceived Stress",
+      "type": "ADDRESS",
+      "properties": {}
+    },
+    {
+      "source": "Digital Interventions",
+      "target": "Mbsr Protocol",
+      "type": "ADAPTED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Kabat-Zinn J",
+      "target": "Mindfulness-Based Interventions In Context: Past, Present, And Future",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Gu J",
+      "target": "Investigating The Specific Effects",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Cavanagh K",
+      "target": "Investigating The Specific Effects",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Strauss C",
+      "target": "Investigating The Specific Effects",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Online Mindfulness-Based Self-Help Intervention",
+      "target": "Stress",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Online Mindfulness-Based Self-Help Intervention",
+      "target": "Underlying Mechanisms",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Online Mindfulness-Based Self-Help Intervention",
+      "target": "Mindfulness 2018, 9:1245-1257",
+      "type": "DOCUMENTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Economides M",
+      "target": "Mindfulness-Based Smartphone App",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Martman J",
+      "target": "Mindfulness-Based Smartphone App",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Bell Mj",
+      "target": "Mindfulness-Based Smartphone App",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Sanderson B",
+      "target": "Mindfulness-Based Smartphone App",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Smartphone App",
+      "target": "Stress Improvement",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Smartphone App",
+      "target": "Affect Improvement",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Smartphone App",
+      "target": "Irritability Improvement",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Smartphone App",
+      "target": "Randomized Controlled Trial",
+      "type": "EVALUATED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Smartphone App",
+      "target": "Mindfulness 2018:1-10",
+      "type": "DOCUMENTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Yang",
+      "target": "Happier Healers: Randomized Controlled Trial Of Mobile Mindfulness For Stress Management",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Schamber",
+      "target": "Happier Healers: Randomized Controlled Trial Of Mobile Mindfulness For Stress Management",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Meyer",
+      "target": "Happier Healers: Randomized Controlled Trial Of Mobile Mindfulness For Stress Management",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Gold",
+      "target": "Happier Healers: Randomized Controlled Trial Of Mobile Mindfulness For Stress Management",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bailey Nw",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Nguyen J",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bialylew E",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Corin Se",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Gilbertson T",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Chambers R",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Fitzgerald Pb",
+      "target": "Effect On Well-Being From An Online Mindfulness Intervention: \u201cMindful In May\u201d",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Spadaro Kc",
+      "target": "Exploring The Effects Of An Online Asynchronous Mindfulness Meditation Intervention With Nursing Students On Stress, Mood, And Cognition: A Descriptive Study",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Hunker Df",
+      "target": "Exploring The Effects Of An Online Asynchronous Mindfulness Meditation Intervention With Nursing Students On Stress, Mood, And Cognition: A Descriptive Study",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Ralston E",
+      "target": "The Influence Of An Application-Based Mindfulness Intervention On Self-Reported Rumination, Stress, Emotional",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Intelligence",
+      "target": "Undergraduate Students",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Life Satisfaction",
+      "target": "Undergraduate Students",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Intelligence",
+      "target": "Life Satisfaction",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mmu Psychol J",
+      "target": "Intelligence",
+      "type": "DISCUSSES",
+      "properties": {}
+    },
+    {
+      "source": "Mmu Psychol J",
+      "target": "Life Satisfaction",
+      "type": "DISCUSSES",
+      "properties": {}
+    },
+    {
+      "source": "Lindsay",
+      "target": "Young",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Lindsay",
+      "target": "Smyth",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Lindsay",
+      "target": "Brown",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Lindsay",
+      "target": "Creswell",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Boettcher J",
+      "target": "A\u02daStro\u00a8M V",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Boettcher J",
+      "target": "Pa\u02daHlsson D",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Boettcher J",
+      "target": "Schenstro \u00a8M O",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Boettcher J",
+      "target": "Andersson G",
+      "type": "COLLABORATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Carlbring P",
+      "target": "Internet-Based Mindfulness Treatment For Anxiety Disorders: A Randomized Controlled Trial",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Internet-Based Mindfulness Treatment For Anxiety Disorders: A Randomized Controlled Trial",
+      "target": "Behav Ther",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Internet-Based Mindfulness Treatment For Anxiety Disorders: A Randomized Controlled Trial",
+      "target": "2014",
+      "type": "PUBLISHED_YEAR",
+      "properties": {}
+    },
+    {
+      "source": "Querstret D",
+      "target": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Cropley M",
+      "target": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Fife-Schaw C",
+      "target": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "The Effects Of An Online Mindfulness Intervention On Perceived Stress, Depression And Anxiety In A Non-Clinical Sample: A Randomised Waitlist Control Trial",
+      "target": "2018",
+      "type": "PUBLISHED_YEAR",
+      "properties": {}
+    },
+    {
+      "source": "Krusche A",
+      "target": "Mindfulness For Pregnancy",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Dymond M",
+      "target": "Mindfulness For Pregnancy",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Murphy Se",
+      "target": "Mindfulness For Pregnancy",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Crane C",
+      "target": "Mindfulness For Pregnancy",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness For Pregnancy",
+      "target": "Midwifery",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Cavanagh K",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Strauss C",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Cicconi F",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Griffiths N",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wyper A",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Jones F",
+      "target": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A Randomised Controlled Trial Of A Brief Online Mindfulness-Based Intervention",
+      "target": "Behav Res Ther",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Sobczak Lr",
+      "target": "Mindfulness- And Acceptance-Based Approaches",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "West Lm",
+      "target": "Mindfulness- And Acceptance-Based Approaches",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness- And Acceptance-Based Approaches",
+      "target": "Diverse Populations",
+      "type": "APPLICATION",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness- And Acceptance-Based Approaches",
+      "target": "Service Delivery",
+      "type": "CHALLENGE",
+      "properties": {}
+    },
+    {
+      "source": "Service Delivery",
+      "target": "Diverse Community Settings",
+      "type": "CONTEXT",
+      "properties": {}
+    },
+    {
+      "source": "Querstret D",
+      "target": "Internet-Based Instructor-Led Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Cropley M",
+      "target": "Internet-Based Instructor-Led Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Fife-Schaw C",
+      "target": "Internet-Based Instructor-Led Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Internet-Based Instructor-Led Mindfulness",
+      "target": "Work-Related Rumination",
+      "type": "APPLICATION",
+      "properties": {}
+    },
+    {
+      "source": "Fatigue",
+      "target": "Mindfulness",
+      "type": "ASSESSED_AS_MECHANISM_OF_CHANGE",
+      "properties": {}
+    },
+    {
+      "source": "Sleep",
+      "target": "Mindfulness",
+      "type": "ASSESSED_AS_MECHANISM_OF_CHANGE",
+      "properties": {}
+    },
+    {
+      "source": "Randomized Waitlist Control Trial",
+      "target": "J Occupa Health Psychol",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Querstret",
+      "target": "Four-Week D-Mbi",
+      "type": "ADMINISTERED",
+      "properties": {}
+    },
+    {
+      "source": "Cropley",
+      "target": "Four-Week D-Mbi",
+      "type": "ADMINISTERED",
+      "properties": {}
+    },
+    {
+      "source": "Fife-Schaw",
+      "target": "Four-Week D-Mbi",
+      "type": "ADMINISTERED",
+      "properties": {}
+    },
+    {
+      "source": "Four-Week D-Mbi",
+      "target": "Lessons",
+      "type": "CONSISTED_OF",
+      "properties": {}
+    },
+    {
+      "source": "Four-Week D-Mbi",
+      "target": "Guided Meditations",
+      "type": "CONSISTED_OF",
+      "properties": {}
+    },
+    {
+      "source": "Four-Week D-Mbi",
+      "target": "Community Sample",
+      "type": "ADMINISTERED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Four-Week D-Mbi",
+      "target": "Depressive Symptoms",
+      "type": "REDUCED",
+      "properties": {}
+    },
+    {
+      "source": "Hong Y",
+      "target": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Chiu C",
+      "target": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Dweck Cs",
+      "target": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Lin M-S",
+      "target": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wan W",
+      "target": "Implicit Theories, Attributions, And Coping: A Meaning System Approach",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Robins Rw",
+      "target": "Implicit Self-Theories In The Academic Domain: Implications For Goal Orientation, Attributions, Affect",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Pals Jl",
+      "target": "Implicit Self-Theories In The Academic Domain: Implications For Goal Orientation, Attributions, Affect",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Self-Esteem Change",
+      "target": "Self Identity",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Fish J",
+      "target": "Mindfulness Interventions",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Brimson J",
+      "target": "Mindfulness Interventions",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Lynch S",
+      "target": "Mindfulness Interventions",
+      "type": "RESEARCHED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Technology",
+      "type": "DELIVERED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Clinical Outcomes",
+      "type": "HAS_OUTCOMES",
+      "properties": {}
+    },
+    {
+      "source": "Banerjee M",
+      "target": "Qualitative Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Cavanagh K",
+      "target": "Qualitative Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Strauss C",
+      "target": "Qualitative Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Healthcare Staff",
+      "target": "Self-Help Mindfulness-Based Intervention",
+      "type": "ENGAGING_IN",
+      "properties": {}
+    },
+    {
+      "source": "Banerjee",
+      "target": "Healthcare Staff",
+      "type": "INTERVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Cavanagh",
+      "target": "Healthcare Staff",
+      "type": "INTERVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Strauss",
+      "target": "Healthcare Staff",
+      "type": "INTERVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Change",
+      "target": "Facilitation",
+      "type": "CHARACTERIZES",
+      "properties": {}
+    },
+    {
+      "source": "Change",
+      "target": "Hinderance",
+      "type": "CHARACTERIZES",
+      "properties": {}
+    },
+    {
+      "source": "Perceived Consequences",
+      "target": "Facilitation",
+      "type": "CHARACTERIZES",
+      "properties": {}
+    },
+    {
+      "source": "Perceived Consequences",
+      "target": "Hinderance",
+      "type": "CHARACTERIZES",
+      "properties": {}
+    },
+    {
+      "source": "Facilitation",
+      "target": "Engagement",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Hinderance",
+      "target": "Engagement",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Engagement",
+      "target": "Intervention",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Shorter Practices",
+      "target": "Engagement",
+      "type": "FACILITATES",
+      "properties": {}
+    },
+    {
+      "source": "Motivation To Reduce Stress",
+      "target": "Engagement",
+      "type": "FACILITATES",
+      "properties": {}
+    },
+    {
+      "source": "Increased Feeling Of Control Over Thoughts",
+      "target": "Engagement",
+      "type": "FACILITATES",
+      "properties": {}
+    },
+    {
+      "source": "B. Sciences Cognitive And Sensory",
+      "target": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "type": "CONTRIBUTOR",
+      "properties": {}
+    },
+    {
+      "source": "C. On D. In The S. Of L.",
+      "target": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "type": "CONTRIBUTOR",
+      "properties": {}
+    },
+    {
+      "source": "C. On L.R. And E. Practice",
+      "target": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "type": "CONTRIBUTOR",
+      "properties": {}
+    },
+    {
+      "source": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "target": "National Academies Press",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "How People Learn: Brain, Mind, Experience, And School: Expanded Edition",
+      "target": "2000",
+      "type": "PUBLICATION_YEAR",
+      "properties": {}
+    },
+    {
+      "source": "Moss D",
+      "target": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Waugh M",
+      "target": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Barnes R",
+      "target": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "target": "Int J Qual Stud Health Well-Being",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "target": "2008",
+      "type": "PUBLICATION_YEAR",
+      "properties": {}
+    },
+    {
+      "source": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "target": "3:132-142",
+      "type": "VOLUME",
+      "properties": {}
+    },
+    {
+      "source": "A Tool For Life? Mindfulness As Self-Help Or Safe Uncertainty",
+      "target": "Http://Dx.Doi.Org/10.1080/17482620801939592",
+      "type": "DOI",
+      "properties": {}
+    },
+    {
+      "source": "Banerjee M",
+      "target": "Barriers To Mindfulness: A Path Analytic Model Exploring The Role Of Rumination And Worry In Predicting Psychological And Physical Engagement In An Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Cavanagh K",
+      "target": "Barriers To Mindfulness: A Path Analytic Model Exploring The Role Of Rumination And Worry In Predicting Psychological And Physical Engagement In An Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Strauss C",
+      "target": "Barriers To Mindfulness: A Path Analytic Model Exploring The Role Of Rumination And Worry In Predicting Psychological And Physical Engagement In An Online Mindfulness-Based Intervention",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Barriers To Mindfulness: A Path Analytic Model Exploring The Role Of Rumination And Worry In Predicting Psychological And Physical Engagement In An Online Mindfulness-Based Intervention",
+      "target": "Mindfulness (Ny)",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Baxter K",
+      "target": "Understanding Your Users: A Practical Guide To User Research Methods",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Courage C",
+      "target": "Understanding Your Users: A Practical Guide To User Research Methods",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Caine K",
+      "target": "Understanding Your Users: A Practical Guide To User Research Methods",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Understanding Your Users: A Practical Guide To User Research Methods",
+      "target": "Morgan Kaufmann",
+      "type": "PUBLISHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "National Research Council",
+      "target": "Knowing What Students Know: The Science And Design Of Educational Assessment",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Knowing What Students Know: The Science And Design Of Educational Assessment",
+      "target": "The National Academies Press",
+      "type": "PUBLISHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Grant Lk",
+      "target": "Comparison Of Fixed-Item And Response-Sensitive Versions Of An Online Tutorial",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Courtoreille M",
+      "target": "Comparison Of Fixed-Item And Response-Sensitive Versions Of An Online Tutorial",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Wang Kh",
+      "target": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wang Th",
+      "target": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wang Wl",
+      "target": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Huang Sc",
+      "target": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Learning Styles And Formative Assessment Strategy: Enhancing Student Achievement In Web-Based Learning",
+      "target": "J Comput Assist Learn",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Mrazek Et Al.",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Digital Mindfulness-Based Interventions",
+      "target": "Current Opinion In Psychology",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Harackiewicz Jm",
+      "target": "Interest Matters",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Smith Jl",
+      "target": "Interest Matters",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Priniski Sj",
+      "target": "Interest Matters",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Importance Of Promoting Interest In Education",
+      "target": "Policy Insights Behav Brain Sci 2016, 3:220-227",
+      "type": "DISCUSSED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Educators",
+      "target": "Students",
+      "type": "PRIORITY_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Situational Interest",
+      "target": "Feelings Of Enjoyment And Excitement",
+      "type": "EVOKED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Situational Interest",
+      "target": "Topic",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Clark Rc",
+      "target": "E-Learning And The Science Of Instruction",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mayer Re",
+      "target": "E-Learning And The Science Of Instruction",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "E-Learning And The Science Of Instruction",
+      "target": "John Wiley & Sons, Inc",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "2016",
+      "target": "Https://Www.Wiley.Com/En-Us/E+Learning+And+The+Science+Of+Instruction%3A+Proven+Guidelines+For+Consumers+And+Designers+Of+Multimedia+Learning%2C+4Th+Edition-P-9781119158660",
+      "type": "PUBLICATION_DATE",
+      "properties": {}
+    },
+    {
+      "source": "August 15, 2018",
+      "target": "Https://Www.Wiley.Com/En-Us/E+Learning+And+The+Science+Of+Instruction%3A+Proven+Guidelines+For+Consumers+And+Designers+Of+Multimedia+Learning%2C+4Th+Edition-P-9781119158660",
+      "type": "ACCESS_DATE",
+      "properties": {}
+    },
+    {
+      "source": "Means B",
+      "target": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Toyama Y",
+      "target": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Murphy R",
+      "target": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bakia M",
+      "target": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Jones K",
+      "target": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "target": "Washington, D.C",
+      "type": "LOCATION",
+      "properties": {}
+    },
+    {
+      "source": "Evaluation Of Evidence-Based Practices In Online Learning: A Meta-Analysis And Review Of Online Learning Studies",
+      "target": "U.S.",
+      "type": "LOCATION",
+      "properties": {}
+    },
+    {
+      "source": "Department Of Education",
+      "target": "Office Of Planning, Evaluation, And Policy Development",
+      "type": "HAS_PART",
+      "properties": {}
+    },
+    {
+      "source": "Bernard Rm",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Abrami Pc",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Borokhovski E",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Wade Ca",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Tamim Rm",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Surkes Ma",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Bethel Ec",
+      "target": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A Meta-Analysis Of Three Types Of Interaction Treatments In Distance Education",
+      "target": "Rev Educ Res",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Butcher Kr",
+      "target": "The Multimedia Principle",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "The Multimedia Principle",
+      "target": "The Cambridge Handbook Of Multimedia Learning, 2Nd Ed.",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "The Cambridge Handbook Of Multimedia Learning, 2Nd Ed.",
+      "target": "Mayer Re",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "The Cambridge Handbook Of Multimedia Learning, 2Nd Ed.",
+      "target": "Cambridge University Press",
+      "type": "PUBLISHED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Mayer Re, Jackson J",
+      "target": "The Case For Coherence In Scientific Explanations: Quantitative Details Can Hurt Qualitative Understanding",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "The Case For Coherence In Scientific Explanations: Quantitative Details Can Hurt Qualitative Understanding",
+      "target": "J Exp Psychol: Appl",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Castles J",
+      "target": "Persistence And The Adult Learner: Factors Affecting",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Persistence In Open University Students",
+      "target": "Act Learn Higher Educ",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Perry B",
+      "target": "Why Do Students Withdraw From Online Graduate Nursing And Health Studies Education?",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Boman J",
+      "target": "Why Do Students Withdraw From Online Graduate Nursing And Health Studies Education?",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Care Wd",
+      "target": "Why Do Students Withdraw From Online Graduate Nursing And Health Studies Education?",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Edwards M",
+      "target": "Why Do Students Withdraw From Online Graduate Nursing And Health Studies Education?",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Park C",
+      "target": "Why Do Students Withdraw From Online Graduate Nursing And Health Studies Education?",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Mu\u00a8Ller T",
+      "target": "Persistence Of Women In Online Degree-Completion Programs",
+      "type": "AUTHOR_OF",
+      "properties": {}
+    },
+    {
+      "source": "Persistence Of Women In Online Degree-Completion Programs",
+      "target": "Int Rev Res Open Distrib Learn",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology",
+      "target": "2019",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology",
+      "target": "28",
+      "type": "HAS_VOLUME",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology",
+      "target": "81\u201386",
+      "type": "HAS_PAGES",
+      "properties": {}
+    },
+    {
+      "source": "Current Opinion In Psychology",
+      "target": "Www.Sciencedirect.Com",
+      "type": "AVAILABLE_AT",
+      "properties": {}
+    }
+  ]
+}
