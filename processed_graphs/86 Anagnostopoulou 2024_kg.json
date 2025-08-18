@@ -1,0 +1,7570 @@
+{
+  "entities": [
+    {
+      "id": "Ijoe",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou, P.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas, A.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness, Kindergarten, And Mobile Applications",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Review",
+      "type": "Document",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Social Robots",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Virtual Reality",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attention Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotion Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "General Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Barriers To Traditional Methods",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Portable Devices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cost-Effective",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Empirical Evidence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Research",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional In-Person Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Quality Of Life",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Panagiota Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Athanasios Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "N.C.S.R. Demokritos",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Athens, Greece",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Executive Functioning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Control",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Flexibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Neuroplasticity",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Academic Achievements",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Moreno-G\u00f3mez",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cejudo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Early Intervention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Social Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Peer Relationships",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mbis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Daily Routines",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Physical Attendance",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individuals",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Young People",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Rural Areas",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Christou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Tsermentseli",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Games",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Metacognitive Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Interactive And Adaptable Learning Experiences",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Platforms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Chaidi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Papoutsi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mrazek Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digital Literacy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Intelligence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adaptive Learning Methodologies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Teaching Methods",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital World",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Devices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Researchers",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Techniques And Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergartens",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adults",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Essential Characteristics",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Google Scholar",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Researchgate",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Mendeley",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "English",
+      "type": "Language",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ijoe",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Breathing Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Relaxation Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Activities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Observation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Body Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kabat-Zinn",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Course",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress Reduction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focused Attention Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Body Scans",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Breathing Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Yoga-Based Activities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sit In A Comfortable Position",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Close The Eyes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focus On The Breath Sensations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Body Scan Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Directing Attention To Body Areas",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Yoga",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Walking Meditation",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Britton",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Sydnor",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Executive Functions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focused Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attention",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Breath",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Visual Object",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sound",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stimuli",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Thoughts",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Body Sensations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Distractions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Open-Monitoring Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Prefrontal Cortex",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Advanced Cognitive Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Executive Functioning",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Effortful Control",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Theory Of Mind",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Empathy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sun Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Yoga",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Social And Emotional Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Preschool-Aged Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Young Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Behavioral Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Academic Advantages",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children Facing Additional Challenges",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Economic Status",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Home Environment",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Temperament",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Behavior",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Abilities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mbi Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Schools",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Meditation Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Curricula",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Shonin",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Van Gordon",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Griffiths",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sessions",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Control",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindful Breathing Exercises",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Body Scans",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Mindful Movement Activities",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Yoga",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten Settings",
+      "type": "Setting",
+      "properties": {}
+    },
+    {
+      "id": "Sciutto Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Curriculum",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Young Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Schools",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Curriculum",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Breathing Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindful Listening",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Guided Relaxation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Teachers",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Schools",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "School Environment",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Social And Emotional Growth",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Lee Et Al. [14]",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Unstructured Free Play",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Hong Kong",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Study",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Unstructured Play",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Intervention",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Social Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Unstructured Play",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Early Childhood Education",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Wellbeing",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Young Children",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "De Greiff",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Five-Minute Meditation Program",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten Classroom",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focus",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Behavior",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Therapies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Present-Moment Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Physical Activation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Thankfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindful Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional Educational Teaching Model",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional Educational Teaching Model",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Schwartz",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Ganster",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Tran",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being Of Nonclinical Populations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Headspeace",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Andy Puddicombe",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Economides Et Al.",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Study",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Headspace",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Intervention",
+      "type": "Intervention",
+      "properties": {}
+    },
+    {
+      "id": "Stress Levels",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Effects",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Irritation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "69 Individuals",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "18 To 50 Years Old",
+      "type": "Age range",
+      "properties": {}
+    },
+    {
+      "id": "Headspace",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Smiling Mind",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Evernote",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Flett Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "University Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Awareness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "General Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Huberty Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Randomized Controlled Trial",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Calm",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "College Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Researchers",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "First Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Second Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Control Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Stress Levels",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Calm",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "College Students",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Duraimani",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Aware",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Kabat-Zinn'S Mindfulness Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Aware App",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Golec De Zavala Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile-App-Supported Mindfulness Training Program",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Findings",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Program",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Howells",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Smartphone App-Based Application",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Happiness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Intervention",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Activities And Exercises",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Daily Prompts",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Gratitude Exercises",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practice",
+      "type": "Entity",
+      "properties": {}
+    },
+    {
+      "id": "Happiness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Positive Emotions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Intervention Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Control Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mitsea",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Skianis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digitally Assisted Mindfulness Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Regulation Abilities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sermo",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Behavior Therapy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health Issues",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Wysa",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Empathy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Interaction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "App",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Written And Structured Conversations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users' Emotions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Therapeutic Self-Regulation Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Behavioral Therapy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Positive Psychology Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Carissoli",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Villani",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Riva",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "It\u2019S Time To Relax",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "56 Italian Workers",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Intervention Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Control Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Schultchen Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Applications",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "European App Stores",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Grading Scale",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Quality",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Evidence Base",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User Engagement Features",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User-Friendly Interfaces",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Structured Mindfulness Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Tracking And Feedback Mechanisms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Personalized Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Scientific Evidence Of Effectiveness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Phones",
+      "type": "Device",
+      "properties": {}
+    },
+    {
+      "id": "Icts",
+      "type": "Device",
+      "properties": {}
+    },
+    {
+      "id": "Students",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Parents",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digital Tools",
+      "type": "Tool",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Development",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Nunes",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Castro",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Limbo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Mindfulness Applications",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Mars",
+      "type": "Tool",
+      "properties": {}
+    },
+    {
+      "id": "Apps",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Castro",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Limpo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Headspace",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Gonoodle",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness With Petit Bambou",
+      "type": "App",
+      "properties": {}
+    },
+    {
+      "id": "Align Mindfulness",
+      "type": "App",
+      "properties": {}
+    },
+    {
+      "id": "Guided Meditation And Breathing Exercises",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Brief Prompts",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Present Moment",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cosmic Kids Yoga",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Serenity",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Nicolaidou Et Al.",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Gamified Application",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Kids\u2019 Stress Relief",
+      "type": "App",
+      "properties": {}
+    },
+    {
+      "id": "Five Short Stories",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Happiness",
+      "type": "Emotion",
+      "properties": {}
+    },
+    {
+      "id": "Sadness",
+      "type": "Emotion",
+      "properties": {}
+    },
+    {
+      "id": "Anger",
+      "type": "Emotion",
+      "properties": {}
+    },
+    {
+      "id": "Anger Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Empathy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Recognition Of Physical Signs Of Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Strategies For Dealing With Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Test Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Fear Of Thunderstorms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meeting New People",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children Under The Age Of Seven",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Breathing Exercises",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "App Developers",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Treves Et Al.",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Application-Based Mindfulness Intervention",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Application",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Alternative Active Control Activities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Concentration",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress Reduction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Control Group",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Education",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Benefits",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Accessibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Standardization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individualization",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Effectiveness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Audience",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health Support",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "In-Person Sessions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cost-Effectiveness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Audio And Visual Information",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Technology-Based Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children And Adolescents",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Abstract Concepts",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Strategies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional Face-To-Face Settings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Devices",
+      "type": "Device",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Application",
+      "properties": {}
+    },
+    {
+      "id": "Resources",
+      "type": "Resource",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Data Protection",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Privacy Features",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Consent Issues",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Efficacy Of Teaching Stress Relief Techniques",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children Aged Four To 12",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Instructors",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Parents",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Parents Or Caregivers",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Hybrid Models",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "In-Person Sessions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Telehealth Sessions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-App Designers",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Movement-Based Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Apps For Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Usability Considerations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Timers",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Reminders",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation Guides",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Relaxation Exercises",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User Ratings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Theory And Techniques Of Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Prevalent Misunderstandings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Professionals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individuals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Languages",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Non-English-Speaking Users",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attention Regulation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotions Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adults",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Quality Of Life",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Reported Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression Symptoms",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile App Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Phones",
+      "type": "Object",
+      "properties": {}
+    },
+    {
+      "id": "Graphical Barriers",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Social Barriers",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Economic Barriers",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Access",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Age-Appropriate Digital Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Engaging Digital Content",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children'S Developmental Stages",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children'S Interests",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness App",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Theoretical Basis",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Explanations For Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Data Protection Measures",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Child-Friendly Interface",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Simple Instructions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Easy To Follow Instructions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Short Activities",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Easy To Navigate Design",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attractive Design",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "User-Friendly Design",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Age-Targeting Design",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Simple Actions And Animations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Engaging Visuals",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Interactive Features",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Entertaining Elements",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Reminders For Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Progress Tracking Features",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Apps In Multiple Languages",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Diverse Populations",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Design And Features Of Future Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Concentration",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Control",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Psychological Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Therapies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Health Outcomes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety And Stress Management",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Healthy Lifestyle",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Personalized Therapies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Focused Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Emotional Development Of Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Structured Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Accessibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Young People",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Rural Areas",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Empirical Data",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Effectiveness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cost-Effective Alternative",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Traditional",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Apps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Digital Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Face-To-Face Interventions",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Children",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "N. Chadi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "E. Weisbaum",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D. X. Vo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. Ahola Kohut",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "J. Altern. Complement. Med.",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "A. Golec De Zavala",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "O. Keenan",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Ziegler",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "P. Ciesielski",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. E. Wahl",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Mazurkiewicz",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Pandemic",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Appl. Psychol. Heal. Well-Being",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "M. Economides",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Martman",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. J. Bell",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "B. Sanderson",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "W. Britton",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Sydnor",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Neurobiological Models Of Meditation Practices: Implications For Applications With Youth",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Teaching Mindfulness Skills To Kids And Teens",
+      "type": "Book",
+      "properties": {}
+    },
+    {
+      "id": "C. Willard",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Saltzman",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "The Guilford Press",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "A. Moreno-G\u00f3mez",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "P. Luna",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Cejudo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions In Early Childhood",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Rev. Psicodid\u00e1ctica",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "A. J. Moreno-G\u00f3mez",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Cejudo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Effectiveness Of A Mindfulness-Based Social\u2013Emotional Learning Program On Psychosocial Adjustment And Neuropsychological Maturity In Kindergarten Children",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "N. N. Singh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. D. S. Joy",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions With Children And Adolescents",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions With Children And Adolescents",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Routledge",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "D. Schultchen",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Stay Present With Your Phone: A Systematic Review And Standardized Rating Of Mindfulness Apps In European App Stores",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Behav. Med.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "A. I. Christou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. Tsermentseli",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Interact. Mob. Technol. (Ijim)",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "I. Chaidi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Papoutsi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Emerg. Technol.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Ijet",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Curr. Opin. Psychol.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "A. J. Mrazek",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Nunes",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. L. Castro",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "T. Limpo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. F. Perrier",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "N. Gurgel-Juarez",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "H. L. Flowers",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Mccormick",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. J. Short",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "R. L. T. Lee",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Effects Of An Unstructured Free Play And Mindfulness Intervention On Wellbeing In Kindergarten Students",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "I. Moraiti",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Fotoglou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Laurie",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Blandford",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training \u2013 Effect On Adults With Adhd And Depressive Symptoms And The Role Of Digital Technologies",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Making Time For Mindfulness",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "M. Mani",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D. J. Kavanagh",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "L. Hides",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. R. Stoyanov",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. O. Bockmann",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. Y. Yu",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Review And Evaluation Of Mindfulness-Based Iphone Apps",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Using Mindfulness-Based Interventions To Support Self-Regulation In Young Children: A Review Of The Literature",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Y. Sun",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "R. Lamoreau",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. O\u2019Connell",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "R. Horlick",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. N. Bazzano",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Environmental Research And Public Health",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "E. Shonin",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "W. Van Gordon",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. D. Griffiths",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Educ. Heal.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "M. J. Sciutto",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D. A. Veres",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "T. L. Marinstein",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "B. F. Bailey",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "S. K. Cehelyk",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Child Fam. Stud.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering (Ijoe)",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kindergarten",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Applications",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "I. E. A. De Greiff",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindful Learning: Research On Learner Awareness, Metacognition, And Learning Strategies Voices From The Field: Research From The Specialist Program In Bilingual Education",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "J. Taylor",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Instituci\u00f3n Universitaria Colombo Americana \u2013 \u00danica",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "K. Schwartz",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "F. M. Ganster",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "U. S. Tran",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "J. Med. Internet Res.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "2023",
+      "type": "Year",
+      "properties": {}
+    },
+    {
+      "id": "E44638",
+      "type": "Identifier",
+      "properties": {}
+    },
+    {
+      "id": "Fulness Meditation",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "J. Huberty",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Green",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Glissmann",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "L. Larkey",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Puzia",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Lee",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Jmir Mhealth Uhealth",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "Calm",
+      "type": "App",
+      "properties": {}
+    },
+    {
+      "id": "S. Duraimani",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A Cross-Sectional And Longitudinal Study Of The Effects Of A Mindfulness Meditation Mobile Application Platform On Reducing Stress And Anxiety",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Yoga",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "2019",
+      "type": "Year",
+      "properties": {}
+    },
+    {
+      "id": "A. Golec De Zavala",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. F\u00f6rster",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Ziegler",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Nalberczak-Sk\u00f3ra",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "P. Ciesielski",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Mazurkiewicz",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Daily Mood During Mobile-App-Supported Mindfulness Training",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "A. Howells",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "I. Ivtzan",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "F. J. Eiroa-Orosa",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Putting The \u2018App\u2019 In Happiness",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "E. Mitsea",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Skianis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Digitally Assisted Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Regulation Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sustainable Mental Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "C. Carissoli",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "D. Villani",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "G. Riva",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Meditation Protocol",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Application",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress Reduction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cyberpsychology, Behav. Soc. Netw.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "V. Galitskaya",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. S. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Eng. Pedagog.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Karyotaki",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Skianis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Self-Consciousness And The Role Of Parents In Schools And Societies Of The Future",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Interact. Mob. Technol.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "I. Nicolaidou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "F. Tozzi",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "P. Kindynis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Panayiotou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Antoniades",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ital. J. Educ. Technol.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "I. N. Treves",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. M. Driga",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Zavitsanou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "At-Home Use Of App-Based Mindfulness For Children: A Randomized Active-Controlled Trial",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Negative Impacts Of 15 White Foods On Health And Brain And The Role Of Mobiles In Healthy Living Education",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "J. Heal. Technol. \u2013 Jht",
+      "type": "Journal",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online And Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Ijoe | Vol. 20 No. 15 (2024)",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. Karyotaki",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "A. Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "C. Skianis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Int. J. Interact. Mob. Technol.",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Mobile/Vr/Robotics/Iot-Based Chatbots And Intelligent Personal Assistants For Social Inclusion",
+      "type": "Article",
+      "properties": {}
+    },
+    {
+      "id": "I. Plaza",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "M. M. P. Demarzo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "P. Herrera-Mercadal",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "J. Garc\u00eda-Campayo",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Panagiota Anagnostopoulou",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "N.C.S.R. Demokritos",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "I.I.T",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Net Media Lab & Mind-Brain R&D",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Jmir Mhealth Uhealth",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Athanasios Drigas",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "N.C.S.R. Demokritos",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Net Media Lab & Mind-Brain R&D",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Agia Paraskevi, 153 10, Athens, Greece",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "International Journal Of Online & Biomedical Engineering",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Written Permission",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Users",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Articles",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Individual Use",
+      "type": "Concept",
+      "properties": {}
+    }
+  ],
+  "relations": [
+    {
+      "source": "Ijoe",
+      "target": "Mindfulness, Kindergarten, And Mobile Applications",
+      "type": "PUBLISHED",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou, P.",
+      "target": "Mindfulness, Kindergarten, And Mobile Applications",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Drigas, A.",
+      "target": "Mindfulness, Kindergarten, And Mobile Applications",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Review",
+      "target": "Mindfulness",
+      "type": "EXPLORES",
+      "properties": {}
+    },
+    {
+      "source": "Review",
+      "target": "Mobile Applications",
+      "type": "EXPLORES",
+      "properties": {}
+    },
+    {
+      "source": "Technology",
+      "target": "Kindergarten",
+      "type": "ADVANTAGE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Kindergarten",
+      "type": "ADVANTAGE",
+      "properties": {}
+    },
+    {
+      "source": "Social Robots",
+      "target": "Mindfulness",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Virtual Reality",
+      "target": "Mindfulness",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Children",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Attention Regulation",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Emotion Management",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "General Well-Being",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Technology",
+      "target": "Barriers To Traditional Methods",
+      "type": "OVERCOME",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Portable Devices",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Cost-Effective",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Apps",
+      "target": "Age-Appropriate",
+      "type": "SHOULD_BE",
+      "properties": {}
+    },
+    {
+      "source": "Apps",
+      "target": "Simple",
+      "type": "SHOULD_BE",
+      "properties": {}
+    },
+    {
+      "source": "Apps",
+      "target": "Engaging",
+      "type": "SHOULD_BE",
+      "properties": {}
+    },
+    {
+      "source": "Empirical Evidence",
+      "target": "Efficacy Of Mindfulness Apps",
+      "type": "LIMITED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Research",
+      "target": "Effectiveness Of Mindfulness Apps",
+      "type": "NEEDED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Effectiveness Of Mindfulness Apps",
+      "target": "Traditional In-Person Interventions",
+      "type": "COMPARED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions",
+      "target": "Well-Being",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions",
+      "target": "Quality Of Life",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions",
+      "target": "Mental Health",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions",
+      "target": "Anxiety",
+      "type": "REDUCES_SYMPTOMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions",
+      "target": "Depression",
+      "type": "REDUCES_SYMPTOMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Panagiota Anagnostopoulou",
+      "target": "N.C.S.R. Demokritos",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Athanasios Drigas",
+      "target": "N.C.S.R. Demokritos",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "N.C.S.R. Demokritos",
+      "target": "Athens, Greece",
+      "type": "LOCATION",
+      "properties": {}
+    },
+    {
+      "source": "Panagiota Anagnostopoulou",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Athanasios Drigas",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "Executive Functioning",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Executive Functioning",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Emotional Control",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Attention",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Cognitive Flexibility",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Neuroplasticity",
+      "type": "FOSTERS",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Mindfulness Programs",
+      "type": "PARTICIPATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Academic Achievements",
+      "type": "DEMONSTRATED",
+      "properties": {}
+    },
+    {
+      "source": "Moreno-G\u00f3mez",
+      "target": "Early Intervention",
+      "type": "HIGHLIGHTS",
+      "properties": {}
+    },
+    {
+      "source": "Cejudo",
+      "target": "Early Intervention",
+      "type": "HIGHLIGHTS",
+      "properties": {}
+    },
+    {
+      "source": "Early Intervention",
+      "target": "Well-Being",
+      "type": "PROMOTES",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Emotional Regulation",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Emotional Regulation",
+      "target": "Stress Management",
+      "type": "RESULTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Emotional Regulation",
+      "target": "Anxiety Management",
+      "type": "RESULTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Social Skills",
+      "target": "Peer Relationships",
+      "type": "FOSTERED",
+      "properties": {}
+    },
+    {
+      "source": "Mbis",
+      "target": "Children",
+      "type": "PRIORITIZE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Practices",
+      "target": "Daily Routines",
+      "type": "INTEGRATE",
+      "properties": {}
+    },
+    {
+      "source": "Physical Attendance",
+      "target": "Individuals",
+      "type": "PREVENT",
+      "properties": {}
+    },
+    {
+      "source": "Obstacles",
+      "target": "Young People",
+      "type": "PREVALENT_AMONG",
+      "properties": {}
+    },
+    {
+      "source": "Obstacles",
+      "target": "Rural Areas",
+      "type": "PREVALENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "Christou",
+      "target": "Mobile Games",
+      "type": "MENTION_IMPACT_ON",
+      "properties": {}
+    },
+    {
+      "source": "Tsermentseli",
+      "target": "Mobile Games",
+      "type": "MENTION_IMPACT_ON",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Mobile Games",
+      "type": "MENTION_IMPACT_ON",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Games",
+      "target": "Metacognitive Skills",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Metacognitive Skills",
+      "target": "Self-Awareness",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Metacognitive Skills",
+      "target": "Self-Regulation",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Games",
+      "target": "Interactive And Adaptable Learning Experiences",
+      "type": "THROUGH",
+      "properties": {}
+    },
+    {
+      "source": "Digital Platforms",
+      "target": "Mindfulness Training",
+      "type": "AVAILABILITY_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Digital Literacy",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Emotional Intelligence",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Adaptive Learning Methodologies",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Teaching Methods",
+      "type": "INTEGRATE_INTO",
+      "properties": {}
+    },
+    {
+      "source": "Chaidi",
+      "target": "Digital Literacy",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Chaidi",
+      "target": "Emotional Intelligence",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Chaidi",
+      "target": "Adaptive Learning Methodologies",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Chaidi",
+      "target": "Teaching Methods",
+      "type": "INTEGRATE_INTO",
+      "properties": {}
+    },
+    {
+      "source": "Papoutsi",
+      "target": "Digital Literacy",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Papoutsi",
+      "target": "Emotional Intelligence",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Papoutsi",
+      "target": "Adaptive Learning Methodologies",
+      "type": "EMPHASIZE",
+      "properties": {}
+    },
+    {
+      "source": "Papoutsi",
+      "target": "Teaching Methods",
+      "type": "INTEGRATE_INTO",
+      "properties": {}
+    },
+    {
+      "source": "Mrazek Et Al.",
+      "target": "Digital World",
+      "type": "CONTEND_ROLE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mrazek Et Al.",
+      "target": "Mindfulness Training",
+      "type": "CONTEND_ROLE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Technology",
+      "target": "Mindfulness Training",
+      "type": "ENHANCE_ACCESSIBILITY_EFFECTIVENESS",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Devices",
+      "target": "Mindfulness Apps",
+      "type": "ENABLE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Mindfulness",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Researchers",
+      "target": "Mindfulness Apps",
+      "type": "INVESTIGATE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness Training",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Kindergarten",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness Techniques And Exercises",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Adults",
+      "type": "EFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Kindergartens",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Essential Characteristics",
+      "target": "Mobile Apps",
+      "type": "DEFINE",
+      "properties": {}
+    },
+    {
+      "source": "Google Scholar",
+      "target": "Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Researchgate",
+      "target": "Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Mendeley",
+      "target": "Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Google Scholar",
+      "target": "Kindergarten",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Researchgate",
+      "target": "Kindergarten",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Mendeley",
+      "target": "Kindergarten",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Google Scholar",
+      "target": "Mobile Applications",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Researchgate",
+      "target": "Mobile Applications",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Mendeley",
+      "target": "Mobile Applications",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "English",
+      "target": "Mindfulness",
+      "type": "LANGUAGE",
+      "properties": {}
+    },
+    {
+      "source": "English",
+      "target": "Kindergarten",
+      "type": "LANGUAGE",
+      "properties": {}
+    },
+    {
+      "source": "English",
+      "target": "Mobile Applications",
+      "type": "LANGUAGE",
+      "properties": {}
+    },
+    {
+      "source": "Ijoe",
+      "target": "Mindfulness",
+      "type": "PUBLISH",
+      "properties": {}
+    },
+    {
+      "source": "Ijoe",
+      "target": "Kindergarten",
+      "type": "PUBLISH",
+      "properties": {}
+    },
+    {
+      "source": "Ijoe",
+      "target": "Mobile Applications",
+      "type": "PUBLISH",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Mindfulness",
+      "type": "AIDS_IN_DEVELOPMENT_OF",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Practice",
+      "target": "Breathing Exercises",
+      "type": "INCORPORATES",
+      "properties": {}
+    },
+    {
+      "source": "Activities",
+      "target": "Mindfulness",
+      "type": "FOSTER",
+      "properties": {}
+    },
+    {
+      "source": "Activities",
+      "target": "Self-Observation",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Activities",
+      "target": "Self-Awareness",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Activities",
+      "target": "Body Awareness",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Kabat-Zinn",
+      "target": "Mindfulness-Based Course",
+      "type": "CREATED",
+      "properties": {}
+    },
+    {
+      "source": "Stress Reduction",
+      "target": "Mindfulness",
+      "type": "TECHNIQUE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Focused Attention Exercises",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Body Scans",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Breathing Exercises",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Yoga-Based Activities",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Sit In A Comfortable Position",
+      "target": "Focus On The Breath Sensations",
+      "type": "TECHNIQUE",
+      "properties": {}
+    },
+    {
+      "source": "Close The Eyes",
+      "target": "Focus On The Breath Sensations",
+      "type": "TECHNIQUE",
+      "properties": {}
+    },
+    {
+      "source": "Body Scan Meditation",
+      "target": "Directing Attention To Body Areas",
+      "type": "TECHNIQUE",
+      "properties": {}
+    },
+    {
+      "source": "Yoga",
+      "target": "Mindfulness Techniques",
+      "type": "ENCOMPASSES",
+      "properties": {}
+    },
+    {
+      "source": "Walking Meditation",
+      "target": "Mindfulness Techniques",
+      "type": "ENCOMPASSES",
+      "properties": {}
+    },
+    {
+      "source": "Britton",
+      "target": "Mindfulness Techniques",
+      "type": "EXAMINES",
+      "properties": {}
+    },
+    {
+      "source": "Sydnor",
+      "target": "Mindfulness Techniques",
+      "type": "EXAMINES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Techniques",
+      "target": "Executive Functions",
+      "type": "HELP_DEVELOP",
+      "properties": {}
+    },
+    {
+      "source": "Focused Attention",
+      "target": "Mindfulness Techniques",
+      "type": "IS_A",
+      "properties": {}
+    },
+    {
+      "source": "Attention",
+      "target": "Breath",
+      "type": "FOCUS",
+      "properties": {}
+    },
+    {
+      "source": "Attention",
+      "target": "Visual Object",
+      "type": "FOCUS",
+      "properties": {}
+    },
+    {
+      "source": "Attention",
+      "target": "Sound",
+      "type": "FOCUS",
+      "properties": {}
+    },
+    {
+      "source": "Attention",
+      "target": "Stimuli",
+      "type": "IGNORE",
+      "properties": {}
+    },
+    {
+      "source": "Thoughts",
+      "target": "Distractions",
+      "type": "CONSIDERED_AS",
+      "properties": {}
+    },
+    {
+      "source": "Emotions",
+      "target": "Distractions",
+      "type": "CONSIDERED_AS",
+      "properties": {}
+    },
+    {
+      "source": "Body Sensations",
+      "target": "Distractions",
+      "type": "CONSIDERED_AS",
+      "properties": {}
+    },
+    {
+      "source": "Distractions",
+      "target": "Meditation",
+      "type": "NOT_FOCUS",
+      "properties": {}
+    },
+    {
+      "source": "Open-Monitoring Practice",
+      "target": "Stimuli",
+      "type": "OBSERVE",
+      "properties": {}
+    },
+    {
+      "source": "Open-Monitoring Practice",
+      "target": "Thoughts",
+      "type": "OBSERVE",
+      "properties": {}
+    },
+    {
+      "source": "Open-Monitoring Practice",
+      "target": "Emotions",
+      "type": "OBSERVE",
+      "properties": {}
+    },
+    {
+      "source": "Open-Monitoring Practice",
+      "target": "Body Sensations",
+      "type": "OBSERVE",
+      "properties": {}
+    },
+    {
+      "source": "Open-Monitoring Practice",
+      "target": "Sounds",
+      "type": "OBSERVE",
+      "properties": {}
+    },
+    {
+      "source": "Prefrontal Cortex",
+      "target": "Advanced Cognitive Skills",
+      "type": "DEVELOPMENT",
+      "properties": {}
+    },
+    {
+      "source": "Advanced Cognitive Skills",
+      "target": "Executive Functioning",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Advanced Cognitive Skills",
+      "target": "Effortful Control",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Advanced Cognitive Skills",
+      "target": "Theory Of Mind",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Advanced Cognitive Skills",
+      "target": "Empathy",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Advanced Cognitive Skills",
+      "target": "Self-Regulation",
+      "type": "ESSENTIAL_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Sun Et Al.",
+      "target": "Yoga",
+      "type": "REVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Sun Et Al.",
+      "target": "Mindfulness",
+      "type": "REVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Yoga",
+      "target": "Social And Emotional Development",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Social And Emotional Development",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Social And Emotional Development",
+      "target": "Preschool-Aged Children",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Self-Regulation",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation",
+      "target": "Young Children",
+      "type": "DEVELOPMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation",
+      "target": "Cognitive Regulation",
+      "type": "ENCOMPASSES",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation",
+      "target": "Emotional Regulation",
+      "type": "ENCOMPASSES",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation",
+      "target": "Behavioral Regulation",
+      "type": "ENCOMPASSES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Academic Advantages",
+      "type": "PROVIDES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Children Facing Additional Challenges",
+      "type": "ADVANTAGEOUS_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Children Facing Additional Challenges",
+      "target": "Economic Status",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Children Facing Additional Challenges",
+      "target": "Home Environment",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Children Facing Additional Challenges",
+      "target": "Temperament",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Children Facing Additional Challenges",
+      "target": "Behavior",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Children Facing Additional Challenges",
+      "target": "Cognitive Abilities",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mbi Programs",
+      "target": "Improvement",
+      "type": "SIGNIFICANT_IMPROVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Schools",
+      "target": "Meditation Practices",
+      "type": "INCORPORATE",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Practices",
+      "target": "Curricula",
+      "type": "INTO",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Practices",
+      "target": "Students",
+      "type": "IMPROVE_WELL_BEING",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Practices",
+      "target": "Students",
+      "type": "IMPROVE_ACADEMIC_PERFORMANCE",
+      "properties": {}
+    },
+    {
+      "source": "Shonin",
+      "target": "Mindfulness",
+      "type": "ANALYZE_STRATEGIES_FOR_TEACHING",
+      "properties": {}
+    },
+    {
+      "source": "Van Gordon",
+      "target": "Mindfulness",
+      "type": "ANALYZE_STRATEGIES_FOR_TEACHING",
+      "properties": {}
+    },
+    {
+      "source": "Griffiths",
+      "target": "Mindfulness",
+      "type": "ANALYZE_STRATEGIES_FOR_TEACHING",
+      "properties": {}
+    },
+    {
+      "source": "Techniques",
+      "target": "Age-Appropriate",
+      "type": "SHOULD_BE",
+      "properties": {}
+    },
+    {
+      "source": "Sessions",
+      "target": "Short",
+      "type": "MUST_BE",
+      "properties": {}
+    },
+    {
+      "source": "Curricula",
+      "target": "Practices",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Practices",
+      "target": "Learning",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Practices",
+      "target": "Concentration",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindful Breathing Exercises",
+      "target": "Mindfulness Skills",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Body Scans",
+      "target": "Mindfulness Skills",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Mindful Movement Activities",
+      "target": "Mindfulness Skills",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Yoga",
+      "target": "Mindfulness Skills",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Skills",
+      "target": "Emotional Control",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Techniques",
+      "target": "Kindergarten Settings",
+      "type": "IMPLEMENTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Sciutto Et Al.",
+      "target": "Mindfulness Techniques",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Curriculum",
+      "target": "Young Children",
+      "type": "TARGET_AUDIENCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Curriculum",
+      "target": "Schools",
+      "type": "IMPLEMENTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Curriculum",
+      "target": "Young Children",
+      "type": "IMPROVED_BEHAVIOR",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHORED",
+      "properties": {}
+    },
+    {
+      "source": "Curriculum",
+      "target": "Breathing Exercises",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Curriculum",
+      "target": "Mindful Listening",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Curriculum",
+      "target": "Guided Relaxation",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Teachers",
+      "target": "Curriculum",
+      "type": "INCLUDE_IN_ROUTINES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Programs",
+      "target": "Schools",
+      "type": "IMPLEMENTED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Programs",
+      "target": "School Environment",
+      "type": "BENEFIT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Programs",
+      "target": "Students",
+      "type": "PROMOTE_GROWTH",
+      "properties": {}
+    },
+    {
+      "source": "Students",
+      "target": "Social And Emotional Growth",
+      "type": "EXPERIENCE",
+      "properties": {}
+    },
+    {
+      "source": "Lee Et Al. [14]",
+      "target": "Intervention",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Unstructured Free Play",
+      "target": "Well-Being",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Practices",
+      "target": "Well-Being",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Kindergarten Students",
+      "target": "Study",
+      "type": "PARTICIPATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Study",
+      "type": "PARTICIPATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Hong Kong",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Unstructured Play",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Mindfulness Intervention",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Unstructured Play",
+      "target": "Mindfulness Intervention",
+      "type": "FOLLOWED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Emotional Development",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Social Development",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Cognitive Development",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Unstructured Play",
+      "target": "Early Childhood Education",
+      "type": "INTEGRATION",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Early Childhood Education",
+      "type": "INTEGRATION",
+      "properties": {}
+    },
+    {
+      "source": "Integration",
+      "target": "Wellbeing",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Wellbeing",
+      "target": "Young Children",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "De Greiff",
+      "target": "Five-Minute Meditation Program",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Five-Minute Meditation Program",
+      "target": "Kindergarten Classroom",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Five-Minute Meditation Program",
+      "target": "Focus",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Five-Minute Meditation Program",
+      "target": "Behavior",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Therapies",
+      "target": "Techniques",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Present-Moment Awareness",
+      "target": "Children",
+      "type": "INTERVENTION",
+      "properties": {}
+    },
+    {
+      "source": "Meditation",
+      "target": "Children",
+      "type": "INTERVENTION",
+      "properties": {}
+    },
+    {
+      "source": "Physical Activation",
+      "target": "Children",
+      "type": "INTERVENTION",
+      "properties": {}
+    },
+    {
+      "source": "Thankfulness",
+      "target": "Children",
+      "type": "INTERVENTION",
+      "properties": {}
+    },
+    {
+      "source": "Kindness",
+      "target": "Children",
+      "type": "INTERVENTION",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Calmer Demeanor",
+      "type": "EXHIBITED",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Kindness",
+      "type": "EXHIBITED",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Acts Of Kindness",
+      "type": "RECOGNIZED",
+      "properties": {}
+    },
+    {
+      "source": "Mindful Practices",
+      "target": "Traditional Educational Teaching Model",
+      "type": "INTEGRATION",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Schwartz",
+      "target": "Mindfulness-Based Mobile Applications",
+      "type": "REVIEW",
+      "properties": {}
+    },
+    {
+      "source": "Ganster",
+      "target": "Mindfulness-Based Mobile Applications",
+      "type": "REVIEW",
+      "properties": {}
+    },
+    {
+      "source": "Tran",
+      "target": "Mindfulness-Based Mobile Applications",
+      "type": "REVIEW",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Mobile Applications",
+      "target": "Well-Being Of Nonclinical Populations",
+      "type": "IMPACT",
+      "properties": {}
+    },
+    {
+      "source": "Headspeace",
+      "target": "Andy Puddicombe",
+      "type": "GUIDED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Headspeace",
+      "target": "Well-Being",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Headspeace",
+      "target": "Awareness",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Headspeace",
+      "target": "Mindfulness",
+      "type": "ENHANCES",
+      "properties": {}
+    },
+    {
+      "source": "Economides Et Al.",
+      "target": "Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Study",
+      "target": "Mindfulness Intervention",
+      "type": "EVALUATED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Headspace",
+      "type": "OFFERED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Stress Levels",
+      "type": "REDUCED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Emotional Effects",
+      "type": "REDUCED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Intervention",
+      "target": "Irritation",
+      "type": "REDUCED",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "69 Individuals",
+      "type": "CONSISTED_OF",
+      "properties": {}
+    },
+    {
+      "source": "69 Individuals",
+      "target": "18 To 50 Years Old",
+      "type": "AGE_RANGE",
+      "properties": {}
+    },
+    {
+      "source": "Flett Et Al.",
+      "target": "Headspace",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Flett Et Al.",
+      "target": "Smiling Mind",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Flett Et Al.",
+      "target": "Evernote",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Headspace",
+      "target": "University Students",
+      "type": "USED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Smiling Mind",
+      "target": "University Students",
+      "type": "USED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Evernote",
+      "target": "University Students",
+      "type": "USED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Mental Health",
+      "type": "BENEFICIAL_EFFECT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Awareness",
+      "type": "HEIGHTENED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Depression",
+      "type": "LESS",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Anxiety",
+      "type": "LESS",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "General Well-Being",
+      "type": "ENHANCED",
+      "properties": {}
+    },
+    {
+      "source": "Huberty Et Al.",
+      "target": "Randomized Controlled Trial",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Researchers",
+      "target": "College Students",
+      "type": "STUDY_SUBJECT",
+      "properties": {}
+    },
+    {
+      "source": "First Group",
+      "target": "Calm",
+      "type": "USED",
+      "properties": {}
+    },
+    {
+      "source": "Second Group",
+      "target": "Control Group",
+      "type": "IDENTIFIED_AS",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "Stress Levels",
+      "type": "REDUCED",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "College Students",
+      "type": "TOOL_FOR_STRESS_REDUCTION",
+      "properties": {}
+    },
+    {
+      "source": "Duraimani",
+      "target": "Aware",
+      "type": "DEVELOPED",
+      "properties": {}
+    },
+    {
+      "source": "Kabat-Zinn'S Mindfulness Meditation",
+      "target": "Aware App",
+      "type": "USED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Aware App",
+      "target": "Stress",
+      "type": "DECREASES",
+      "properties": {}
+    },
+    {
+      "source": "Aware App",
+      "target": "Anxiety",
+      "type": "DECREASES",
+      "properties": {}
+    },
+    {
+      "source": "Golec De Zavala Et Al.",
+      "target": "Mobile-App-Supported Mindfulness Training Program",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "Program",
+      "type": "MONITORED",
+      "properties": {}
+    },
+    {
+      "source": "Findings",
+      "target": "Program",
+      "type": "INDICATED_IMPROVEMENTS",
+      "properties": {}
+    },
+    {
+      "source": "Howells",
+      "target": "Smartphone App-Based Application",
+      "type": "EVALUATED",
+      "properties": {}
+    },
+    {
+      "source": "Smartphone App-Based Application",
+      "target": "Happiness",
+      "type": "AIMED_TO_ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Smartphone App-Based Application",
+      "target": "Well-Being",
+      "type": "AIMED_TO_ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Intervention",
+      "target": "Activities And Exercises",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Activities And Exercises",
+      "target": "Daily Prompts",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Activities And Exercises",
+      "target": "Gratitude Exercises",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Activities And Exercises",
+      "target": "Mindfulness Practice",
+      "type": "INCLUDED",
+      "properties": {}
+    },
+    {
+      "source": "Intervention Group",
+      "target": "Happiness",
+      "type": "IMPROVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Intervention Group",
+      "target": "Well-Being",
+      "type": "IMPROVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Mitsea",
+      "target": "Digitally Assisted Mindfulness Techniques",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Digitally Assisted Mindfulness Techniques",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Skianis",
+      "target": "Digitally Assisted Mindfulness Techniques",
+      "type": "EXAMINED",
+      "properties": {}
+    },
+    {
+      "source": "Digitally Assisted Mindfulness Techniques",
+      "target": "Self-Regulation Abilities",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation Abilities",
+      "target": "Mental Well-Being",
+      "type": "MAINTAIN",
+      "properties": {}
+    },
+    {
+      "source": "Sermo",
+      "target": "Mindfulness Training",
+      "type": "INTEGRATES",
+      "properties": {}
+    },
+    {
+      "source": "Sermo",
+      "target": "Cognitive Behavior Therapy",
+      "type": "INTEGRATES",
+      "properties": {}
+    },
+    {
+      "source": "Sermo",
+      "target": "Mental Health Issues",
+      "type": "ASSISTS_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Wysa",
+      "target": "Empathy",
+      "type": "USES",
+      "properties": {}
+    },
+    {
+      "source": "Wysa",
+      "target": "Interaction",
+      "type": "USES",
+      "properties": {}
+    },
+    {
+      "source": "Wysa",
+      "target": "Digital Mindfulness Training",
+      "type": "PROVIDES",
+      "properties": {}
+    },
+    {
+      "source": "App",
+      "target": "Written And Structured Conversations",
+      "type": "UTILIZES",
+      "properties": {}
+    },
+    {
+      "source": "App",
+      "target": "Users' Emotions",
+      "type": "DETECTS",
+      "properties": {}
+    },
+    {
+      "source": "App",
+      "target": "Therapeutic Self-Regulation Techniques",
+      "type": "PROVIDES",
+      "properties": {}
+    },
+    {
+      "source": "Therapeutic Self-Regulation Techniques",
+      "target": "Mindfulness",
+      "type": "DERIVED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Therapeutic Self-Regulation Techniques",
+      "target": "Cognitive Behavioral Therapy",
+      "type": "DERIVED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Therapeutic Self-Regulation Techniques",
+      "target": "Positive Psychology Techniques",
+      "type": "DERIVED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Carissoli",
+      "target": "It\u2019S Time To Relax",
+      "type": "STUDIED",
+      "properties": {}
+    },
+    {
+      "source": "Villani",
+      "target": "It\u2019S Time To Relax",
+      "type": "STUDIED",
+      "properties": {}
+    },
+    {
+      "source": "Riva",
+      "target": "It\u2019S Time To Relax",
+      "type": "STUDIED",
+      "properties": {}
+    },
+    {
+      "source": "56 Italian Workers",
+      "target": "It\u2019S Time To Relax",
+      "type": "PARTICIPATED_IN_STUDY",
+      "properties": {}
+    },
+    {
+      "source": "Intervention Group",
+      "target": "Meditation Application",
+      "type": "USES",
+      "properties": {}
+    },
+    {
+      "source": "Intervention Group",
+      "target": "Perceived Stress Levels",
+      "type": "DECREASED",
+      "properties": {}
+    },
+    {
+      "source": "Schultchen Et Al.",
+      "target": "Mindfulness Applications",
+      "type": "REVIEWED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "European App Stores",
+      "type": "ACCESSIBLE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Schultchen Et Al.",
+      "target": "Grading Scale",
+      "type": "CREATED",
+      "properties": {}
+    },
+    {
+      "source": "Quality",
+      "target": "User-Friendly Interfaces",
+      "type": "STRENGTH",
+      "properties": {}
+    },
+    {
+      "source": "Quality",
+      "target": "Structured Mindfulness Exercises",
+      "type": "STRENGTH",
+      "properties": {}
+    },
+    {
+      "source": "Quality",
+      "target": "Tracking And Feedback Mechanisms",
+      "type": "STRENGTH",
+      "properties": {}
+    },
+    {
+      "source": "Quality",
+      "target": "Personalized Content",
+      "type": "WEAKNESS",
+      "properties": {}
+    },
+    {
+      "source": "Evidence Base",
+      "target": "Scientific Evidence Of Effectiveness",
+      "type": "WEAKNESS",
+      "properties": {}
+    },
+    {
+      "source": "International Journal Of Online And Biomedical Engineering",
+      "target": "Anagnostopoulou",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "International Journal Of Online And Biomedical Engineering",
+      "target": "Drigas",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Students",
+      "target": "Mobile Phones",
+      "type": "FAMILIARIZED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Students",
+      "target": "Icts",
+      "type": "FAMILIARIZED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Parents",
+      "target": "Digital Tools",
+      "type": "UTILIZE",
+      "properties": {}
+    },
+    {
+      "source": "Digital Tools",
+      "target": "Emotional Development",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Digital Tools",
+      "target": "Cognitive Development",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Nunes",
+      "target": "Mobile Mindfulness Applications",
+      "type": "EVALUATE",
+      "properties": {}
+    },
+    {
+      "source": "Castro",
+      "target": "Mobile Mindfulness Applications",
+      "type": "EVALUATE",
+      "properties": {}
+    },
+    {
+      "source": "Limbo",
+      "target": "Mobile Mindfulness Applications",
+      "type": "EVALUATE",
+      "properties": {}
+    },
+    {
+      "source": "Mars",
+      "target": "Apps",
+      "type": "ASSESSES",
+      "properties": {}
+    },
+    {
+      "source": "Castro",
+      "target": "Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Limpo",
+      "target": "Study",
+      "type": "CONDUCTED",
+      "properties": {}
+    },
+    {
+      "source": "Headspace",
+      "target": "Most Downloaded",
+      "type": "HAS_ATTRIBUTE",
+      "properties": {}
+    },
+    {
+      "source": "Headspace",
+      "target": "Extensively Researched",
+      "type": "HAS_ATTRIBUTE",
+      "properties": {}
+    },
+    {
+      "source": "Gonoodle",
+      "target": "Promote Physical Activity",
+      "type": "HAS_GOAL",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness With Petit Bambou",
+      "target": "Guided Meditation And Breathing Exercises",
+      "type": "OFFERS",
+      "properties": {}
+    },
+    {
+      "source": "Align Mindfulness",
+      "target": "Brief Prompts",
+      "type": "SENDS",
+      "properties": {}
+    },
+    {
+      "source": "Align Mindfulness",
+      "target": "Present Moment",
+      "type": "FOCUS",
+      "properties": {}
+    },
+    {
+      "source": "Cosmic Kids Yoga",
+      "target": "Children",
+      "type": "TAILORED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Serenity",
+      "target": "Mindfulness Techniques",
+      "type": "OFFERS",
+      "properties": {}
+    },
+    {
+      "source": "Nicolaidou Et Al.",
+      "target": "Gamified Application",
+      "type": "DESIGNED",
+      "properties": {}
+    },
+    {
+      "source": "Kids\u2019 Stress Relief",
+      "target": "Five Short Stories",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Five Short Stories",
+      "target": "Happiness",
+      "type": "HELP_RECOGNIZE",
+      "properties": {}
+    },
+    {
+      "source": "Five Short Stories",
+      "target": "Sadness",
+      "type": "HELP_RECOGNIZE",
+      "properties": {}
+    },
+    {
+      "source": "Five Short Stories",
+      "target": "Anger",
+      "type": "HELP_RECOGNIZE",
+      "properties": {}
+    },
+    {
+      "source": "Kids\u2019 Stress Relief",
+      "target": "Anger Management",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Kids\u2019 Stress Relief",
+      "target": "Empathy",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Kids\u2019 Stress Relief",
+      "target": "Recognition Of Physical Signs Of Stress",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Kids\u2019 Stress Relief",
+      "target": "Strategies For Dealing With Stress",
+      "type": "TEACHES",
+      "properties": {}
+    },
+    {
+      "source": "Children Under The Age Of Seven",
+      "target": "Breathing Exercises",
+      "type": "INTERACTED_PASSIVELY",
+      "properties": {}
+    },
+    {
+      "source": "Breathing Exercises",
+      "target": "App Developers",
+      "type": "INTENDED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Treves Et Al.",
+      "target": "Mobile Application-Based Mindfulness Intervention",
+      "type": "INVESTIGATED",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Application-Based Mindfulness Intervention",
+      "target": "Children",
+      "type": "IMPACT_ON",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Application-Based Mindfulness Intervention",
+      "target": "Well-Being",
+      "type": "IMPACT_ON",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Mindfulness Application",
+      "type": "USED",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Alternative Active Control Activities",
+      "type": "USED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Application",
+      "target": "Emotional Regulation",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Application",
+      "target": "Concentration",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Application",
+      "target": "Stress Reduction",
+      "type": "IMPROVED",
+      "properties": {}
+    },
+    {
+      "source": "Children",
+      "target": "Control Group",
+      "type": "COMPARED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Children",
+      "type": "DEVELOPED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness",
+      "type": "IMPROVEMENT_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Digital Technology",
+      "type": "FACILITATE",
+      "properties": {}
+    },
+    {
+      "source": "Digital Technology",
+      "target": "Education",
+      "type": "IMPLEMENTATION_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Benefits",
+      "type": "POTENTIAL",
+      "properties": {}
+    },
+    {
+      "source": "Benefits",
+      "target": "Accessibility",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Benefits",
+      "target": "Standardization",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Benefits",
+      "target": "Individualization",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Benefits",
+      "target": "Effectiveness",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Mobile Apps",
+      "type": "DELIVERED_VIA",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Apps",
+      "target": "Audience",
+      "type": "REACH",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Apps",
+      "target": "Mental Health Support",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "In-Person Sessions",
+      "target": "Mental Health Support",
+      "type": "ALTERNATIVE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Apps",
+      "target": "Interventions",
+      "type": "DELIVER",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Apps",
+      "target": "Cost-Effectiveness",
+      "type": "OFFER",
+      "properties": {}
+    },
+    {
+      "source": "Technology-Based Mindfulness Training",
+      "target": "Audio And Visual Information",
+      "type": "INTEGRATES",
+      "properties": {}
+    },
+    {
+      "source": "Technology-Based Mindfulness Training",
+      "target": "Children And Adolescents",
+      "type": "ASSISTS",
+      "properties": {}
+    },
+    {
+      "source": "Children And Adolescents",
+      "target": "Abstract Concepts",
+      "type": "GRASP",
+      "properties": {}
+    },
+    {
+      "source": "Abstract Concepts",
+      "target": "Mindfulness Strategies",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Apps",
+      "target": "Traditional Face-To-Face Settings",
+      "type": "MORE_COST_EFFECTIVE_THAN",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Devices",
+      "target": "Users",
+      "type": "ALLOW_PARTICIPATION",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Users",
+      "type": "CAPTIVATE",
+      "properties": {}
+    },
+    {
+      "source": "Resources",
+      "target": "Users",
+      "type": "ENABLE_FLEXIBILITY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Data Protection",
+      "type": "LIMITATION",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Privacy Features",
+      "type": "LIMITATION",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Consent Issues",
+      "type": "LIMITATION",
+      "properties": {}
+    },
+    {
+      "source": "Efficacy Of Teaching Stress Relief Techniques",
+      "target": "Children Aged Four To 12",
+      "type": "INVESTIGATE",
+      "properties": {}
+    },
+    {
+      "source": "Efficacy Of Teaching Stress Relief Techniques",
+      "target": "Apps",
+      "type": "METHOD",
+      "properties": {}
+    },
+    {
+      "source": "Efficacy Of Teaching Stress Relief Techniques",
+      "target": "Instructors",
+      "type": "WITHOUT_INVOLVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Efficacy Of Teaching Stress Relief Techniques",
+      "target": "Parents",
+      "type": "WITHOUT_INVOLVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Parents Or Caregivers",
+      "target": "Technology",
+      "type": "SUPERVISE",
+      "properties": {}
+    },
+    {
+      "source": "Hybrid Models",
+      "target": "In-Person Sessions",
+      "type": "INTEGRATE",
+      "properties": {}
+    },
+    {
+      "source": "Hybrid Models",
+      "target": "Telehealth Sessions",
+      "type": "INTEGRATE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Children",
+      "type": "DESIGNED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Interventions",
+      "target": "Mindfulness-App Designers",
+      "type": "GUIDELINES_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "Movement-Based Exercises",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Movement-Based Exercises",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Apps For Children",
+      "target": "Usability Considerations",
+      "type": "REQUIRES",
+      "properties": {}
+    },
+    {
+      "source": "Timers",
+      "target": "Mindfulness Practice",
+      "type": "AUGMENT",
+      "properties": {}
+    },
+    {
+      "source": "Reminders",
+      "target": "Mindfulness Practice",
+      "type": "AUGMENT",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Guides",
+      "target": "Mindfulness Practice",
+      "type": "AUGMENT",
+      "properties": {}
+    },
+    {
+      "source": "Relaxation Exercises",
+      "target": "Mindfulness Practice",
+      "type": "AUGMENT",
+      "properties": {}
+    },
+    {
+      "source": "Timers",
+      "target": "User Ratings",
+      "type": "RESULT_IN_HIGHER",
+      "properties": {}
+    },
+    {
+      "source": "Reminders",
+      "target": "User Ratings",
+      "type": "RESULT_IN_HIGHER",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Guides",
+      "target": "User Ratings",
+      "type": "RESULT_IN_HIGHER",
+      "properties": {}
+    },
+    {
+      "source": "Relaxation Exercises",
+      "target": "User Ratings",
+      "type": "RESULT_IN_HIGHER",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Theory And Techniques Of Mindfulness",
+      "type": "PROVIDE_EXPLANATION_OF",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Applications",
+      "target": "Prevalent Misunderstandings",
+      "type": "ADDRESS",
+      "properties": {}
+    },
+    {
+      "source": "Applications",
+      "target": "Users",
+      "type": "ENCOURAGE_REGULAR_USE",
+      "properties": {}
+    },
+    {
+      "source": "Applications",
+      "target": "Users",
+      "type": "CREATE_CONFIDENCE",
+      "properties": {}
+    },
+    {
+      "source": "Applications",
+      "target": "Professionals",
+      "type": "TAILORED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Applications",
+      "target": "Individuals",
+      "type": "TAILORED_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Individuals",
+      "target": "Meditation",
+      "type": "PARTICIPATE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Applications",
+      "target": "Languages",
+      "type": "DEVELOPING_IN",
+      "properties": {}
+    },
+    {
+      "source": "Languages",
+      "target": "Non-English-Speaking Users",
+      "type": "ENHANCE_ACCESSIBILITY_FOR",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness Training",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Kindergarten",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Attention Regulation",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Emotions Management",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Well-Being",
+      "type": "ENHANCE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Children",
+      "type": "TARGET",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Practice",
+      "target": "Mobile Apps",
+      "type": "APPLICATION",
+      "properties": {}
+    },
+    {
+      "source": "Adults",
+      "target": "Mobile Apps",
+      "type": "RECEIVE_TRAINING",
+      "properties": {}
+    },
+    {
+      "source": "Adults",
+      "target": "Quality Of Life",
+      "type": "IMPROVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Adults",
+      "target": "Self-Reported Mindfulness",
+      "type": "IMPROVEMENT",
+      "properties": {}
+    },
+    {
+      "source": "Adults",
+      "target": "Depression Symptoms",
+      "type": "REDUCTION",
+      "properties": {}
+    },
+    {
+      "source": "Mobile App Technology",
+      "target": "Mindfulness Practice",
+      "type": "ADDRESS_OBSTACLES",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Phones",
+      "target": "Mindfulness Practice",
+      "type": "PORTABILITY",
+      "properties": {}
+    },
+    {
+      "source": "Graphical Barriers",
+      "target": "Access",
+      "type": "BARRIER_TO",
+      "properties": {}
+    },
+    {
+      "source": "Social Barriers",
+      "target": "Access",
+      "type": "BARRIER_TO",
+      "properties": {}
+    },
+    {
+      "source": "Economic Barriers",
+      "target": "Access",
+      "type": "BARRIER_TO",
+      "properties": {}
+    },
+    {
+      "source": "Age-Appropriate Digital Content",
+      "target": "Mindfulness",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Engaging Digital Content",
+      "target": "Mindfulness",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Age-Appropriate Digital Content",
+      "target": "Children'S Developmental Stages",
+      "type": "ALIGNED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Engaging Digital Content",
+      "target": "Children'S Interests",
+      "type": "ALIGNED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Children'S Developmental Stages",
+      "type": "ALIGNED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Children'S Interests",
+      "type": "ALIGNED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Theoretical Basis",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Explanations For Mindfulness",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Data Protection Measures",
+      "type": "PRIORITIZE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Child-Friendly Interface",
+      "type": "ENSURE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Simple Instructions",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Easy To Follow Instructions",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Short Activities",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Easy To Navigate Design",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Attractive Design",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "User-Friendly Design",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness App",
+      "target": "Age-Targeting Design",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Simple Actions And Animations",
+      "target": "Entertaining Elements",
+      "type": "CONTRIBUTE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Engaging Visuals",
+      "target": "Entertaining Elements",
+      "type": "CONTRIBUTE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Interactive Features",
+      "target": "Entertaining Elements",
+      "type": "CONTRIBUTE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Reminders For Practice",
+      "target": "Design And Features Of Future Apps",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Progress Tracking Features",
+      "target": "Design And Features Of Future Apps",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Apps In Multiple Languages",
+      "target": "Diverse Populations",
+      "type": "REACH",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Children",
+      "type": "PROMOTE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Concentration",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Emotional Control",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Psychological Well-Being",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Therapies",
+      "target": "Mobile",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Technology",
+      "target": "Health Outcomes",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Technology",
+      "target": "Anxiety And Stress Management",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Healthy Lifestyle",
+      "type": "PROMOTE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Personalized Therapies",
+      "type": "FACILITATE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Focused Apps",
+      "target": "Mindfulness Skills",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Focused Apps",
+      "target": "Emotional Development Of Children",
+      "type": "SUPPORT",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Structured Interventions",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Structured Interventions",
+      "target": "Accessibility",
+      "type": "INCREASE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Programs",
+      "target": "Young People",
+      "type": "TARGET",
+      "properties": {}
+    },
+    {
+      "source": "Young People",
+      "target": "Rural Areas",
+      "type": "LIVE_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Mindfulness Practices",
+      "type": "USE",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Empirical Data",
+      "type": "LACK",
+      "properties": {}
+    },
+    {
+      "source": "Empirical Data",
+      "target": "Effectiveness",
+      "type": "SUPPORT",
+      "properties": {}
+    },
+    {
+      "source": "Mobile Applications",
+      "target": "Cost-Effective Alternative",
+      "type": "PROVIDE",
+      "properties": {}
+    },
+    {
+      "source": "Cost-Effective Alternative",
+      "target": "Traditional",
+      "type": "ALTERNATIVE_TO",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Training",
+      "target": "Mindfulness Apps",
+      "type": "AVAILABILITY",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Digital Interventions",
+      "type": "ASSUMED_ADVANTAGEOUS",
+      "properties": {}
+    },
+    {
+      "source": "Digital Interventions",
+      "target": "Face-To-Face Interventions",
+      "type": "COMPARISON",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Apps",
+      "target": "Children",
+      "type": "INDEPENDENT_USE",
+      "properties": {}
+    },
+    {
+      "source": "N. Chadi",
+      "target": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "E. Weisbaum",
+      "target": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "D. X. Vo",
+      "target": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. Ahola Kohut",
+      "target": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions For Adolescents: Time To Consider Telehealth",
+      "target": "J. Altern. Complement. Med.",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "A. Golec De Zavala",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "O. Keenan",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Ziegler",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "P. Ciesielski",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. E. Wahl",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Mazurkiewicz",
+      "target": "App-Based Mindfulness Training Supported Eudaimonic Wellbeing During The Covid19",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Pandemic",
+      "target": "Appl. Psychol. Heal. Well-Being",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "target": "M. Economides",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "target": "J. Martman",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "target": "M. J. Bell",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "target": "B. Sanderson",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Improvements In Stress, Affect, And Irritability Following Brief Use Of A Mindfulness-Based Smartphone App: A Randomized Controlled Trial",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "W. Britton",
+      "target": "Neurobiological Models Of Meditation Practices: Implications For Applications With Youth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Sydnor",
+      "target": "Neurobiological Models Of Meditation Practices: Implications For Applications With Youth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Neurobiological Models Of Meditation Practices: Implications For Applications With Youth",
+      "target": "Teaching Mindfulness Skills To Kids And Teens",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "C. Willard",
+      "target": "Teaching Mindfulness Skills To Kids And Teens",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Saltzman",
+      "target": "Teaching Mindfulness Skills To Kids And Teens",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "The Guilford Press",
+      "target": "Teaching Mindfulness Skills To Kids And Teens",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "A. Moreno-G\u00f3mez",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "P. Luna",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Cejudo",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "International Journal Of Online And Biomedical Engineering",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions In Early Childhood",
+      "target": "Rev. Psicodid\u00e1ctica",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Effectiveness Of A Mindfulness-Based Social\u2013Emotional Learning Program On Psychosocial Adjustment And Neuropsychological Maturity In Kindergarten Children",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "A. J. Moreno-G\u00f3mez",
+      "target": "Effectiveness Of A Mindfulness-Based Social\u2013Emotional Learning Program On Psychosocial Adjustment And Neuropsychological Maturity In Kindergarten Children",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Cejudo",
+      "target": "Effectiveness Of A Mindfulness-Based Social\u2013Emotional Learning Program On Psychosocial Adjustment And Neuropsychological Maturity In Kindergarten Children",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "N. N. Singh",
+      "target": "Mindfulness-Based Interventions With Children And Adolescents",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. D. S. Joy",
+      "target": "Mindfulness-Based Interventions With Children And Adolescents",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions With Children And Adolescents",
+      "target": "Mindfulness-Based Interventions With Children And Adolescents",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Interventions With Children And Adolescents",
+      "target": "Routledge",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "D. Schultchen",
+      "target": "Stay Present With Your Phone: A Systematic Review And Standardized Rating Of Mindfulness Apps In European App Stores",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Stay Present With Your Phone: A Systematic Review And Standardized Rating Of Mindfulness Apps In European App Stores",
+      "target": "Int. J. Behav. Med.",
+      "type": "IN",
+      "properties": {}
+    },
+    {
+      "source": "A. I. Christou",
+      "target": "Int. J. Interact. Mob. Technol. (Ijim)",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. Tsermentseli",
+      "target": "Int. J. Interact. Mob. Technol. (Ijim)",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Int. J. Interact. Mob. Technol. (Ijim)",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Int. J. Emerg. Technol.",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "I. Chaidi",
+      "target": "Int. J. Emerg. Technol.",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "C. Papoutsi",
+      "target": "Int. J. Emerg. Technol.",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. J. Mrazek",
+      "target": "Curr. Opin. Psychol.",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Nunes",
+      "target": "Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. L. Castro",
+      "target": "Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "T. Limpo",
+      "target": "Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. F. Perrier",
+      "target": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "N. Gurgel-Juarez",
+      "target": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "H. L. Flowers",
+      "target": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Mccormick",
+      "target": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. J. Short",
+      "target": "Mindfulness-Based Interventions For Children And Adolescents Across All Settings: A Scoping Review Protocol",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "R. L. T. Lee",
+      "target": "Effects Of An Unstructured Free Play And Mindfulness Intervention On Wellbeing In Kindergarten Students",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "I. Moraiti",
+      "target": "Mindfulness Training \u2013 Effect On Adults With Adhd And Depressive Symptoms And The Role Of Digital Technologies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Fotoglou",
+      "target": "Mindfulness Training \u2013 Effect On Adults With Adhd And Depressive Symptoms And The Role Of Digital Technologies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Mindfulness Training \u2013 Effect On Adults With Adhd And Depressive Symptoms And The Role Of Digital Technologies",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Laurie",
+      "target": "Making Time For Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Blandford",
+      "target": "Making Time For Mindfulness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Mani",
+      "target": "Review And Evaluation Of Mindfulness-Based Iphone Apps",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "D. J. Kavanagh",
+      "target": "Review And Evaluation Of Mindfulness-Based Iphone Apps",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "L. Hides",
+      "target": "Review And Evaluation Of Mindfulness-Based Iphone Apps",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. R. Stoyanov",
+      "target": "Review And Evaluation Of Mindfulness-Based Iphone Apps",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. O. Bockmann",
+      "target": "Using Mindfulness-Based Interventions To Support Self-Regulation In Young Children: A Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. Y. Yu",
+      "target": "Using Mindfulness-Based Interventions To Support Self-Regulation In Young Children: A Review Of The Literature",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Y. Sun",
+      "target": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "R. Lamoreau",
+      "target": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "S. O\u2019Connell",
+      "target": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "R. Horlick",
+      "target": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. N. Bazzano",
+      "target": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Yoga And Mindfulness Interventions For Preschool-Aged Children In Educational Settings: A Systematic Review",
+      "target": "International Journal Of Environmental Research And Public Health",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Educ. Heal.",
+      "target": "2014",
+      "type": "DATE",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "M. J. Sciutto",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "D. A. Veres",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "T. L. Marinstein",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "B. F. Bailey",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "S. K. Cehelyk",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Child Fam. Stud.",
+      "target": "2021",
+      "type": "DATE",
+      "properties": {}
+    },
+    {
+      "source": "International Journal Of Online And Biomedical Engineering (Ijoe)",
+      "target": "2024",
+      "type": "DATE",
+      "properties": {}
+    },
+    {
+      "source": "I. E. A. De Greiff",
+      "target": "Mindful Learning: Research On Learner Awareness, Metacognition, And Learning Strategies Voices From The Field: Research From The Specialist Program In Bilingual Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Taylor",
+      "target": "Mindful Learning: Research On Learner Awareness, Metacognition, And Learning Strategies Voices From The Field: Research From The Specialist Program In Bilingual Education",
+      "type": "EDITOR",
+      "properties": {}
+    },
+    {
+      "source": "Instituci\u00f3n Universitaria Colombo Americana \u2013 \u00danica",
+      "target": "Mindful Learning: Research On Learner Awareness, Metacognition, And Learning Strategies Voices From The Field: Research From The Specialist Program In Bilingual Education",
+      "type": "PUBLISHER",
+      "properties": {}
+    },
+    {
+      "source": "K. Schwartz",
+      "target": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "F. M. Ganster",
+      "target": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "U. S. Tran",
+      "target": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "target": "J. Med. Internet Res.",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "target": "2023",
+      "type": "PUBLISHED_YEAR",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Mobile Apps And Their Impact On Well-Being In Nonclinical Populations: Systematic Review Of Randomized Controlled Trials",
+      "target": "E44638",
+      "type": "HAS_IDENTIFIER",
+      "properties": {}
+    },
+    {
+      "source": "Fulness Meditation",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "J. Huberty",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "J. Green",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "C. Glissmann",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "L. Larkey",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "M. Puzia",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "C. Lee",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "J. Huberty",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "J. Green",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "C. Glissmann",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "L. Larkey",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "M. Puzia",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Calm",
+      "target": "C. Lee",
+      "type": "STUDIED_BY",
+      "properties": {}
+    },
+    {
+      "source": "S. Duraimani",
+      "target": "A Cross-Sectional And Longitudinal Study Of The Effects Of A Mindfulness Meditation Mobile Application Platform On Reducing Stress And Anxiety",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A Cross-Sectional And Longitudinal Study Of The Effects Of A Mindfulness Meditation Mobile Application Platform On Reducing Stress And Anxiety",
+      "target": "Int. J. Yoga",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "A Cross-Sectional And Longitudinal Study Of The Effects Of A Mindfulness Meditation Mobile Application Platform On Reducing Stress And Anxiety",
+      "target": "2019",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Daily Mood During Mobile-App-Supported Mindfulness Training",
+      "target": "Appl. Psychol. Heal. Well-Being",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Putting The \u2018App\u2019 In Happiness",
+      "target": "Journal Of Happiness Studies",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "A. Howells",
+      "target": "Putting The \u2018App\u2019 In Happiness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "I. Ivtzan",
+      "target": "Putting The \u2018App\u2019 In Happiness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "F. J. Eiroa-Orosa",
+      "target": "Putting The \u2018App\u2019 In Happiness",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "E. Mitsea",
+      "target": "Digitally Assisted Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Digitally Assisted Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "C. Skianis",
+      "target": "Digitally Assisted Mindfulness",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Digitally Assisted Mindfulness",
+      "target": "Self-Regulation Skills",
+      "type": "ASSISTS",
+      "properties": {}
+    },
+    {
+      "source": "Self-Regulation Skills",
+      "target": "Sustainable Mental Health",
+      "type": "CONTRIBUTES_TO",
+      "properties": {}
+    },
+    {
+      "source": "C. Carissoli",
+      "target": "Meditation Protocol",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "D. Villani",
+      "target": "Meditation Protocol",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "G. Riva",
+      "target": "Meditation Protocol",
+      "type": "RESEARCH",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Protocol",
+      "target": "Mobile Application",
+      "type": "SUPPORTED_BY",
+      "properties": {}
+    },
+    {
+      "source": "Meditation Protocol",
+      "target": "Stress Reduction",
+      "type": "HELPS",
+      "properties": {}
+    },
+    {
+      "source": "Cyberpsychology, Behav. Soc. Netw.",
+      "target": "2015",
+      "type": "PUBLISHED",
+      "properties": {}
+    },
+    {
+      "source": "V. Galitskaya",
+      "target": "Mobiles & Ict Based Interventions For Learning Difficulties In Geometry",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. S. Drigas",
+      "target": "Mobiles & Ict Based Interventions For Learning Difficulties In Geometry",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Int. J. Eng. Pedagog.",
+      "target": "2023",
+      "type": "PUBLISHED",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Mobiles, Digital Tech, Empathy, Metacognition",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Karyotaki",
+      "target": "Mobiles, Digital Tech, Empathy, Metacognition",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "C. Skianis",
+      "target": "Mobiles, Digital Tech, Empathy, Metacognition",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Self-Consciousness And The Role Of Parents In Schools And Societies Of The Future",
+      "target": "Int. J. Interact. Mob. Technol.",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "target": "Ital. J. Educ. Technol.",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "I. Nicolaidou",
+      "target": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "F. Tozzi",
+      "target": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "P. Kindynis",
+      "target": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Panayiotou",
+      "target": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Antoniades",
+      "target": "Development And Usability Of A Gamified App To Help Children Manage Stress",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "I. N. Treves",
+      "target": "At-Home Use Of App-Based Mindfulness For Children: A Randomized Active-Controlled Trial",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. M. Driga",
+      "target": "Negative Impacts Of 15 White Foods On Health And Brain And The Role Of Mobiles In Healthy Living Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Zavitsanou",
+      "target": "Negative Impacts Of 15 White Foods On Health And Brain And The Role Of Mobiles In Healthy Living Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Negative Impacts Of 15 White Foods On Health And Brain And The Role Of Mobiles In Healthy Living Education",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "At-Home Use Of App-Based Mindfulness For Children: A Randomized Active-Controlled Trial",
+      "target": "Mindfulness",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Negative Impacts Of 15 White Foods On Health And Brain And The Role Of Mobiles In Healthy Living Education",
+      "target": "J. Heal. Technol. \u2013 Jht",
+      "type": "PUBLISHED_IN",
+      "properties": {}
+    },
+    {
+      "source": "International Journal Of Online And Biomedical Engineering",
+      "target": "Ijoe | Vol. 20 No. 15 (2024)",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "Anagnostopoulou",
+      "target": "Ijoe | Vol. 20 No. 15 (2024)",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Drigas",
+      "target": "Ijoe | Vol. 20 No. 15 (2024)",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. Karyotaki",
+      "target": "Mobile/Vr/Robotics/Iot-Based Chatbots And Intelligent Personal Assistants For Social Inclusion",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "A. Drigas",
+      "target": "Mobile/Vr/Robotics/Iot-Based Chatbots And Intelligent Personal Assistants For Social Inclusion",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "C. Skianis",
+      "target": "Mobile/Vr/Robotics/Iot-Based Chatbots And Intelligent Personal Assistants For Social Inclusion",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Int. J. Interact. Mob. Technol.",
+      "target": "Mobile/Vr/Robotics/Iot-Based Chatbots And Intelligent Personal Assistants For Social Inclusion",
+      "type": "CONTAINS",
+      "properties": {}
+    },
+    {
+      "source": "I. Plaza",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "M. M. P. Demarzo",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "P. Herrera-Mercadal",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "J. Garc\u00eda-Campayo",
+      "target": "Jmir Mhealth Uhealth",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Panagiota Anagnostopoulou",
+      "target": "N.C.S.R. Demokritos",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Panagiota Anagnostopoulou",
+      "target": "I.I.T",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Panagiota Anagnostopoulou",
+      "target": "Net Media Lab & Mind-Brain R&D",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Athanasios Drigas",
+      "target": "N.C.S.R. Demokritos",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Athanasios Drigas",
+      "target": "Net Media Lab & Mind-Brain R&D",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "N.C.S.R. Demokritos",
+      "target": "Agia Paraskevi, 153 10, Athens, Greece",
+      "type": "LOCATION",
+      "properties": {}
+    },
+    {
+      "source": "International Journal Of Online & Biomedical Engineering",
+      "target": "International Journal Of Online Engineering",
+      "type": "COPYRIGHT_HOLDER",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Written Permission",
+      "type": "REQUIREMENT",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Articles",
+      "type": "PRINT",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Articles",
+      "type": "DOWNLOAD",
+      "properties": {}
+    },
+    {
+      "source": "Users",
+      "target": "Articles",
+      "type": "EMAIL",
+      "properties": {}
+    },
+    {
+      "source": "Articles",
+      "target": "Individual Use",
+      "type": "PURPOSE",
+      "properties": {}
+    }
+  ]
+}

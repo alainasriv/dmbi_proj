@@ -1,0 +1,1638 @@
+{
+  "entities": [
+    {
+      "id": "Juraj Matis",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Miroslav Svetlak",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Alena Slezackova",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Marek Svoboda",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Rastislav \u0160umec",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Psychology, Faculty Of Arts, Masaryk University, Brno, Czech Republic",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Psychology And Psychosomatics, Faculty Of Medicine, Masaryk University, Brno, Czech Republic",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Psychiatry",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Faculty Of Medicine",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Masaryk University",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Brno",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Czech Republic",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Comprehensive Cancer Care",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Masaryk Memorial Cancer Institute",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "First Department Of Neurology",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "St. Anne\u2019S University Hospital",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Miroslav Svetlak",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Department Of Psychology And Psychosomatics",
+      "type": "Organization",
+      "properties": {}
+    },
+    {
+      "id": "Kamenice 126/3",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "Kamenice 126/3, Brno, Czech Republic",
+      "type": "Location",
+      "properties": {}
+    },
+    {
+      "id": "+42062500",
+      "type": "Phone number",
+      "properties": {}
+    },
+    {
+      "id": "420 773111330",
+      "type": "Phone number",
+      "properties": {}
+    },
+    {
+      "id": "Msvetlak@Med.Muni.Cz",
+      "type": "Email",
+      "properties": {}
+    },
+    {
+      "id": "Ehealth Mindfulness-Based Programs",
+      "type": "Program",
+      "properties": {}
+    },
+    {
+      "id": "Oncology",
+      "type": "Field",
+      "properties": {}
+    },
+    {
+      "id": "Palliative Care",
+      "type": "Field",
+      "properties": {}
+    },
+    {
+      "id": "Systematic Review",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Embps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Well-Being",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Patients With Cancer",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Intervention Characteristics",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Delivery Modes",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Included Studies",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Moderators",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mediators",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Predictors Of Efficacy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adherence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attrition",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Pubmed",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Psycinfo",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Scopus",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Web Of Knowledge",
+      "type": "Database",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Search term",
+      "properties": {}
+    },
+    {
+      "id": "Program",
+      "type": "Search term",
+      "properties": {}
+    },
+    {
+      "id": "Ehealth",
+      "type": "Search term",
+      "properties": {}
+    },
+    {
+      "id": "Neoplasm",
+      "type": "Search term",
+      "properties": {}
+    },
+    {
+      "id": "Embps",
+      "type": "Method",
+      "properties": {}
+    },
+    {
+      "id": "29 Published Papers",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "24 Original Studies",
+      "type": "Study",
+      "properties": {}
+    },
+    {
+      "id": "Embps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Fatigue",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Sleep Problems",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Pain",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Posttraumatic Growth",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "General Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Embp",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Posttraumatic Growth",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Feasibility",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Patients With Cancer",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Efficacy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Attrition",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Adherence",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Moderators",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mediators",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Predictors",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Embps",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Patients With Cancer",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Ehealth Technology",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Face-To-Face Mindfulness Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "J Med Internet Res 2020",
+      "type": "Publication",
+      "properties": {}
+    },
+    {
+      "id": "Ehealth",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mhealth",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cancer",
+      "type": "Disease",
+      "properties": {}
+    },
+    {
+      "id": "Systematic Review",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mobile Phone",
+      "type": "Device",
+      "properties": {}
+    },
+    {
+      "id": "Matis Et Al",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Cancer",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Somatic Symptoms",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Pain",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Fatigue",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Nausea",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Health Care Professionals",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Patients With Cancer",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Psychosocial Distress",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "3035 Patients",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Distress",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Anxiety",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Depression",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Major Depressive Disorders",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Patients With Advanced Cancer",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Patients In Various Stages Of Cancer Development",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Psychosocial Distress Symptoms",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Nervousness",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Insomnia",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Complex Oncological Care",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Palliative Care",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Psychotherapy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Counseling",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Nonpharmacological Methods",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Programs",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Patients",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Physicians",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Stress Reduction",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness-Based Cognitive Therapy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Chronic Pain",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Stress",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Affective Disorder",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Recurrent Depression",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Training",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Cognitive Behavioral",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Therapy",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "People With A History Of Depression",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Skills",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "8-Week Program",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Meditation",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Hatha Yoga",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Weekly Group Sessions",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Formal Meditation Practices",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Gentle Yoga",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Psychosocial Education",
+      "type": "Activity",
+      "properties": {}
+    },
+    {
+      "id": "Silent Meditation Retreat Day",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Course",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Group Members",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Meditation Practice",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Diary",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Participants",
+      "type": "Group",
+      "properties": {}
+    },
+    {
+      "id": "Formal Meditation Practices",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Focused Attention On Breathing",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Body Scans",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Open Monitoring",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Group Sessions",
+      "type": "Event",
+      "properties": {}
+    },
+    {
+      "id": "Mbct",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mbsr",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Bishop Et Al",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Thoughts And Feelings",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Events In Mind",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Self-Observation",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Space Between Perception And Response",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Reflective Response",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Reflexive Response",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Kabat-Zinn",
+      "type": "Person",
+      "properties": {}
+    },
+    {
+      "id": "Mbsr",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Chronic Pain",
+      "type": "Condition",
+      "properties": {}
+    },
+    {
+      "id": "Mental Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Physical Health",
+      "type": "Concept",
+      "properties": {}
+    },
+    {
+      "id": "Mindfulness Meditation",
+      "type": "Concept",
+      "properties": {}
+    }
+  ],
+  "relations": [
+    {
+      "source": "Juraj Matis",
+      "target": "Department Of Psychology, Faculty Of Arts, Masaryk University, Brno, Czech Republic",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Miroslav Svetlak",
+      "target": "Department Of Psychology And Psychosomatics, Faculty Of Medicine, Masaryk University, Brno, Czech Republic",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Alena Slezackova",
+      "target": "Department Of Psychology, Faculty Of Arts, Masaryk University, Brno, Czech Republic",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Alena Slezackova",
+      "target": "Department Of Psychology And Psychosomatics, Faculty Of Medicine, Masaryk University, Brno, Czech Republic",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Rastislav \u0160umec",
+      "target": "Department Of Psychology And Psychosomatics, Faculty Of Medicine, Masaryk University, Brno, Czech Republic",
+      "type": "AFFILIATION",
+      "properties": {}
+    },
+    {
+      "source": "Department Of Psychiatry",
+      "target": "Faculty Of Medicine",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Faculty Of Medicine",
+      "target": "Masaryk University",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Masaryk University",
+      "target": "Brno",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Brno",
+      "target": "Czech Republic",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Department Of Comprehensive Cancer Care",
+      "target": "Masaryk Memorial Cancer Institute",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Masaryk Memorial Cancer Institute",
+      "target": "Brno",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "First Department Of Neurology",
+      "target": "Faculty Of Medicine",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "First Department Of Neurology",
+      "target": "St. Anne\u2019S University Hospital",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "St. Anne\u2019S University Hospital",
+      "target": "Brno",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Miroslav Svetlak",
+      "target": "Department Of Psychology And Psychosomatics",
+      "type": "AFFILIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Department Of Psychology And Psychosomatics",
+      "target": "Faculty Of Medicine",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Miroslav Svetlak",
+      "target": "Masaryk University",
+      "type": "AFFILIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Department Of Psychology And Psychosomatics",
+      "target": "Kamenice 126/3",
+      "type": "LOCATED_AT",
+      "properties": {}
+    },
+    {
+      "source": "Kamenice 126/3",
+      "target": "Brno",
+      "type": "LOCATED_IN",
+      "properties": {}
+    },
+    {
+      "source": "Ehealth Mindfulness-Based Programs",
+      "target": "Oncology",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Ehealth Mindfulness-Based Programs",
+      "target": "Palliative Care",
+      "type": "RELATED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Systematic Review",
+      "target": "Embps",
+      "type": "EXAMINE_FEASIBILITY_AND_EFFICACY",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Mental Health",
+      "type": "IMPROVING",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Well-Being",
+      "type": "IMPROVING",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Patients With Cancer",
+      "type": "TARGET",
+      "properties": {}
+    },
+    {
+      "source": "Systematic Review",
+      "target": "Intervention Characteristics",
+      "type": "DESCRIBE",
+      "properties": {}
+    },
+    {
+      "source": "Systematic Review",
+      "target": "Delivery Modes",
+      "type": "DESCRIBE",
+      "properties": {}
+    },
+    {
+      "source": "Systematic Review",
+      "target": "Included Studies",
+      "type": "SUMMARIZE_RESULTS",
+      "properties": {}
+    },
+    {
+      "source": "Included Studies",
+      "target": "Moderators",
+      "type": "RESULTS_IN_TERMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Included Studies",
+      "target": "Mediators",
+      "type": "RESULTS_IN_TERMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Included Studies",
+      "target": "Predictors Of Efficacy",
+      "type": "RESULTS_IN_TERMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Included Studies",
+      "target": "Adherence",
+      "type": "RESULTS_IN_TERMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Included Studies",
+      "target": "Attrition",
+      "type": "RESULTS_IN_TERMS_OF",
+      "properties": {}
+    },
+    {
+      "source": "Pubmed",
+      "target": "Mindfulness",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Psycinfo",
+      "target": "Mindfulness",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Scopus",
+      "target": "Mindfulness",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Web Of Knowledge",
+      "target": "Mindfulness",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Pubmed",
+      "target": "Program",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Psycinfo",
+      "target": "Program",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Scopus",
+      "target": "Program",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Web Of Knowledge",
+      "target": "Program",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Pubmed",
+      "target": "Ehealth",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Psycinfo",
+      "target": "Ehealth",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Scopus",
+      "target": "Ehealth",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Web Of Knowledge",
+      "target": "Ehealth",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Pubmed",
+      "target": "Neoplasm",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Psycinfo",
+      "target": "Neoplasm",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Scopus",
+      "target": "Neoplasm",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Web Of Knowledge",
+      "target": "Neoplasm",
+      "type": "SEARCHED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "29 Published Papers",
+      "type": "SYNTHESIZED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "24 Original Studies",
+      "type": "SYNTHESIZED_FROM",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Stress",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Anxiety",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Depression",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Fatigue",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Sleep Problems",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Pain",
+      "type": "REDUCE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Mindfulness",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Posttraumatic Growth",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "General Health",
+      "type": "IMPROVE",
+      "properties": {}
+    },
+    {
+      "source": "Embp",
+      "target": "Posttraumatic Growth",
+      "type": "FACILITATES",
+      "properties": {}
+    },
+    {
+      "source": "Embp",
+      "target": "Feasibility",
+      "type": "HAS",
+      "properties": {}
+    },
+    {
+      "source": "Feasibility",
+      "target": "Patients With Cancer",
+      "type": "FOR",
+      "properties": {}
+    },
+    {
+      "source": "Embp",
+      "target": "Efficacy",
+      "type": "HAS_POTENTIAL_MODERATORS_MEDIATORS_PREDICTORS",
+      "properties": {}
+    },
+    {
+      "source": "Embp",
+      "target": "Attrition",
+      "type": "HAS_POTENTIAL_MODERATORS_MEDIATORS_PREDICTORS",
+      "properties": {}
+    },
+    {
+      "source": "Embp",
+      "target": "Adherence",
+      "type": "HAS_POTENTIAL_MODERATORS_MEDIATORS_PREDICTORS",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Mindfulness Practice",
+      "type": "DELIVERY_METHOD",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Patients With Cancer",
+      "type": "TARGET_GROUP",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Face-To-Face Mindfulness Programs",
+      "type": "CONVERSION_ATTEMPT",
+      "properties": {}
+    },
+    {
+      "source": "Embps",
+      "target": "Ehealth Technology",
+      "type": "POTENTIAL_EXPLOITATION",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Ehealth",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Mhealth",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Mindfulness",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Cancer",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Systematic Review",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Mobile Phone",
+      "type": "KEYWORD",
+      "properties": {}
+    },
+    {
+      "source": "J Med Internet Res 2020",
+      "target": "Matis Et Al",
+      "type": "AUTHOR",
+      "properties": {}
+    },
+    {
+      "source": "Cancer",
+      "target": "Somatic Symptoms",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "Somatic Symptoms",
+      "target": "Pain",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Somatic Symptoms",
+      "target": "Fatigue",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Somatic Symptoms",
+      "target": "Nausea",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Health Care Professionals",
+      "target": "Patients With Cancer",
+      "type": "HELP",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress",
+      "target": "Patients With Cancer",
+      "type": "ASSOCIATED_WITH",
+      "properties": {}
+    },
+    {
+      "source": "3035 Patients",
+      "target": "Cancer",
+      "type": "HAVE",
+      "properties": {}
+    },
+    {
+      "source": "Distress",
+      "target": "25.7%",
+      "type": "PREVALENCE",
+      "properties": {}
+    },
+    {
+      "source": "Anxiety",
+      "target": "25.7%",
+      "type": "PREVALENCE",
+      "properties": {}
+    },
+    {
+      "source": "Depression",
+      "target": "25.7%",
+      "type": "PREVALENCE",
+      "properties": {}
+    },
+    {
+      "source": "Major Depressive Disorders",
+      "target": "15%",
+      "type": "PREVALENCE",
+      "properties": {}
+    },
+    {
+      "source": "Major Depressive Disorders",
+      "target": "Patients With Advanced Cancer",
+      "type": "AFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "30% To 40%",
+      "type": "PREVALENCE",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "Patients In Various Stages Of Cancer Development",
+      "type": "AFFECTS",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "Anxiety",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "Depression",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "Nervousness",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Psychosocial Distress Symptoms",
+      "target": "Insomnia",
+      "type": "INCLUDES",
+      "properties": {}
+    },
+    {
+      "source": "Psychotherapy",
+      "target": "Complex Oncological Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Psychotherapy",
+      "target": "Palliative Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Counseling",
+      "target": "Complex Oncological Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Counseling",
+      "target": "Palliative Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Nonpharmacological Methods",
+      "target": "Complex Oncological Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Nonpharmacological Methods",
+      "target": "Palliative Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Programs",
+      "target": "Complex Oncological Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Programs",
+      "target": "Palliative Care",
+      "type": "NOT_IMPLEMENTED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Programs",
+      "target": "Patients",
+      "type": "UNDERESTIMATED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Programs",
+      "target": "Physicians",
+      "type": "UNDERESTIMATED",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Stress Reduction",
+      "target": "Chronic Pain",
+      "type": "AIMED_AT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Stress Reduction",
+      "target": "Stress",
+      "type": "AIMED_AT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Cognitive Therapy",
+      "target": "Affective Disorder",
+      "type": "AIMED_AT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Cognitive Therapy",
+      "target": "Recurrent Depression",
+      "type": "AIMED_AT",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Cognitive Therapy",
+      "target": "Mindfulness Training",
+      "type": "COMBINES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness-Based Cognitive Therapy",
+      "target": "Cognitive Behavioral",
+      "type": "COMBINES",
+      "properties": {}
+    },
+    {
+      "source": "Therapy",
+      "target": "People With A History Of Depression",
+      "type": "HELP",
+      "properties": {}
+    },
+    {
+      "source": "Therapy",
+      "target": "Skills",
+      "type": "LEARN",
+      "properties": {}
+    },
+    {
+      "source": "8-Week Program",
+      "target": "Meditation",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "8-Week Program",
+      "target": "Hatha Yoga",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "Weekly Group Sessions",
+      "type": "ATTEND",
+      "properties": {}
+    },
+    {
+      "source": "Weekly Group Sessions",
+      "target": "Formal Meditation Practices",
+      "type": "INTRODUCE",
+      "properties": {}
+    },
+    {
+      "source": "Weekly Group Sessions",
+      "target": "Gentle Yoga",
+      "type": "INTRODUCE",
+      "properties": {}
+    },
+    {
+      "source": "Weekly Group Sessions",
+      "target": "Psychosocial Education",
+      "type": "INTRODUCE",
+      "properties": {}
+    },
+    {
+      "source": "8-Week Program",
+      "target": "Silent Meditation Retreat Day",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Silent Meditation Retreat Day",
+      "target": "Course",
+      "type": "PART_OF",
+      "properties": {}
+    },
+    {
+      "source": "Group Members",
+      "target": "Practice",
+      "type": "ASK",
+      "properties": {}
+    },
+    {
+      "source": "Participants",
+      "target": "Diary",
+      "type": "ENCOURAGED_TO_KEEP",
+      "properties": {}
+    },
+    {
+      "source": "Formal Meditation Practices",
+      "target": "Focused Attention On Breathing",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Formal Meditation Practices",
+      "target": "Body Scans",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Formal Meditation Practices",
+      "target": "Open Monitoring",
+      "type": "INCLUDE",
+      "properties": {}
+    },
+    {
+      "source": "Group Sessions",
+      "target": "Group Meditation Practice",
+      "type": "FOCUS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Group Sessions",
+      "target": "Discussion Of Practices",
+      "type": "FOCUS_ON",
+      "properties": {}
+    },
+    {
+      "source": "Mbct",
+      "target": "Mbsr",
+      "type": "BASED_ON",
+      "properties": {}
+    },
+    {
+      "source": "Bishop Et Al",
+      "target": "Mindfulness",
+      "type": "DEFINE",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Thoughts And Feelings",
+      "type": "OBSERVED_AS",
+      "properties": {}
+    },
+    {
+      "source": "Thoughts And Feelings",
+      "target": "Events In Mind",
+      "type": "AS",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Self-Observation",
+      "type": "ENABLES",
+      "properties": {}
+    },
+    {
+      "source": "Self-Observation",
+      "target": "Space Between Perception And Response",
+      "type": "INTRODUCES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness",
+      "target": "Reflective Response",
+      "type": "ENABLES",
+      "properties": {}
+    },
+    {
+      "source": "Reflective Response",
+      "target": "Reflexive Response",
+      "type": "OPPOSED_TO",
+      "properties": {}
+    },
+    {
+      "source": "Kabat-Zinn",
+      "target": "Mbsr",
+      "type": "PUBLISHED_ARTICLE_ON",
+      "properties": {}
+    },
+    {
+      "source": "Mbsr",
+      "target": "Chronic Pain",
+      "type": "REDUCES",
+      "properties": {}
+    },
+    {
+      "source": "Mbps",
+      "target": "Mental Health",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mbps",
+      "target": "Physical Health",
+      "type": "IMPROVES",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Meditation",
+      "target": "Mental Health",
+      "type": "BENEFITS",
+      "properties": {}
+    },
+    {
+      "source": "Mindfulness Meditation",
+      "target": "Physical Health",
+      "type": "BENEFITS",
+      "properties": {}
+    }
+  ]
+}

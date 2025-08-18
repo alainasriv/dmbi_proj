@@ -1,0 +1,5820 @@
+{
+  "entities": [
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Journal"
+    },
+    {
+      "name": "David Chan Chee Hoong",
+      "type": "Author"
+    },
+    {
+      "name": "Hanizah Yusoff",
+      "type": "Author"
+    },
+    {
+      "name": "Roszita Ibrahim",
+      "type": "Author"
+    },
+    {
+      "name": "Halim Ismail",
+      "type": "Author"
+    },
+    {
+      "name": "Hanis Ahmad",
+      "type": "Author"
+    },
+    {
+      "name": "Department of Public Health Medicine",
+      "type": "Department"
+    },
+    {
+      "name": "Faculty of Medicine",
+      "type": "Institution"
+    },
+    {
+      "name": "Universiti Kebangsaan Malaysia",
+      "type": "University"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "type": "Location"
+    },
+    {
+      "name": "Malaysia",
+      "type": "Country"
+    },
+    {
+      "name": "COVID-19 Pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Mental Health Promotion Program",
+      "type": "Program"
+    },
+    {
+      "name": "stress",
+      "type": "condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "mental health",
+      "type": "health aspect"
+    },
+    {
+      "name": "programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "electronic databases",
+      "type": "resource"
+    },
+    {
+      "name": "keywords",
+      "type": "search term"
+    },
+    {
+      "name": "mindfulness-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "online-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "self-help psychological interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "population"
+    },
+    {
+      "name": "mental health",
+      "type": "outcome"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "stress",
+      "type": "mental health issue"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health issue"
+    },
+    {
+      "name": "depression",
+      "type": "mental health issue"
+    },
+    {
+      "name": "online therapies",
+      "type": "treatment"
+    },
+    {
+      "name": "mindfulness-based therapies",
+      "type": "treatment"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "systematic review",
+      "type": "research"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Journal"
+    },
+    {
+      "name": "David Chan Chee Hoong",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "Mental health",
+      "type": "Concept"
+    },
+    {
+      "name": "Pandemic",
+      "type": "Concept"
+    },
+    {
+      "name": "Healthcare workers",
+      "type": "Group"
+    },
+    {
+      "name": "Intervention",
+      "type": "Concept"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "Emergency Committee",
+      "type": "organization"
+    },
+    {
+      "name": "World Health Organization",
+      "type": "organization"
+    },
+    {
+      "name": "Public Health Emergency",
+      "type": "event"
+    },
+    {
+      "name": "636 million",
+      "type": "statistic"
+    },
+    {
+      "name": "600 million",
+      "type": "statistic"
+    },
+    {
+      "name": "November 22, 2022",
+      "type": "date"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "mental illness",
+      "type": "Health Condition"
+    },
+    {
+      "name": "helplessness",
+      "type": "Psychological State"
+    },
+    {
+      "name": "anxiety",
+      "type": "Psychological State"
+    },
+    {
+      "name": "social distancing",
+      "type": "Behavior"
+    },
+    {
+      "name": "frontline health workers",
+      "type": "Profession"
+    },
+    {
+      "name": "physiological health",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "well-being",
+      "type": "Health Aspect"
+    },
+    {
+      "name": "psychological problems",
+      "type": "Health Condition"
+    },
+    {
+      "name": "burnout",
+      "type": "Health Condition"
+    },
+    {
+      "name": "healthcare services",
+      "type": "Service"
+    },
+    {
+      "name": "mental health issues",
+      "type": "issue"
+    },
+    {
+      "name": "HCWs",
+      "type": "profession"
+    },
+    {
+      "name": "mental health psychological support systems",
+      "type": "system"
+    },
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "healthcare providers",
+      "type": "profession"
+    },
+    {
+      "name": "public health emergency",
+      "type": "event"
+    },
+    {
+      "name": "mental health",
+      "type": "issue"
+    },
+    {
+      "name": "groups",
+      "type": "group"
+    },
+    {
+      "name": "workers",
+      "type": "group"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "Mental health problems",
+      "type": "issue"
+    },
+    {
+      "name": "employee morale",
+      "type": "concept"
+    },
+    {
+      "name": "standard of care",
+      "type": "concept"
+    },
+    {
+      "name": "attendance",
+      "type": "concept"
+    },
+    {
+      "name": "turnover",
+      "type": "concept"
+    },
+    {
+      "name": "health systems",
+      "type": "system"
+    },
+    {
+      "name": "public health difficulties",
+      "type": "issue"
+    },
+    {
+      "name": "COVID-19 outbreak",
+      "type": "event"
+    },
+    {
+      "name": "psychological consequences",
+      "type": "issue"
+    },
+    {
+      "name": "health practitioners",
+      "type": "group"
+    },
+    {
+      "name": "sadness",
+      "type": "emotion"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health symptom"
+    },
+    {
+      "name": "fatigue",
+      "type": "physical health symptom"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "healthcare professionals",
+      "type": "occupation"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "publication"
+    },
+    {
+      "name": "mental health consequences",
+      "type": "health outcome"
+    },
+    {
+      "name": "mental illness",
+      "type": "health condition"
+    },
+    {
+      "name": "HCWs",
+      "type": "Profession"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "Norhayati et al.",
+      "type": "Researcher"
+    },
+    {
+      "name": "mental illness",
+      "type": "Health Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Health Condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "Health Condition"
+    },
+    {
+      "name": "high-risk departments",
+      "type": "Work Environment"
+    },
+    {
+      "name": "frontline workers",
+      "type": "Profession"
+    },
+    {
+      "name": "non-frontline health workers",
+      "type": "Profession"
+    },
+    {
+      "name": "healthcare professionals",
+      "type": "profession"
+    },
+    {
+      "name": "mental health",
+      "type": "health concern"
+    },
+    {
+      "name": "coronavirus",
+      "type": "disease"
+    },
+    {
+      "name": "Malaysia",
+      "type": "location"
+    },
+    {
+      "name": "mental illness",
+      "type": "health concern"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health issue"
+    },
+    {
+      "name": "depressive symptoms",
+      "type": "mental health issue"
+    },
+    {
+      "name": "medical practitioners",
+      "type": "profession"
+    },
+    {
+      "name": "psychological pressure",
+      "type": "health concern"
+    },
+    {
+      "name": "disease exposure",
+      "type": "health concern"
+    },
+    {
+      "name": "personal protection",
+      "type": "health concern"
+    },
+    {
+      "name": "equipment",
+      "type": "PPE"
+    },
+    {
+      "name": "mental illness",
+      "type": "health issue"
+    },
+    {
+      "name": "HCWs",
+      "type": "profession"
+    },
+    {
+      "name": "psychological interventions",
+      "type": "treatment"
+    },
+    {
+      "name": "mental health programmes",
+      "type": "program"
+    },
+    {
+      "name": "population groups",
+      "type": "demographic"
+    },
+    {
+      "name": "hospital workers",
+      "type": "profession"
+    },
+    {
+      "name": "disease outbreaks",
+      "type": "event"
+    },
+    {
+      "name": "mental health programmes",
+      "type": "program"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "systematic review",
+      "type": "research method"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "profession"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "psychosocial support",
+      "type": "support type"
+    },
+    {
+      "name": "healthcare professionals",
+      "type": "profession"
+    },
+    {
+      "name": "policymakers",
+      "type": "group"
+    },
+    {
+      "name": "PRISMA",
+      "type": "methodology"
+    },
+    {
+      "name": "systematic review",
+      "type": "research method"
+    },
+    {
+      "name": "scientific papers",
+      "type": "document"
+    },
+    {
+      "name": "PubMed",
+      "type": "database"
+    },
+    {
+      "name": "MEDLINE",
+      "type": "database"
+    },
+    {
+      "name": "EMBSE",
+      "type": "database"
+    },
+    {
+      "name": "Cochrane Library",
+      "type": "database"
+    },
+    {
+      "name": "PsycINFO",
+      "type": "database"
+    },
+    {
+      "name": "Mental Health promotion",
+      "type": "MeSH keyword"
+    },
+    {
+      "name": "promotion programmes",
+      "type": "MeSH keyword"
+    },
+    {
+      "name": "psychological intervention",
+      "type": "MeSH keyword"
+    },
+    {
+      "name": "mental well-being programmes",
+      "type": "MeSH keyword"
+    },
+    {
+      "name": "COVID-19",
+      "type": "setting"
+    },
+    {
+      "name": "pandemic",
+      "type": "setting"
+    },
+    {
+      "name": "outbreaks",
+      "type": "setting"
+    },
+    {
+      "name": "healthcare personnel",
+      "type": "worker"
+    },
+    {
+      "name": "healthcare provider",
+      "type": "worker"
+    },
+    {
+      "name": "medical staff",
+      "type": "worker"
+    },
+    {
+      "name": "healthcare worker",
+      "type": "worker"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "PICO model",
+      "type": "Concept"
+    },
+    {
+      "name": "systematic review",
+      "type": "Methodology"
+    },
+    {
+      "name": "March 2020",
+      "type": "Date"
+    },
+    {
+      "name": "October 2022",
+      "type": "Date"
+    },
+    {
+      "name": "Healthcare Workers",
+      "type": "Population"
+    },
+    {
+      "name": "Mental Health Promotion programmes",
+      "type": "Intervention"
+    },
+    {
+      "name": "Experimental vs. control group",
+      "type": "Comparison"
+    },
+    {
+      "name": "Health and cost benefits",
+      "type": "Outcome"
+    },
+    {
+      "name": "PRISMA",
+      "type": "Standard"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Journal"
+    },
+    {
+      "name": "Mental Health Promotion programmes",
+      "type": "Program"
+    },
+    {
+      "name": "March 2024",
+      "type": "Date"
+    },
+    {
+      "name": "PICO question",
+      "type": "Concept"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "healthcare professionals",
+      "type": "Profession"
+    },
+    {
+      "name": "articles",
+      "type": "Publication"
+    },
+    {
+      "name": "cohort studies",
+      "type": "Study Type"
+    },
+    {
+      "name": "randomised controlled trials",
+      "type": "Study Type"
+    },
+    {
+      "name": "study population",
+      "type": "Population"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "Profession"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "intervention",
+      "type": "concept"
+    },
+    {
+      "name": "health benefits",
+      "type": "outcome"
+    },
+    {
+      "name": "cost benefits",
+      "type": "outcome"
+    },
+    {
+      "name": "primary articles",
+      "type": "article type"
+    },
+    {
+      "name": "narrative reviews",
+      "type": "article type"
+    },
+    {
+      "name": "case studies",
+      "type": "article type"
+    },
+    {
+      "name": "meta-analyses",
+      "type": "article type"
+    },
+    {
+      "name": "scientific papers",
+      "type": "article type"
+    },
+    {
+      "name": "PRISMA",
+      "type": "Standard"
+    },
+    {
+      "name": "Mental Health Promotion Program",
+      "type": "Program"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "Population"
+    },
+    {
+      "name": "study type",
+      "type": "Attribute"
+    },
+    {
+      "name": "research objective",
+      "type": "Attribute"
+    },
+    {
+      "name": "sample size",
+      "type": "Attribute"
+    },
+    {
+      "name": "research area",
+      "type": "Attribute"
+    },
+    {
+      "name": "primary results",
+      "type": "Attribute"
+    },
+    {
+      "name": "health benefits",
+      "type": "Outcome"
+    },
+    {
+      "name": "cost benefits",
+      "type": "Outcome"
+    },
+    {
+      "name": "review panel",
+      "type": "Group"
+    },
+    {
+      "name": "review panel",
+      "type": "group"
+    },
+    {
+      "name": "articles",
+      "type": "object"
+    },
+    {
+      "name": "two teams of two members",
+      "type": "group"
+    },
+    {
+      "name": "research team leader",
+      "type": "individual"
+    },
+    {
+      "name": "data extraction and analysis",
+      "type": "process"
+    },
+    {
+      "name": "methodological quality",
+      "type": "attribute"
+    },
+    {
+      "name": "finalised article",
+      "type": "object"
+    },
+    {
+      "name": "Mixed-Methods",
+      "type": "methodology"
+    },
+    {
+      "name": "Mixed-Methods Appraisal Tool",
+      "type": "tool"
+    },
+    {
+      "name": "Riboldi et al.",
+      "type": "author"
+    },
+    {
+      "name": "2022",
+      "type": "year"
+    },
+    {
+      "name": "Digital mental health interventions for anxiety and depressive symptoms in university students during the COVID-19 pandemic: A systematic review of randomised controlled trials",
+      "type": "study title"
+    },
+    {
+      "name": "digital mental health interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "university students",
+      "type": "group"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "Galante et al.",
+      "type": "author"
+    },
+    {
+      "name": "Mindfulness-based programs",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health promotion",
+      "type": "concept"
+    },
+    {
+      "name": "adults",
+      "type": "group"
+    },
+    {
+      "name": "non-clinical settings",
+      "type": "context"
+    },
+    {
+      "name": "systematic review and meta-analysis",
+      "type": "research methodology"
+    },
+    {
+      "name": "Kurniawan et al.",
+      "type": "author"
+    },
+    {
+      "name": "2022",
+      "type": "publication_year"
+    },
+    {
+      "name": "Online-Based Intervention for Anxiety during COVID-19",
+      "type": "study_title"
+    },
+    {
+      "name": "Park et al.",
+      "type": "author"
+    },
+    {
+      "name": "2022",
+      "type": "publication_year"
+    },
+    {
+      "name": "The effectiveness of e-healthcare interventions for the mental health of nurses",
+      "type": "study_title"
+    },
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "nurses",
+      "type": "profession"
+    },
+    {
+      "name": "e-healthcare interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "Acarturk et al.",
+      "type": "author"
+    },
+    {
+      "name": "2022",
+      "type": "year"
+    },
+    {
+      "name": "WHO self-help psychological intervention",
+      "type": "intervention"
+    },
+    {
+      "name": "Syrian refugees",
+      "type": "population"
+    },
+    {
+      "name": "Turkey",
+      "type": "location"
+    },
+    {
+      "name": "randomised controlled trial",
+      "type": "study type"
+    },
+    {
+      "name": "WHO self-help intervention",
+      "type": "intervention"
+    },
+    {
+      "name": "mental disorders",
+      "type": "condition"
+    },
+    {
+      "name": "Syrian refugees",
+      "type": "population"
+    },
+    {
+      "name": "Turkey",
+      "type": "location"
+    },
+    {
+      "name": "O\u2019Daffer et al.",
+      "type": "author"
+    },
+    {
+      "name": "2022",
+      "type": "date"
+    },
+    {
+      "name": "Headspace",
+      "type": "app"
+    },
+    {
+      "name": "Calm",
+      "type": "app"
+    },
+    {
+      "name": "randomized controlled trials",
+      "type": "study type"
+    },
+    {
+      "name": "Headspace",
+      "type": "App"
+    },
+    {
+      "name": "Calm",
+      "type": "App"
+    },
+    {
+      "name": "Dong et al.",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "frontline health care workers",
+      "type": "Group"
+    },
+    {
+      "name": "mental and physical well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "intervention",
+      "type": "Concept"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Witarto et al.",
+      "type": "Person"
+    },
+    {
+      "name": "Effectiveness of online mindfulness-based interventions in improving mental health",
+      "type": "Research Study"
+    },
+    {
+      "name": "Online mindfulness-based interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "mental health",
+      "type": "Health Condition"
+    },
+    {
+      "name": "systematic review and meta-analysis of randomised controlled trials",
+      "type": "Methodology"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Publication"
+    },
+    {
+      "name": "systematic review and meta-analysis",
+      "type": "Methodology"
+    },
+    {
+      "name": "randomised controlled trials",
+      "type": "Research Design"
+    },
+    {
+      "name": "qualitative studies",
+      "type": "Research Type"
+    },
+    {
+      "name": "quantitative studies",
+      "type": "Research Type"
+    },
+    {
+      "name": "March 2024",
+      "type": "Date"
+    },
+    {
+      "name": "Mal J Med Health Sci 20(2): 285-292",
+      "type": "Citation"
+    },
+    {
+      "name": "criteria",
+      "type": "concept"
+    },
+    {
+      "name": "Low",
+      "type": "grade"
+    },
+    {
+      "name": "medium",
+      "type": "grade"
+    },
+    {
+      "name": "high",
+      "type": "grade"
+    },
+    {
+      "name": "systematic review",
+      "type": "methodology"
+    },
+    {
+      "name": "data synthesis",
+      "type": "process"
+    },
+    {
+      "name": "qualitative studies",
+      "type": "study type"
+    },
+    {
+      "name": "quantitative studies",
+      "type": "study type"
+    },
+    {
+      "name": "mixed studies",
+      "type": "study type"
+    },
+    {
+      "name": "intervention area",
+      "type": "concept"
+    },
+    {
+      "name": "study",
+      "type": "concept"
+    },
+    {
+      "name": "findings section",
+      "type": "concept"
+    },
+    {
+      "name": "treatments",
+      "type": "concept"
+    },
+    {
+      "name": "therapy",
+      "type": "concept"
+    },
+    {
+      "name": "specific programmes",
+      "type": "concept"
+    },
+    {
+      "name": "systematic review",
+      "type": "concept"
+    },
+    {
+      "name": "ethical considerations",
+      "type": "concept"
+    },
+    {
+      "name": "HCWs",
+      "type": "profession"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "PROSPERO",
+      "type": "database"
+    },
+    {
+      "name": "CRD42023396831",
+      "type": "identifier"
+    },
+    {
+      "name": "pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "mental health interventions programmes",
+      "type": "Program"
+    },
+    {
+      "name": "psychological symptoms",
+      "type": "Symptom"
+    },
+    {
+      "name": "HCWs",
+      "type": "Group"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "literature",
+      "type": "Resource"
+    },
+    {
+      "name": "efficacy of mental health promotion programmes",
+      "type": "Concept"
+    },
+    {
+      "name": "HCWs",
+      "type": "participant"
+    },
+    {
+      "name": "physicians",
+      "type": "role"
+    },
+    {
+      "name": "nurses",
+      "type": "role"
+    },
+    {
+      "name": "support staff",
+      "type": "role"
+    },
+    {
+      "name": "mindfulness-based programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "psychological resilience programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "e-healthcare interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "self-help psychological interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "video consultations",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "psychological resilience",
+      "type": "trait"
+    },
+    {
+      "name": "overall well-being",
+      "type": "attribute"
+    },
+    {
+      "name": "studies",
+      "type": "research"
+    },
+    {
+      "name": "psychological health promotion initiatives",
+      "type": "program"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "psychological resilience interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mindfulness-based programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "e-health interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "resilience",
+      "type": "Psychological Trait"
+    },
+    {
+      "name": "mindfulness",
+      "type": "Psychological Trait"
+    },
+    {
+      "name": "E-health interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "Intervention"
+    },
+    {
+      "name": "mental health disorders",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "HCWs",
+      "type": "Profession"
+    },
+    {
+      "name": "randomised controlled trial",
+      "type": "Study"
+    },
+    {
+      "name": "WHO",
+      "type": "Organization"
+    },
+    {
+      "name": "self-help psychological interventional programmes",
+      "type": "Program"
+    },
+    {
+      "name": "mental disorders",
+      "type": "Health Condition"
+    },
+    {
+      "name": "HCWs",
+      "type": "Group"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Issue"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Issue"
+    },
+    {
+      "name": "post-traumatic stress disorder (PTSD)",
+      "type": "Mental Health Issue"
+    },
+    {
+      "name": "pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "literature review",
+      "type": "study"
+    },
+    {
+      "name": "mindfulness-based programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "self-help",
+      "type": "intervention"
+    },
+    {
+      "name": "online-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "mental health",
+      "type": "health aspect"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "PTSD symptoms",
+      "type": "condition"
+    },
+    {
+      "name": "therapies",
+      "type": "method"
+    },
+    {
+      "name": "mental health",
+      "type": "field"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "WHO self-help psychotherapy",
+      "type": "intervention"
+    },
+    {
+      "name": "mental disorders",
+      "type": "condition"
+    },
+    {
+      "name": "Syrian refugees",
+      "type": "group"
+    },
+    {
+      "name": "Turkey",
+      "type": "location"
+    },
+    {
+      "name": "mindfulness-based interventions",
+      "type": "method"
+    },
+    {
+      "name": "mindfulness-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "mental health",
+      "type": "health aspect"
+    },
+    {
+      "name": "COVID-19",
+      "type": "event"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "programme"
+    },
+    {
+      "name": "healthcare workers",
+      "type": "group"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "publication"
+    },
+    {
+      "name": "March 2024",
+      "type": "date"
+    },
+    {
+      "name": "mental health disorders",
+      "type": "condition"
+    },
+    {
+      "name": "organisations",
+      "type": "entity"
+    },
+    {
+      "name": "governments",
+      "type": "entity"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "systematic review",
+      "type": "study"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "mental well-being",
+      "type": "state"
+    },
+    {
+      "name": "strategies",
+      "type": "approach"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "HCWs",
+      "type": "Group"
+    },
+    {
+      "name": "mental health",
+      "type": "Concept"
+    },
+    {
+      "name": "demographic research",
+      "type": "Study"
+    },
+    {
+      "name": "community samples",
+      "type": "Data"
+    },
+    {
+      "name": "overall population",
+      "type": "Group"
+    },
+    {
+      "name": "mental health issues",
+      "type": "Concept"
+    },
+    {
+      "name": "stress",
+      "type": "Concept"
+    },
+    {
+      "name": "emotional strain",
+      "type": "Concept"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health issue"
+    },
+    {
+      "name": "depression",
+      "type": "mental health issue"
+    },
+    {
+      "name": "burnout",
+      "type": "mental health issue"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "systematic review",
+      "type": "research"
+    },
+    {
+      "name": "mindfulness-based programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "digital mental health",
+      "type": "intervention"
+    },
+    {
+      "name": "interventions",
+      "type": "psychological strategies"
+    },
+    {
+      "name": "self-help psychological interventions",
+      "type": "psychological strategies"
+    },
+    {
+      "name": "anxiety",
+      "type": "mental health condition"
+    },
+    {
+      "name": "depression",
+      "type": "mental health condition"
+    },
+    {
+      "name": "HCWs",
+      "type": "professionals"
+    },
+    {
+      "name": "psychiatrists",
+      "type": "professionals"
+    },
+    {
+      "name": "psychological therapies",
+      "type": "therapeutic methods"
+    },
+    {
+      "name": "HCWs",
+      "type": "Role"
+    },
+    {
+      "name": "Psychiatrists",
+      "type": "Profession"
+    },
+    {
+      "name": "mental health conditions",
+      "type": "Health Issue"
+    },
+    {
+      "name": "outbreak",
+      "type": "Event"
+    },
+    {
+      "name": "mental health services",
+      "type": "Service"
+    },
+    {
+      "name": "psychological health",
+      "type": "Health Status"
+    },
+    {
+      "name": "pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "psychological consequences",
+      "type": "Outcome"
+    },
+    {
+      "name": "psychiatric HCWs",
+      "type": "Healthcare Workers"
+    },
+    {
+      "name": "psychological distress",
+      "type": "Mental Health Issue"
+    },
+    {
+      "name": "anxiety",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "despair",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "psychological programmes",
+      "type": "Program"
+    },
+    {
+      "name": "mental health services",
+      "type": "Service"
+    },
+    {
+      "name": "employees",
+      "type": "Workforce"
+    },
+    {
+      "name": "depression",
+      "type": "Mental Health Condition"
+    },
+    {
+      "name": "pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "public health",
+      "type": "approach"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "mental health",
+      "type": "concept"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "health crisis",
+      "type": "event"
+    },
+    {
+      "name": "evidence",
+      "type": "data"
+    },
+    {
+      "name": "determinants of health",
+      "type": "concept"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "programme"
+    },
+    {
+      "name": "HCWs",
+      "type": "group"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "psychological support",
+      "type": "intervention"
+    },
+    {
+      "name": "mindfulness-based programs",
+      "type": "intervention"
+    },
+    {
+      "name": "digital mental health interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "stress",
+      "type": "condition"
+    },
+    {
+      "name": "anxiety",
+      "type": "condition"
+    },
+    {
+      "name": "depression",
+      "type": "condition"
+    },
+    {
+      "name": "HCWs",
+      "type": "Group"
+    },
+    {
+      "name": "mental health programmes",
+      "type": "Program"
+    },
+    {
+      "name": "empirical studies",
+      "type": "Study"
+    },
+    {
+      "name": "high-quality, peer-reviewed papers",
+      "type": "Publication"
+    },
+    {
+      "name": "study",
+      "type": "Research"
+    },
+    {
+      "name": "authors",
+      "type": "Person"
+    },
+    {
+      "name": "systematic review",
+      "type": "method"
+    },
+    {
+      "name": "limitations",
+      "type": "concept"
+    },
+    {
+      "name": "participants",
+      "type": "variable"
+    },
+    {
+      "name": "bias",
+      "type": "risk"
+    },
+    {
+      "name": "Meta-analysis",
+      "type": "method"
+    },
+    {
+      "name": "sample sizes",
+      "type": "variable"
+    },
+    {
+      "name": "response rates",
+      "type": "variable"
+    },
+    {
+      "name": "mental health programmes",
+      "type": "concept"
+    },
+    {
+      "name": "systematic review findings",
+      "type": "concept"
+    },
+    {
+      "name": "variability",
+      "type": "concept"
+    },
+    {
+      "name": "data collection and analysis methods",
+      "type": "method"
+    },
+    {
+      "name": "effectiveness",
+      "type": "concept"
+    },
+    {
+      "name": "heterogeneity",
+      "type": "concept"
+    },
+    {
+      "name": "outcomes of the studies",
+      "type": "outcome"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "HCWs",
+      "type": "professionals"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "event"
+    },
+    {
+      "name": "malhealth",
+      "type": "journal"
+    },
+    {
+      "name": "mental health promotion programmes",
+      "type": "program"
+    },
+    {
+      "name": "HCWs",
+      "type": "population"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "mindfulness-based programmes",
+      "type": "intervention"
+    },
+    {
+      "name": "online-based interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "self-help psychological interventions",
+      "type": "intervention"
+    },
+    {
+      "name": "anxiety",
+      "type": "symptom"
+    },
+    {
+      "name": "depression",
+      "type": "symptom"
+    },
+    {
+      "name": "well-being",
+      "type": "concept"
+    },
+    {
+      "name": "limited studies",
+      "type": "research"
+    },
+    {
+      "name": "mental health promotion initiatives",
+      "type": "initiative"
+    },
+    {
+      "name": "conflict of interest",
+      "type": "concept"
+    },
+    {
+      "name": "apps",
+      "type": "technology"
+    },
+    {
+      "name": "programmes",
+      "type": "technology"
+    },
+    {
+      "name": "HCWs",
+      "type": "Abbreviation"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "organisations",
+      "type": "Entity"
+    },
+    {
+      "name": "policymakers",
+      "type": "Entity"
+    },
+    {
+      "name": "programmes",
+      "type": "Concept"
+    },
+    {
+      "name": "mental well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "best practices",
+      "type": "Concept"
+    },
+    {
+      "name": "evidence",
+      "type": "Concept"
+    },
+    {
+      "name": "Department",
+      "type": "Entity"
+    },
+    {
+      "name": "Public Health Medicine",
+      "type": "Department"
+    },
+    {
+      "name": "Universiti Kebangsaan Malaysia",
+      "type": "Institution"
+    },
+    {
+      "name": "Malaysia",
+      "type": "Country"
+    },
+    {
+      "name": "Guo YR",
+      "type": "Author"
+    },
+    {
+      "name": "Cao QD",
+      "type": "Author"
+    },
+    {
+      "name": "Hong ZS",
+      "type": "Author"
+    },
+    {
+      "name": "Tan YY",
+      "type": "Author"
+    },
+    {
+      "name": "Chen SD",
+      "type": "Author"
+    },
+    {
+      "name": "Jin HJ",
+      "type": "Author"
+    },
+    {
+      "name": "Military medical research",
+      "type": "Journal"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "WHO",
+      "type": "Organization"
+    },
+    {
+      "name": "30th of January 2023",
+      "type": "Date"
+    },
+    {
+      "name": "https://www.who.int/news/item/30-01-2020-statement-on-the-second-meeting-of-the",
+      "type": "URL"
+    },
+    {
+      "name": "WHO",
+      "type": "Organization"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Disease"
+    },
+    {
+      "name": "Rajkumar RP",
+      "type": "Person"
+    },
+    {
+      "name": "Asian J Psychiatr",
+      "type": "Journal"
+    },
+    {
+      "name": "doi:10.1016/j.ajp.2020.102066",
+      "type": "DOI"
+    },
+    {
+      "name": "Malaysia",
+      "type": "Location"
+    },
+    {
+      "name": "https://covid19.who.int/",
+      "type": "URL"
+    },
+    {
+      "name": "https://www.who.int/docs/default-source/wpro---documents/countries/malaysia/coronavirus",
+      "type": "URL"
+    },
+    {
+      "name": "Kwong ASF",
+      "type": "Person"
+    },
+    {
+      "name": "Pearson RM",
+      "type": "Person"
+    },
+    {
+      "name": "Adams MJ",
+      "type": "Person"
+    },
+    {
+      "name": "Northstone K",
+      "type": "Person"
+    },
+    {
+      "name": "Tilling K",
+      "type": "Person"
+    },
+    {
+      "name": "Smith D",
+      "type": "Person"
+    },
+    {
+      "name": "Ismail M",
+      "type": "Person"
+    },
+    {
+      "name": "Lee KY",
+      "type": "Person"
+    },
+    {
+      "name": "Sutrisno Tanjung A",
+      "type": "Person"
+    },
+    {
+      "name": "Ahmad Jelani IA",
+      "type": "Person"
+    },
+    {
+      "name": "Abdul Latiff R",
+      "type": "Person"
+    },
+    {
+      "name": "Abdul Razak H",
+      "type": "Person"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Br J Psychiatry",
+      "type": "Publication"
+    },
+    {
+      "name": "UK population cohorts",
+      "type": "Study"
+    },
+    {
+      "name": "medical interns in Malaysia",
+      "type": "population"
+    },
+    {
+      "name": "Asia Pac Psychiatry",
+      "type": "journal"
+    },
+    {
+      "name": "Wang C",
+      "type": "author"
+    },
+    {
+      "name": "Pan R",
+      "type": "author"
+    },
+    {
+      "name": "Wan X",
+      "type": "author"
+    },
+    {
+      "name": "Tan Y",
+      "type": "author"
+    },
+    {
+      "name": "Xu L",
+      "type": "author"
+    },
+    {
+      "name": "McIntyre RS",
+      "type": "author"
+    },
+    {
+      "name": "COVID-19 epidemic in China",
+      "type": "event"
+    },
+    {
+      "name": "Brain Behav Immun",
+      "type": "journal"
+    },
+    {
+      "name": "OECD employment outlook 2012",
+      "type": "report"
+    },
+    {
+      "name": "Organisation for Economic Co-operation and Development",
+      "type": "organization"
+    },
+    {
+      "name": "OECD employment outlook 2012",
+      "type": "Report"
+    },
+    {
+      "name": "Organisation for Economic Cooperation and Development",
+      "type": "Organization"
+    },
+    {
+      "name": "Norhayati MN",
+      "type": "Author"
+    },
+    {
+      "name": "Che Yusof R",
+      "type": "Author"
+    },
+    {
+      "name": "Azman MY",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Kelantan, Malaysia",
+      "type": "Location"
+    },
+    {
+      "name": "PLoS One",
+      "type": "Journal"
+    },
+    {
+      "name": "Daly M",
+      "type": "Author"
+    },
+    {
+      "name": "Robinson E",
+      "type": "Author"
+    },
+    {
+      "name": "psychological distress",
+      "type": "Concept"
+    },
+    {
+      "name": "UK",
+      "type": "Location"
+    },
+    {
+      "name": "2021",
+      "type": "Year"
+    },
+    {
+      "name": "2019",
+      "type": "Year"
+    },
+    {
+      "name": "psychological distress",
+      "type": "Medical Condition"
+    },
+    {
+      "name": "UK",
+      "type": "Geographic Location"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Psychiatry Res",
+      "type": "Publication"
+    },
+    {
+      "name": "Pierce M",
+      "type": "Person"
+    },
+    {
+      "name": "Hope H",
+      "type": "Person"
+    },
+    {
+      "name": "Ford T",
+      "type": "Person"
+    },
+    {
+      "name": "Hatch S",
+      "type": "Person"
+    },
+    {
+      "name": "Hotopf M",
+      "type": "Person"
+    },
+    {
+      "name": "John A",
+      "type": "Person"
+    },
+    {
+      "name": "Mental health",
+      "type": "Medical Condition"
+    },
+    {
+      "name": "Lancet Psychiatry",
+      "type": "Publication"
+    },
+    {
+      "name": "longitudinal probability sample survey",
+      "type": "Research Method"
+    },
+    {
+      "name": "Lancet Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "Shiba K",
+      "type": "Author"
+    },
+    {
+      "name": "Cowden RG",
+      "type": "Author"
+    },
+    {
+      "name": "Counted V",
+      "type": "Author"
+    },
+    {
+      "name": "VanderWeele TJ",
+      "type": "Author"
+    },
+    {
+      "name": "Fancourt D",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19 lockdown",
+      "type": "Event"
+    },
+    {
+      "name": "Curr Psychol",
+      "type": "Journal"
+    },
+    {
+      "name": "Goldmann E",
+      "type": "Author"
+    },
+    {
+      "name": "Galea S",
+      "type": "Author"
+    },
+    {
+      "name": "Mental health consequences of disasters",
+      "type": "Study"
+    },
+    {
+      "name": "Annu Rev Public Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Fiorillo A",
+      "type": "Author"
+    },
+    {
+      "name": "Gorwood P",
+      "type": "Author"
+    },
+    {
+      "name": "Eur Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "mental health",
+      "type": "Concept"
+    },
+    {
+      "name": "clinical practice",
+      "type": "Concept"
+    },
+    {
+      "name": "Khademi F",
+      "type": "Author"
+    },
+    {
+      "name": "Moayedi S",
+      "type": "Author"
+    },
+    {
+      "name": "Golitaleb M",
+      "type": "Author"
+    },
+    {
+      "name": "Karbalaie N",
+      "type": "Author"
+    },
+    {
+      "name": "Int J Ment Health Nurs",
+      "type": "Journal"
+    },
+    {
+      "name": "death anxiety",
+      "type": "Concept"
+    },
+    {
+      "name": "elderly",
+      "type": "Population"
+    },
+    {
+      "name": "Da Silva Neto RM",
+      "type": "Author"
+    },
+    {
+      "name": "Benjamim CJR",
+      "type": "Author"
+    },
+    {
+      "name": "de Medeiros",
+      "type": "Author"
+    },
+    {
+      "name": "Carvalho PM",
+      "type": "Author"
+    },
+    {
+      "name": "Neto MLR",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Psychological effects",
+      "type": "Topic"
+    },
+    {
+      "name": "health professionals",
+      "type": "Group"
+    },
+    {
+      "name": "systematic review",
+      "type": "Methodology"
+    },
+    {
+      "name": "meta-analysis",
+      "type": "Methodology"
+    },
+    {
+      "name": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "PRISMA",
+      "type": "Guideline"
+    },
+    {
+      "name": "Turk Arch Otorhinolaryngol",
+      "type": "Journal"
+    },
+    {
+      "name": "PRISMA",
+      "type": "methodology"
+    },
+    {
+      "name": "Turk Arch Otorhinolaryngol",
+      "type": "journal"
+    },
+    {
+      "name": "Athikarisamy S",
+      "type": "author"
+    },
+    {
+      "name": "Patole S",
+      "type": "author"
+    },
+    {
+      "name": "Principles and Practice of Systematic Reviews and Meta-Analysis",
+      "type": "book"
+    },
+    {
+      "name": "Springer International Publishing",
+      "type": "publisher"
+    },
+    {
+      "name": "Hong QN",
+      "type": "author"
+    },
+    {
+      "name": "F\u00e0bregues S",
+      "type": "author"
+    },
+    {
+      "name": "Bartlett G",
+      "type": "author"
+    },
+    {
+      "name": "Boardman F",
+      "type": "author"
+    },
+    {
+      "name": "Cargo M",
+      "type": "author"
+    },
+    {
+      "name": "Dagenais P",
+      "type": "author"
+    },
+    {
+      "name": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "tool"
+    },
+    {
+      "name": "version 2018",
+      "type": "version"
+    },
+    {
+      "name": "Appraisal Tool (MMAT)",
+      "type": "Tool"
+    },
+    {
+      "name": "information professionals",
+      "type": "Profession"
+    },
+    {
+      "name": "researchers",
+      "type": "Profession"
+    },
+    {
+      "name": "Educ Inf",
+      "type": "Journal"
+    },
+    {
+      "name": "Souto RQ",
+      "type": "Person"
+    },
+    {
+      "name": "Khanassov V",
+      "type": "Person"
+    },
+    {
+      "name": "Hong QN",
+      "type": "Person"
+    },
+    {
+      "name": "Bush PL",
+      "type": "Person"
+    },
+    {
+      "name": "Vedel I",
+      "type": "Person"
+    },
+    {
+      "name": "Pluye P",
+      "type": "Person"
+    },
+    {
+      "name": "Systematic mixed studies reviews",
+      "type": "Research Work"
+    },
+    {
+      "name": "Int J Nurs Stud",
+      "type": "Journal"
+    },
+    {
+      "name": "Levine GN",
+      "type": "Person"
+    },
+    {
+      "name": "Cohen BE",
+      "type": "Person"
+    },
+    {
+      "name": "Commodore-Mensah",
+      "type": "Person"
+    },
+    {
+      "name": "Levine GN",
+      "type": "Author"
+    },
+    {
+      "name": "Cohen BE",
+      "type": "Author"
+    },
+    {
+      "name": "Commodore-Mensah Y",
+      "type": "Author"
+    },
+    {
+      "name": "Fleury J",
+      "type": "Author"
+    },
+    {
+      "name": "Huffman JC",
+      "type": "Author"
+    },
+    {
+      "name": "Khalid U",
+      "type": "Author"
+    },
+    {
+      "name": "American Heart Association",
+      "type": "Organization"
+    },
+    {
+      "name": "Circulation",
+      "type": "Journal"
+    },
+    {
+      "name": "Pollock A",
+      "type": "Author"
+    },
+    {
+      "name": "Campbell P",
+      "type": "Author"
+    },
+    {
+      "name": "Cheyne J",
+      "type": "Author"
+    },
+    {
+      "name": "Cowie J",
+      "type": "Author"
+    },
+    {
+      "name": "Davis B",
+      "type": "Author"
+    },
+    {
+      "name": "McCallum J",
+      "type": "Author"
+    },
+    {
+      "name": "social care professionals",
+      "type": "profession"
+    },
+    {
+      "name": "disease outbreak",
+      "type": "event"
+    },
+    {
+      "name": "epidemic",
+      "type": "event"
+    },
+    {
+      "name": "pandemic",
+      "type": "event"
+    },
+    {
+      "name": "Cochrane Libr",
+      "type": "publication"
+    },
+    {
+      "name": "Mochari-Greenberger H",
+      "type": "author"
+    },
+    {
+      "name": "Pande RL",
+      "type": "author"
+    },
+    {
+      "name": "behavioral health",
+      "type": "field"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "Am J Health Promot",
+      "type": "publication"
+    },
+    {
+      "name": "virtual care",
+      "type": "health service"
+    },
+    {
+      "name": "Purgato M",
+      "type": "Author"
+    },
+    {
+      "name": "Carswell K",
+      "type": "Author"
+    },
+    {
+      "name": "Acarturk C",
+      "type": "Author"
+    },
+    {
+      "name": "Au T",
+      "type": "Author"
+    },
+    {
+      "name": "Akbai S",
+      "type": "Author"
+    },
+    {
+      "name": "Anttila M",
+      "type": "Author"
+    },
+    {
+      "name": "Self-Help Plus (SH+)",
+      "type": "Intervention"
+    },
+    {
+      "name": "BMJ Open",
+      "type": "Journal"
+    },
+    {
+      "name": "Sahebi A",
+      "type": "Author"
+    },
+    {
+      "name": "Yousefi A",
+      "type": "Author"
+    },
+    {
+      "name": "Abdi K",
+      "type": "Author"
+    },
+    {
+      "name": "Jamshidbeigi Y",
+      "type": "Author"
+    },
+    {
+      "name": "Moayedi S",
+      "type": "Author"
+    },
+    {
+      "name": "Torres M",
+      "type": "Author"
+    },
+    {
+      "name": "traumatic stress disorder",
+      "type": "condition"
+    },
+    {
+      "name": "health care workers",
+      "type": "profession"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "Saladino V",
+      "type": "author"
+    },
+    {
+      "name": "Auriemma V",
+      "type": "author"
+    },
+    {
+      "name": "Campinoti V",
+      "type": "author"
+    },
+    {
+      "name": "Tang J",
+      "type": "author"
+    },
+    {
+      "name": "Wang L",
+      "type": "author"
+    },
+    {
+      "name": "Luo T",
+      "type": "author"
+    },
+    {
+      "name": "Wu S",
+      "type": "author"
+    },
+    {
+      "name": "Wu Z",
+      "type": "author"
+    },
+    {
+      "name": "Chen J",
+      "type": "author"
+    },
+    {
+      "name": "Mindfulness-Based Intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "COVID-19 Pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Randomized Controlled Trial",
+      "type": "Study Type"
+    },
+    {
+      "name": "Mindfulness",
+      "type": "Journal"
+    },
+    {
+      "name": "Mat Ruzlin AN",
+      "type": "Author"
+    },
+    {
+      "name": "Chen XW",
+      "type": "Author"
+    },
+    {
+      "name": "Yunus RM",
+      "type": "Author"
+    },
+    {
+      "name": "Samsudin EZ",
+      "type": "Author"
+    },
+    {
+      "name": "Selamat MI",
+      "type": "Author"
+    },
+    {
+      "name": "Ismail Z",
+      "type": "Author"
+    },
+    {
+      "name": "Front Public Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Acarturk C",
+      "type": "Author"
+    },
+    {
+      "name": "Uygun E",
+      "type": "Author"
+    },
+    {
+      "name": "Ilkkursun Z",
+      "type": "Author"
+    },
+    {
+      "name": "Carswell K",
+      "type": "Author"
+    },
+    {
+      "name": "Tedeschi F",
+      "type": "Author"
+    },
+    {
+      "name": "Batu M",
+      "type": "Author"
+    },
+    {
+      "name": "S\u00f8vold LE",
+      "type": "Author"
+    },
+    {
+      "name": "Naslund JA",
+      "type": "Author"
+    },
+    {
+      "name": "Kousoulis AA",
+      "type": "Author"
+    },
+    {
+      "name": "Saxena S",
+      "type": "Author"
+    },
+    {
+      "name": "Qoronfleh MW",
+      "type": "Author"
+    },
+    {
+      "name": "Grobler C",
+      "type": "Author"
+    },
+    {
+      "name": "World Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "WHO self-help psychological intervention",
+      "type": "Intervention"
+    },
+    {
+      "name": "Syrian refugees",
+      "type": "Population"
+    },
+    {
+      "name": "Turkey",
+      "type": "Country"
+    },
+    {
+      "name": "Healthcare workers",
+      "type": "Group"
+    },
+    {
+      "name": "Mental health and well-being",
+      "type": "Concept"
+    },
+    {
+      "name": "Front Public Health",
+      "type": "Journal"
+    },
+    {
+      "name": "Riboldi I",
+      "type": "Author"
+    },
+    {
+      "name": "Cavaleri D",
+      "type": "Author"
+    },
+    {
+      "name": "Calabrese A",
+      "type": "Author"
+    },
+    {
+      "name": "Capogrosso CA",
+      "type": "Author"
+    },
+    {
+      "name": "Piacenti S",
+      "type": "Author"
+    },
+    {
+      "name": "Bartoli F",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19 pandemic",
+      "type": "Event"
+    },
+    {
+      "name": "Digital mental health interventions",
+      "type": "Concept"
+    },
+    {
+      "name": "Anxiety and depressive symptoms",
+      "type": "Concept"
+    },
+    {
+      "name": "Rev Psiquiatr Salud Ment",
+      "type": "Journal"
+    },
+    {
+      "name": "Randomized controlled trials",
+      "type": "Methodology"
+    },
+    {
+      "name": "Galante J",
+      "type": "Author"
+    },
+    {
+      "name": "Friedrich C",
+      "type": "Author"
+    },
+    {
+      "name": "Dawson AF",
+      "type": "Author"
+    },
+    {
+      "name": "Modrego-Alarc\u00f3n M",
+      "type": "Author"
+    },
+    {
+      "name": "Gebbing P",
+      "type": "Author"
+    },
+    {
+      "name": "Delgado-Su\u00e1rez I",
+      "type": "Author"
+    },
+    {
+      "name": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "Research Topic"
+    },
+    {
+      "name": "Rev Psiquiatr Salud Ment",
+      "type": "Journal"
+    },
+    {
+      "name": "PLoS Med",
+      "type": "Journal"
+    },
+    {
+      "name": "2023",
+      "type": "Publication Year"
+    },
+    {
+      "name": "2021",
+      "type": "Publication Year"
+    },
+    {
+      "name": "doi: 10.1016/j.rpsm.2022.04.005",
+      "type": "DOI"
+    },
+    {
+      "name": "doi:10.1371/journal.pmed.1003481",
+      "type": "DOI"
+    },
+    {
+      "name": "Chew QH",
+      "type": "Author"
+    },
+    {
+      "name": "Chia FL-A",
+      "type": "Author"
+    },
+    {
+      "name": "Ng WK",
+      "type": "Author"
+    },
+    {
+      "name": "Lee WCI",
+      "type": "Author"
+    },
+    {
+      "name": "Tan PLL",
+      "type": "Author"
+    },
+    {
+      "name": "Wong CS",
+      "type": "Author"
+    },
+    {
+      "name": "Yusoff MSB",
+      "type": "Author"
+    },
+    {
+      "name": "Ying Jie T",
+      "type": "Author"
+    },
+    {
+      "name": "Esa AR",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "Int J Environ Res Public Health",
+      "type": "Journal"
+    },
+    {
+      "name": "doi:10.3390/ijerph17186572",
+      "type": "DOI"
+    },
+    {
+      "name": "Stress",
+      "type": "Concept"
+    },
+    {
+      "name": "Stressors",
+      "type": "Concept"
+    },
+    {
+      "name": "Coping Strategies",
+      "type": "Concept"
+    },
+    {
+      "name": "House Officers",
+      "type": "Group"
+    },
+    {
+      "name": "Coping Strategies Among House Officers",
+      "type": "Research Title"
+    },
+    {
+      "name": "Malaysian Hospital",
+      "type": "Location"
+    },
+    {
+      "name": "ASEAN J Psychiatry",
+      "type": "Journal"
+    },
+    {
+      "name": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Journal"
+    },
+    {
+      "name": "Ibrahim NB",
+      "type": "Person"
+    },
+    {
+      "name": "Hashim NABM",
+      "type": "Person"
+    },
+    {
+      "name": "Ramasamy S",
+      "type": "Person"
+    },
+    {
+      "name": "Kaur K",
+      "type": "Person"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "Liu Z",
+      "type": "Person"
+    },
+    {
+      "name": "Han B",
+      "type": "Person"
+    },
+    {
+      "name": "Jiang R",
+      "type": "Person"
+    },
+    {
+      "name": "Huang Y",
+      "type": "Person"
+    },
+    {
+      "name": "Ma C",
+      "type": "Person"
+    },
+    {
+      "name": "Wen J",
+      "type": "Person"
+    },
+    {
+      "name": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Guideline"
+    },
+    {
+      "name": "COVID-19",
+      "type": "disease"
+    },
+    {
+      "name": "China",
+      "type": "location"
+    },
+    {
+      "name": "Rangachari P",
+      "type": "person"
+    },
+    {
+      "name": "L Woods J",
+      "type": "person"
+    },
+    {
+      "name": "Int J Environ Res Public Health",
+      "type": "journal"
+    },
+    {
+      "name": "Kurniawan K",
+      "type": "person"
+    },
+    {
+      "name": "Yosep I",
+      "type": "person"
+    },
+    {
+      "name": "Maulana S",
+      "type": "person"
+    },
+    {
+      "name": "Mulyana AM",
+      "type": "person"
+    },
+    {
+      "name": "Amirah S",
+      "type": "person"
+    },
+    {
+      "name": "Abdurrahman MF",
+      "type": "person"
+    },
+    {
+      "name": "Amirah S",
+      "type": "Author"
+    },
+    {
+      "name": "Abdurrahman MF",
+      "type": "Author"
+    },
+    {
+      "name": "COVID-19",
+      "type": "Event"
+    },
+    {
+      "name": "Sustainability",
+      "type": "Journal"
+    },
+    {
+      "name": "Park J-H",
+      "type": "Author"
+    },
+    {
+      "name": "Jung S-E",
+      "type": "Author"
+    },
+    {
+      "name": "Ha D-J",
+      "type": "Author"
+    },
+    {
+      "name": "Lee B",
+      "type": "Author"
+    },
+    {
+      "name": "Kim M-S",
+      "type": "Author"
+    },
+    {
+      "name": "Sim K-L",
+      "type": "Author"
+    },
+    {
+      "name": "e-healthcare interventions",
+      "type": "Intervention"
+    },
+    {
+      "name": "mental health of nurses",
+      "type": "Topic"
+    },
+    {
+      "name": "Systematic review of randomised controlled trials",
+      "type": "Document"
+    },
+    {
+      "name": "Medicine (Baltimore)",
+      "type": "Journal"
+    },
+    {
+      "name": "O\u2019Daffer A",
+      "type": "Author"
+    },
+    {
+      "name": "Colt SF",
+      "type": "Author"
+    },
+    {
+      "name": "Wasil AR",
+      "type": "Author"
+    },
+    {
+      "name": "Lau N",
+      "type": "Author"
+    },
+    {
+      "name": "Headspace",
+      "type": "App"
+    },
+    {
+      "name": "Calm",
+      "type": "App"
+    },
+    {
+      "name": "JMIR Ment Health",
+      "type": "Journal"
+    }
+  ],
+  "relations": [
+    {
+      "source": "David Chan Chee Hoong",
+      "target": "Department of Public Health Medicine",
+      "type": "affiliation"
+    },
+    {
+      "source": "Hanizah Yusoff",
+      "target": "Department of Public Health Medicine",
+      "type": "affiliation"
+    },
+    {
+      "source": "Roszita Ibrahim",
+      "target": "Department of Public Health Medicine",
+      "type": "affiliation"
+    },
+    {
+      "source": "Halim Ismail",
+      "target": "Department of Public Health Medicine",
+      "type": "affiliation"
+    },
+    {
+      "source": "Hanis Ahmad",
+      "target": "Department of Public Health Medicine",
+      "type": "affiliation"
+    },
+    {
+      "source": "Department of Public Health Medicine",
+      "target": "Faculty of Medicine",
+      "type": "part_of"
+    },
+    {
+      "source": "Faculty of Medicine",
+      "target": "Universiti Kebangsaan Malaysia",
+      "type": "part_of"
+    },
+    {
+      "source": "Kuala Lumpur",
+      "target": "Malaysia",
+      "type": "located_in"
+    },
+    {
+      "source": "Mental Health Promotion Program",
+      "target": "COVID-19 Pandemic",
+      "type": "context_for"
+    },
+    {
+      "source": "COVID-19",
+      "target": "healthcare workers",
+      "type": "causes"
+    },
+    {
+      "source": "COVID-19",
+      "target": "stress",
+      "type": "causes"
+    },
+    {
+      "source": "COVID-19",
+      "target": "anxiety",
+      "type": "causes"
+    },
+    {
+      "source": "programmes",
+      "target": "mental health",
+      "type": "aims to improve"
+    },
+    {
+      "source": "electronic databases",
+      "target": "keywords",
+      "type": "used for searching"
+    },
+    {
+      "source": "healthcare workers",
+      "target": "programmes",
+      "type": "participant in"
+    },
+    {
+      "source": "mindfulness-based interventions",
+      "target": "healthcare workers",
+      "type": "improves"
+    },
+    {
+      "source": "online-based interventions",
+      "target": "healthcare workers",
+      "type": "improves"
+    },
+    {
+      "source": "self-help psychological interventions",
+      "target": "healthcare workers",
+      "type": "improves"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "online therapies",
+      "target": "mental well-being",
+      "type": "promotes"
+    },
+    {
+      "source": "mindfulness-based therapies",
+      "target": "mental well-being",
+      "type": "promotes"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "healthcare workers",
+      "type": "assists"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "mental health",
+      "type": "promotes"
+    },
+    {
+      "source": "David Chan Chee Hoong",
+      "target": "Malaysian Journal of Medicine and Health Sciences",
+      "type": "Corresponding Author Of"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Pandemic",
+      "type": "IsRelatedTo"
+    },
+    {
+      "source": "Mental health",
+      "target": "COVID-19",
+      "type": "ImpactedBy"
+    },
+    {
+      "source": "Healthcare workers",
+      "target": "Mental health",
+      "type": "ConcernedWith"
+    },
+    {
+      "source": "Intervention",
+      "target": "Mental health",
+      "type": "Affects"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Public Health Emergency",
+      "type": "designated_as"
+    },
+    {
+      "source": "World Health Organization",
+      "target": "Public Health Emergency",
+      "type": "declared"
+    },
+    {
+      "source": "636 million",
+      "target": "COVID-19",
+      "type": "infected"
+    },
+    {
+      "source": "600 million",
+      "target": "COVID-19",
+      "type": "deaths"
+    },
+    {
+      "source": "November 22, 2022",
+      "target": "COVID-19",
+      "type": "reference_date"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "mental illness",
+      "type": "impacts"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "helplessness",
+      "type": "impacts"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "anxiety",
+      "type": "impacts"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "social distancing",
+      "type": "impacts"
+    },
+    {
+      "source": "mental illness",
+      "target": "physiological health",
+      "type": "affects"
+    },
+    {
+      "source": "mental illness",
+      "target": "well-being",
+      "type": "affects"
+    },
+    {
+      "source": "mental illness",
+      "target": "psychological problems",
+      "type": "can result in"
+    },
+    {
+      "source": "mental illness",
+      "target": "burnout",
+      "type": "can result in"
+    },
+    {
+      "source": "psychological problems",
+      "target": "healthcare services",
+      "type": "undermine"
+    },
+    {
+      "source": "burnout",
+      "target": "healthcare services",
+      "type": "undermine"
+    },
+    {
+      "source": "frontline health workers",
+      "target": "mental health",
+      "type": "impacted by"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental health psychological support systems",
+      "type": "receives"
+    },
+    {
+      "source": "COVID-19",
+      "target": "healthcare providers",
+      "type": "affects"
+    },
+    {
+      "source": "public health emergency",
+      "target": "mental health",
+      "type": "detrimental_to"
+    },
+    {
+      "source": "healthcare providers",
+      "target": "some groups",
+      "type": "disproportionately_impact"
+    },
+    {
+      "source": "HCWs",
+      "target": "Mental health problems",
+      "type": "experiences"
+    },
+    {
+      "source": "Mental health problems",
+      "target": "employee morale",
+      "type": "impact"
+    },
+    {
+      "source": "Mental health problems",
+      "target": "standard of care",
+      "type": "impact"
+    },
+    {
+      "source": "Mental health problems",
+      "target": "attendance",
+      "type": "impact"
+    },
+    {
+      "source": "Mental health problems",
+      "target": "turnover",
+      "type": "impact"
+    },
+    {
+      "source": "COVID-19 outbreak",
+      "target": "health systems",
+      "type": "burden"
+    },
+    {
+      "source": "health practitioners",
+      "target": "psychological consequences",
+      "type": "experiences"
+    },
+    {
+      "source": "psychological consequences",
+      "target": "sadness",
+      "type": "result"
+    },
+    {
+      "source": "COVID-19",
+      "target": "healthcare professionals",
+      "type": "impact"
+    },
+    {
+      "source": "healthcare professionals",
+      "target": "anxiety",
+      "type": "associated_with"
+    },
+    {
+      "source": "healthcare professionals",
+      "target": "fatigue",
+      "type": "associated_with"
+    },
+    {
+      "source": "healthcare professionals",
+      "target": "mental health consequences",
+      "type": "causes"
+    },
+    {
+      "source": "mental health consequences",
+      "target": "mental illness",
+      "type": "linked_to"
+    },
+    {
+      "source": "HCWs",
+      "target": "COVID-19",
+      "type": "employed in"
+    },
+    {
+      "source": "Norhayati et al.",
+      "target": "mental illness",
+      "type": "reported prevalence rate"
+    },
+    {
+      "source": "HCWs",
+      "target": "depression",
+      "type": "reported incidence of"
+    },
+    {
+      "source": "HCWs",
+      "target": "anxiety",
+      "type": "reported incidence of"
+    },
+    {
+      "source": "frontline workers",
+      "target": "mental illness",
+      "type": "prevalence rate"
+    },
+    {
+      "source": "non-frontline health workers",
+      "target": "mental illness",
+      "type": "prevalence rate"
+    },
+    {
+      "source": "healthcare professionals",
+      "target": "mental health",
+      "type": "manages"
+    },
+    {
+      "source": "healthcare workers",
+      "target": "mental illness",
+      "type": "experiences"
+    },
+    {
+      "source": "healthcare workers",
+      "target": "anxiety",
+      "type": "experiences"
+    },
+    {
+      "source": "healthcare workers",
+      "target": "depressive symptoms",
+      "type": "experiences"
+    },
+    {
+      "source": "medical practitioners",
+      "target": "psychological pressure",
+      "type": "experiences"
+    },
+    {
+      "source": "medical practitioners",
+      "target": "disease exposure",
+      "type": "exposed to"
+    },
+    {
+      "source": "medical practitioners",
+      "target": "infecting relatives",
+      "type": "concerns about"
+    },
+    {
+      "source": "medical practitioners",
+      "target": "personal protection",
+      "type": "lack of"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental illness",
+      "type": "suffers from"
+    },
+    {
+      "source": "psychological interventions",
+      "target": "mental health programmes",
+      "type": "includes"
+    },
+    {
+      "source": "mental health programmes",
+      "target": "population groups",
+      "type": "targets"
+    },
+    {
+      "source": "hospital workers",
+      "target": "disease outbreaks",
+      "type": "experience"
+    },
+    {
+      "source": "mental health programmes",
+      "target": "depression",
+      "type": "addresses"
+    },
+    {
+      "source": "mental health programmes",
+      "target": "anxiety",
+      "type": "addresses"
+    },
+    {
+      "source": "systematic review",
+      "target": "mental health programmes",
+      "type": "evaluates"
+    },
+    {
+      "source": "systematic review",
+      "target": "healthcare workers",
+      "type": "analyzes"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "healthcare workers",
+      "type": "contextualizes"
+    },
+    {
+      "source": "systematic review",
+      "target": "psychosocial support",
+      "type": "impacts"
+    },
+    {
+      "source": "psychosocial support",
+      "target": "healthcare professionals",
+      "type": "provided to"
+    },
+    {
+      "source": "systematic review",
+      "target": "PRISMA",
+      "type": "follows"
+    },
+    {
+      "source": "systematic review",
+      "target": "scientific papers",
+      "type": "analyzes"
+    },
+    {
+      "source": "search strategy",
+      "target": "PubMed",
+      "type": "utilizes"
+    },
+    {
+      "source": "articles",
+      "target": "COVID-19 pandemic",
+      "type": "contextualizes"
+    },
+    {
+      "source": "PICO model",
+      "target": "research articles",
+      "type": "chooses"
+    },
+    {
+      "source": "systematic review",
+      "target": "PICO model",
+      "type": "uses"
+    },
+    {
+      "source": "Healthcare Workers",
+      "target": "Mental Health Promotion programmes",
+      "type": "receives"
+    },
+    {
+      "source": "Mental Health Promotion programmes",
+      "target": "Experimental vs. control group",
+      "type": "compared with"
+    },
+    {
+      "source": "Mental Health Promotion programmes",
+      "target": "Health and cost benefits",
+      "type": "results in"
+    },
+    {
+      "source": "PRISMA",
+      "target": "PRISMA Flowchart",
+      "type": "utilizes"
+    },
+    {
+      "source": "PICO question",
+      "target": "Identified papers",
+      "type": "correlated with"
+    },
+    {
+      "source": "Mental Health Promotion programmes",
+      "target": "health and cost benefits",
+      "type": "has"
+    },
+    {
+      "source": "articles",
+      "target": "COVID-19",
+      "type": "related_to"
+    },
+    {
+      "source": "articles",
+      "target": "healthcare professionals",
+      "type": "written_for"
+    },
+    {
+      "source": "study population",
+      "target": "healthcare workers",
+      "type": "includes"
+    },
+    {
+      "source": "articles",
+      "target": "cohort studies",
+      "type": "include"
+    },
+    {
+      "source": "articles",
+      "target": "randomised controlled trials",
+      "type": "include"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "intervention",
+      "type": "assessed by"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "health benefits",
+      "type": "measured by"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "cost benefits",
+      "type": "measured by"
+    },
+    {
+      "source": "scientific papers",
+      "target": "primary articles",
+      "type": "excludes"
+    },
+    {
+      "source": "scientific papers",
+      "target": "narrative reviews",
+      "type": "excludes"
+    },
+    {
+      "source": "scientific papers",
+      "target": "case studies",
+      "type": "excludes"
+    },
+    {
+      "source": "scientific papers",
+      "target": "meta-analyses",
+      "type": "excludes"
+    },
+    {
+      "source": "scientific papers",
+      "target": "mental health promotion programmes",
+      "type": "must meet"
+    },
+    {
+      "source": "Mental Health Promotion Program",
+      "target": "healthcare workers",
+      "type": "targets"
+    },
+    {
+      "source": "Mental Health Promotion Program",
+      "target": "health benefits",
+      "type": "produces"
+    },
+    {
+      "source": "Mental Health Promotion Program",
+      "target": "cost benefits",
+      "type": "produces"
+    },
+    {
+      "source": "review panel",
+      "target": "study quality",
+      "type": "assesses"
+    },
+    {
+      "source": "review panel",
+      "target": "articles",
+      "type": "assesses"
+    },
+    {
+      "source": "two teams of two members",
+      "target": "articles",
+      "type": "evaluates"
+    },
+    {
+      "source": "research team leader",
+      "target": "differences in opinion",
+      "type": "resolves"
+    },
+    {
+      "source": "finalised article",
+      "target": "methodological quality",
+      "type": "assesses"
+    },
+    {
+      "source": "finalised article",
+      "target": "Mixed-Methods",
+      "type": "uses"
+    },
+    {
+      "source": "Riboldi et al.",
+      "target": "Digital mental health interventions for anxiety and depressive symptoms in university students during the COVID-19 pandemic: A systematic review of randomised controlled trials",
+      "type": "authored"
+    },
+    {
+      "source": "Digital mental health interventions for anxiety and depressive symptoms in university students during the COVID-19 pandemic: A systematic review of randomised controlled trials",
+      "target": "digital mental health interventions",
+      "type": "focuses on"
+    },
+    {
+      "source": "Mixed-Methods Appraisal Tool",
+      "target": "Riboldi et al.",
+      "type": "assessed"
+    },
+    {
+      "source": "Mindfulness-based programs",
+      "target": "mental health promotion",
+      "type": "promotes"
+    },
+    {
+      "source": "Mindfulness-based programs",
+      "target": "adults",
+      "type": "target group"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "university students",
+      "type": "affects"
+    },
+    {
+      "source": "interventions",
+      "target": "anxiety and depressive symptoms",
+      "type": "reduce"
+    },
+    {
+      "source": "Kurniawan et al.",
+      "target": "Online-Based Intervention for Anxiety during COVID-19",
+      "type": "conducted"
+    },
+    {
+      "source": "Kurniawan et al.",
+      "target": "2022",
+      "type": "published_in"
+    },
+    {
+      "source": "Park et al.",
+      "target": "The effectiveness of e-healthcare interventions for the mental health of nurses",
+      "type": "conducted"
+    },
+    {
+      "source": "Park et al.",
+      "target": "2022",
+      "type": "published_in"
+    },
+    {
+      "source": "Online-Based Intervention for Anxiety during COVID-19",
+      "target": "anxiety",
+      "type": "addresses"
+    },
+    {
+      "source": "Online-Based Intervention for Anxiety during COVID-19",
+      "target": "COVID-19",
+      "type": "related_to"
+    },
+    {
+      "source": "e-healthcare interventions",
+      "target": "nurses",
+      "type": "improves mental health"
+    },
+    {
+      "source": "Acarturk et al.",
+      "target": "WHO self-help psychological intervention",
+      "type": "conducted study on"
+    },
+    {
+      "source": "WHO self-help psychological intervention",
+      "target": "Syrian refugees",
+      "type": "targets population"
+    },
+    {
+      "source": "WHO self-help intervention",
+      "target": "mental disorders",
+      "type": "prevents"
+    },
+    {
+      "source": "mental disorders",
+      "target": "Syrian refugees",
+      "type": "affects"
+    },
+    {
+      "source": "Syrian refugees",
+      "target": "Turkey",
+      "type": "located in"
+    },
+    {
+      "source": "O\u2019Daffer et al.",
+      "target": "2022",
+      "type": "published"
+    },
+    {
+      "source": "Efficacy and Conflicts of Interest in Randomized Controlled Trials Evaluating Headspace and Calm Apps",
+      "target": "Headspace",
+      "type": "evaluates"
+    },
+    {
+      "source": "Efficacy and Conflicts of Interest in Randomized Controlled Trials Evaluating Headspace and Calm Apps",
+      "target": "Calm",
+      "type": "evaluates"
+    },
+    {
+      "source": "randomized controlled trials",
+      "target": "Headspace",
+      "type": "type of study"
+    },
+    {
+      "source": "randomized controlled trials",
+      "target": "Calm",
+      "type": "type of study"
+    },
+    {
+      "source": "Headspace",
+      "target": "mental and physical well-being",
+      "type": "app_use_for"
+    },
+    {
+      "source": "Calm",
+      "target": "mental and physical well-being",
+      "type": "app_use_for"
+    },
+    {
+      "source": "Dong et al.",
+      "target": "frontline health care workers",
+      "type": "author_of_study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "frontline health care workers",
+      "type": "affects"
+    },
+    {
+      "source": "mental and physical well-being",
+      "target": "intervention",
+      "type": "related_to"
+    },
+    {
+      "source": "Witarto et al.",
+      "target": "Effectiveness of online mindfulness-based interventions in improving mental health",
+      "type": "Conducted"
+    },
+    {
+      "source": "Effectiveness of online mindfulness-based interventions in improving mental health",
+      "target": "Online mindfulness-based interventions",
+      "type": "Focus"
+    },
+    {
+      "source": "Online mindfulness-based interventions",
+      "target": "mental health",
+      "type": "Improves"
+    },
+    {
+      "source": "Effectiveness of online mindfulness-based interventions in improving mental health",
+      "target": "COVID-19 pandemic",
+      "type": "Context"
+    },
+    {
+      "source": "Effectiveness of online mindfulness-based interventions in improving mental health",
+      "target": "systematic review and meta-analysis of randomised controlled trials",
+      "type": "Type of Study"
+    },
+    {
+      "source": "systematic review and meta-analysis",
+      "target": "randomised controlled trials",
+      "type": "evaluates"
+    },
+    {
+      "source": "qualitative studies",
+      "target": "systematic review and meta-analysis",
+      "type": "not applicable"
+    },
+    {
+      "source": "quantitative studies",
+      "target": "systematic review and meta-analysis",
+      "type": "not applicable"
+    },
+    {
+      "source": "Malaysian Journal of Medicine and Health Sciences",
+      "target": "March 2024",
+      "type": "published in"
+    },
+    {
+      "source": "criteria",
+      "target": "Low",
+      "type": "grade classification"
+    },
+    {
+      "source": "criteria",
+      "target": "medium",
+      "type": "grade classification"
+    },
+    {
+      "source": "criteria",
+      "target": "high",
+      "type": "grade classification"
+    },
+    {
+      "source": "systematic review",
+      "target": "data synthesis",
+      "type": "process employed"
+    },
+    {
+      "source": "systematic review",
+      "target": "qualitative studies",
+      "type": "includes"
+    },
+    {
+      "source": "systematic review",
+      "target": "quantitative studies",
+      "type": "includes"
+    },
+    {
+      "source": "systematic review",
+      "target": "mixed studies",
+      "type": "includes"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "HCWs",
+      "type": "causes stress for"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental health promotion programmes",
+      "type": "requires support from"
+    },
+    {
+      "source": "PROSPERO",
+      "target": "CRD42023396831",
+      "type": "registered under"
+    },
+    {
+      "source": "mental health interventions programmes",
+      "target": "psychological symptoms",
+      "type": "reduces"
+    },
+    {
+      "source": "HCWs",
+      "target": "COVID-19",
+      "type": "affected by"
+    },
+    {
+      "source": "literature",
+      "target": "efficacy of mental health promotion programmes",
+      "type": "summarizes"
+    },
+    {
+      "source": "HCWs",
+      "target": "physicians",
+      "type": "type_of"
+    },
+    {
+      "source": "HCWs",
+      "target": "nurses",
+      "type": "type_of"
+    },
+    {
+      "source": "HCWs",
+      "target": "support staff",
+      "type": "type_of"
+    },
+    {
+      "source": "interventions reviewed",
+      "target": "mindfulness-based programmes",
+      "type": "includes"
+    },
+    {
+      "source": "interventions reviewed",
+      "target": "psychological resilience programmes",
+      "type": "includes"
+    },
+    {
+      "source": "interventions reviewed",
+      "target": "e-healthcare interventions",
+      "type": "includes"
+    },
+    {
+      "source": "interventions reviewed",
+      "target": "self-help psychological interventions",
+      "type": "includes"
+    },
+    {
+      "source": "some studies",
+      "target": "video consultations",
+      "type": "involves"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "impact"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "COVID-19 pandemic",
+      "type": "contextual"
+    },
+    {
+      "source": "studies",
+      "target": "anxiety",
+      "type": "measured outcome"
+    },
+    {
+      "source": "studies",
+      "target": "depression",
+      "type": "measured outcome"
+    },
+    {
+      "source": "studies",
+      "target": "psychological resilience",
+      "type": "measured outcome"
+    },
+    {
+      "source": "studies",
+      "target": "overall well-being",
+      "type": "measured outcome"
+    },
+    {
+      "source": "psychological health promotion initiatives",
+      "target": "HCWs",
+      "type": "target audience"
+    },
+    {
+      "source": "psychological health promotion initiatives",
+      "target": "psychological resilience interventions",
+      "type": "includes"
+    },
+    {
+      "source": "psychological health promotion initiatives",
+      "target": "mindfulness-based programmes",
+      "type": "includes"
+    },
+    {
+      "source": "psychological health promotion initiatives",
+      "target": "e-health interventions",
+      "type": "includes"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "improves well-being during"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "COVID-19 pandemic",
+      "type": "associated with"
+    },
+    {
+      "source": "E-health interventions",
+      "target": "mental health",
+      "type": "improves"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "mental health disorders",
+      "type": "prevents"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "HCWs",
+      "type": "affects"
+    },
+    {
+      "source": "anxiety",
+      "target": "resilience",
+      "type": "lowers"
+    },
+    {
+      "source": "depression",
+      "target": "resilience",
+      "type": "lowers"
+    },
+    {
+      "source": "E-health interventions",
+      "target": "accessibility",
+      "type": "provides"
+    },
+    {
+      "source": "E-health interventions",
+      "target": "convenience",
+      "type": "provides"
+    },
+    {
+      "source": "WHO",
+      "target": "self-help psychological interventional programmes",
+      "type": "conducted"
+    },
+    {
+      "source": "self-help psychological interventional programmes",
+      "target": "mental disorders",
+      "type": "prevented"
+    },
+    {
+      "source": "pandemic",
+      "target": "HCWs",
+      "type": "impact"
+    },
+    {
+      "source": "HCWs",
+      "target": "anxiety",
+      "type": "risk"
+    },
+    {
+      "source": "HCWs",
+      "target": "depression",
+      "type": "risk"
+    },
+    {
+      "source": "HCWs",
+      "target": "post-traumatic stress disorder (PTSD)",
+      "type": "risk"
+    },
+    {
+      "source": "health promotion programmes",
+      "target": "HCWs",
+      "type": "implemented for"
+    },
+    {
+      "source": "literature review",
+      "target": "health promotion programmes",
+      "type": "analysis of"
+    },
+    {
+      "source": "literature review",
+      "target": "interventions",
+      "type": "shows use of"
+    },
+    {
+      "source": "interventions",
+      "target": "mental health",
+      "type": "improves"
+    },
+    {
+      "source": "interventions",
+      "target": "anxiety",
+      "type": "decreases"
+    },
+    {
+      "source": "interventions",
+      "target": "depression",
+      "type": "decreases"
+    },
+    {
+      "source": "interventions",
+      "target": "PTSD symptoms",
+      "type": "decreases"
+    },
+    {
+      "source": "therapies",
+      "target": "mental health",
+      "type": "enhances"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental health resources",
+      "type": "access"
+    },
+    {
+      "source": "WHO self-help psychotherapy",
+      "target": "mental disorders",
+      "type": "prevents"
+    },
+    {
+      "source": "Syrian refugees",
+      "target": "Turkey",
+      "type": "locatedIn"
+    },
+    {
+      "source": "mindfulness-based interventions",
+      "target": "mental health",
+      "type": "improves"
+    },
+    {
+      "source": "mindfulness-based interventions",
+      "target": "HCWs",
+      "type": "improves"
+    },
+    {
+      "source": "COVID-19",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "healthcare workers",
+      "type": "supports"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "well-being of HCWs",
+      "type": "improves"
+    },
+    {
+      "source": "organisations",
+      "target": "HCWs",
+      "type": "supports"
+    },
+    {
+      "source": "governments",
+      "target": "HCWs",
+      "type": "supports"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "benefits"
+    },
+    {
+      "source": "systematic review",
+      "target": "mental health promotion programmes",
+      "type": "evaluates"
+    },
+    {
+      "source": "pandemic",
+      "target": "HCWs",
+      "type": "affects"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "mental well-being",
+      "type": "enhances"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "HCWs",
+      "type": "affects"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "overall population",
+      "type": "affects"
+    },
+    {
+      "source": "demographic research",
+      "target": "mental health issues",
+      "type": "investigates"
+    },
+    {
+      "source": "community samples",
+      "target": "mental health issues",
+      "type": "linked to"
+    },
+    {
+      "source": "stress",
+      "target": "emotional strain",
+      "type": "related to"
+    },
+    {
+      "source": "pandemic",
+      "target": "anxiety",
+      "type": "causes"
+    },
+    {
+      "source": "pandemic",
+      "target": "depression",
+      "type": "causes"
+    },
+    {
+      "source": "pandemic",
+      "target": "burnout",
+      "type": "causes"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "supports"
+    },
+    {
+      "source": "systematic review",
+      "target": "mental health promotion programmes",
+      "type": "assesses"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "mindfulness-based programmes",
+      "type": "includes"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "digital mental health",
+      "type": "includes"
+    },
+    {
+      "source": "interventions",
+      "target": "anxiety",
+      "type": "minimizes symptoms of"
+    },
+    {
+      "source": "self-help psychological interventions",
+      "target": "depression",
+      "type": "minimizes symptoms of"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental health problems",
+      "type": "experiences"
+    },
+    {
+      "source": "psychiatrists",
+      "target": "psychological therapies",
+      "type": "offers"
+    },
+    {
+      "source": "Psychiatrists",
+      "target": "HCWs",
+      "type": "is a type of"
+    },
+    {
+      "source": "Psychiatrists",
+      "target": "mental health conditions",
+      "type": "may be susceptible to"
+    },
+    {
+      "source": "outbreak",
+      "target": "mental health services",
+      "type": "increases need for"
+    },
+    {
+      "source": "psychological health",
+      "target": "HCWs",
+      "type": "is related to"
+    },
+    {
+      "source": "pandemic",
+      "target": "psychological consequences",
+      "type": "has effects on"
+    },
+    {
+      "source": "psychiatric HCWs",
+      "target": "psychological distress",
+      "type": "addresses"
+    },
+    {
+      "source": "psychological programmes",
+      "target": "mental health services",
+      "type": "supports"
+    },
+    {
+      "source": "psychological programmes",
+      "target": "employees",
+      "type": "assists"
+    },
+    {
+      "source": "employees",
+      "target": "anxiety",
+      "type": "experiences"
+    },
+    {
+      "source": "employees",
+      "target": "depression",
+      "type": "experiences"
+    },
+    {
+      "source": "pandemic",
+      "target": "psychological distress",
+      "type": "causes"
+    },
+    {
+      "source": "public health",
+      "target": "COVID-19 pandemic",
+      "type": "approaches"
+    },
+    {
+      "source": "initiatives",
+      "target": "mental health",
+      "type": "aims to meet"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental health",
+      "type": "requirements for"
+    },
+    {
+      "source": "health crisis",
+      "target": "evidence",
+      "type": "involves"
+    },
+    {
+      "source": "evidence",
+      "target": "determinants of health",
+      "type": "provides knowledge of"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "support"
+    },
+    {
+      "source": "HCWs",
+      "target": "pandemic",
+      "type": "affected by"
+    },
+    {
+      "source": "psychological support",
+      "target": "HCWs",
+      "type": "improves"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "HCWs",
+      "type": "improves"
+    },
+    {
+      "source": "digital mental health interventions",
+      "target": "HCWs",
+      "type": "improves"
+    },
+    {
+      "source": "psychological support",
+      "target": "stress",
+      "type": "reduces"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "stress",
+      "type": "reduces"
+    },
+    {
+      "source": "digital mental health interventions",
+      "target": "stress",
+      "type": "reduces"
+    },
+    {
+      "source": "psychological support",
+      "target": "anxiety",
+      "type": "reduces"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "anxiety",
+      "type": "reduces"
+    },
+    {
+      "source": "digital mental health interventions",
+      "target": "anxiety",
+      "type": "reduces"
+    },
+    {
+      "source": "psychological support",
+      "target": "depression",
+      "type": "reduces"
+    },
+    {
+      "source": "mindfulness-based programs",
+      "target": "depression",
+      "type": "reduces"
+    },
+    {
+      "source": "digital mental health interventions",
+      "target": "depression",
+      "type": "reduces"
+    },
+    {
+      "source": "mental health programmes",
+      "target": "HCWs",
+      "type": "targeted at"
+    },
+    {
+      "source": "study",
+      "target": "empirical studies",
+      "type": "explores evidence of"
+    },
+    {
+      "source": "high-quality, peer-reviewed papers",
+      "target": "study",
+      "type": "included in"
+    },
+    {
+      "source": "authors",
+      "target": "study",
+      "type": "understanding of"
+    },
+    {
+      "source": "systematic review",
+      "target": "limitations",
+      "type": "includes"
+    },
+    {
+      "source": "limitations",
+      "target": "participants",
+      "type": "affects"
+    },
+    {
+      "source": "limitations",
+      "target": "bias",
+      "type": "affects"
+    },
+    {
+      "source": "systematic review",
+      "target": "Meta-analysis",
+      "type": "not conducted"
+    },
+    {
+      "source": "Meta-analysis",
+      "target": "sample sizes",
+      "type": "related to"
+    },
+    {
+      "source": "studies",
+      "target": "response rates",
+      "type": "associated with"
+    },
+    {
+      "source": "variability",
+      "target": "data collection and analysis methods",
+      "type": "affects"
+    },
+    {
+      "source": "heterogeneity",
+      "target": "comparisons",
+      "type": "limits"
+    },
+    {
+      "source": "mental health programmes",
+      "target": "effectiveness",
+      "type": "measures"
+    },
+    {
+      "source": "systematic review findings",
+      "target": "limitations",
+      "type": "includes"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "supports"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "HCWs",
+      "type": "influences"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "burnout",
+      "type": "causes"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "stress and workload",
+      "type": "increases"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "HCWs",
+      "type": "supports"
+    },
+    {
+      "source": "systematic review",
+      "target": "mental health promotion programmes",
+      "type": "finds"
+    },
+    {
+      "source": "mental health promotion programmes",
+      "target": "pandemic",
+      "type": "context"
+    },
+    {
+      "source": "mindfulness-based programmes",
+      "target": "mental health promotion programmes",
+      "type": "part_of"
+    },
+    {
+      "source": "online-based interventions",
+      "target": "mental health promotion programmes",
+      "type": "part_of"
+    },
+    {
+      "source": "self-help psychological interventions",
+      "target": "mental health promotion programmes",
+      "type": "part_of"
+    },
+    {
+      "source": "limited studies",
+      "target": "effectiveness",
+      "type": "based_on"
+    },
+    {
+      "source": "apps",
+      "target": "conflict of interest",
+      "type": "evaluated_by"
+    },
+    {
+      "source": "programmes",
+      "target": "conflict of interest",
+      "type": "evaluated_by"
+    },
+    {
+      "source": "mental health promotion initiatives",
+      "target": "well-being",
+      "type": "aims_to_improve"
+    },
+    {
+      "source": "anxiety",
+      "target": "symptoms",
+      "type": "related_to"
+    },
+    {
+      "source": "depression",
+      "target": "symptoms",
+      "type": "related_to"
+    },
+    {
+      "source": "organisations",
+      "target": "programmes",
+      "type": "invests in"
+    },
+    {
+      "source": "policymakers",
+      "target": "programmes",
+      "type": "implements"
+    },
+    {
+      "source": "programmes",
+      "target": "mental well-being",
+      "type": "supports"
+    },
+    {
+      "source": "HCWs",
+      "target": "mental well-being",
+      "type": "related to"
+    },
+    {
+      "source": "evidence",
+      "target": "best practices",
+      "type": "informs"
+    },
+    {
+      "source": "Department",
+      "target": "work",
+      "type": "supports"
+    },
+    {
+      "source": "Guo YR",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "Cao QD",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "Hong ZS",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "Tan YY",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "Chen SD",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "Jin HJ",
+      "target": "Military medical research",
+      "type": "Authorship"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Guo YR",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Cao QD",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Hong ZS",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Tan YY",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Chen SD",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Jin HJ",
+      "type": "Subject of Study"
+    },
+    {
+      "source": "WHO",
+      "target": "COVID-19",
+      "type": "Relevant Organization"
+    },
+    {
+      "source": "Rajkumar RP",
+      "target": "COVID-19 and mental health: A review of the existing literature",
+      "type": "Author"
+    },
+    {
+      "source": "WHO",
+      "target": "COVID-19 dashboard",
+      "type": "Resource"
+    },
+    {
+      "source": "Malaysian COVID-19 resource",
+      "target": "https://www.who.int/docs/default-source/wpro---documents/countries/malaysia/coronavirus",
+      "type": "Reference"
+    },
+    {
+      "source": "Kwong ASF",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Pearson RM",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Adams MJ",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Northstone K",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Tilling K",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Smith D",
+      "target": "Br J Psychiatry",
+      "type": "author_of"
+    },
+    {
+      "source": "Ismail M",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "Lee KY",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "Sutrisno Tanjung A",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "Ahmad Jelani IA",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "Abdul Latiff R",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "Abdul Razak H",
+      "target": "study",
+      "type": "conducted"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "mental health",
+      "type": "affected"
+    },
+    {
+      "source": "medical interns in Malaysia",
+      "target": "coping strategies",
+      "type": "association"
+    },
+    {
+      "source": "Wang C",
+      "target": "COVID-19 epidemic in China",
+      "type": "study on"
+    },
+    {
+      "source": "Wang C",
+      "target": "Brain Behav Immun",
+      "type": "published in"
+    },
+    {
+      "source": "OECD employment outlook 2012",
+      "target": "Organisation for Economic Co-operation and Development",
+      "type": "published by"
+    },
+    {
+      "source": "Norhayati MN",
+      "target": "COVID-19 pandemic",
+      "type": "response_to"
+    },
+    {
+      "source": "Che Yusof R",
+      "target": "COVID-19 pandemic",
+      "type": "response_to"
+    },
+    {
+      "source": "Azman MY",
+      "target": "COVID-19 pandemic",
+      "type": "response_to"
+    },
+    {
+      "source": "Kelantan, Malaysia",
+      "target": "COVID-19 pandemic",
+      "type": "location_of_study"
+    },
+    {
+      "source": "Daly M",
+      "target": "psychological distress",
+      "type": "studies"
+    },
+    {
+      "source": "Robinson E",
+      "target": "psychological distress",
+      "type": "studies"
+    },
+    {
+      "source": "psychological distress",
+      "target": "COVID-19 pandemic",
+      "type": "occurs during"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "UK",
+      "type": "affects"
+    },
+    {
+      "source": "Mental health",
+      "target": "COVID-19 pandemic",
+      "type": "evaluated in"
+    },
+    {
+      "source": "Pierce M",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "Hope H",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "Ford T",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "Hatch S",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "Hotopf M",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "John A",
+      "target": "Mental health",
+      "type": "author of"
+    },
+    {
+      "source": "Psychiatry Res",
+      "target": "COVID-19 pandemic",
+      "type": "published in"
+    },
+    {
+      "source": "Lancet Psychiatry",
+      "target": "COVID-19 pandemic",
+      "type": "published in"
+    },
+    {
+      "source": "longitudinal probability sample survey",
+      "target": "Mental health",
+      "type": "method used in"
+    },
+    {
+      "source": "Shiba K",
+      "target": "COVID-19 lockdown",
+      "type": "studies"
+    },
+    {
+      "source": "Goldmann E",
+      "target": "Mental health consequences of disasters",
+      "type": "authored"
+    },
+    {
+      "source": "Cowden RG",
+      "target": "COVID-19 lockdown",
+      "type": "studies"
+    },
+    {
+      "source": "Counted V",
+      "target": "COVID-19 lockdown",
+      "type": "studies"
+    },
+    {
+      "source": "VanderWeele TJ",
+      "target": "COVID-19 lockdown",
+      "type": "studies"
+    },
+    {
+      "source": "Fancourt D",
+      "target": "COVID-19 lockdown",
+      "type": "studies"
+    },
+    {
+      "source": "Lancet Psychiatry",
+      "target": "Shiba K",
+      "type": "published_in"
+    },
+    {
+      "source": "Curr Psychol",
+      "target": "Shiba K",
+      "type": "published_in"
+    },
+    {
+      "source": "Annu Rev Public Health",
+      "target": "Goldmann E",
+      "type": "published_in"
+    },
+    {
+      "source": "Fiorillo A",
+      "target": "Gorwood P",
+      "type": "co-author"
+    },
+    {
+      "source": "Fiorillo A",
+      "target": "Eur Psychiatry",
+      "type": "published in"
+    },
+    {
+      "source": "Gorwood P",
+      "target": "Eur Psychiatry",
+      "type": "published in"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "mental health",
+      "type": "affects"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "clinical practice",
+      "type": "affects"
+    },
+    {
+      "source": "Khademi F",
+      "target": "Moayedi S",
+      "type": "co-author"
+    },
+    {
+      "source": "Khademi F",
+      "target": "Golitaleb M",
+      "type": "co-author"
+    },
+    {
+      "source": "Khademi F",
+      "target": "Karbalaie N",
+      "type": "co-author"
+    },
+    {
+      "source": "Khademi F",
+      "target": "Int J Ment Health Nurs",
+      "type": "published in"
+    },
+    {
+      "source": "Moayedi S",
+      "target": "Int J Ment Health Nurs",
+      "type": "published in"
+    },
+    {
+      "source": "Golitaleb M",
+      "target": "Int J Ment Health Nurs",
+      "type": "published in"
+    },
+    {
+      "source": "Karbalaie N",
+      "target": "Int J Ment Health Nurs",
+      "type": "published in"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "death anxiety",
+      "type": "induces"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "elderly",
+      "type": "affects"
+    },
+    {
+      "source": "Da Silva Neto RM",
+      "target": "Psychological effects",
+      "type": "authored"
+    },
+    {
+      "source": "Benjamim CJR",
+      "target": "Psychological effects",
+      "type": "authored"
+    },
+    {
+      "source": "de Medeiros",
+      "target": "Psychological effects",
+      "type": "authored"
+    },
+    {
+      "source": "Carvalho PM",
+      "target": "Psychological effects",
+      "type": "authored"
+    },
+    {
+      "source": "Neto MLR",
+      "target": "Psychological effects",
+      "type": "authored"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "health professionals",
+      "type": "affects"
+    },
+    {
+      "source": "Psychological effects",
+      "target": "systematic review",
+      "type": "discussed in"
+    },
+    {
+      "source": "Psychological effects",
+      "target": "meta-analysis",
+      "type": "discussed in"
+    },
+    {
+      "source": "systematic review",
+      "target": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "type": "published in"
+    },
+    {
+      "source": "meta-analysis",
+      "target": "Prog Neuropsychopharmacol Biol Psychiatry",
+      "type": "published in"
+    },
+    {
+      "source": "PRISMA",
+      "target": "systematic review",
+      "type": "guide for"
+    },
+    {
+      "source": "PRISMA",
+      "target": "Principles and Practice of Systematic Reviews and Meta-Analysis",
+      "type": "in_reference_to"
+    },
+    {
+      "source": "Athikarisamy S",
+      "target": "Principles and Practice of Systematic Reviews and Meta-Analysis",
+      "type": "author_of"
+    },
+    {
+      "source": "Patole S",
+      "target": "Principles and Practice of Systematic Reviews and Meta-Analysis",
+      "type": "author_of"
+    },
+    {
+      "source": "Hong QN",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "F\u00e0bregues S",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "Bartlett G",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "Boardman F",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "Cargo M",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "Dagenais P",
+      "target": "Mixed Methods Appraisal Tool (MMAT)",
+      "type": "author_of"
+    },
+    {
+      "source": "Appraisal Tool (MMAT)",
+      "target": "information professionals",
+      "type": "targeted at"
+    },
+    {
+      "source": "Appraisal Tool (MMAT)",
+      "target": "researchers",
+      "type": "targeted at"
+    },
+    {
+      "source": "Souto RQ",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Khanassov V",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Hong QN",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Bush PL",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Vedel I",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Pluye P",
+      "target": "Systematic mixed studies reviews",
+      "type": "author"
+    },
+    {
+      "source": "Levine GN",
+      "target": "Commodore-Mensah",
+      "type": "collaborator"
+    },
+    {
+      "source": "Cohen BE",
+      "target": "Commodore-Mensah",
+      "type": "collaborator"
+    },
+    {
+      "source": "Levine GN",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Cohen BE",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Commodore-Mensah Y",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Fleury J",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Huffman JC",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Khalid U",
+      "target": "American Heart Association",
+      "type": "Authored"
+    },
+    {
+      "source": "Pollock A",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "Campbell P",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "Cheyne J",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "Cowie J",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "Davis B",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "McCallum J",
+      "target": "Interventions to support the resilience and mental health of frontline health",
+      "type": "Authored"
+    },
+    {
+      "source": "Mochari-Greenberger H",
+      "target": "Pande RL",
+      "type": "co-authored"
+    },
+    {
+      "source": "Mochari-Greenberger H",
+      "target": "behavioral health",
+      "type": "discusses"
+    },
+    {
+      "source": "Pande RL",
+      "target": "behavioral health",
+      "type": "discusses"
+    },
+    {
+      "source": "COVID-19",
+      "target": "behavioral health",
+      "type": "affects"
+    },
+    {
+      "source": "behavioral health",
+      "target": "virtual care",
+      "type": "requires"
+    },
+    {
+      "source": "Purgato M",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Carswell K",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Acarturk C",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Au T",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Akbai S",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Anttila M",
+      "target": "Self-Help Plus (SH+)",
+      "type": "studies"
+    },
+    {
+      "source": "Sahebi A",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "Yousefi A",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "Abdi K",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "Jamshidbeigi Y",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "Moayedi S",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "Torres M",
+      "target": "post-traumatic stress disorder",
+      "type": "investigates"
+    },
+    {
+      "source": "traumatic stress disorder",
+      "target": "health care workers",
+      "type": "affects"
+    },
+    {
+      "source": "health care workers",
+      "target": "COVID-19",
+      "type": "associated with"
+    },
+    {
+      "source": "Saladino V",
+      "target": "post-traumatic stress disorder",
+      "type": "writes about"
+    },
+    {
+      "source": "Auriemma V",
+      "target": "post-traumatic stress disorder",
+      "type": "writes about"
+    },
+    {
+      "source": "Campinoti V",
+      "target": "post-traumatic stress disorder",
+      "type": "writes about"
+    },
+    {
+      "source": "Tang J",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Wang L",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Luo T",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Wu S",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Wu Z",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Chen J",
+      "target": "COVID-19",
+      "type": "investigates"
+    },
+    {
+      "source": "Mindfulness-Based Intervention",
+      "target": "COVID-19 Pandemic",
+      "type": "Targets"
+    },
+    {
+      "source": "Mat Ruzlin AN",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Chen XW",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Yunus RM",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Samsudin EZ",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Selamat MI",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Ismail Z",
+      "target": "Promoting mental health during the COVID-19 pandemic",
+      "type": "Author of Study"
+    },
+    {
+      "source": "Promoting mental health during the COVID-19 pandemic",
+      "target": "Front Public Health",
+      "type": "Published In"
+    },
+    {
+      "source": "Acarturk C",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "Uygun E",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "Ilkkursun Z",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "Carswell K",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "Tedeschi F",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "Batu M",
+      "target": "WHO self-help psychological intervention",
+      "type": "Conducted Research"
+    },
+    {
+      "source": "S\u00f8vold LE",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Naslund JA",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Kousoulis AA",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Saxena S",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Qoronfleh MW",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Grobler C",
+      "target": "mental health and well-being",
+      "type": "Prioritized"
+    },
+    {
+      "source": "Healthcare workers",
+      "target": "Mental health and well-being",
+      "type": "is related to"
+    },
+    {
+      "source": "Digital mental health interventions",
+      "target": "Anxiety and depressive symptoms",
+      "type": "addresses"
+    },
+    {
+      "source": "Anxiety and depressive symptoms",
+      "target": "University students",
+      "type": "affects"
+    },
+    {
+      "source": "COVID-19 pandemic",
+      "target": "Digital mental health interventions",
+      "type": "context for"
+    },
+    {
+      "source": "Riboldi I",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Cavaleri D",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Calabrese A",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Capogrosso CA",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Piacenti S",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Bartoli F",
+      "target": "Front Public Health",
+      "type": "author of"
+    },
+    {
+      "source": "Galante J",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Friedrich C",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Dawson AF",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Modrego-Alarc\u00f3n M",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Gebbing P",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Delgado-Su\u00e1rez I",
+      "target": "Mindfulness-based programmes for mental health promotion in adults",
+      "type": "AUTHOR_OF"
+    },
+    {
+      "source": "Mindfulness-based programmes for mental health promotion in adults",
+      "target": "PLoS Med",
+      "type": "PUBLISHED_IN"
+    },
+    {
+      "source": "2023",
+      "target": "Rev Psiquiatr Salud Ment",
+      "type": "PUBLISHED_IN"
+    },
+    {
+      "source": "2021",
+      "target": "PLoS Med",
+      "type": "PUBLISHED_IN"
+    },
+    {
+      "source": "Chew QH",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Chia FL-A",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Ng WK",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Lee WCI",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Tan PLL",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Wong CS",
+      "target": "Int J Environ Res Public Health",
+      "type": "Author of"
+    },
+    {
+      "source": "Yusoff MSB",
+      "target": "Stress",
+      "type": "Studies"
+    },
+    {
+      "source": "Yusoff MSB",
+      "target": "Stressors",
+      "type": "Studies"
+    },
+    {
+      "source": "Yusoff MSB",
+      "target": "Coping Strategies",
+      "type": "Studies"
+    },
+    {
+      "source": "House Officers",
+      "target": "Coping Strategies",
+      "type": "Apply"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Perceived stress",
+      "type": "Influence"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Stigma",
+      "type": "Influence"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Traumatic stress levels",
+      "type": "Influence"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Coping responses",
+      "type": "Influence"
+    },
+    {
+      "source": "Ibrahim NB",
+      "target": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Hashim NABM",
+      "target": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Ramasamy S",
+      "target": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Kaur K",
+      "target": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Liu Z",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Han B",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Jiang R",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Huang Y",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Ma C",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "Wen J",
+      "target": "Mental health status of doctors and nurses during COVID-19",
+      "type": "Author of"
+    },
+    {
+      "source": "COVID-19",
+      "target": "Mental Health and Psychosocial Support in COVID-19",
+      "type": "Topic of"
+    },
+    {
+      "source": "COVID-19",
+      "target": "China",
+      "type": "occurs_in"
+    },
+    {
+      "source": "Rangachari P",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "L Woods J",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Kurniawan K",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Yosep I",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Maulana S",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Mulyana AM",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Amirah S",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Abdurrahman MF",
+      "target": "Int J Environ Res Public Health",
+      "type": "authored"
+    },
+    {
+      "source": "Amirah S",
+      "target": "COVID-19",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Abdurrahman MF",
+      "target": "COVID-19",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Amirah S, Abdurrahman MF",
+      "target": "Sustainability",
+      "type": "Published In"
+    },
+    {
+      "source": "Park J-H",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Jung S-E",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Ha D-J",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Lee B",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Kim M-S",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Sim K-L",
+      "target": "e-healthcare interventions",
+      "type": "Conducted Research On"
+    },
+    {
+      "source": "Park J-H, Jung S-E, Ha D-J, Lee B, Kim M-S, Sim K-L",
+      "target": "mental health of nurses",
+      "type": "Studied"
+    },
+    {
+      "source": "Systematic review of randomised controlled trials",
+      "target": "Medicine (Baltimore)",
+      "type": "Published in"
+    },
+    {
+      "source": "O\u2019Daffer A",
+      "target": "Efficacy and conflicts of interest in randomised controlled trials evaluating Headspace and Calm apps",
+      "type": "Author of"
+    },
+    {
+      "source": "Colt SF",
+      "target": "Efficacy and conflicts of interest in randomised controlled trials evaluating Headspace and Calm apps",
+      "type": "Author of"
+    },
+    {
+      "source": "Wasil AR",
+      "target": "Efficacy and conflicts of interest in randomised controlled trials evaluating Headspace and Calm apps",
+      "type": "Author of"
+    },
+    {
+      "source": "Lau N",
+      "target": "Efficacy and conflicts of interest in randomised controlled trials evaluating Headspace and Calm apps",
+      "type": "Author of"
+    },
+    {
+      "source": "Efficacy and conflicts of interest in randomised controlled trials evaluating Headspace and Calm apps",
+      "target": "JMIR Ment Health",
+      "type": "Published in"
+    }
+  ]
+}
