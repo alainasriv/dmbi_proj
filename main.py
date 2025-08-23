@@ -7,11 +7,12 @@ Last revision 08/21/2025. '''
 import os
 import re
 
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from data_process import data_processor
 from chunking import chunking
-from KGconstruct import extract_graph
+# from KGconstruct import extract_graph
 
-from langchain_openai import ChatOpenAI
+# from langchain_openai import ChatOpenAI
 
 def data_processing(path, raw_data_folder):
 
@@ -28,9 +29,11 @@ def main():
     # path
     path = os.getcwd()
     data_subpath = 'pdfs'
+    cleaned_data_subpath = 'cleaned_papers'
     chunk_subpath = 'chunks'
     graph_subpath = 'graph'
 
+    cleaned_data_folder = os.path.join(path, cleaned_data_subpath)
     chunk_folder = os.path.join(path, chunk_subpath)
     graph_folder = os.path.join(path, graph_subpath)
 
@@ -39,11 +42,16 @@ def main():
     os.makedirs(graph_folder, exist_ok=True)
 
     # # preprocess papers
-    # papers = data_processing(path=path, raw_data_folder=data_subpath)
+
+    # paper = data_processing(path=path, raw_data_folder=data_subpath)
+    
 
     # chunking
+    
+    loader = DirectoryLoader(path=cleaned_data_folder, glob="**/*.txt", show_progress=True, loader_cls=TextLoader)
+    documents = loader.load()
     chunk = chunking(chunk_folder)
-    chunks = chunk.make_chunks(papers)
+    chunks = chunk.make_chunks(documents)
     chunk.save_chunks_to_text(docs=chunks)
     chunk.save_chunk_for_later_loading(docs=chunks)
     
