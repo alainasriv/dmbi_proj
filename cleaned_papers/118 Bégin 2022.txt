@@ -1,0 +1,1105 @@
+
+Results
+Figure  1 presents the PRISMA flow chart of this scop -
+ing review. Then, 4443 articles were imported in Covi-dence from the three data source and 1071 duplicates were removed. Further, 3372 were screened during the abstract and title screening and 3223 were deemed irrelevant to this scoping review. Moreover, 149 articles were screened in their entirety and 93 were excluded. During full-text screen-ing, articles were mostly excluded because of the population of the study (ex.: not workers, students only), the type of  
+intervention (ex.: not mindfulness, meditation or self-  
+compassion, not online or using technology such as an app), or the type of study (ex.: meta-analysis or reviews). Seven articles could not be found even with the help and resources of the library and 4 articles were in another language. Fifty-six articles were included in this scoping review (Table  1). 
+Studies were published between January 2012 and January 
+Fig. 1  PRISMA flo w chart of 
+the included studiesPRISMA flow charto ftheincluded studies
+Eligibilit yScreenin gIdentification4443 studies imported for screenin g
+(1071 duplicates removed)
+3372 studies screened
+(3223 studie sirrelevant )
+149full-tex tstudies
+(93studies excluded )
+56studie sincludedExcluded ar/g415cle s
+23Wron gpopula/g415on -Other
+15Wron ginterven/g415on -Not 
+mindfulness/self-compassion
+15Type ofstudy(ex.: protocol)
+14Wron gpopula/g415on -Not 
+employee sorworkse/g427ng
+13Wron ginterven/g415on -No app
+7Ar/g415clenotfound
+4Other language
+2Wrong interven/g415o n-Othe r480 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  Included s tudies
+Study ID Title Author(s) Year Journal Country Aim of the study
+#361 A Web-Based Mindfulness Stress 
+Management Program in a Corporate 
+Call Center: A Randomized Clinical Trial to Evaluate the Added Benefit of Onsite Group SupportAllexandre et al. 2016 Journal of Occupational and Environmental 
+MedicineUSA Determine the effectiveness of an 8-week 
+web-based, mindfulness stress management program (WSM) in a corporate call center and added benefit of group support.
+#1378 Mental Health and Perceived Usability 
+of Digital Mental Health Tools among Essential Workers and Unemployed during COVID-19: A Remote Survey StudyMata-Greve et al. 2021 Journal of Medical Internet Research USA The purpose of this study was to determine 
+the extent of psychiatric distress in these two sectors of the community and understand how digital mental health tools (DMHT) have been used to cope with the mental health consequences of the pandemic.
+#799 Mindfulness on-the-go: Effects of a 
+mindfulness meditation app on work stress and well-beingBostock et al. 2019 Journal of Occupational Health Psychology UK Investigate whether a mindfulness 
+meditation program delivered via a smartphone application (app) could improve psychological well-being, reduce job strain, and reduce ambulatory blood pressure during the workday.
+#337 Alleviating staff stress in care homes for 
+people with dementia: Protocol for a stepped-wedge cluster randomized trial to evaluate a web-based Mindfulness-Stress Reduction courseBaker et al. 2015 BMC Psychiatry UK To evaluate the effectiveness of web-based 
+mindfulness training in reducing staff stress  
+in care homes with people living with  
+dementia. Evaluate the effects on job satisfaction, staff attitudes to dementia, sickness absence, cost-effectiveness.
+#3641 Mindfulness-Based Stress Reduction: 
+Guided Meditation in Daily LifeBianca Best 2020 ProQuest (Doctoral project) USA Determine the efficacy of Mindful-Based 
+Stress Reduction (MBSR) techniques specific to HCWs in acute clinical settings
+#2990 Targeting military healthcare providers to  
+self-identify and take action against compassion fatigue: can mindfulness practice be the answer?Natasha I. Best 2019 ProQuest (Doctoral project) USA 1: To assess the benefit of the use of the 
+Professional Quality of Life (ProQOL) instrument, to help military clinicians  self-identify risk of compassion fatigue.
+2: To determine if the use of an abbreviated 
+mindfulness-based stress reduction (MBSR) program involving a mobile application and integrated web-based tools  would help decrease symptoms of compassion fatigue among a targeted military clinician population.
+#1073 Self-compassion training within a 
+workplace physical activity program: A pilot studyBiber et al. 2021 Work USA The purpose of this pilot study was to 
+evaluate the effectiveness of a self-compassion (SC) intervention within the existing workplace physical activity program.481 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#2986 Single Case Evaluation of a Mindfulness-
+Based Mobile Application with a 
+Substance Abuse CounselorCallender et al. 2021 Counseling Outcome Research and 
+EvaluationUSA To evaluate the efficacy of a mobile 
+application (MA) as a mindfulness-based  intervention, for promoting desired change  across perceived levels of burnout, mindfulness, and self-compassion.
+#3556 The relationship between mindfulness and 
+school leader stressKasey R. Coggin 2019 ProQuest (Doctoral project) USA This study will determine the effectiveness of 
+a mindfulness smartphone application on stress levels of current K-12 principals.
+#1428 A Pilot Evaluation of a Smartphone 
+Application for Workplace DepressionCollins et al. 2020 International Journal of Environmental 
+Research and Public HealthAustralia This pilot study aimed to assess the usability, 
+feasibility, acceptability, and preliminary effects of an app-based intervention designed to target depressive symptoms in a stressed working population.
+#490 Digital Games and Mindfulness Apps: 
+Comparison of Effects on Post Work RecoveryCollins et al. 2019 JMIR Mental Health UK The aim of this study was to investigate and 
+compare the effectiveness of a digital game and mindfulness app in promoting post work recovery, first in a laboratory setting and then in a field study.
+#1346 Preventing depression using a 
+smartphoneapp: a randomized controlled trialDeady et al. 2020 Psychological Medicine Australia To evaluate the effectiveness of a new 
+smartphone app designed to reduce depression symptoms and subsequent incident depression amongst a large group of Australian workers.
+#460 Mindful Self-Compassion Training 
+Reduces Stress and Burnout Symptoms Among Practicing Psychologists: A Randomized Controlled Trial of a Brief Web-Based InterventionEriksson et al. 2018 Frontiers in Psychology Sweden The aims of this study were (a) to examine 
+the effects of a 6 weeks web-based mindful self-compassion program on stress and burnout symptoms in a group of practicing psychologists, and (b) to examine relationships between changes in  self-compassion and self-coldness and changes in stress and burnout symptoms.
+#3073 Exploring the impacts of self-compassion 
+and psychological flexibility on burnout and engagement among animal shelter staff: A moderator analysis of the job demands-resources framework and a randomized controlled field trial of a brief self-guided online interventionMallory Forman Fiery 2016 ProQuest (Doctoral project) USA/CAN A pilot randomized controlled field trial 
+explored whether an intervention aimed at  increasing selfcompassion led to decreased compassion fatigue, increased job engagement, and more psychologically flexible among staff in animal sheltering.
+#1037 A Mobile Phone–Based Intervention to 
+Reduce Mental Health Problems in Health Care Workers During the COVID-19 Pandemic (PsyCovidApp): Randomized Controlled TrialFiol-DeRoque et al. 2021 JMIR Mental Health Spain Evaluate the effectiveness of a 
+psychoeducational, mindfulness-based mHealth intervention to reduce mental health problems in health care workers during the COVID-19 pandemic.482 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#3578 Mindful Meditation Through the Use of 
+Headspace to Reduce Medication Errors 
+in the Obstetrical InpatientSuzan Lee Halt 2020 ProQuest (Doctoral project) USA To examine if or to what degree the 
+implementation of mindful meditation through the use of the mobile application Headspace, would impact the number of  documented medication errors in a population of inpatient obstetrical (OB) patients in an urban Arizona hospital over four weeks.
+#2871 Mind over matter: enhancing compassion 
+satisfaction in oncology nursingJacob R. Haskins 2018 Proquest (Doctoral project) USA This project utilized smart phone applications 
+to provide guided mindfulness meditations to address compassion fatigue for nurses on two-inpatient oncology units at a large academic medical center.
+#3761 “I Will Be Less Judgmental, More Kind, 
+More Aware, and Resilient!”: Early Childhood Professionals’ Learnings from an Online Mindfulness ModuleHatton-Bowers et al. 2020 Early Childhood Education Journal USA Examine reactions and perceived benefits 
+from early childhood professionals who participated in an online mindfulness and  compassion focused professional development module.
+#812 An online mindfulness-based program is  
+effective in improving affect, overcommitment, optimism and mucosal immunityHeckenberg et al. 2019 Physiology and Behavior Australia Assess the efficacy of an online mindfulness-
+based program on both short-term and more enduring aspects of psychological and physiological measures of stress and ill-health.
+#3943 6-Week Cybermeditation App Program 
+Introduces Hospice and Palliative Care/Oncology Professionals to Meditation  and Improves Professional Quality of LifeHeeter et al. 2016 Poster—Michigan State University USA Evaluate a minimally invasive 6-week 
+cybermeditation program based on 10–12-min meditation apps involving breath, gentle movement and visualization combined with bi-weekly support emails and tested it with hospice and oncology/palliative care health care professionals.
+#3753 Mindfulness-Based Stress Reduction and its 
+Use in Caregiver Stress ReductionPriscilla Herzog 2021 ProQuest (Doctoral project) USA In order to further support the use of MBSR 
+with healthcare Workers, professional caregivers of elderly patients from an in- home caregiving company participated in  an eight-week online MBSR course. Different variables were measured to determine further possible causes of stress.
+#1234 Multimodule Web-Based COVID-19 
+Anxiety and Stress Resilience Training (COAST): Single-Cohort Feasibility Study With First RespondersHeyen et al. 2021 JMIR Formative Research Switzerland To develop and test the feasibility of an 
+unguided electronic mental health program, COVID-19 Anxiety and Stress Resilience Training (COAST), tailored to first responders and health care personnel, based on scientific evidence and empirically based techniques.483 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#763 Mindfulness-Based Resilience Training 
+in the Workplace: Pilot Study of the 
+Internet-Based Resilience@Work (RAW) Mindfulness ProgramJoyce et al. 2018 Journal of Medical Internet Research Australia Examine whether a mindfulness-based 
+resilience-training program delivered via the internet is feasible and engaging to a group of high-risk workers. Additionally, we aim to measure the effect of the Resilience@Work Mindfulness program on measures of resilience and related skills.
+#842 Resilience@Work Mindfulness Program: 
+Results From a Cluster Randomized Controlled Trial With First RespondersJoyce et al. 2019 Journal of Medical Internet Research Australia Examine whether a mindfulness-based RTP 
+(the Resilience@Work [RAW]  Mindfulness Program) delivered via the internet can effectively enhance resilience among a group of high-risk workers.
+#3662 Mindful eating mobile application to reduce 
+binge eating in emergency department staffErin Joy Jensen 2019 ProQuest (Doctoral project) USA Determine the feasibility of using a mobile 
+application (app) to increase mindfulness in a group of emergency department (ED) employees.
+#517 Brief Online Mindfulness Training: 
+Immediate ImpactKathi J. Kemper 2017 Journal of evidence-based Complementary 
+& Alternative MedicineUSA For this project, we focused on 3 topics 
+related to training in mindfulness skills: (a)  Introduction to Mindfulness, (b) Mindfulness in Daily Life, and (c) Mindful Walking and Breathing. Specifically, we wanted to answer 3 questions. 1. What kinds of health professionals and trainees enroll in online mindfulness training? 2. Which of the three topics are most popular? And would those who enrolled in one topic also enroll in others? 3. Is completing an  online module associated with any immediate changes in mindfulness as measured using standardized instruments?
+#880 Participant Engagement in and Perspectives 
+on a Web-Based Mindfulness Intervention for 9–1-1 Telecommunicators: Multimethod StudyKerr et al. 2019 Journal of Medical Internet Research USA/CAN Assess participant engagement in a Web-based  
+MBI designed for 9–1-1 telecommunicators. Specifically, we sought to describe the following: (1) participant characteristics associated with intervention engagement, (2)  
+participant perspectives on engaging with the  
+intervention, and (3) perceived challenges and  
+facilitators to engaging.
+#2849 Receptiveness of Healthcare Workers 
+with Stress, Anxiety, or Depression to Use a Web-Based MBCT Therapeutic InterventionJoni A. Koegel 2017 ProQuest (Doctoral project) USA Predict the receptiveness of healthcare 
+workers who have experienced stress, anxiety, or depression within the past five years to use a web-based mindfulness-based cognitive therapy (MBCT) intervention.484 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#2967 Effects of A Mindfulness-Based Mobile 
+Application on Empathy and Mindfulness 
+with PsychotherapistsSarah M. Kopencey 2017 Dissertations & Theses USA The study has two primary aims: (a) to  
+explore the feasibility of using a mindfulness-based mobile application with practicing psychotherapists, and (b) to examine the effects of utilizing a MBMA on psychotherapists’ levels of empathy and mindfulness.
+#3289 Efficacy of a Mindfulness-Based 
+Intervention in Reducing Burnout and Increasing Resilience in Registered Nurses Caring for Patients with Hematologic MalignanciesErin Allyson Kopp 2020 ProQuest (Doctoral project) USA Determine the feasibility and efficacy of an 
+abbreviated, four-week MBI in reducing burnout and increasing resilience in hematology registered nurses working at a National Cancer Institute (NCI) designated cancer center.
+#2286 Effects of Five-Minute Mindfulness 
+Meditation on Mental Health Care ProfessionalsAmy G. Lam 2014 ProQuest (Doctoral project) USA This study aimed to examine the use of 
+five-minute mindfulness meditation to reduce the stress level and to increase the mindfulness level among mental health care professionals for seven consecutive days.
+#1484 Does a phone-based meditation application 
+improve mental wellness in emergency medicine personnel?Lambert et al. 2020 American Journal of Emergency Medicine USA Evaluate the effectiveness of a phone-based 
+meditation application in reducing stress, depression, anxiety and burnout among EM nurses and physicians after 3 months of weekly use.
+#2026 Employee’s Preferences for Access to 
+Mindfulness-Based Cognitive Therapy to  Reduce the Risk of Depressive Relapse— A Discrete Choice ExperimentLau et al. 2012 Mindfulness CAN To determine the stated preferences of  
+employees from large healthcare organizations for four different MBCT delivery methods (i.e., group, online group, individual, and individual via the telephone).
+#730 Hospice and Palliative Care Provider 
+Experiences with Meditation Using Mobile ApplicationsLehto et al. 2018 Oncology Nursing Forum USA To evaluate perceived benefits, challenges, 
+and recommendations following participation in a workplace mobile application– and email-based meditation research program.
+#871 Destress 9–1-1—an online mindfulness-
+based intervention in reducing stress among emergency medical dispatchers: a randomized controlled trialLilly et al. 2019 Occupational and Environmental Medicine USA/CAN This investigation tested the efficacy of a  
+7-week online mindfulness-based intervention (MBI) tailored to the EMD workforce.485 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#1437 The use of online MBSR audio in medical 
+staff during the COVID-19 in ChinaLiu et al. 2020 European Review for Medical and 
+Pharmacological SciencesChina This study aims to survey medical staff’s 
+acceptance of online Mindfulness-Based 
+Stress Reduction (MBSR) during the Novel Coronavirus Pneumonia (NCP), and to know some information of physical and emotional response of those medical staff who worked at the forefront of COVID-19, through the playback amount of the online MBSR training.
+#1361 Daily interventions and assessments: The  
+effect of online self-compassion meditation on psychological healthLi et al. 2021 Applied Psychology Health and Well-Being China The current study aimed to use daily 
+assessments to investigate the effect of online daily self-compassion interventions and its improvement pattern.
+#1214 An App-Based Workplace Mindfulness 
+Intervention, and Its Effects Over TimeLu et al. 2021 Frontiers in Psychology Singapore We investigated the week-to-week effects of 
+a mindfulness intervention on emotional exhaustion, work engagement, and job satisfaction.
+#2492 Mindfulness as a cognitive–emotional 
+segmentation strategy: An intervention promoting work–life balanceMichel et al. 2014 Journal of Occupational and Organizational 
+PsychologyGermany Design and evaluate an intervention  
+teaching mindfulness as a cognitive–emotional segmentation strategy to promote work–life balance.
+#3747 Mindfulness and positive activities at work: 
+Intervention effects on motivation-related constructs, sleep quality, and fatigueMichel et al. 2021 Journal of Occupational and Organizational 
+PsychologyGermany In this study, a three-week self-instructed 
+online intervention which combines positive activities and mindfulness was developed and evaluated using a randomized-controlled group design with employees. All exercises could be easily integrated into the daily working routine.
+#1097 Online Mindfulness Training Increases 
+Well-Being, Trait Emotional Intelligence, and Workplace Competency Ratings: A Randomized Waitlist-Controlled TrialNadler et al. 2020 Frontiers in Psychology USA To assess the effectiveness of an online 
+8-week mindfulness-based training program in a sample of adults employed fulltime at a Fortune 100 company in the United States.
+#1305 Meditation app alleviates burnout and 
+builds resilience for chaplains in hospices for older adults in Asian and African citiesSamta P. Pandya 2021 Journal of Health Care Chaplaincy India This article reports a one-year study 
+examining the effect of a smartphone meditation app (M-App) in alleviating burnout and promoting resilience among chaplains working in hospices of older adults in Asian and African cities.486 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#520 Online Training in Specific Meditation 
+Practices Improves Gratitude, Well-Being, 
+Self-Compassion, and Confidence in Providing Compassionate Care Among Health ProfessionalsRao et Kemper 2017 Journal of evidence-based Complementary 
+& Alternative MedicineUSA To determine the impact of brief, online 
+training for health professionals in 3 types of positive emotion-generating meditation: Gratitude-focused Meditation; Positive- or Sacred-Word-focused Meditation; and Lovingkindness/Compassion-focused Meditation.
+#331 Evaluation of Stress and a Stress-Reduction  
+Program Among Radiologic TechnologistsLynn Reingold 2015 Radiologic Technology USA To investigate stress levels and causes of 
+stress among radiologic technologists and determine whether an intervention could reduce stress in a selected radiologic technologist population.
+#1002 Physician Anxiety and Burnout: Symptom 
+Correlates and a Prospective Pilot Study of App-Delivered Mindfulness TrainingRoy et al. 2020 JMIR Mental Health and U Health USA The aims of this study are to assess whether 
+app-based mindfulness training can reduce anxiety in physicians and to explore if anxiety and burnout are correlated, thus leading to a reduction in both anxiety and burnout.
+#3666 Advanced practice registered nurse burnout 
+and mindfulness meditationAshley Ruiz 2020 ProQuest (Doctoral project) USA The purpose of this quality improvement 
+(QI) project was to: 1) assess burnout of advanced practice registered nurses (APRNs) in a primary care clinic in Tucson, Arizona through Maslach Burnout Inventory for Human Services Survey for Medical Personnel (MBI-HSSMP) pre-test, 2) present use of mindfulness meditation through an online application, UCLA Mindful, 3) assess burnout of APRNs through post-test MBI-HSSMP after using phone application for seven days.
+#3125 Integrating Wearables in Stress 
+Management Interventions: Promising Evidence from a Randomized TrialSmith et al. 2020 International Journal of Stress Management USA In the current article, we evaluate whether 
+a wearable-based stress management intervention can improve mental health outcomes. Employees drawn from a large technology corporation were randomly assigned to either a wearable-based treatment or waitlist control.
+#4452 Assessment of burnout with 
+implementation of a brief mindfulness intervention in palliative care cliniciansRachel Dianne Snyder 2021 ProQuest (Doctoral project) USA The objective of this quality improvement 
+project was to better understand burnout levels in palliative nurse practitioners and nurses in a large inpatient, academic hospital system and to determine the feasibility and effectiveness of implementing mindfulness meditation to reduce burnout levels.487 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3
+Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#3210 Investigating the feasibility of advanced law 
+enforcement resilience training (ALERT): 
+An innovative and practical  intervention to enhance police mindfulness and resilienceStephanie B. Stern 2019 ProQuest (Doctoral project) USA The current study sought to bridge a gap  
+between police literature, research and  practice by developing and testing the  feasibility of using the Advanced Law Enforcement Resilience Training (A.L.E.R.T.) mobile app to help police learn and practice mindfulness skills after engaging in a brief in-person training.
+#692 Evaluation of a Web-Based Holistic Stress 
+Reduction Pilot Program Among  Nurse-MidwivesErin M. Wright 2018 Journal of Holistic Nursing USA The purpose of this pilot project was to 
+evaluate the effectiveness of a holistic,  web-based program using holistic modalities for stress reduction and improved coping among certified  nurse-midwives.
+#3229 Brief Mindfulness as a stress reduction tool 
+for psychiatric techniciansKia Yang 2019 ProQuest (Doctoral project) USA This study examined the use of a brief  
+web-based mindfulness technique to reduce stress levels and increase mindfulness among psychiatric technicians.
+#3096 Online Mindful Stress Management for 
+the Military: A study using a civilian populationAnthony Sorgi 2015 ProQuest (Doctoral project) USA This study examined whether an online 
+adaptation of Mindfulness-Based Stress Reduction (MBSR) that consisted of two brief exercises (body scan and breathing) could reduce perceived stress and increase traits of mindfulness in a sample of civilian employees who experience high stress.
+#974 A randomized controlled trial to improve 
+psychological detachment from work and well-being among employees: a study protocol comparing online CBT-based and mindfulness interventionsTement et al. 2020 BMC Public Health Slovenia The current study will test the effectiveness 
+of two different online interventions (i.e.,  cognitive behavioral therapy; CBT and mindfulness-based stress reduction; MBSR)  
+on employees’ psychological detachment, burnout and other variables related to general (e.g., life satisfaction) and  work-specific (e.g., work engagement) well-being.
+#4457 Promoting resilience in healthcare workers 
+during the COVID-19 pandemic with a brief online interventionDeTore et al. 2022 Journal of Psychiatric Research USA This study aimed to examine the feasibility 
+and acceptability of a brief online course focused on introducing evidence-based skills that could increase resilience and decreases emotional distress in healthcare workers during the pandemic.488 Journal of Technology in Behavioral Science (2022) 7:477–515 1 32022, with a majority in 2019 (11), 2020 (13), and 2021 
+(12). Number of published articles on this topic has been quite stable in the last 3 years. Studies are mainly originating from North America (USA and Canada), which is conse -
+quent with the French or English language inclusion criteria. The following paragraphs will present information extracted from the included studies to answer this review’s questions.
+Question 1: What programs and interventions are out 
+there? What technologies/platforms/applications are used? With what features?
+Included articles used both original programs and pro-
+grams/apps already available. For instance, already available apps and programs were Headspace, Calm, Insight Timer, Palouse Mindfulness, UCLA Mindful, Mindfulness Coach, and HeadGear. The most frequent was Headspace. Inter -
+ventions were mostly mindfulness-based (84.9% of inter -
+ventions). A minority was self-compassion-based (9.4% of interventions). Other types of meditations (ex.: based on the breath) were sometimes used (5.7% of interventions).
+Modality-wise, interventions were mostly categorized 
+under website and online platforms (i.e., accessible on a computer, mobile phone, tablet) (41.5% of interventions) and apps (i.e., installed app on mobile phone) (41.5% of interventions). Some interventions were also delivered via email (13.2% of interventions).
+Regarding the duration, included studies proposes inter -
+vention with a duration between 1 h up to a year. The most prevalent durations were 1 month (26.4% of interventions), 6 weeks (15.1% of interventions), and 8 weeks (13.2% of interventions). Practices varied in length between 30 s up to 30 min or more. Then, 64.7% of articles that specified the length of practices noted exercises of 1–10 min.
+The description of the interventions from the included 
+articles was copied and are presented in Table  7 presented 
+in Appendix D . Readers can refer to it for more details about 
+specific interventions. Regarding the features of these inter -
+ventions, most of the included articles included some type of psychoeducational or informational content about mindful-ness/self-compassion/meditation, meditation exercises and capsules, other types of exercises (ex.: informal practices, progress tracker, mood tracker, discussion board, journal, link to helplines), formation or instruction on how to use the technology, and reminders to use the intervention. Other less frequent features were information on work-related dif-ficulties (ex.: work stress, compassion fatigue), the science behind the intervention, an introductory talk and interactive user network.
+Question 2: In which populations are the applications and  
+programs studied?
+Presented in Table  2 is a summary of the population of the 
+included studies. A vast majority (73.2%) of included studies used predominantly female samples. More than half of the samples were healthcare workers (51.8%). Other frequent Table  1  (continued)
+Study ID Title Author(s) Year Journal Country Aim of the study
+#4462 The mindful lawyer: Investigating the 
+effects of two online mindfulness 
+programs on self-reported well-being in the legal professionNielsen et Minda 2021 Journal of Occupational and Environmental 
+MedicineCAN Two studies were conducted to determine 
+whether mindfulness meditation could be an effective tool for improving well-being among legal professionals—a population plagued by high rates of depression, anxiety, and stress.
+#4463 Acceptability of a real-time notification of 
+stress and access to self-help therapies among law enforcement officersJetelina et al. 2022 BMC Public Health USA This study tests the acceptability of 
+implementing of a brief, smartwatch intervention to alleviate stress among LEOs.489 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  2  Descr iption of the samples from the included studies (N  =  56)
+Study ID Population Gender Age Type of occupation
+#361 Corporate call center employees in Ohio 83.8% F 40 (M) Office
+#1378 Essential workers or unemployed due to COVID-19 52.2% F 31.9 (M) Mixed
+#799 Office-based employees from two Fortune 500 companies 59.2% F 35.5 (M) Office
+#337 Employees of care homes for people living with dementia N.A N.A Healthcare
+#3641 Healthcare workers 81.0% F 43.6% between 36 and 45 Healthcare
+#2990 Convenience sample of military providers—Nurses 100.0% F 35 and older Healthcare
+#1073 University employees participating in the Desire2Move program 80.0% F 42.7 (M) Education
+#2986 Substance abuse counselor 100.0% F 55 Healthcare
+#3556 Texas public school principals 69.2% F 44.9% between 45 and 54 Education
+#1428 Currently employed Australian residents 67.9% F 38.96 (M) Mixed
+#490 Full-time working professionals 60.0% F 100% between 19 and 58 Mixed
+#1346 Employed Australians in male-dominated industries 25.8% F 40.3 (M) Mixed
+#460 Practicing psychologists 98.8% F 36.2 (M) Healthcare
+#3073 Staff in animal shelters 90.8% F 36% between 31 and 40 Other
+#1037 Healthcare workers providing care to Covid-19 patients 83.2% F 41.4 (M) Healthcare
+#3578 Nurses from the Women and Infants Department 100.0% F 100% older than 21 Healthcare
+#2871 Oncology nurses from oncology units N.A 35.4 (M) Healthcare
+#3761 Early childhood professionals 96.0% F N.A Education
+#812 Direct care workers, managerial/administrative roles 85.7% F 43.2 (M) Healthcare
+#3943 Hospice and Palliative care/oncology professionals N.A N.A Healthcare
+#3753 Professional caregivers of elderly patients 65.0% F 33.0 (M) Healthcare
+#1234 First responders 42.9% F 43.8 (M) First responders/police
+#763 Firefighters 97.0% M 43.7 (M) First responders/police
+#842 Primary Rescue and Hazmat Stations Firefighters 93–98% M 43.9–41.4 (M) First responders/police
+#3662 Healthcare employees from an ED department 100.0% F 55% 40 and older Healthcare
+#517 Workers from the Academic Health Center* 85.0% F N.A Healthcare
+#880 911 telecommunicators N.A N.A First responders/police
+#2849 Healthcare workers 80.8% F 41% between 22 and 36 Healthcare
+#2967 Psychotherapists* 94.0% F 29 (Med) Healthcare
+#3289 Registered nurses working in an designated cancer center 100.0% F 44.5 (Med) Healthcare
+#2286 Active mental health care professionals* N.A N.A Healthcare
+#1484 Emergency department staff N.A 100% between 18 and 75 Healthcare
+#2026 Health authority employees 89.3% F 43.8 (M) Healthcare
+#730 Palliative or hospice care employees 90.9% F 100% between 36 and 80 Healthcare
+#871 Emergency medical dispatchers 81.9% F 33.6% between 26 and 35 First responders/police
+#1437 Medical Staff N.A N.A Healthcare
+#1361 Employees 62.1% F 35.7 (M) Mixed
+#1214 Working executives 50.5% F N.A Office
+#2492 Workers from various sectors 71.1% F 41.4 (M) Mixed
+#3747 Workers from various sectors 67.5% F 41.1 (M) Mixed
+#1097 Adults employed fulltime at a Fortune 100 company 73.5% F 63.8% between 40 and 59 Office
+#1305 Chaplains working in hospices for older adults 60.4–64.4% M 42.4–44.2 (M) Other
+#520 Health professionals* 84.0% F N.A Healthcare
+#331 Radiologic technologists 40.5% M 37.6 (M) Healthcare
+#1002 Physicians 73.5% F 45 (M) Healthcare
+#3666 Advanced practice registered nurses 100.0% F 100% between 39 and 56 Healthcare
+#3125 Employees from offices of LinkedIn Corp 55.0% F 33.2 (M) Office
+#4452 Nurses from an inpatient palliative care practice 91.7% F 58.3% between 30 and 49 Healthcare
+#3210 Police recruits, active-duty officers, detectives, and sergeants 90.0% M 31.8 (M) First responders/police
+#692 Nurse midwives 100.0% F 40 (M) Healthcare490 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3categories were mixed occupations (14.3%), first responders 
+and police officers (12.5%) as well as office workers (12.5%). Three studies out of 56 included students in their samples. Twenty-five of the included articles provided a mean age of their participants. A total mean age was roughly estimated at 40.6 years old (done by adding all the means together and dividing by 25).
+Question 3: What are the advantages and disadvantages 
+of mindfulness or self-compassion applications and online programs?
+The advantages and disadvantages of dMBIs discussed in 
+the included articles are regrouped and presented in Table  3. 
+It is to be noted that the identified advantages and disadvan-tages were sometimes user-based (i.e., mentioned by par -
+ticipants) and sometimes perceived by researchers. How -
+ever, the distinction in the source (i.e., user or researcher) was not always expressed clearly in the included articles. The most prevalent advantages of using dMBIs cited in the included studies were the low cost/cost effectiveness of these interventions (Best, 2019; Bostock et al., 2019; Eriksson  
+et al., 2018) along with their practicality/accessibility/fea-
+sibility (Best, 2019; Callender et al., 2021; Deady et al., 2020). For example, Deady et al. (2020) mentioned: “By utilizing new technologies, many of the feasibility obsta-cles encountered with more traditional interventions in this area are offset.” Interestingly, some articles raised the point of personalization as a possible advantage of dMBIs (ex.: changing the voice, the rhythm, the design, the schedule of the intervention). This possible advantage, while being a good hypothesis, still need to be documented with evidence in the literature. Other articles pointed to disadvantages regarding dMBIs. The most prevalent one was difficulties with engagement, motivation, and participation over time in the intervention (Allexandre et al., 2016; Collins et al., 2020; Joyce et al., 2018; Kopencey, 2017).
+In addition, some articles also included advice regarding 
+the elaboration and the implementation of dMBIs. Regard-ing the modality of these interventions, articles suggested to improve the apps and programs (ex.: easier login, navigation, feedback, visuals, gamification, toolbox feature, journal); try to use programs that do not need Wi-Fi or data, and to work toward making these technologies affordable and avail-able for everyone. Regarding the intervention more specifi-cally, articles proposed to include meditation with different voices, lengths, and more variety; improve personalization of the intervention and tailoring to the professional group; find ways to add a sense of connection to others in dMBIs; provide intervention materials in different formats (ex. writ-ten, audio, video); and to provide interventions in different languages. Regarding participants experience with dMBIs, articles suggested to consider the participants characteristics in the intervention design (ex.: age, familiarity with apps); offer reminders and using location and calendar to provide interventions at opportune moments (ex.: at work); add an in-person resource to help with the downloading of the app or program; and navigating and to educate workers on the use of dMBIs.
+Question 4: What are the studied outcomes of online 
+programs and apps?
+The most frequent category of variables (57.1% of 
+included articles) is that of work-related outcomes (e.g., burnout, job strain, secondary traumatic stress, work engagement). Burnout was measured most frequently by the Maslach Burnout Inventory (7 articles), but also using professional quality of life (proQOL) scale, Shirom-  
+Melamed Burnout Measure, Copenhagen Burnout Inven -
+tory, and the Oldenburg Burnout Inventory. Other meas-ures for work-related outcomes were Utrecht Work  
+Engagement Scale, Karasek Job Content Questionnaire, Administrators Stress Index for example. Of the included articles, 25 (44.6%) measured mindfulness as an outcome and 7 (12.5%) measured self-compassion. Mindfulness was measured using Mindful Attention Awareness Scale (MASS), Freiburg Mindfulness Inventory (FMI), Five Facets Mindfulness Questionnaire (FFMQ), Cognitive  
+and Affective Mindfulness Scale (CAMS), Mindfulness Table  2  (continued)
+Study ID Population Gender Age Type of occupation
+#3229 Psychiatric technicians 75.4% F 71% between 25 and 44 Healthcare
+#3096 Customer service employees from Health Care Service Corpora-
+tion88.0% F N.A Office
+#974 Employees with knowledge-intensive jobs and high-stress occu-
+pationsN.A N.A Mixed
+#4457 Healthcare system employees 87.0–90.5% F 44.1 (M) Healthcare
+#4462 Legal professionals/Lawyers (1)82.2% F
+(2)65.6% F(1)46(M)(2)48.6(M)Office
+#4463 Law enforcement officers 86.0% M 36 (M) First responders/police
+*Students in the sample. In the Gender column, M is used for Male and F for Female. In the age column, M is used for Mean and Med is used for Median. N.A.
+ =
+ N
+ot available from the publication.491 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Process Questionnaire. Self-compassion was measured 
+using exclusively the Self-Compassion Scale (short or  
+long form). Interestingly, a few articles included physi-ological measures such as blood pressure, heart rate, and such (7.1%). Frequent psychological variables were stress and anxiety (50.0%; e.g., Beck Anxiety Inventory), depres-sion (14.3%; e.g., Beck Depression Inventory), resilience (17.9%; e.g., Connor Davidson Resilience Scale), and well-being (7.1%; WHO Wellbeing Index). Measures used in the included articles are listed in Table  4.Regarding studied outcomes, a substantial part of the 
+included articles incorporated measures regarding the par -
+ticipant’s experience of the proposed intervention (e.g., fea-sibility, user burden, perceived learning or effect) (35.7%). Studies also included measures of the intervention adherence (e.g., app use, number of days completed) (30.4%).
+Question 5: What are the gaps in the literature on mind-
+fulness or self-compassion applications?
+Considering the results discussed in the previous ques-
+tions, it is possible to raise some points that would need further  Table  3  A dvantages and disadvantages of dMBIs
+Advantages Disadvantages
+Modality
+dMBIs can be lost cost or free and represent a cost-effective approach
+Online interventions are usable during a global pandemic, especially 
+in times of social distancing
+Online interventions can be easily and rapidly implemented in 
+different locations and settings, with minimal training of personnel, no requirement for a therapist. Better geographical reach. Online intervention do not require a classroom or interfere with work scheduling. The online format eliminated issues of travel, space availability, and schedule coordination that are associated with participating in MBSR programs
+Online interventions can be done in anonymity and allow practice in 
+privacy, individually
+dMBIs can be user-friendly interventions, with low complexityTechnology allows for notifications and email reminders to use the 
+interventions
+Online interventions can be individualized and can offer different 
+modalities to better suit needs (e.g., written, video, and audio)
+dMBIs can be delivered to a greater number of participants, without a 
+waitlist
+Online interventions can be self-paced, can be done anywhere at any 
+time and can be asynchronous. Convenient/flexible/practical/Feasible
+Participants can reuse the intervention as much as they wantDeveloping an app or website can be costlyIn certain occupation, cellphone use was restricted during the COVID-
+19 pandemic
+Not accessible for participants without smartphone or computer, which 
+can discriminate against low resources participants
+Privacy concerns can be a barrier to using online interventions. A 
+concern was keeping usage confidential from the employer. Concern with the type of data collected
+Certain populations may have more difficulties than other to use an app 
+or online interventions (ex.: police, older adults). Technical difficulties can arise (ex.: poor internet connection)
+Certain participants stated that the reminders were annoyingSome programs can be repetitive and restraining. Some participants 
+might dislike some aspects of the intervention (the interventionist’s voice, and/or finding the content repetitive, unhelpful, or condescending). Participants might prefer another modality (ex: CD, professional)
+Intervention
+dMBIs are generally brief and concise interventions, which can be 
+convenient in a busy work and life schedule
+Interventions based on mood tracking, positive events, or offer 
+distraction (puzzles and games) were rated as desirable. Cognitive 
+elements (e.g., cognitive challenging, grounding, problem solving), behavioral elements (value-driven activity planning and goal setting), and mindfulness components were appreciated
+dMBIs can be increasing engagement and easily integrated in daily 
+life. Articles presented positive feedback from users. Users found benefits to using dMBIs. These interventions are well-accepted in certain populations (ex.: medical personnel)Short intervention can leave little time to practice, reflect. Short 
+interventions do not necessarily solve the lack of time to practice. Work scheduling can still make it challenging to use an app. Even short practices (e.g.: 10 min) can seem too long for participants
+dMBIs can have low online participation and present progressive 
+disengagement over time. Attrition was an issue in different studies as well as suboptimal use. Motivation to use these interventions can be low
+Risk that individuals who suffer from more serious disorders seek a 
+dMBI rather than some more appropriate form of treatment
+Clinicians may feel threatened if internet delivered interventions are 
+disseminated
+Cultural beliefs may have an influence on use of mobile interventions
+Research
+Ability to capture the completion of the intervention or the progress. 
+Access to usage data
+Work
+Using a dMBI may not be a distraction at work but can help to stay 
+focused
+dMBIs can have a preventive impact on work stress and burnout. More 
+apps and programs are studied and validated. They are generally 
+considered as effective tools and programs can be standardizedLack of awareness regarding dMBIs lack of departmental support and 
+incentive for skill practice
+Participants may not believe the healthcare facility would allow them to 
+use a dMBI while at work492 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  4  Measur es used in the included articles
+Study ID Measures
+#361 Perceived Stress Scale; Maslach Burnout Inventory—General Survey; Mindfulness Attention Awareness Scale; RAND Corporation's 
+Medical Outcomes Study—Short form; Company's own monthly global measure of work performance; Activity log; Qualitative and 
+quantitative program feedback questionnaire
+#1378 Patient Health Questionnaire; Generalized Anxiety Disorder; Cut-Annoyed-Guilty-Eye; Suicidal behaviors questionnaire revised; 
+System usability scale; User burden Scale; DMHT questionnaire
+#799 Warwick Edinburgh Mental Well-being Scale; Daily diary; Hospital Anxiety and Depression Scale; Whitehall II study questionnaire; 
+How would you describe your level of seniority at work; Five statements ranked on a 4-point scale to measure workplace social support; Freiburg Mindfulness Inventory; Self-monitoring devices
+#337 Work Stress Inventory; Karasek Job Content Questionnaire; Staff Experience of Working with Demented Residents; Satisfaction with 
+Job Facets; Approaches to Dementia Questionnaire; Stanford Presenteeism Scale; Short Form Health Survey; Interviews; Data from the managers of the homes; Discussions with providers and staff
+#3641 Blood pressure; Heart rate; Respiratory rate; Perceived stress scale; Mindful attention awareness scale; Participant’s perception of 
+knowledge growth, quality of the training, and the likelihood of participants recommending the program to others
+#2990 Professional Quality of Life (ProQOL); Mindful attention awareness scale; Insight Timer stats
+#1073 Self-compassion scale—Short form; MapMyRun App; Frequency of podcast use was tracked on a private YouTube account#2986 Self-compassion scale; Freiberg Mindfulness Inventory; Copenhagen Burnout Inventory; Journal and interview#3556 Freiburg Mindfulness Inventory; Administrators Stress Index; Log#1428 Patient Health Questionnaire–9; Single-item Stress Question; General Anxiety Disorder-7 items; WHO Wellbeing index; Health and 
+work performance questionnaire; Brief Resilience scale; Mobile application rating scale; App usage data
+#490 Activation-Deactivation Adjective Checklist; Recovery experience questionnaire; Semi-structured interview#1346 Patient Health Questionnaire–9; General Anxiety Disorder Scale; Connor Davidson Resilience Scale; WHO Wellbeing Index; Health 
+and Work Performance Questionnaire
+#460 Self-compassion Scale; Five facets mindfulness questionnaire; Perceived stress scale; Shirom-Melamed Burnout Questionnaire#3073 Open-ended questions on experience with meditation; Self-compassion scale short form; Acceptance and action questionnaire II; 
+Work-related acceptance and action questionnaire; DISC 2.1 Questionnaire; Maslach burnout inventory; Secondary traumatic stress 
+scale; Utrecht Work engagement scale; Positive and Negative affect Scale; Five facets mindfulness questionnaire
+#1037 Depression, anxiety, and stress scale; Davidson trauma scale; Maslach Burnout inventory; Insomnia severity index; General  
+self-efficacy scale; System usability scale
+#3578 Review of the patients’ records; Professional quality of life scale; Survey
+#2871 Survey; Mindful attention awareness scale; Professional Quality of life#3761 Questions: “How much did you learn in this professional; Development lesson?” and, “How much of what you learned will you be 
+able to use with the children or families in your care?” “Please share something that you learned from this lesson that you plan to 
+use in your program.”
+#812 Profile of Mood States and 6-item Spielberger State-trait Anxiety; Effort-reward imbalance questionnaire; Perceived stress scale; 
+Freiburg mindfulness inventory; Job demands-resources questionnaire; Brief resilience scale; Participants indicate how much time they spend doing the intervention; Participants indicate their adherence to the protocol on a scale of 1 to 5; Saliva samples
+#3943 App; Professional Quality of life; Multidimensional Assessment of Interoceptive Awareness
+#3753 Perceived stress scale#1234 Perceived stress scale; 9-item Patient Health Questionnaire; 7-item Generalized anxiety disorder scale; General Self-efficacy scale; 
+Posttraumatic stress disorder checklist; 8-item Client Satisfaction Questionnaire; Open question on potential further suggestions to 
+optimize the program (e.g., “Do you have ideas, suggestions, or criticism for us that could help us make COAST better?”); Activity score
+#763 Number of sessions completed; Connor-Davidson resilience Scale; Cognitive fusion questionnaire; Acceptance and action 
+questionnaire
+#842 Connor-Davidson Resilience Scale; Brief Resilience Scale; Freiburg Mindfulness inventory; Cognitive fusion questionnaire; 
+Acceptance and action questionnaire; Self-compassion scale short form; Life orientation test-revised; Brief-coping orientation to problems experienced; Life engagement test
+#3662 Binge eating questionnaire; Mindful eating questionnaire; Survey
+#517 10-item cognitive and affective mindfulness scale-revised; 15-item mindful attention awareness scale; Five facets mindfulness 
+questionnaire
+#880 Check-in survey and final evaluation; Access logs; Survey; Calgary symptoms of stress inventory; Mindful attention awareness Scale; 
+Swedish demand-control questionnaire; Social support visual analog scale; Network conflict visual analog scale; Effort-reward 
+imbalance
+#2849 Receptiveness of Healthcare Workers with Stress, Anxiety, or Depression to Use Web-Based MBCT Therapeutic Interventions
+#2967 Five facets mindfulness questionnaire; Interpersonal reactivity index; Screenshot of insight timer session log493 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  4  (continued)
+Study ID Measures
+#3289 Maslach Burnout inventory—health service survey; Connor Davidson Resilience Scale
+#2286 Freiburg Mindfulness Inventory; Perceived stress scale#1484 Perceived stress scale; Beck Depression Inventory; Beck Anxiety Inventory; Maslach Burnout Inventory—Human Services Survey 
+for medical personnel
+#2026 A web-based DCE including 18 choice sets asking respondents to choose between two hypothetical treatment alternatives was 
+developed, forcing respondents to choose between one of two methods of MBCT delivery. However, realizing that respondents may 
+prefer one scenario over another but may not actually select this preferred scenario should they been given the choice to receive MBCT, respondents were also asked whether they would enroll in their selected option if it was offered. Demographic data and data on prior history of depression
+#730 Focus group; Questions on how to fit the app in the daily life, problems or barriers experienced, types of benefit, advice to make 
+meditation apps better
+#871 Calgary symptoms of stress Inventory; Mindful attention awareness scale; Online training system
+#1437 Each session’ playback amount of audio#1361 Self-compassion scale; Daily self-compassion scale; Short form perceived stress scale; Maslach burnout inventory#1214 Mindful attention awareness scale; Maslach burnout inventory; 5 items truncated scale on work engagement; 3 items scale on job 
+satisfaction
+#2492 Cognitive and affective mindfulness scale—Revised; Recovery Experience Questionnaire; WFC Scale; Satisfaction with work-family 
+balance scale; General Self-efficacy Scale
+#3747 Cognitive and affective mindfulness scale–Revised; Positive and negative affect schedule scale; Utrecht Work engagement scale; State 
+hope scale; “How fatigued do you currently feel?”; “How do you evaluate this week’s sleep?”
+#1097 Five Factor Mindfulness Questionnaire; Perceived Stress Scale; Brief resilience Scale; Positive and Negative Affect Schedule; 
+Multidimensional Emotional Intelligence Assessment—Workplace; Workplace Competency Assessment
+#1305 Maslach Burnout inventory—health service survey; Connor Davidson Resilience Scale#520 6-item Gratitude Questionnaire or 5-item World Health Organization Well-Being index or short form of Self-Compassion Scale and 
+the Confidence in providing Compassionate Care scale
+#331 Perceived stress scale; American Institute of Stress Workplace Stress Survey#1002 Generalized anxiety disorder—7; Maslach Burnout inventory; Participants were asked their likelihood to recommend the program to 
+a friend on an 11-point Likert scale
+#3666 Maslach Burnout Inventory for Human Services Survey for Medical Personnel (MBI-HSSMP)#3125 Perceived stress scale; Mood and Anxiety symptoms questionnaire; Center for Disease Control’s Healthy Days Core and Symptoms 
+Modules; Participants were asked how much stress they were experiencing in their life on a 7-point item; CDC health-related 
+quality of life metrics; Positive and Negative Affect Schedule; Participants were asked in the follow-up survey to rate the effectiveness of the program and report any comments or feedback they had about the intervention; Respiratory date from spire stone
+#4452 Maslach Burnout Inventory—Human Service Workers; There was a reflective, qualitative question component administered at the end 
+of the intervention inquiring about the amount of participation with the mindful meditation activity, beliefs about the feasibility of the intervention, and a request for a short phrase describing participants’ satisfaction with the intervention
+#3210 Police stress questionnaire; Five facets mindfulness questionnaire; Mindfulness process questionnaire; Brief resilience scale; 
+Oldenburg Burnout inventory; Difficulties in Emotion Regulation Scale; Acceptability questionnaire; App stats
+#692 Perceived stress scale; Coping self-efficacy scale
+#3229 Stress Overload Scale-Short; Five facets mindfulness Questionnaire Short form; Participants respond to daily questionnaires for five 
+days
+#3096 Perceived stress scale; Five Facets Mindfulness Questionnaire#974 Maslach Burnout inventory; Recovery experience questionnaire; Pittsburgh Sleep Quality Index; Utrecht Work Engagement Scale;  
+Dutch Workaholism Scale; Work-Family conflict scale; Positive and negative affect Schedule; Satisfaction with life scale; 
+Depression, anxiety and Stress scale; Mindfulness Attention and awareness questionnaire; Work related maladaptive thinking patterns questionnaire; Supervisor Support for recovery scale; Segmentation supplies scale; Unfinished taks items; Instrument for stress-related job analysis
+#4457 Items from: Patient health questionnaire-4; Brief resilience scale; Coping Skills; UCLA Loneliness Scale; Self-compassion scale; 
+Maslach Burnout Inventory
+#4462 Perceived stress scale; Positive and negative affect schedule; Brief resilience scale; Five facet mindfulness questionnaire; Depression 
+Anxiety Stress Scales
+#4463 Interview494 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3investigation on dMBIs. For the populations under study, the 
+field of dMBIs could benefit from studies with more diverse populations of workers. In addition, it appears that currently available interventions could be studied in a more comprehen-sive manner, particularly to identify the characteristics of inter -
+ventions that work but also to clearly understand advantages and disadvantages of dMBIs. As described earlier, included studies used different very pertinent measures. However, as the literature is very diverse, comparability is quite difficult.
+To answer this scoping review question, information was 
+gathered regarding the future research indications in the included studies. Figure  2 presents 19 research objectives to 
+further understand and establish the use of dMBIs that were included in the articles. These research objectives are related to the intervention and the modality, the individual, and the organization and work. The included articles also suggested different methodological improvements for future research. The most prevalent aspects were to improve recruitment, to conduct research with larger sample and during longer periods of time, to have a control group, to conduct randomized con-trolled trials and mixed methods studies, and to use a variety of measures including instruments that can be repeated over time.Discussion
+The present scoping review aimed to assess the current state of the literature on the use of online programs and mobile applications of self-compassion, mindfulness, and medita-tion by workers. Results portrayed the type of interventions available, the population studied, the advantages and disad-vantages of these interventions, the measured outcomes, and advice for future research.
+The 56 included articles revealed that dMBIs are mainly 
+studied within healthcare, in female samples, are mindful-ness-based apps or online programs including information on mindfulness, meditation or self-compassion, medita-tion exercises, other types of exercises, and instructions on how to use and reminders. Although population of inter -
+est and general intervention (i.e., mindfulness) are quite homogenous between studies, the delivery of the interven -
+tions varies a lot between frequency, duration, and specific exercises. Articles provided important directions to fur -
+ther research on dMBIs regarding methodological aspects, modality and intervention, and individual and organiza -
+tional questions.
+Modality and interventio n
+•Evaluate benefits of dMBIs over traditional delivery (ex.: CD, group) .
+•Evaluate different ways to lessen attrition rates and/or improve motivation (ex.: hosting a group occasionally, add other form  
+of practice, check-ins fro m a professional). 
+•Evaluate a way to develop a sense of connection even with re mote learning.
+•Evaluate the differential effects of the interventions comprised within dMBIs (ex.: journaling, different meditations) and 
+find their related outcomes.
+•Continue the development of operational definitions of variables for researchers and participants.
+•Better understand the optimal dosage required to achieve change. 
+•Study more innovative uses of smartphone in the delivery of these interventions (ex.: sensing, analytics, biofeedback). 
+•Include measures that can help better understand the process, mechanis ms, and trajectories behind usage of dMBIs.
+•Continue using tracking of the usage for research purposes while optim izing confidentiality .
+Individual
+•Evaluate longitudinal effects of dMBIs.
+•Evaluate the efficacy of these interventions with other populations and de mographics, in other cultures, in a wide variety of
+settings including non-traditional work-settings.
+•Evaluate different psychological and physical health outcomes for the individual.  Determ ine if statistically significant 
+changes are also clinically significant .
+•Better understand the facilitators and barriers of use of dMBIs. For example, by understanding the differential factors 
+between participants who adhere to the intervention and those who do not.
+•Better understand the impact of the preference of the individual on the delivery mode. 
+•Categorize participants by their experiences in mindfulness.
+•Understand the impact of culture, belief system s, care expectations and preference, and other individual variables on the us e
+of dMBIs and their benefits. 
+Organization and work
+•Study the mediators of workplace dMBIs.
+•Evaluate work-related outcome s (ex.: productivity, health care costs, absenteeis m, impact on patients or clients).
+•Evaluate the organizational openness to implementing dMBIs in the workplace.
+Fig. 2  F uture research indication regarding dMBIs495 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3An important aspect that seems to recur frequently in the 
+included articles is the ability for dMBIs to be individualized 
+to one’s preferences and context (ex.: type of occupation). As noted by a systematic review in 2017, there is a need for user-centered design in these resources (Pospos et al., 2018). It is also a key advantage noted in Mrazek et al. (2019), along with the accessibility of dMBIs and their opportunity for stand-ardization, personalized learning, and efficacy. The present scoping review highlighted similar advantages in the included studies. Interestingly, some advantages were listed as disad-vantages in other articles. One example is regarding the cost of dMBIs. Some articles mentioned that these technologies could be costly while others stated that dMBIs were a cost-effective way to teach mindfulness or self-compassion. However, a big difference regarding the cost of these interventions depends on whether a new app or website is created or not. Using already available apps could potentially be more cost effective (ex.: Headspace: $89.99CAD/year) (Headspace, 2022). Moreover, advantages and disadvantages were mostly cited by partici-pants and researchers. Future research should clearly indicate the source of these, and, since there is an interest for using dMBIs in the work context, it would be interesting to acknowl-edge managers and employers’ perceptions of on this topic. Future research should help clarify these aspects.
+A specific but very pertinent concern raised toward dMBIs is 
+that people turn to these interventions when they need a more in-depth therapeutic intervention for a mental health problem. This idea was also mentioned in conclusion of Gál et al. (2021). This could potentially be clarified with the help of future research avenues and advice highlighted above (ex.: better operationaliza-tion of concept, clarification of the aim of these interventions). There also seems to be a need to clarify if theses interventions are therefore better useful in prevention of workplace difficul-ties and to integrate security measures to help in case of more serious difficulties (ex.: link or helpline number).
+Mrazek et al. (2019) also stated some challenges regard-
+ing dMBIs that are similar to this review. Mainly, maintain-ing engagement seems to be an obstacle with the use of online programs and apps. In accordance, a meta-analysis showed that participants completed around 43% of the mindfulness meditation exercises (Gál et al., 2021). This is also well-documented in a more general mental health apps review (Eisenstadt et al., 2021). This review suggests col-lecting qualitative data and insights from participant drop-ping out of these studies. This could help better understand adherence and engagement issues. However, it is sometimes difficult to engage participants in this kind of follow-up. In addition, as suggested and used frequently in the included studies, the use of reminders and notifications could poten-tially stimulate engagement and adherence. Solving adher -
+ence issues will help conducting quality research on dMBIs.
+As noted, many aspects of dMBIs still need to be clarified 
+with future research. It is paramount to better understand when, in what context, and for whom are these programs effective. Realist evaluation is a theory-driven form of evalu-ation proposed by Pawson and Tilley, particularly efficient to answer such questions (Pawson & Tilley, 2004). Realist evaluation considers that intervention outcomes depend on the interaction between a mechanism and a context. This approach does not prescribe a particular method, but usu-ally includes both qualitative and quantitative data, which would be beneficial in the future study of dMBIs. Using this approach could provide a better understanding of when these online applications and programs work (e.g., “dose” required, influence of cost, coaching by a professional, influ-ence of group, and modality). Realist evaluation could also lead to a better understanding of who dMBIs are effective for (e.g., other types of workers, depending on the level of distress, age, culture) and how they are working.
+The present review has several limitations. First, when 
+searching for articles in the selected databases, the terms selected to search for occupational groups is generally biased toward medical professions. Consequently, results might not be representative of all professions. It is also difficult to under -
+stand clearly if these types of interventions are more offered to healthcare and female samples because of their needs or because they are more sampled and used in studies by researchers. Many studies also used students only samples and were excluded from this review. Secondly, this scoping review included articles with predominantly female sample that were mostly published in the USA, which might be a bias. Thirdly, this scoping review’s main difficulty was with the heterogeneity of the interventions in the literature. Articles often included both in-person and online interventions, or were non-specific with mindfulness, self-compassion, or meditation. Even if the features are somewhat similar from different interventions, the specifics are often varied (ex.: length and frequency, themes, type of intervention). This impacted both the selection process and the extraction of the data in making it difficult to synthetize the information. Lastly, only articles that were available in French or English language via the University’s accesses were included in this review.
+Conclusion
+This scoping provided a synthesis on different aspects of the use of dMBIs within workers and highlighted pertinent future research directions. Realist evaluation is proposed to gain a better understanding on this topic. Future research should also find ways to improve engagement and have rigorous designs. Research should also aim to use current existing interventions and replicate studies to better exam-ine the validity of evidence and help comparability. With the rapid development of dMBIs, it would be helpful to use consistent guidelines to report evidence such as mHealth evidence reporting and assessment (mERA) checklist. Using 496 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3such guidelines would help identifying evidence, but also 
+facilitate comparability between studies, which is difficult as noted previously. If pertinent, clear guidelines regarding the development and implementation of dMBIs could be elabo-rated by researchers in this field, in a spirit of collaboration. For example, guidelines could help clarify important helpful features of dMBIs (ex.: reference to helplines) and ethical aspects (ex.: confidentiality measure). Hopefully, this review encourages further rigorous research on this topic, which can  
+presumably benefit workers from all around the globe.
+Table  5  Concep t plan
+Concept MEDLINE–Ovid PsychInfo–Ovid Web of Science–Clarivate
+Free text Controlled vocabulary Controlled vocabulary Free text
+AppAppsApplication*Mobile HealthPhone*Smartphone*Mobile*Web-based/web based*Internet Based/internet-based*Online*exp Mobile Applicationsexp Telemedicineexp Cell Phoneexp Internet-Based interventionexp Mobile Applicationsexp Mobile Healthexp mobile phonesexp Digital Interventions"app""apps""application*""mobile health*""phone*""smartphone*""mobile*""web-based*""web based*"*internet-based*""internet based*""online*""telemedicine*""cellphone*""digital intervention*"
+Mindful*Meditation*Self-compassion*Compassion-based*exp Mindfulnessexp Meditationexp Mindfulness-based Interventionexp Mindfulnessexp Meditation"mindful*""meditation*""self-compassion*""compassion-based*"
+Worker*Employee*Personnel*Professional*Workplace*Job*exp Workplaceexp Occupational Groupsexp Personnelexp Occupations"worker*""employee*""personnel*""professional*""workplace*""job*"
+"engineer*" "engineer*"
+"secretary*" "secretary*"
+"lawyer*" "lawyer*"
+"judge*" "judge*"
+"technician*" "technician*"
+"assistant*" "assistant*"
+"artist*" "artist*"
+"child care worker*" "emergency "child care worker*" "emergency 
+personnel personnel
+"frontline*" "frontline*"
+"disabled personnel*" "disabled personnel*"
+"foreign worker*" "foreign worker*"
+"migrant worker*" "migrant worker*"
+"teleworker*" "teleworker*"
+"doctor*" "doctor*"
+"therapist*" "therapist*"
+"administrative personnel*" "administrative personnel*"
+"case manager*" "case manager*"
+"astronaut*" "astronaut*"
+"counselor*" "counselor*"Appendix A. Concept Plan497 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  5  (continued)
+Concept MEDLINE–Ovid PsychInfo–Ovid Web of Science–Clarivate
+"educational personnel*" "educational personnel*"
+"teacher*" "teacher*"
+"emergency responder*" "emergency responder*"
+"firefighter*" "firefighter*"
+"police*" "police*"
+"soldier*" "soldier*"
+"farmer*" "farmer*"
+"government*" "government*"
+"health personnel*" "health personnel*"
+"healthcare professional*" "healthcare professional*"
+"anatomist*" "anatomist*"
+"anesthetist*" "anesthetist*"
+"audiologist*" "audiologist*"
+"caregiver*" "caregiver*"
+"coroner*" "coroner*"
+"medical examiner*" "medical examiner*"
+"dentist*" "dentist*"
+"doula*" "doula*"
+"emergency medical dispatcher*" "emergency medical dispatcher*"
+"epidemiologist*" "epidemiologist*"
+"practitioner*" "practitioner*"
+"medical staff*" "medical staff*"
+"med*" "med*"
+"nurse*" "nurse*"
+"nursing*" "nursing*"
+"nutritionist*" "nutritionist*"
+"optometrist*" "optometrist*"
+"pharmacist*" "pharmacist*"
+"physician*" "physician*"
+"veterinarian*" "veterinarian*"
+"librarian*" "librarian*"
+"metal worker*" "metal worker*"
+"construction worker*" "construction worker*"
+"military*" "military*"
+"miner*" "miner*"
+"pilot*" "pilot*"
+"clergy*" "clergy*"
+"monk*" "monk*"
+"nun*" "nun*"
+"social worker*" "social worker*"
+"psychologist*" "psychologist*"
+"scientist*" "scientist*"
+"accountant*" "accountant*"
+"actress*" "actress*"
+"actor*" "actor*"
+"air traffic controller*" "air traffic controller*"
+"architect*" "architect*"
+"attorney*" "attorney*"
+"banker*" "banker*"
+"bartender*" "bartender*"
+"barber*" "barber*"498 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  5  (continued)
+Concept MEDLINE–Ovid PsychInfo–Ovid Web of Science–Clarivate
+"bookeeper*" "bookeeper*"
+"builder*" "builder*"
+"businessman*" "businessman*"
+"businesswoman*" "businesswoman*"
+"businessperson*" "businessperson*"
+"butcher*" "butcher*"
+"carpenter*" "carpenter*"
+"clerk*" "clerk*"
+"cashier*" "cashier*"
+"chef*" "chef*"
+"coach*" "coach*"
+"dental hygienist*" "dental hygienist*"
+"designer*" "designer*"
+"developper*" "developper*"
+"dietician*" "dietician*"
+"economist*" "economist*"
+"editor*" "editor*"
+"electrician*" "electrician*"
+"musician*" "musician*"
+"optician*" "optician*"
+"painter*" "painter*"
+"photographer*" "photographer*"
+"physician's assistant*" "physician's assistant*"
+"filmmaker*" "filmmaker*"
+"fisher*" "fisher*"
+"flight attendant*" "flight attendant*"
+"jeweler*" "jeweler*"
+"mechanic*" "mechanic*"
+"plumber*" "plumber*"
+"politician*" "politician*"
+"professor*" "professor*"
+"programmer*" "programmer*"
+"receptionist*" "receptionist*"
+"salesman*" "salesman*"
+"salesperson*" "salesperson*"
+"saleswoman*" "saleswoman*"
+"singer*" "singer*"
+"surgeon*"
+"translator*""surgeon*""translator*"
+"videographer*" "videographer*"
+"waiter*" "waiter*"
+"waitress*" "waitress*"
+"writer*" "writer*"
+"journalist*" "journalist*"
+"author*" "author*"
+"driver*" "driver*"
+"haidresser*" "haidresser*"
+"lifeguard*" "lifeguard*"
+"postman*" "postman*"
+"real estate agent*" "real estate agent*"
+"cleaner*" "cleaner*"
+"tailor*" "tailor*"499 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Appendix B. Search Strategies
+Ovid—Medline  
+ 1
+. ("a
+pp" or "apps" or "application*" or "mobile health" 
+or "phone*" or "smartphone*" or "mobile*" or "web-
+based*" or "web based*" or "internet based*" or "internet-  
+based*" or "online*").ab,ti
+ 2.
+ e
+xp Mobile Applications/
+ 3.
+ e
+xp Telemedicine/
+ 4.
+ e
+xp Cell Phone/
+ 5.
+ e
+xp Internet-Based Intervention/
+ 6
+. (
+"mindful*" or "meditation*" or "self-compassion*" 
+or "compassion-based*").ab,ti
+ 7.
+ e
+xp Mindfulness/
+ 8.
+ e
+xp Meditation/
+ 9
+. (
+"worker*" or "employee*" or "personnel*" or "profes -
+sional*" or "workplace*" or "job*").ab,ti
+ 1
+0. ("engineer*" or "secr
+etary*" or "lawyer*" or "judge*" 
+or "technician*" or "assistant*" or "artist*" or "child care worker*" or "emergency personnel*" or "front-line*" or "disabled personnel*" or "foreign worker*" or "migrant worker*" or "teleworker*" or "doctor*" or "therapist*" or "administrative personnel*" or "case manager*" or "astronaut*" or "counselor*" or "edu -
+cational personnel*" or "teacher*" or "emergency responder*" or "firefighter*" or "police*" or "soldier*" or "farmer*" or "government*" or "health person-nel*" or "healthcare professional*" or "anatomist*" or "anesthetist*" or "audiologist*" or "caregiver*" or "coroner*" or "medical examiner*" or "dentist*" or "doula*" or "emergency medical dispatcher*" or "epi-demiologist*" or "practitioner*" or "medical staff*" or "med*" or "nurse*" or "nursing*" or "nutritionist*" or "optometrist*" or "pharmacist*" or "physician*" or "veterinarian*" or "librarian*" or "metal worker*" or "construction worker*" or "military*" or "miner*" or "pilot*" or "clergy*" or "monk*" or "nun*" or "social worker*" or "psychologist*" or "scientist*").ab,ti
+ 11.
+ ("account
+ant*" or "actress*" or "actor*" or "air traffic 
+controller*" or "architect*" or "attorney*" or "banker*" or "bartender*" or "barber*" or "bookeeper*" or "builder*" or "businessman*" or "businesswoman*" or "businessperson*" or "butcher*" or "carpenter*" or "clerk*" or "cashier*" or "chef*" or "coach*" or "dental hygienist*" or "designer*" or "developper*" or "dietician*" or "economist*" or "editor*" or "electri-cian*" or "musician*" or "optician*" or "painter*" or "photographer*" or "physician's assistant*" or "film-maker*" or "fisher*" or "flight attendant*" or "jew -
+eler*" or "mechanic*" or "plumber*" or "politician*" or "professor*" or "programmer*" or "receptionist*" or "salesman*" or "salesperson*" or "saleswoman*" or "singer*" or "surgeon*" or "translator*" or "videog-rapher*" or "waiter*" or "waitress*" or "writer*" or "journalist*" or "author*" or "driver*" or "haidresser*" or "lifeguard*" or "postman*" or "real estate agent*" or "cleaner*" or "tailor*").ab,ti
+ 12.
+ e
+xp Workplace/
+ 13.
+ e
+xp Occupational Groups/
+ 14.
+ 1 
+or 2 or 3 or 4 or 5
+ 15.
+ 6 
+or 7 or 8
+ 16.
+ 9 
+or 10 or 11 or 12 or 13
+ 17.
+ 14 
+and 15 and 16
+Ovid—PsychInfo
+ 
+ 1
+. ("a
+pp" or "apps" or "application*" or "mobile health" 
+or "phone*" or "smartphone*" or "mobile*" or "web-based*" or "web based*" or "internet based*" or "internet-  
+based*" or "online*").ab,ti
+ 2.
+ e
+xp Mobile Applications/
+ 3.
+ e
+xp Mobile Health/
+ 4.
+ e
+xp mobile phones/
+ 5.
+ e
+xp Digital Interventions/
+ 6
+. (
+"mindful*" or "meditation*" or "self-compassion*" 
+or "compassion-based*").ab,ti
+ 7
+. e
+xp Mindfulness-Based Interventions/ or exp Mindful-
+ness/
+ 8.
+ e
+xp Self-Compassion/
+ 9.
+ e
+xp Meditation/
+ 1
+0. (
+"worker*" or "employee*" or "personnel*" or "profes -
+sional*" or "workplace*" or "job*").ab,ti
+ 11.
+ ("account
+ant*" or "actress*" or "actor*" or "air traffic 
+controller*" or "architect*" or "attorney*" or "banker*" or "bartender*" or "barber*" or "bookeeper*" or "builder*" or "businessman*" or "businesswoman*" or "businessperson*" or "butcher*" or "carpenter*" or "clerk*" or "cashier*" or "chef*" or "coach*" or "dental hygienist*" or "designer*" or "developper*" or "dietician*" or "economist*" or "editor*" or "electri-cian*" or "musician*" or "optician*" or "painter*" or "photographer*" or "physician's assistant*" or "film-maker*" or "fisher*" or "flight attendant*" or "jew -
+eler*" or "mechanic*" or "plumber*" or "politician*" or "professor*" or "programmer*" or "receptionist*" or "salesman*" or "salesperson*" or "saleswoman*" or "singer*" or "surgeon*" or "translator*" or "videog-500 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3rapher*" or "waiter*" or "waitress*" or "writer*" or 
+"journalist*" or "author*" or "driver*" or "haidresser*" or "lifeguard*" or "postman*" or "real estate agent*" or "cleaner*" or "tailor*").ab,ti
+ 1
+2. ("engineer*" or "secr
+etary*" or "lawyer*" or "judge*" 
+or "technician*" or "assistant*" or "artist*" or "child care worker*" or "emergency personnel*" or "front-line*" or "disabled personnel*" or "foreign worker*" or "migrant worker*" or "teleworker*" or "doctor*" or "therapist*" or "administrative personnel*" or "case manager*" or "astronaut*" or "counselor*" or "edu -
+cational personnel*" or "teacher*" or "emergency responder*" or "firefighter*" or "police*" or "soldier*" or "farmer*" or "government*" or "health person-nel*" or "healthcare professional*" or "anatomist*" or "anesthetist*" or "audiologist*" or "caregiver*" or "coroner*" or "medical examiner*" or "dentist*" or "doula*" or "emergency medical dispatcher*" or "epi-demiologist*" or "practitioner*" or "medical staff*" or "med*" or "nurse*" or "nursing*" or "nutritionist*" or "optometrist*" or "pharmacist*" or "physician*" or "veterinarian*" or "librarian*" or "metal worker*" or "construction worker*" or "military*" or "miner*" or "pilot*" or "clergy*" or "monk*" or "nun*" or "social worker*" or "psychologist*" or "scientist*").ab,ti
+ 13.
+ e
+xp personnel/
+ 14.
+ e
+xp occupations/
+ 15.
+ 1 
+or 2 or 3 or 4 or 5
+ 16.
+  
+6 or 7 or 8 or 9
+ 17.
+ 10 
+or 11 or 12 or 13 or 14
+ 18.
+ 15 
+and 16 and 17
+Clarivate—Web of Science
+ 
+TI
+ =
+ ("app" or "apps" or "application*" or "mobile
+ 
+health*" or "phone*" or "smartphone*" or "mobile*" or "web-based*" or "web based*" or *internet-based*" or "internet based*" or "online*" or "telemedicine*" or "cellphone*" or "digital intervention*")ORAB
+ =
+ ("app" or "apps" or "application*" or "mobile
+ 
+health*" or "phone*" or "smartphone*" or "mobile*" or "web-based*" or "web based*" or *internet-based*" or "internet based*" or "online*" or "telemedicine*" or "cellphone*" or "digital intervention*")ANDTI
+ =
+ ("mindful*" or "medit
+ation*" or "self-compassion*" 
+or "compassion-based*")ORAB
+ =
+ ("mindful*" or "medit
+ation*" or "self-compassion*"  
+or "compassion-based*")ANDTI
+ = ( "worker*" or "employee*" or "personnel*" or 
+"professional*" or "engineer*" or "secretary*" or "law -
+yer*" or "judge*" or "technician*" or "assistant*" or "artist*" or "child care worker*" or "emergency person-nel*" or "frontline*" or "disabled personnel*" or "for -
+eign worker*" or "migrant worker*" or "teleworker*" or "doctor*" or "therapist*" or "administrative personnel*" or "case manager*" or "astronaut*" or "counselor*" or "educational personnel*" or "teacher*" or "emergency responder*" or "firefighter*" or "police*" or "soldier*" or "farmer*" or "government*" or "health personnel*" or "healthcare professional*" or "anatomist*" or "anes-thetist*" or "audiologist*" or "caregiver*" or "coroner*" or "medical examiner*" or "dentist*" or "doula*" or "emergency medical dispatcher*" or "epidemiologist*" or "practitioner*" or "medical staff*" or "med*" or "nurse*" or "nursing*" or "nutritionist*" or "optometrist*" or "pharmacist*" or "physician*" or "veterinarian*" or "librarian*" or "metal worker*" or "construction worker*" or "military*" or "miner*" or "pilot*" or "clergy*" or "monk*" or "nun*" or "social worker*" or "psycholo-gist*" or "scientist*" or "accountant*" or "actress*" or "actor*" or "air traffic controller*" or "architect*" or "attorney*" or "banker*" or "bartender*" or "barber*" or "bookeeper*" or "builder*" or "businessman*" or "businesswoman*" or "businessperson*" or "butcher*" or "carpenter*" or "clerk*" or "cashier*" or "chef*" or "coach*" or "dental hygienist*" or "designer*" or "devel-opper*" or "dietician*" or "economist*" or "editor*" or "electrician*" or "musician*" or "optician*" or "painter*" or "photographer*" or "physician's assistant*" or "film-maker*" or "fisher*" or "flight attendant*" or "jeweler*" or "mechanic*" or "plumber*" or "politician*" or "pro-fessor*" or "programmer*" or "receptionist*" or "sales -
+man*" or "salesperson*" or "saleswoman*" or "singer*" or "surgeon*" or "translator*" or "videographer*" or "waiter*" or "waitress*" or "writer*" or "journalist*" or "author*" or "driver*" or "haidresser*" or "lifeguard*" or "postman*" or "real estate agent*" or "cleaner*" or "tailor*" or "workplace*" or "job*")ORAB
+ =
+ ("w
+orker*" or "employee*" or "personnel*" or 
+"professional*" or "engineer*" or "secretary*" or "law -
+yer*" or "judge*" or "technician*" or "assistant*" or "artist*" or "child care worker*" or "emergency person-nel*" or "frontline*" or "disabled personnel*" or "for -
+eign worker*" or "migrant worker*" or "teleworker*" or "doctor*" or "therapist*" or "administrative personnel*" or "case manager*" or "astronaut*" or "counselor*" or "educational personnel*" or "teacher*" or "emergency responder*" or "firefighter*" or "police*" or "soldier*" or "farmer*" or "government*" or "health personnel*" 501 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3or "healthcare professional*" or "anatomist*" or "anes-
+thetist*" or "audiologist*" or "caregiver*" or "coroner*" or "medical examiner*" or "dentist*" or "doula*" or "emergency medical dispatcher*" or "epidemiologist*" or "practitioner*" or "medical staff*" or "med*" or "nurse*" or "nursing*" or "nutritionist*" or "optometrist*" or "pharmacist*" or "physician*" or "veterinarian*" or "librarian*" or "metal worker*" or "construction worker*" or "military*" or "miner*" or "pilot*" or "clergy*" or "monk*" or "nun*" or "social worker*" or "psycholo-gist*" or "scientist*" or "accountant*" or "actress*" or "actor*" or "air traffic controller*" or "architect*" or "attorney*" or "banker*" or "bartender*" or "barber*" or "bookeeper*" or "builder*" or "businessman*" or "businesswoman*" or "businessperson*" or "butcher*" or "carpenter*" or "clerk*" or "cashier*" or "chef*" or "coach*" or "dental hygienist*" or "designer*" or "devel-opper*" or "dietician*" or "economist*" or "editor*" or "electrician*" or "musician*" or "optician*" or "painter*" or "photographer*" or "physician's assistant*" or "film-maker*" or "fisher*" or "flight attendant*" or "jeweler*" or "mechanic*" or "plumber*" or "politician*" or "pro-fessor*" or "programmer*" or "receptionist*" or "sales -
+man*" or "salesperson*" or "saleswoman*" or "singer*" or "surgeon*" or "translator*" or "videographer*" or "waiter*" or "waitress*" or "writer*" or "journalist*" or "author*" or "driver*" or "haidresser*" or "lifeguard*" or "postman*" or "real estate agent*" or "cleaner*" or "tailor*" or "workplace*" or "job*")
+Table  6  Extr action tool
+IDENTIFICATION METHODOLOGY INTERVENTION MEASURES FINDINGS
+STUDY ID
+TITLEAUTHOR(S)YEARNAME OF JOURNALCOUNTRY
+ 
+AIMPOPUL
+ATION
+GENDERAGETYPE OF JOBJOB CATEGORYHEALTHCAREARMYEDUCATIONFIRST RESPONDERS AND 
+POLICE
+OFFICEOTHERMIXEDSTUDENTSYESNOINCLUSION/EXCLUSION CRI-
+TERIANAMEDETAILSTYPE OF INTERVENTIONMINDFULNESSSELF-COMPASSIONMEDITATION (OTHER)OTHERDESCRIPTIONFEATURESLENGTHTECHNOLOGYOUTCOMESMEASURE OR SCALEMAIN FINDINGSADVANTAGESINCONVENIENTSADVICEFUTURE RESEARCH
+Appendix C. Extraction Tool502 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  Inter ventions details
+#ID Intervention description
+#361 8-week web-based stress management (WSM) program based on mindfulness meditation principles, titled Stress Free Now.
+The WSM program is an 8-week online, interactive, educational program based on mindfulness meditation. Details of the intervention have been described 
+elsewhere. Briefly, each week, participants are introduced to a new mindfulness theme and meditation technique. They are first given access to an introductory talk 
+in written and audio formats on the theme or particular meditation technique of the week. Mindfulness meditation techniques are then provided in audio format that can be either directly played from the website or downloaded in a portable mp3 format. Daily articles provide an overview of the science underlying the benefits of meditation. Participants receive twice a week e-mail reminders to access the website and practice meditation. Participants can access the program from any computer with Internet access, either at work or home. For the ease and convenience of participants who did not have Internet at home, the introductory talks and meditation exercises were also provided on CDs in mp3 format. WSM group participants had access to the online program only.
+#1378 No intervention.
+#799 Participants randomized to the intervention received email instructions to download the app, and inviting them to a 1-h in-person introductory talk about  
+meditation. In addition, the app contained several short introductory videos that explained the rationale for mindfulness meditation and described classic 
+mindfulness techniques (e.g. focusing attention on the breath, observing thoughts without reacting to them). The mindfulness training program consisted of 45 meditation sessions lasting from 10 to 20 min. Participants could chose to meditate at any time during the day. In each session, listeners were instructed to sit in a chair and were led through pre-recorded mindfulness meditations. Each session was designed to be used once per day, for 45 days, to cultivate a state of mindful awareness and teach mindfulness skills. These meditations are in line with a two-component model of mindfulness, for which the first component is the  regulation of attention in order to focus it on the present moment (e.g. through paying attention to the breath), and the second component is open monitoring in which thoughts and emotions that arise are treated with curiosity, openness, and acceptance (Bishop et al., 2004). The program begins with ‘Take 10’, 10 days of  10-min meditation sessions, followed by ‘Take 15’ (15 days of 15 min meditations) and then ‘Take 20’ (20 days of 20 min meditations). Participants must complete  the meditations in the sequential order set by the program, and must complete each component before starting the next (e.g. Take 10 must be completed before Take 15 begins). Longer sessions included more time for silent meditation. Participants were given free access to the app, and no additional incentives. Participants in the intervention group received a weekly reminder email from research staff to encourage use of the app.
+#337 The intervention is a web-based mindfulness training course, organized by the Mental Health Foundation
+through Wellmind Media. It combines elements of both Mindfulness-Based Stress Reduction (MBSR)and Mindfulness-Based Cognitive Therapy (MBCT). The 
+main features include: Ten sessions each lasting 30 min with videos and interactive exercises led by leading mindfulness trainers. Twelve assignments to practice in daily life with supporting emails. Five guided meditation audio downloads. Online tools for reviewing progress. A course completion certificate. An overview. An aftercare pack sent by post including a printed guide to everyday mindfulness. The course may be completed within 4 weeks but it can be done at a convenient pace as there is no limit to completion. It teaches formal meditation skills and informal techniques that can be incorporated into daily activities. Participants can take breaks from the course and repeat any part at any time. If so they receive emails to remind them where they have reached. The software asks them to practice formal meditation exercises they have learned using the audio and video clips supplied, ideally every day. Participants can monitor their progress in terms of stress, anxiety and depression, using measures intrinsic to the online course at the start and end, and at 1 month following completion.
+Week 1: Introduction, Orientation, Stress Assessment, Stepping out of automatic pilot, Routine activity, Mindful eating, Body scan. Week 2: Reconnecting with body 
+and breath, Mindful movement, Mindful Breathing, Event Awareness. Week 3: Working with difficulties, Breathing space, Sitting meditation, Stress Awareness. Week 4: Mindfulness in daily life, Breathing space and action step, Activity, awareness, stress, strategies.
+#3641 On each Sunday over four weeks, all participants received information via email on how to complete the week's brief guided MBSR mediation. Each week had 
+different educational tools and a video link describing the requirements for that week. Participants were allowed to complete the meditation at any time and were encouraged to find a quiet, comfortable space to practice the guided MBSR mediation. Using Google Forms, participants responded to surveys collecting baseline and post-intervention physiological data of blood pressure, heart rate, respiratory rate, and psychological data of the PSS-10 and MAAS instruments.
+#2990 The intervention was a 4-week MBSR program that used a mobile application called Insight Timer, based on an abbreviated version of the 8-week MBSR program 
+developed by Dr. Jon Kabat-Zinn (Pospos et al., 2018) (see Appendix D). In 2017, Pospos et al. reviewed web-based tools and mobile applications used to help mitigate burnout and found that the Insight Timer had several positive features for this mindfulness-based intervention. These features include that the  application is free, it offers tracking of practice sessions, reminders to practice, a built-in timer, and a user interactive network (Pospos et al., 2018). To better orient the participants to the project and to provide background information on compassion fatigue and mindfulness, informational modules were given in block segments: Module 1: Overview of the project; Module 2: Instructions on how to complete pre and post surveys; Module 3: Download and use of the mobile application; Module 4: Logging of sessions/journaling; Module 5: Background and history of MBSR; Modules 6–9: Introduction to four formal mindfulness practices (body scan, mindful movement, walking meditation and sitting meditation); and Module 10: Overview of compassion fatigue and its subcomponents of burnout and secondary traumatic stress. These informational modules were pre-recorded by the author and available online to be accessed at the participants’ convenience throughout the intervention phase (see Appendix E). Participants were encouraged to practice any mindfulness practice of choice, found under the MBSR heading in Insight Timer, for 15 to 20 min a day for four weeks. The designated practice times emulated the Human Caring Theory’s “caring moment”, representing the  actual event, to include time and location, in which providers gave themselves care (McCance, McKenna & Boore, 1999). Additionally, participants were encouraged to pay purposeful attention to their emotional, mental and physical responses both at work and at home.
+#1073 During the 8-week D2M program, participants in both the self-compassion treatment group and the attention control group logged their PA minutes and modes using 
+the MapMyRun website or smartphone application. A bout of PA had to be a minimum of 10 consecutive minutes ofMVPA. Additionally, team captains emailed all participants weekly motivational tips, team standings, and program reminders. Participants were able to send a “friend request” to other team members, which would allow them to see each other’s daily minutes of PA and total weekly minutes of PA.
+In addition to the D2M procedures, treatment group participants completed a 7-week self-compassion intervention that started the second week of D2M. The 
+intervention aimed to improve selfkindness and understanding in face of perceived shortcomings or difficulties (i.e. missing a day of exercise), thereby, increasing PA motivation and behavior by using self-compassion meditation strategies. Employees in the treatment group were emailed an electronic link every day of the intervention to access the information via mp3 audio file podcast. The validated self-compassion intervention and a detailed description of each meditation podcast is in Table 1 and on the following website (www.selfcompassion.org). Participants were.
+instructed to listen to the podcast at least once per week for the following week, with the goal of listeningto it as often as once per day. At the end of theD2Mchallenge, participants should have received seven different SC podcasts. Podcasts: Affectionate Breathing 
+Meditation, Compassionate Body Scan, Loving-Kindness Meditation, SC/Loving Kindness Meditation, Noting your emotions Meditation, Soften, Soothe, Allow: Working with your emotions, SC Break.Appendix D. Interventions Details503 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#2986 Calm is a user-friendly and accessible application that is adaptable across smartphone, computer, and tablet devices and a leading app for mindfulness and sleep at 
+the time of this study. Calm provides meditations that target novice and experienced users of all ages and vary in length from 3–30 min. Meditations are grouped 
+into one of six categories: body (mindful movement and gentle stretching), scenes (nature scenes and sounds), meditate, sleep (restful sleep, and wake up feeling refreshed), music (focus, relax, sleep), and masterclass (audio programs taught by world renowned mindfulness experts). Among these six categories are ten  sub-categories: sleep, anxiety, beginners, stress, self-care, inner peace, focus, emotions, less guidance, relationships, and personal growth. Participant received weekly scheduled reminder emails from the first author about completing the assessments for each week to increase the likelihood that we would obtain data during the baseline phase. Participant was only informed that she will be using a mindfulness-based intervention when prompted, without describing or identifying the app. The only instruction was to use the MA as often as deemed necessary each week.
+#3556 I assisted participants in the use of the Mindfulness Coach App before intervention began by sending a link to a step-by-step tutorial site made exclusively for the 
+application and its use in this study.
+Mindfulness Coach is an application developed by the Department of Veteran Affairs National Center for PTSD. Although developed by the VA and intended for use 
+by veterans and current military members, the self-guided mindfulness course and teachings of mindfulness embedded in this app are appropriate for use by anyone who could benefit from practicing mindfulness. This application was free for download and therefore did not result in budgetary restraints for me in this study. At the beginning of the four week period, I asked treatment group participants to complete the nineteen-question mindfulness quiz embedded in the application. Based on results from this quiz, the application prescribed specific mindfulness meditation practices. The application assigned users the mindfulness practice through levels, and each level had certain mindfulness practice exercises to complete before moving to the next level.
+Along with the assigned levels of guided meditation, participants also had the option of choosing Practice Now in the application. This option allowed users to select  
+various mindfulness sessions they wanted to practice immediately, and it allowed them to create a favorites list. Another option from the home screen that was  included in the application was Track Progress. This allowed users the opportunity to create a goal for themselves, set and determine the frequency of the reminders, as well as provide access to practice logs that will track how long they have spent on a session during the entirety of their app use. I asked each participant turn on a mindfulness mastery reminder weekly.
+A website was created for treatment group participants with directions on how to use Mindfulness Coach smartphone application (discussed later in this section), and 
+I offered additional assistance opportunities via email as well. Weekly reminders about use of the Mindfulness Coach app were sent to treatment group participants via Google Mail.
+#1428 The main component of the Anchored app is a 30-day intervention (the “challenge”) in which users complete one task daily (5–10 min per day). The challenge 
+features evidence-based therapeutic techniques delivered using a variety of formats including psychoeducational videos, mindfulness audio exercises, value-driven activity planning and goal-setting, and the development of coping skills. In addition to the HeadGear therapeutic content (centered around behavioral activation, mindfulness, and coping skills), Anchored incorporates cognitive therapeutic elements chosen for their effectiveness in universal workplace interventions, along with grounding exercises and relaxation techniques designed to target stress. These additional elements were included to provide a broad range of evidence-based strategies beyond the more behaviorally focused elements preferred by workers in MDIs. Users can also complete an optional risk calculator that assesses the risk for future common mental disorders and provides participants with personalized feedback regarding this risk. Other components of the Anchored app include a tracker for monitoring mood, physical activity, and sleep, a “toolbox” of skills (which is gradually filled in as the intervention is completed), and support service helplines. The 30-day challenge and additional core features of Anchored were based on the structure of the HeadGear app, with further changes intended to improve usability and engagement, such as modified layout and addition of the physical activity and sleep tracker, based on the expressed preferences of HeadGear users. Participants were encouraged to access Anchored daily for a period of 30 days.
+#490 The game or the mindfulness app was installed on the participants’ personal smartphones. Participants in the mindfulness app condition were instructed to follow the 
+free 5-day beginners’ program provided by Headspace. The participants received guidance on installing the apps, and how and when to use them on each day of the experiment.
+#1346 Interested individuals were directed to their respective app store via online advertisements or the study website. Upon downloading the app, participants provided 
+informed consent and were screened. Participants in the intervention arm used HeadGear, a smartphone application-based intervention centered on behavioral activation (BA) and mindfulness. The main component of the app is a 30-day intervention involving one 5–10 min ‘challenge’ per day. These ‘challenges’ feature evidence-based therapeutic techniques delivered using a variety of formats. At the commencement of the intervention, users complete a risk calculator that assesses risk for future common mental disorders and provides personalized feedback regarding this risk (Fernandez et al., 2017). The HeadGear app also includes a mood tracker, a toolbox of skills (which is filled as the intervention is completed) and support service helplines.
+#460 The training program (“Mindfulness and compassion with self and others”) was developed by Schenström (2017). In total, the 6 weeks program encompasses 10 h of 
+training; about 15 min of training per day, 6 days a week. The program involves an initial instruction video that provides an outline of the program and informs of the procedure involved in using the program. The program is organized in six steps involving different types of exercises with guided instructions (auditory files). The stepwise organization of exercises means that a new exercise is available only once the prior exercise in the predetermined sequence of exercises has been completed. The steps in the program are labeled: (1) Kind attention, (2) Kind awareness, (3) Loving kindness with oneself and others, (4) Self-compassion—part 1, (5) Self-compassion—part 2, (6) Compassion with others and Quiet Practice. The program involves standardmindfulness exercises such as breathing anchor and body scans, and compassion-focused exercises such as loving-kindness, and exercises of compassion with self and others. An overview of the individual exercises included as part of each of the six steps of the program is provided in Table 1 (e.g.: body scan, breathing anchor, meditation for thoughts and feelings, pause for self-compassion, etc.). Following completion of each of the exercises, instruction of an everyday exercise to be performed during the day is given (different exercises for the six steps). Participants can repeat exercises, and are presented with a graphical overview of completed steps and an overview of the forthcoming exercises within each step. The participants are also provided an online diary where their own reflections concerning the performed exercises may be registered.
+#3073 Each week, intervention participants received a link via e-mail to a different podcast (mp3 audio file) containing a 20-min self-compassion meditation with the 
+instructions: “Please try to listen to this meditation once per day for the next week.” The three guided self-compassion meditations are taught in the Mindful Self- Compassion program (Neff & Germer, 2013) and are freely available at selfcompassion.org. Each meditation is designed to increase the three facets of selfcompassion to varying degrees. For example, the first week’s meditation, a compassionate body scan, is designed primarily to facilitate mindfulness by asking the listener to get in touch with and “just notice” bodily sensations, and is very similar to the first in a series of guided meditations implemented in the widely accepted and researchedMindfulness-Based Stress Reduction program by Jon Kabat-Zinn (1982). The body scan implemented here directly incorporates self-compassionate content by asking listeners to place a hand on the heart as a reminder to be kind to themselves, designed to increase the self-kindness component of self-compassion. The second week’s meditation is grounded in the breath, again incorporating mindfulness, but also self-kindness and common humanity as listeners are asked to breathe in affection and kindness to themselves while breathing out affection and kindness toward others who are suffering. The third week’s meditation is a variant of a “loving-kindness” meditation, an ancient Buddhist practice designed to increase goodwill toward the self and others (Grossman, Niemann, Schmidt, & Walach, 2004), and focusing specifically on emphasizing compassion for feelings of perceived inadequacy or stress (Neff & Germer, 2013). Mindfulness is cultivated in this meditation by asking the listener to locate the sensations of these feelings in the body while soothing and comforting the self  (self-kindness), and being asked to recognize that all people fail, make mistakes, and have serious life challenges (common humanity; Neff & Germer, 2013).504 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#1037 Clinicovery is the app that was used to deliver either the contents of the PsyCovidApp intervention or the control contents. The PsyCovidApp intervention was 
+developed by a group of psychologists (MJSR, EG, CS, RJ, MEGB), psychiatrists (JGC, MGT), and experts in healthy lifestyle promotion (AMYJ, MBV), 
+informed by findings from an exploratory qualitative study involving in-depth interviews with 9 health care workers seeking psychological support as a result of their professional activity during the COVID-19 pandemic (unpublished results). PsyCovidApp was specifically designed to prevent and mitigate the most frequent mental problems suffered by health care workers who are dealing with the COVID-19 emergency (depression, anxiety, posttraumatic stress, and burnout). A detailed description of the intervention is available elsewhere. In short, the self-managed psychoeducational intervention, based on cognitive-behavioral.
+therapy and mindfulness approaches, included written and audiovisual content targeting four areas: emotional skills, healthy lifestyle behavior, work stress and 
+burnout, and social support. Additionally, the intervention included daily prompts (notifications) that included brief questionnaires to monitor mental health status, followed by short messages offering tailored information and resources based on the participants´responses.
+The contents are grouped into five main sections (see Box 1): emotional skills, lifestyle behavior, work stress and burnout, social support, and practical tools. Each 
+section contains multiple modules, covering the following areas: (i) monitoring mental health status; (ii) educational materials about psychological symptoms (e.g. anxiety, worry, irritability, mood, stress, moral distress, etc.); (iii) practical tips to manage pandemic-related stressors (e.g. mindfulness, relaxation and breathing techniques, coping strategies, survival skills to emotional crises); (iv) healthy lifestyles and practical tips to promote them; (v) organizational and individual strategies to promote resilience and reduce stress at work and the burnout syndrome, and; (v) promotion of social support.
+#3578 For this intervention, the nursing staff from this department attended a 20-min WebEx meeting where the concepts of CF and BO, the repercussions on patient care  
+including an increase in medication-related errors and the impact that mindfulness has on the reduction of CF, BO, and documented medication errors were discussed. Headspace (2019) was the intervention employed to teach and reinforce mindfulness.
+#2871 Based on the supportive-education nursing system described in self-care theory (Orem, 2001), project participants attended a two-hour educational session on 
+Compassion Fatigue and Mindfulness led by the principal investigator (PI).
+The PI assisted all participants in installing the two well-known mindfulness-based applications on their smart devices. Participants were asked to use these 
+applications to perform guided mindfulness meditations for a minimum of 5 days a week for the subsequent 6-week period. The first application, Headspace, was utilized for the first two weeks to help participants develop their mindfulness meditation practice. At the start of this project, Headspace was ranked as the top mindfulness application based on a mobile application rating system (Mani, Kavanagh, Hides, & Stoyanov, 2015). The first 10 meditations on
+Headspace spanning a 2-week period focused on developing proper mindfulness meditation technique. These 10 developmental meditations were free; any additional 
+meditations on Headspace required a subscription fee. To minimize costs, a second application, Stop, Breathe & Think, was utilized for the last 4 weeks of guided mindfulness meditations. Stop, Breathe, and Think was ranked in the top 11 applications based on a mobile application rating system (Mani, Kavanagh, Hides, & Stoyanov, 2015) and was chosen due to cost. This application offered numerous free mediations, from which participants could select.
+Participants were instructed to perform guided meditations for approximately 10 min each day, 5 days a week, over the 6-week period.
+#3761 Building on the potential benefits of teaching mindfulness to ECPs, the current evaluation examined reactions and perceived benefits from ECPs who participated in 
+an online mindfulness-focused professional development module, Mindful Practice for ECE Professionals: Begin the Journey, developed by Julia Masterson Gest, and offered on demand from the Penn State Better Kid Care Program. The mindful practice module provides information about mindfulness, compassion, and mindfulness-based coping strategies to increase mental well-being (decrease reactivity and increase focused attention), with the ultimate goal of ECPs being more responsive and present in the ECE setting. The study drew on program evaluation data that was stripped of identifiers and shared in aggregate form. The methods used to conduct secondary data analyses were discussed and reviewed by the institutional review board at the University of Nebraska-Lincoln.
+Extending from Jennings and Greenberg’s (2009) prosocial classroom model, the module was designed to provide mindfulness and compassion as emotion  
+regulation coping strategies for teachers to learn to effectively manage their emotions and workplace stressors. The module taught that practicing mindfulness increases ECP mental well-being and occupational well-being (e.g., decreased work stress and burnout) as well as contributes to a healthy classroom climate (e.g., effective classroom management). The mindful practice module includes watching videos, reading content, participating in check your knowledge questions, and completing reflection activities. The content and videos were created by working with experts in the field, such as Dr. Mark Greenberg, an expert on mindfulness and schools (see Table 1). The mindful practice module consisted of four primary objectives for respondents: (a) learn the definition of mindfulness and mindful practices, (b) plan ways to incorporate mindful practice into daily activities, (c) recognize how mindful practices relate to more effective teaching in the learning setting, and (d) understand how the use of mindful practice supports stress management.
+#812 The intervention used in this study was an 8-week Mindfulness-Based Stress Reduction program delivered online. Participants were provided with a printed manual 
+detailing the instructions for participation in the program. This included access to the website. The program consisted of weekly reading and videos as well as 30 min sessions of formal mindfulness meditation six days per week. Full details of the program can be accessed at https://palousemindfulness.com.
+Week 1: Simple Awareness, Introduction to the Body Scan, Body Scan MeditationWeek 2: Attention and The Brain, Introduction to Sitting Meditation, Body Scan Meditation, Sitting MeditationWeek 3: Dealing with Thoughts, Introduction to Yoga, Sitting Meditation, Mindful Yoga, Body Scan (one day this week)Week 4: Stress: Responding vs. Reacting, STOP: One-minute breathing, Space and Yoga, Mindful Yoga,Sitting MeditationWeek 5: Dealing with Difficult Emotions/Sensations, Introduction to RAIN (Recognise/Accept/Investigate/Nourish), Sitting Meditation alternating with choice of 
+other practices
+RAIN MeditationWeek 6: Mindfulness and Communication, Introduction to Mountain and Lake Meditation, Choice of meditation practice, Mountain Meditation or Lake MeditationWeek 7: Mindfulness and Compassion, Introduction to Lovingkindness, Meditation, Choice of meditation practice, Lovingkindness MeditationWeek 8: Conclusion, Developing a Practice of Your Own
+#3943 CYBERMEDITATION INTERVENTION: 6 week program;
+Five short, seated meditations based on system of yoga and meditation (SYM); The five SYM meditations were: Calming, Place in Nature, Nourishing, Releasing, 
+and Spaciousness.
+Twice-weekly emails from a Yoga Therapist.
+#3753 The participants completed an eight-week self-guided online mindfulness-based stress reduction (MBSR) course that was flee of charge and took about thirty minutes 
+to one hour each week alongside thirty minutes of suggested daily practice (Palouse Mindfulness, 2017). The online course was created by a certified  mindfulness-based stress reduction (MBSR) instructor, Dave Potter, who is a retired psychotherapist that received his training at the University of Massachusetts Medical School, where MBSR was founded by Jon Kabat-Zinn (Palouse Mindfulness, 2017). Each week of MBSR consisted of videos, readings, daily practices with practice sheets to record progress, and supplemental readings (Palouse Mindfulness, 2017).505 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#1234 COVID-19 Anxiety and Stress Resilience Training (COAST).
+COAST comprises 4 intervention modules to increase resilience to stress due to the COVID-19 pandemic. These modules were made available on a website for free 
+and self-paced perusal by our participants. The self-paced option appeared relevant to adapt to the busy schedule of health care workers during the pandemic. All 4 
+modules are standalone modules, targeting (1) self-efficacy, (2) sleep quality, (3) mindfulness, and (4) gratitude and positive reframing. The choice of these module topics was.
+based on previous reports that identified them as useful targets to improve resilience to stress and adversity [25–28] and on the target population’s documented 
+preference for e-mental health interventions to be focused on well-being rather than on ill health. Each module contained explanations and mini-interventions that  users could engage with in their daily lives, based on previous results and protocols and adapted for web-based use. The self-efficacy module was based on the findings that activating autobiographic memories of perceived self-efficacy can help strengthen clinically relevant factors for tolerating distress and promote relevant cognitive processes and problem-solving that might help patients recover from stress. Users are asked to recall 3 memories of situations that they handled well and write down which hurdles they overcame and which traits, qualities, and strengths helped them overcome these hurdles. The sleep module consists of a worry diary and tips for better sleep hygiene, both proposed by Altena et al. and the European Academy for Cognitive-Behavioral Therapy for Insomnia. The module on mindfulness includes various audio files with guided meditations. Studies on populations of health care workers found mindfulness to be associated with reduced depressive symptoms,more adaptive defense mechanisms against stress, lower burnout and stress levels, and higher life satisfaction. These findings are supported by a meta-analysis that reported mindfulness-based interventions to be an effective tool to help medical personnel cope with stress. COAST’s gratitude
+module involves a gratitude diary, which users can fill in daily
+#763 Resilience @ work
+The RAW program is a mindfulness-based intervention, which also draws on ACT and has significant emphasis on self-compassion and acceptance skills. The 
+intervention involves completing 6 internet-based training sessions. Each session takes about 20–25 min to complete on a tablet or computer.
+It was anticipated that an engaging and interactive program would help address the issue of adherence; a challenge that employers frequently encounter when offering 
+resilience training and support to their workers. Rather than having to read through lengthy paragraphs on a website, the RAW program engages workers in the process of learning by utilizing a combination of interactive exercises, audio, and animation (see Fig. 2). Participants were able to download mindfulness tracks to  their own device for continued practice. Participants also had the opportunity to sign up for text-message reminders and/or reminder emails. A podcast  accompanied each RAW session with additional mindfulness tracks to encourage skills development. Podcasts were not a mandatory part of the training but were available via a website for those participants who chose to use them.
+Each session teaches a new strategy to cultivate psychological resilience and involves a combination of psycho-education and mindfulness training. The program also 
+interweaves simple quotes and messages from the eastern philosophies of Buddhism and Yogic teaching traditions from which mindfulness has its origins.
+1. Introduction to mindfulness, resilience and psychological well-being Mindfulness tracks: Drop Anchor, Take 10, Leaves on a Stream2. Mindfulness skills, Understanding your reactive mind versus wise mind, Recognizing unhelpful mind chatter and managing uncomfortable and unhelpful thoughts 
+(cognitive defusion); Recognizing your values exercise Mindfulness tracks: Mindful Breathing, Defusion Technique; Notice it, Name it, Let it Go(I’m having the thought that…) Defusion Technique 2: Thank you Mind
+3. Revision of cognitive defusion, Introduction to mindfulness with emotions, The reactive mind and avoidance, Understanding how values are linked to emotions; 
+Valued action check. Mindfulness tracks: Creating Space (mindfulness with emotions), Mindful Body Scan, The Golden Room
+4. The problem with avoidance, Recognizing avoidance strategies versus adaptive strategies. Mindfulness tracks: Creating Space, A Mindful Break (mindfulness with 
+words), Surfing Waves
+5. Self-care and support, The compassion myth, barriers to accessing compassion, compassion fatigue, self-compassion actions & resilience; Identifying mindful 
+support (compassionate, nonjudgmental and mindful); Valued action check. Mindfulness tracks: A Kind and Gentle Hand (loving-kindness practice)
+A Safe Place (compassion-focused mindfulness) A Bird’s Eye View6. Compassion-focused mindfulness; Gratitude practice, optimism and resilience, identify and celebrate the milestones; Creating a personalized action plan to  
+practice skills Mindfulness tracks: Breathing in the Present Moment A Golden Moment exercise. Being Kind to your old wounds
+#842 Firefighters assigned to the intervention group received the RAW Mindfulness Program. FRNSW granted firefighters who were enrolled in the study permission to  
+access the program at work. Tablets (iPads) were made available in the stations for firefighters to complete the online program. The RAW program is a  mindfulness-based intervention, which also draws on ACT and has a significant emphasis on self-compassion and acceptance skills. The intervention comprises 6 online training sessions. Each session takes about 20 to 25 min to complete. A combination of interactive exercises, audio, and animation is used to teach resilience skills. An overview of the core strategies and skills taught in the RAW program is outlined in Table 1) Participants were able to download mindfulness tracks to their own device for continued practice. Each session was provided in a sequential order, with completion of the first module
+unlocking access to the next and so on. There was a 3-day break in between each session to encourage skills practice. Therefore, the minimum amount of time a 
+participant could complete the training was 3.5 weeks and the maximum was 6 weeks. Participants also had the opportunity to sign up for text message and/or email reminders.
+1. Introduction to mindfulness, resilience and psychological well-being Mindfulness tracks: Drop Anchor, Take 10, Leaves on a Stream2. Mindfulness skills, Understanding your reactive mind versus wise mind, Recognizing unhelpful mind chatter and managing uncomfortable and unhelpful thoughts 
+(cognitive defusion); Recognizing your values exercise Mindfulness tracks: Mindful Breathing, Defusion Technique; Notice it, Name it, Let it Go(I’m having the thought that…) Defusion Technique 2: Thank you Mind
+3. Revision of cognitive defusion, Introduction to mindfulness with emotions, The reactive mind and avoidance, Understanding how values are linked to emotions; 
+Valued action check. Mindfulness tracks: Creating Space (mindfulness with emotions), Mindful Body Scan, The Golden Room
+4. The problem with avoidance, Recognizing avoidance strategies versus adaptive strategies. Mindfulness tracks: Creating Space, A Mindful Break (mindfulness with 
+words), Surfing Waves
+5. Self-care and support, The compassion myth, barriers to accessing compassion, compassion fatigue, self-compassion actions & resilience; Identifying mindful 
+support (compassionate, nonjudgmental and mindful); Valued action check. Mindfulness tracks: A Kind and Gentle Hand (loving-kindness practice)
+A Safe Place (compassion-focused mindfulness) A Bird’s Eye View6. Compassion-focused mindfulness; Gratitude practice, optimism and resilience, identify and celebrate the milestones; Creating a personalized action plan to  
+practice skills Mindfulness tracks: Breathing in the Present Moment A Golden Moment exercise. Being Kind to your old wounds
+#3662 Am I Hungry ?
+After successfully downloading the application, participants were prompted to watch the recorded Panopto educational video about health promotion through ME and 
+how to use the mobile application (Appendix E). Towards the end of the educational video, the participants were encouraged to open the app on their personal cell phone and were then talked through a sample of steps imbedded within the app to familiarize them with its multiple functions. To conclude the educational video, the participants were encouraged to engage playfully with the app on their own to become more familiar with its features, progressing through the mindfulness cycle by selecting options of their choice. The participants were instructed that they were being asked to use the mobile app every time they wanted to eat for a period of four weeks, whether at home, work, or elsewhere.506 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#517 The curriculum (http://mind-bodyhealth.osu.edu) was described to potential participants as a way to help health professionals become more personally resilient and to 
+be more effective in helping patients manage stress. The mindfulness training included three 1-h modules: (a) Introduction to Mindfulness, (b) Mindfulness in Daily 
+Life, and (c) Mindful Breathing and Walking. Participants were allowed to complete the modules in any order. For this project, we focused on participants who enrolled in any of the 3 mindfulness modules and completed the self-reflection exercises imbedded in them.
+Each module began with a case. Modules also included clinically relevant didactic information about mindfulness with hyperlinks to peer-reviewed research.  
+Summary tables described the physiologic, cognitive, and clinical effects of mindfulness practices. To assist in clinical application, modules offered tips for teach-ing mindfulness skills to patients and resources such as books, articles, and websites.
+Each module included links to free, downloadable MP3 recordings of guided mind–body practices to support experiential learning. Audio recordings were paired 
+with printed directions for the guided practices; there were also links to YouTube videos of mindfulness practices to support experiential learning for both auditory and visual learners. The length of the practice recordings varied from 5 to 20
+minutes. The initial case was followed by 1 to 3 self-reflection exercises, some of which were repeated at the end of the module. Self-reflection questions were 
+included to engage learners and help them reflect on qualities that might be affected by mind–body training. The self-reflection opportunities were standard instruments to assess mindfulness.
+#880 The Web-based mindfulness intervention was modeled after Mindfulness-Based Stress Reduction, which has been shown to be effective for a variety of physical and  
+mental conditions [10,11,33–35]. Clinicians and investigators trained in mindfulness developed the intervention to meet the specific needs of 9–1-1 telecommunicators. After consultation with stakeholders at the enrolled call centers, intervention developers adapted the intervention content from the  traditional in-person format to an abbreviated Webbased format to address logistical concerns. The intervention’s 7 Web-based lessons were hosted on the learning management system of the Northwest Center for Public Health Practice at the University of Washington (Figs. 1 and 2). Each lesson started with a short video that introduced that week’s theme and was followed by a short reading. The next section of the lessons consisted of 1 longer (10 to 14 min) daily practice with guided audio that introduced formalized meditation skills, such as body scan and loving-kindness, and 1 to 2 brief drop-in mindfulness practices focused on incorporating mindfulness activities into daily life. Some of these practices, such as body awareness at your desk and mindfully ending a call, were tailored specifically for the emergency response call center environment. Each lesson also included a weekly check-in survey and an optional moderated discussion board. The estimated time  to complete each lesson was between 20 and 30 min. After completion of a baseline survey, the participants randomized to the intervention (N
+ =
+ 161) w
+ere 
+contacted twice weekly throughout the intervention period. One email contained a link to the weekly training lesson, whereas the second email provided suggestions for incorporating mindfulness skills into daily life. Call center managers were highly encouraged to provide the study participants with a designated time during work to complete the intervention. Participants were asked to complete 1 lesson per week over a 7- week period and were encouraged to complete the lessons on a designated weekday as their work schedules allowed. However, lessons from previous weeks could be accessed throughout the intervention period. Participants were instructed to do the daily practice with guided audio for approximately 10 min for at least 6 out of 7 days a week and were encouraged to do the drop-in practices as often as they were able to.
+#2849 N.A.
+#2967 Participants were provided with a written guide including screen-shot pictures to explain the features of Insight Timer (Insight Network Inc., 2016) and the process of  
+downloading the application to a smartphone device. Participants were encouraged to begin their first mindfulness practice immediately and integrate it into their  daily lives for 30 days. Participants were invited to explore the app and use any of its features, including the library of 2,156 guided practices for activities including  sitting meditation, walking meditation, yoga, mindful eating, prayer, and chanting. Between these questionnaires, the participants utilized the smartphone application Insight Timer (Insight Network, Inc., 2016) on a daily basis.
+#3289 A mindfulness intervention based upon Dr. Dan Siegel’s Wheel of Awareness (Siegel, 2018) was introduced during a 20-min, asynchronous recorded session, 
+available via the internet for one week to participants. The Wheel of Awareness is a guided intervention, led by Dr. Siegel on the website MindSight. Mindsight is accessible via computer, phone, and tablet. Users of the intervention do not incur any charges. Participants are introduced to the ideas of conscious knowing versus known facts, experiences, and feelings. Nurses partaking in the project were asked to participate in the 5–7 min, self-guided practice, individually, on a daily basis throughout the four-week study. Participants were given access to view and practice the voice-guided practice in any setting, at any time of the day. Actual days of practice were reported by the participant at the end of the four weeks.
+#2286 Upon completing the pre-test survey, participants will be redirected to the meditation page, where the instructions of the mindfulness intervention and the five-minute 
+mindfulness meditation audio file are located. Participants will be asked to bookmark the meditation page for reference use throughout the participation duration. Participants will be asked to practice the five-minute mindfulness meditation once a day at any convenient location and time of the day, except during driving or operating machinery equipment, for seven consecutive days, beginning from the same day that participants completed the pre-test survey
+#1484 Intervention arm subjects were provided instructions on downloading a free phone-based meditation application (“Stress Free Now Meditations for Healers,” 
+Cleveland Clinic, Cleveland, OH) with twelve guided meditations, ranging in length from approximately 3.5 to 21 min, and instructed to use the application on a weekly basis for 90 days.
+#2026 N.A.
+#730 N.A.
+#871 The online intervention (Destress 9–1-1) comprised seven modules each completed on a weekly basis. Two emails were sent each week: one introducing the weekly 
+theme and one providing practice reminders. Completion times for each module ranged from 20 to 30 min and included a short video introducing the weekly theme, text describing themes and activities, an audio-guided meditation exercise, suggestions for daily mindfulness activities and a moderated discussion board. Audio-guided exercises were recorded by the second author. Exercises were largely meditation-based or designed to enhance mindfulness during daily activities (ie, mindful movement). The online intervention was developed by clinicians trained in mindfulness-based approaches. The training was informed by Mindfulness-Based Stress Reduction (MBSR), which is an evidence-based programme originally implemented in-person however, the adapted intervention in this study differs from formal MBSR in length, format (online) and expectations for outside practice (5–10 min daily vs 20–45 min daily in MBSR). Participants were asked at each weekly check-in the number of days that they practised mindfulness using the guided audio and whether the participant incorporated mindfulness into their daily life. In addition, the online training system tracked participants’ progress through each lesson, allowing the researchers to accurately assess the number of lessons completed by each participant.
+#1437 We selected those basic mindfulness exercises that were less demanding on the environment and space, and set the length of each exercise in 8–10 min, which would 
+be more convenient for medical staff to understand and use. Except for the introduction to MBSR in the first section, we wrote 12 sessions of mindfulness exercises followed one audio session every 2 h per day and modified repeatedly. On Jan 30th, the first session of MBSR was recorded through the Himalaya APP, a free audio  APP in China, and totally finished on Feb 3rd with all the 13 sessions of the MBSR exercise album. The MBSR album included mindfulness breathing, mindfulness body scan, meditation, emotional awareness, five senses training, mindfulness diet, walking mindfulness exercise and mindfulness body awareness, etc. At the same time, we incorporated the mindfulness blessing into each section and reflected it in the naming of each section.507 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#1361 In the intervention period, participants were first instructed to read materials that introduced the concept of self-compassion and the two intervention materials they 
+would receive. Body Scan was delivered on the second week while Self-compassionate Breathing was delivered on the third week. These two guided meditation 
+materials were adapted from the guided meditations posted on the website Self-compassion. org by Dr. Kristin Neff. The Body Scan was used to help individuals to be more mindful toward their physical and psychological status, which is also one of the components of self-compassion (Neff, 2003). The Self-compassionate Breathing was used to help individuals foster a compassionate attitude toward themselves. These two meditations are commonly used in self-compassion trainings.
+#1214 During the 8-week program period, the participants had access to weekly mindfulness practice and self-practice activities in the application. After each session, the  
+participants were asked to self-report the weekly variables. The mindfulness intervention program includes attending to body sensations, stretching, and relaxation  exercises in a guided audio clip. Participants were introduced to an 8-week mindfulness intervention program consisting of four modules. To manage the intervention program and data collection remotely, facilitators from their respective companies were assigned to 22 clusters of participants, with each cluster ranging from a team size of 4 to 16 individuals. They were guided and reminded to complete their modules and weekly surveys.
+Awakened 
+ Mind® was the software of choice as it conducts the intervention using scientific methods and educational oriented content for participants to learn more  
+about mindfulness while practising it. A quick outline of each module is as follows: Module 1 includes an introductory program to mindfulness meditation, breathing, and relaxation techniques. Module 2 introduces fundamentals of mindfulness and mindlessness (i.e., mind wandering) and concept of acceptance. Module 3 involves attentional awareness and body scanning exercises. Module 4 includes mindfulness and how the techniques of mindfulness could be adapted to overcome potential workplace challenges. The current study was conducted using Awakened 
+ Mind® as the modules include attentional qualities of mindfulness and 
+the practice of acceptance without evaluation or interpretation of events occurring in the external environment (Baer, 2003; Shapiro et al., 2006).
+#2492 We designed an intervention to train the use of mindfulness as a cognitive–emotional segmentation strategy.
+For our study, we selected from the MBCT and MBSR brief mindfulness exercises that can easily be integrated into daily life. Altogether, our intervention consisted 
+of three modules and spanned 3 weeks. Each module comprised two parts: In PART A, participants received basic information input combined with practical exercises of approximately 20 min for the weekend. PART B was a daily task of approximately 3–5 min for the following five working days. Participants received information and instructions online in a written, downloadable format. Audio files for the mindfulness exercises were available on the project homepage. For the daily task, we offered a reminder with up to three SMS per week on Monday, Wednesday, and/or Friday. Alternatively, we sent a reminder e-mail at the beginning of the week.
+Module 1: Reflecting segmentationModule 2: Mindfulness and being in the present momentModule 3: Mindfulness and coping with undesired thoughts and feelings
+#3747 We created an online intervention to train mindfulness and positive activities in the work context building on the positive-activity model (Lyubomirsky & Layous, 
+2013), broaden and-build theory (Fredrickson, 2001) and the two-component model of mindfulness (Bishop et al., 2004). The intervention consisted of three modules practised over three consecutive weeks.
+The mindfulness meditation exercises were based on mindfulness-based cognitive therapy (MBCT; Segal et al., 2002) and mindfulness-based stress reduction 
+(MBSR; Kabat-Zinn, 1982, 2007) exercises and were adapted from Michel et al. (2014). The exercises concerning positive activitieswere adapted from existing research in positive psychology (Layous, Nelson,&Lyubomirsky, 2013; Layous et al., 2012; Seligman et al., 2005).We used positive activities that had been empirically shown to be effective and that could easily be transferred to the working context.
+The experimental group were given access to the e-learning platform Moodle (Dougiamas, 2011) containing all of the material needed for the intervention. They were 
+encouraged to familiarize themselves with the e-learning platform and start the intervention in the following week.
+Module 1: Reflecting segmentationModule 2: Mindfulness and being in the present momentModule 3: Mindfulness and coping with undesired thoughts and feelings
+#1097 The current intervention consisted of an online 8-week mindfulness-based program developed by SIGMA Assessment Systems Inc, based on Dr. Jon Kabat-Zinn’s 
+mindfulness based stress reduction (MBSR) program (Kabat-Zinn, 1982,1990) and the mindfulness-based cognitive therapy (MBCT) program (Segal et al., 2002). The program presented mindfulness information and techniques in an online format. An outline of the content can be seen in Table 2) Content consisted of short videos (6–12 min long), brief guided meditation practices (3–20 min long with an average length of 10 min), and suggestions for how to integrate mindfulness into daily activities at work. Participants received a weekly email introducing that week’s theme and content, and were directed from that email to login to the program platform. Participants were asked to watch the weekly video and practice the guided meditations 6 out of 7 days a week (for a total of 144 – 480 min depending on the length of the meditation practice). A meditation tracker allowed participants to log the date, length of practice, and time of day (morning, afternoon, evening, or overnight) they completed a meditation and participants were encouraged to use the tracker. Participants could access the program on any internet connected compatible device (i.e., smartphone, computer, or tablet) and could access the program 24 h a day while at work or at home.
+Topics: Foundations of Mindfulness; The Mind–Body Connection; Motivation and Communication; Emotional Intelligence; Slow Brain, Fast Brain; Creativity and 
+Innovation; Judgment and Decision-Making; Moving Forward with Mindfulness.
+#1305 The meditation app (M-App) was developed in consultation with two meditation training experts, two app developers and two geriatric social workers based in 
+Mumbai and Pretoria respectively. The M-App had short videos, instructor voice-guided learning sessions, and self-practice component. Short videos were lecture demonstrations and instrumental music to facilitate stillness and centering as integral to the meditation repertoire. The leisure app (L-App) was developed in consultation with two app developers.
+and two geriatric social workers in Mumbai and Pretoria respectively. App usage frequency (once-twice a day, several times a day), content perused (videos/learning 
+sessions or both) and self-practice (M-App users only), were auto-recorded through an in-built feature in the app.
+Lesson: Prayer or sitting in simple silence (3 min), Instant Relaxation Technique (IRT) in supine position with isometric contraction of the muscles(4 min), Tree 
+posture (i.e. standing still) and centering in tree posture (3 min), Deep breathing and focusing on flow of breath and the rhythm. This is accompanied by  instructions to live in the present moment, appreciate the surroundings, think about the self, thoughts on meaningful others, appreciating meaningful relationships, build compassion for others especially the vulnerable (6 min), Deep relaxation technique (DRT) in supine position (4 min). Videos: Meditation with instrumental music, Meditation with nature, Silent meditation.
+#520 (a) Gratitude focused Meditation, (b) Positive- or Sacred-Word-focused Meditation, and (c) Loving-kindness/Compassion-focused Meditation
+Each module took approximately 1 h to complete.Modules contained descriptions of each meditation technique; discussions of available scientific evidence regarding risks and benefits of each approach; links to 
+guided practices to encourage experiential learning; suggestions for incorporating each technique into clinical practice; and pre- and post module self-reflection exercises. Self reflection exercises used validated instruments to measure gratitude, well-being, self-compassion, and confidence in providing compassionate care508 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#331 Participants were asked to listen to a 20-min mindfulness/stress-reduction audio program twice a
+week for 6 weeks and review a weekly lesson online. The weekly lessons outlined basic tenets of mindfulness, included imagery and stress self-awareness exercises, 
+and touched on basic mindfulness principles. In addition to weekly lessons, a blog in which study participants could contribute thoughts, feelings, and ideas was 
+available.
+Week 1 – an introduction to mindfulnessWeek 2 – a reminder to maintain a healthy and respectful relationship with foodWeek 3 – steps to take when feeling nervous or anxiousWeek 4 – the value of physical activity while mentally focusing inwardWeek 5 – the cathartic value of journalingWeek 6 – the value of ongoing mindfulness practice, the importance of understanding potential obstacles, and the benefit of developing a plan to move forward.
+#1002 The app-based MT program teaches individuals to understand how anxious worry is developed and perpetuated through reinforcement learning, how to recognize 
+these anxiety habit loops, and how to bring mindful awareness to moments of stress and worry, so they can uncouple feelings of anxiety from
+reactive worry thinking and mindfully work with habitual mind states that perpetuate and reinforce anxiety. This process helps individuals “unlearn” or extinguish 
+worry at a core mechanistic level. This experiential education is delivered via a smartphone-based platform, which includes a progression of more than 30 daily modules of brief didactic and experience-based MT (videos and animations, approximately 10 min/day, see Textbox 1), app-triggered check-ins, user-initiated guided meditations (5–15 min), and brief (30 s) on-demand mindfulness exercises to help disrupt anxiety cycles in vivo. The content for this intervention was developed based upon a combination of clinical experience for individuals with anxiety and previously developed in-person and app-based MT protocols for habit change that have yielded clinically meaningful outcomes such as cessation of smoking or overeating.
+Modules 1–7: goals; curiosity; reinforcement learning; body scan; self-monitoringModules 8–14: noting practice; RAIN; barriers to change; reinforce conceptsModules 15–21: noting practice (cont’d); RAIN (cont’d); thinking vs knowing; (un)resistanceModules 22–30: noting practice (cont’d); RAIN (cont’d); working with uncertainty and changeModules 30
+ +
+ : R
+einforcing concepts via “theme weeks”
+ +
+ individual cus
+tomization via “personal week”
+#3666 An asynchronous narrated educational PowerPoint presentation on project purpose, aims and a brief overview of the UCLA Mindful application was delivered 
+through email to the participants. Online orientation to the mobile application through PowerPoint included education on choosing a basic meditation of their choice through the application. Participants were instructed to use the application once before their shift for 5–10 min.
+Participants were given the choice of which mindfulness meditation they wanted to participate in each day on this mobile application, UCLA Mindful. Developed 
+by UCLA Health in partnership with UCLA’s MARC (The Mindful Awareness Research Center), UCLA Mindful is an application designed to allow the person to practice mindfulness meditation anywhere, anytime with the guidance of the UCLA MARC (UCLA, 2020). MARC is an educational and research created to bring a renowned mental health research institution the ancient art of mindful awareness in a scientifically supported and rigorous form (UCLA, 2020). The home screen displays a “getting started” button which gives an introduction to the guided mindfulness meditation through video as well as a “basic meditations” button that the user can choose from including “breathing beditation” and “breath, sound, body meditation” with associated times for each exercise. UCLA Mindful application was first developed in 2016 and has dedicated research to the use of mindfulness meditation. UCLA Mindful is available for free download on the iOS and Android platforms, enabling feasible implementation for this project. Immediately following the PowerPoint presentation, the participants completed the initial MBI-HSSMP pretest. After the participants downloaded the UCLA Mindful to their mobile devices, the providers used this app for 5–10 min before they went to work each day for seven days.
+#3125 The treatment included in-app guided breathing training modules modeled after mindfulness-based stress reduction (MBSR) programs and four wearable-based 
+treatment components: (a) wearing of the device itself, (b) tracking and visualization of past physiological states, (c) visual real-time biofeedback, and (d) realtime notifications on significant and sustained changes of the user’s respiratory patterns. These components are described below and summarized in Table 1)
+In-app mindfulness-based breathing sessions. The smartphone app included auditory guided breathing sessions called “Boosts” inspired by elements of “low-dose” 
+MBSR (Klatt et al., 2009). MBSR was chosen because of it employs respiration as a tool for training attention and self-regulation. The intervention sessions taught participants about features of the app, the link between cognitive– emotional states and respiratory patterns, and methods of using breathing practices to cultivate control of one’s autonomic nervous system to avoid maladaptive responses to stress. Each week, participants in the treatment group received an e-mail that prompted them to listen to one of five 6–9-min sessions (the last e-mail prompted them to complete the final two boosts; see Table 2). The total duration of these sessions was 37.5 min. These sessions also recommended using the Spire app to incorporate these techniques into daily life.
+The slow breathStreaks and box breathingNotifications and the calming breathGoals and the natural breathProgress and the mirror technique
+#4452 The smartphone application utilized for this scholarly project was Headspace TM. It was formally launched in 2010 and includes meditations, animations, articles, 
+and videos all with the mission to improving health and happiness. Scientific rigor is valued by the company and they are dedicated to furthering the field of mindfulness meditation through clinically validated research. They are focused on improving digital health solutions and are partnered with several large academic and research institutions with the goal of conducting large mindfulness trials.
+Participants began the self-guided intervention utilizing mindfulness via Headspace TM starting on November 18, 2020. Electronic instructions on the intervention 
+itself were sent for review, along with instructions on how to download a free subscription to HeadSpace TM. Participants were instructed on how to navigate the application and which section of the application to use. The intervention involved each individual clinician listening to a brief guided meditation approximately 5 to  10 min long. Clinicians were asked to complete a mindful meditation when they need a moment to relax, refocus or calm their thoughts. They were encouraged to  do this when it was most convenient for them – before work, after work, or during the workday. The goal was to not pull staff away from patient care, and to allow  the participants to listen at a time that was most convenient for them. This was not meant to feel mandatory but rather to be viewed as a tool to reduce their stress.  There was no requirement on the number of times they should log on, but they were instructed that literature shows the more one participates, the better mindfulness works. Within the application, there is a section called Basics, intended for beginners, that has 10 sessions ranging from 3 to 10 min. This section guided the participant through how to begin meditation, including time of day, body positions, and best locations for meditation. It gave the participant an option for either a male or female voice to guide them through a meditation. HeadSpace TM also has a search option that allowed the participants to tailor the meditation specifically to their needs. For this DNP project, the Basics section was used so that the participants all experienced the same meditations, ensuring greater rigor for the intervention. The goal was to listen daily, but participants were encouraged to do as much as they could, in order to determine the feasibility of this intervention. At the end of the 3-week period, participants were asked to reflect on their amount of participation.509 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Table  7  (continued)
+#ID Intervention description
+#3210 The Advanced Law Enforcement Resilience Training (A.L.E.R.T.) program is a psychoeducational program designed specifically to help police enhance and maintain 
+psychological resilience despite experiencing chronic stress. This program integrated a component of an empirically supported intervention (i.e., mindfulness) into 
+a one-time training and a mobile app to allow police to practice mindfulness skills over time. The primary goal of the A.L.E.R.T. program was to increase police psychological resilience and effectiveness at managing stress by delivering a comprehensive training to proactively target potential coping deficits. The learning objectives of this program were to: 1) increase knowledge of the relationship between stress and negative outcomes, 2) increase knowledge of mindfulness and its utility for managing stress, 3) increase the frequency with which police utilize mindfulness principles and practices (e.g., awareness and acceptance of thoughts and emotions), and 4) decrease burnout in police while perceived stress may not change.
+APP: The last 30 min of the A.L.E.R.T. in-person training was dedicated to downloading and educating participants on how to use and the specific features of the 
+A.L.E.R.T. mobile app. The app contained 4 categories of mindfulness practice exercises that complemented the inperson training. For example, within the ONE WAY skills were located within the Fundamental Skills category. The other categories included general practice exercises (i.e., Practice Exercises), and specific exercises to be practiced in distressing moments (i.e., In the Moment) and after a mentally and/or physically demanding day (i.e., After a Stressful Day). See Appendix A for A.L.E.R.T. In-Person and Mobile App Training Outline.
+#692 The Benevolent Midwifery Project is a webbased module built through wordpress.com that was used and evaluated as the intervention. Prior to the implementation 
+of the project, participants were provided with welcome packets containing lavenderfilled eye pillows for relaxation, a letter describing the intervention, password information for access to the website and modules, and the pre- and posttest.
+scales. The content included 16 modules in the form of interactive web pages. Photographic demonstration, audio files, videos, and written instructions were provided 
+for ease of participation. Risks, benefits, and contraindication for each module were discussed. The modules were engaged in daily for a minimum of 4 days a week over a 4-week period. The modalities of yoga, meditation, and MBSR techniques were used on an alternating basis throughout the 4 weeks. Each day’s module took approximately 5 to 30 min to complete, dependent on the module chosen by the participant (see Table 2). For logistical reasons, the props seen in the modules (bolsters, chairs, and blankets) were not provided to each participant. However, suggestions were made for using alternative to these props, each of which are easily found in the home, office, or call room setting.
+During Week 1, each modality was described in detail and introduced conceptually as well as experientially. These included introductions and beginning practices  
+to the modalities of meditation, yoga, and MSBR. An example of the yoga modality example from Week 1 may be seen in Fig. 1. Week 2 expanded on the basic  knowledge explored in Week 1, including yoga poses such as “legs up the wall” and “supported backbend,” a mindful eating exercise, and a meditation on awareness (see Fig. 2). Week 3 used longer and more in-depth MBSR and meditation practices that included loving kindness meditation and body scan, and introduced yoga sequences as opposed to single postures, with modifications (see Fig. 3). Week 4 further developed the yoga sequences of Week 3 and introduced more advanced concepts in meditation and MBSR with the addition of external cues such as music.
+#3229 The treatment condition included a five-minute video introducing mindfulness (The Power of Mindfulness; ww.palousemindfulness.com). The session ended with an  
+interactive online 60-s mindfulness stress-reduction exercise (Appendix J). This online 60-s group breathing exercise (www.connectedbreath.co) is a  meditation tool to decrease stress and anxiety and bring awareness to the moment. It featured a galaxy image with one large bright star. A series of prompts guided the participant through breathing, and they watched as the star got bigger and smaller according to the ebb and flow of breathing in and out. Distant stars in the galaxy represented the people in the world they were currently connected to and partaking in the group breathing exercise. As more people connected to the online exercise more stars appeared in the background.
+#3096 The content of the mindfulness practices is based on the content o f the Mindful Breathing and Body Scan exercises used in the traditional MBSR program given by  
+a trained teacher to live participants. The introduction to mindfulness explains the concept of mindfulness, and how it can reduce suffering and improve quality of  life. The mindful breathing practice helps the practitioner learn single-pointed concentration on the breath, to recognize when the mind has wandered from its attention on the practice, and bring it back. Through this practice of sustained attention, the practitioner experiences a strengthening ability to concentrate and maintain attention on a chosen object, as well a vivid exposure to the mind’s habits of distraction. The body scan practice helps the practitioner learn to place attention in the parts o f the body starting at the feet and slowly moving up to the head. Through this repeated succession of placing, lifting, and moving attention, the practitioner gains greater mastery in the use o f attention as it moves from one experience to the next. The author does not have permission to reproduce the scripts for these modules because o f copyright restrictions
+The mindfulness intervention group’s e-mail provided instructions on how to access the intervention materials online (three audio files: an introduction to 
+mindfulness training, a mindful breathing exercise, and a body scan exercise). The e-mail specified that participants listen to the audio introduction on the first day o f the study, and listen to and follow the mindful breathing practice that day and each day for the first week. They were then instructed to listen to and follow the body scan practice each day during the second week. In weeks 3–8 o f the intervention, they were asked to choose either exercise for their daily practice.
+#974 The interventions will combine two types of practice, with each week consisting of two audio-guided active sessions (Mondays and Thursdays; about 30 min each) 
+and home assignments, which will be accompanied by handouts and worksheets (Tuesdays, Wednesdays, Fridays, Saturdays; about 15 min each day). The first and  the last session will serve as an introductory and a closing session, respectively, and will be purely psychoeducational. The main focus of the first session will be on  introducing the intervention as well as on increasing the knowledge of core concepts of CBT or mindfulness (i.e., explaining the theoretical framework of the  intervention). The last session, on the other hand, will be prepared in such a way that it encourages the participants to continue using the techniques they have  learned and that it facilitates the transfer of the newly acquired knowledge into everyday life. In contrast, the central ten sessions will be built around the exercises  selected in the preliminary study, ordered in such a way that participants first start with simple and basic exercises and then gradually build upon them (in mindfulness by expanding on the initial experience with the body scan and bringing awareness to the present moment; in CBT by expanding on the initial realization that thoughts are not facts and the ABC model). During the audio-guided session, participants will be taught psychoeducational elements that are specifically relevant for the given exercise and will be guided through their first experience performing the exercise. They will then be encouraged to repeat the exercises on their own in the days that follow, using handouts and worksheets to guide and record their progress. The content of some of the exercises (in both interventions) will be adapted for the working context. During the intervention period, participants from both intervention groups will receive e-mail notifications every Monday and Thursday with information about the assignments and exercises. The initial e-mail will include instructions on how to access the online platform with CBT and MBSR exercises. The notification every Monday will remind participants to fill out the weekly questionnaire before they start with the new exercise. All exercises from previous weeks will be visible on the online platform. Upcoming exercises will not yet be available to ensure that participants will not skip the activities or perform them in random order. The online platform will automatically monitor whether the participants followed the instructions and performed the respective exercises. In case of non-compliance, reminders will be sent out the following day. After the intervention, participants from the waitlist control groups will receive access to the online platform and all intervention materials, which they can perform in any order. They will receive weekly emails reminding them to perform the exercises and encouraging them to practice them. After the intervention, each participant will have the opportunity to request individualized feedback on his or her results.
+#4457 The online RT for Healthcare Workers course consists of didactic materials delivered in pre-recorded videos by experienced doctoral level clinicians, testimonials 
+of healthcare workers about their experiences during the pandemic and their use of the skills taught in the course, and brief experiential exercises. Session 1 (19 min) focused on the concept of resilience and mindfulness skills (Potes et al., 2018); session 2 (16 min) focused on enhancing cognitive flexibility via cognitive behavioral (Beck et al., 1979) and mentalization (Daubney & Bateman, 2015) skills; and session 3 (12 min) focused on the development of self-compassion (Neff & Germer, 2013). All three sessions emphasized ways to implement these concepts and skills in everyday life, highlighting specific challenges faced by healthcare workers during the COVID-19 pandemic.510 Journal of Technology in Behavioral Science (2022) 7:477–515 1 3Acknowledgements  Emmanuelle P aquette Raynard, consultant 
+librarian at Université Laval, provided guidance regarding the search 
+strategy.
+Author Contribution
+ Cat
+herine Bégin had the idea for this review and 
+performed the literature search and data analysis. This manuscript was 
+written in full by Catherine Bégin. Jeanne Berthod and Lizette Zamora Martinez contributed to the literature search and screening. Manon Tru-chon revised this manuscript and provided guidance as she is Catherine Bégin’s research director.
+Funding
+ The aut
+hors declare that no funds, grants, or other support 
+were received during the preparation of this manuscript.
+Declarations  
+Ethics Approval  This is a liter ature review; therefore, no ethical 
+approval is required, nor consent or consent to publish.
+Conflict of Interest
+ The aut
+hors declare no conflict of interest.
+References

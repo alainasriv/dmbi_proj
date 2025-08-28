@@ -1,0 +1,1359 @@
+Results
+A total of 15 studies were eligible for inclusion in this scoping
+review. A PRISMA (Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses) flow diagram [49] is shown in
+Figure 1to illustrate the flow of information and the identif ied
+records at each phase of the scoping review.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 3 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Figur e 1. Flowchart
+number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Figur e 1. Flowchart highlighting the key stages of the screening process. MH: mental health.
+Characteristics of Included Studies
+Out of the 15 publications that met the inclusion criteria for this
+review [40,54-67], 10 (67%) studies were conducted in the
+United States [40,54,56,58-61,63,66,67], with publication dates
+ranging from 2016 to 2023. Overall, 13 (87%) of the 15 studies
+focused on specif ic MHAs
+dates
+ranging from 2016 to 2023. Overall, 13 (87%) of the 15 studies
+focused on specif ic MHAs [54-61,63-67], including 2 MHA
+prototypes [58,67]. Of the app-specif ic studies, 4 had a mixed
+methods design [55,58,60,63], 7 were quantitati ve[54,56,57,59,61,65,67] and 2 were qualitati ve studies [64,66].
+The last 2 studies did not focus on a specif ic MHA; instead,
+they assessed preference for web-based help versus FTF mental
+health help using surveys, both were quantitati ve [40,62].
+for web-based help versus FTF mental
+health help using surveys, both were quantitati ve [40,62]. Table
+1reports the characteristics of the reviewed studies, including
+study name, study design, sample size, mean age of participants,
+the racial and ethnic minority group, MHA name (if applicable),
+targeted mental health condition, duration of use, outcome
+measure, study location, and critical appraisal score.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 4 https://mental.jmir
+and critical appraisal score.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 4 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Table 1. Summary of included studies.
+Criti-
+cal ap-
+praisal
+scoreGeographic
+locationSample
+sizeMean age
+(years)Ethnic
+minori-
+ty groupOutcome mea-
+sureStudy de-
+signDura-
+tion of
+useTargeted mental
+health conditionMHAanameStudy
+(year)
+6 United
+StatesHispan-
+icQuantita-
+tive8 wk Dahne
+et
+mental
+health conditionMHAanameStudy
+(year)
+6 United
+StatesHispan-
+icQuantita-
+tive8 wk Dahne
+et al
+[54],
+(2019)• • • • • 42 36.05 Spanish
+language
+Beck De-
+pression
+Invento-Depres-
+sion¡Aptí vate!
+ry—II
+• Semistruc-
+tured inter-
+view
+6 Canada Aborigi-
+nal andMixed
+methods6 wk Tighe et
+al [55],
+(2020)• • • • • Inter-
+views
+(n=18)24.15 Semistruc-
+tured inter-
+view and
+RCTbdataDepres-
+sioniBobbly
+Torres
+Strait Is-
+lander• RCT
+(n=61)
+6 United
+StatesHispan-
+ic or
+LatinoQuantita-
+tive12 wk Pratap
+et
+Is-
+lander• RCT
+(n=61)
+6 United
+StatesHispan-
+ic or
+LatinoQuantita-
+tive12 wk Pratap
+et al
+[56],
+(2018)• • • • • His-
+panic
+(n=106)34.90PHQ-9d Depres-
+sioniPSTc
+• Sheehan
+Disability
+Scale • Non-
+His-
+panic
+(n=239)
+5 United
+StatesAsian
+Ameri-
+canQuantita-
+tive— ——e Lungu
+and Sun
+[40],
+(2016)• • • 572 18.7 18-item
+web-based
+survey
+• MHI-21f
+6 Australia Indige-
+nousQuantita-
+tive6 wk Tighe et
+al [57],
+(2017)• • • • • 61 26.25DSI-SSg Suicidal
+ideationiBobbly
+• PHQ-9
+Aus-
+tralians• depression• K10h
+•
+• • • • 61 26.25DSI-SSg Suicidal
+ideationiBobbly
+• PHQ-9
+Aus-
+tralians• depression• K10h
+• psychologi-
+cal distress• BIS-11i
+• impulsi vi-
+ty
+6 United
+StatesAfrican
+Ameri-
+canMixed
+methods— — McCall
+et al
+[58],
+(2021)• • • • 15 29QUISj Anxiety
+and depres-
+sion• Tobii (eye-
+tracking
+softw are)
+7 United
+StatesAmeri-
+can Indi-
+an andQuantita-
+tive8 wk Rushing
+et al
+[59],
+(2021)• • • • • 1030 15-24 None used Promote
+help-seek-
+ing behav-
+ior, mental
+health, andBRA VE
+Alaska
+Native
+cultural
+15-24 None used Promote
+help-seek-
+ing behav-
+ior, mental
+health, andBRA VE
+Alaska
+Native
+cultural re-
+silience
+United
+StatesAmeri-
+can Indi-
+an andMixed
+methods8 wk Stephens
+et al
+[60],
+(2020)• • • • • 1030 15-24 None used Promote
+help-seek-
+ing behav-
+ior, mental
+health, andBRA VE
+Alaska
+Native
+cultural re-
+silience
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 5 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX
+number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Criti-
+cal ap-
+praisal
+scoreGeographic
+locationSample
+sizeMean age
+(years)Ethnic
+minori-
+ty groupOutcome mea-
+sureStudy de-
+signDura-
+tion of
+useTargeted mental
+health conditionMHAanameStudy
+(year)
+7 United
+States• 1030 • 15-24 Ameri-
+can Indi-
+an and
+Alaska
+Native• Mobile
+Commons
+tracks mes-
+sage en-
+gagement
+• Question-
+naires and
+surveysQuantita-
+tive8 wk • Promote
+help-seek-
+ing behav-
+ior, mental
+health,
+Question-
+naires and
+surveysQuantita-
+tive8 wk • Promote
+help-seek-
+ing behav-
+ior, mental
+health, and
+cultural re-
+silience• BRA VE Wrobel
+et al
+[61],
+(2022)
+6 United
+Kingdom• 107 • 10-19 Ja-
+maican• Surveys Quantita-
+tive— — — Mal-
+oney et
+al [62],
+(2020)
+7 United
+States• 72 • 12-15 Black
+and bira-
+cial• Focus
+groupsMixed
+methods1 wk • Anxiety
+and nega-
+tive think-
+ing• BYOTSk Neal-
+Barnett
+et al
+[63],
+(2019)
+5 Australia — — Aborigi-
+nal or
+Torres
+Strait Is-
+lander• Focus
+groupsQualita-
+tive1
+al
+[63],
+(2019)
+5 Australia — — Aborigi-
+nal or
+Torres
+Strait Is-
+lander• Focus
+groupsQualita-
+tive1 wk • Depres-
+sion• iBobbly Povey
+et al
+[64],
+(2016)
+6 German y • 133 • Control:
+33.67
+• Interv en-
+tion: 32.98Syrian • PDS-5m
+• PHQ-9
+• GAD-7n
+• PHQ-15
+• GSEo
+• SSMIS-
+SFp
+• SSMIS-
+AWq
+• SSMIS-
+AGr
+• SSMIS-
+APs
+• SSMIS-
+HSt
+• RS-13u
+• LSNS-6v
+• ESSIw
+• EQ-5D-5L
+• EQ-V ASx
+• PGIyQuantita-
+tive4 wk • PTSDl • Sanadak Röhr et
+al [65],
+(2021)
+5 United
+States• 5 • 18 Hispan-
+ic and
+Black•
+wk • PTSDl • Sanadak Röhr et
+al [65],
+(2021)
+5 United
+States• 5 • 18 Hispan-
+ic and
+Black• Follow-up
+survey and
+Mobile
+App Rat-
+ing ScaleQualita-
+tive1 wk
+for
+each
+catego-
+ry• Mindshift
+• Sanvello
+• Woebot
+• Headspace
+• Insight
+Timer
+• Shine
+• Smiling
+Mind
+• Covid
+Coach
+• Daylio
+• Moodflo w
+• Talk LifeAgapie
+et al
+[66],
+(2022)
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 6 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL
+.org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Criti-
+cal ap-
+praisal
+scoreGeographic
+locationSample
+sizeMean age
+(years)Ethnic
+minori-
+ty groupOutcome mea-
+sureStudy de-
+signDura-
+tion of
+useTargeted mental
+health conditionMHAanameStudy
+(year)
+• CBTz
+(n=4)
+• Mindful-
+ness (n=4)
+• Miscella-
+neous apps
+(n=4),
+which did
+not pertain
+to 1 catego-
+ry, includ-
+ing a cop-
+ing app,
+journaling
+app,
+mood-
+tracking
+app, and
+peer sup-
+port app
+4
+catego-
+ry, includ-
+ing a cop-
+ing app,
+journaling
+app,
+mood-
+tracking
+app, and
+peer sup-
+port app
+4 United
+States• 39 • 31.1 African
+Ameri-
+can• FFMQaa
+• MSESab
+• ATMSac
+• MBUSad
+• Mindful-
+ness
+Knowl-
+edge Scale
+• PSSae
+• Difficul-
+ties in
+Emotion
+Regulation
+ScaleQuantita-
+tive2 wk • Mindful-
+ness• Mindful
+YouWatson-
+Single-
+ton
+[67],
+(2023)
+aMHA: mental health app.
+bRCT : randomized controlled trial.
+ciPST : internet-based problem-solving therap y.
+dPHQ: Patient Health Questionnaire.
+eNot
+trial.
+ciPST : internet-based problem-solving therap y.
+dPHQ: Patient Health Questionnaire.
+eNot available.
+fMHI-21: Mental Health Inventory .
+gDSI-SS: Depressi ve Symptom Inventory–Suicidality Subscale.
+hK10: The Kessler Psychological Distress Scale.
+iBIS-11: Barratt Impulsi vity Scale.
+jQUIS: Questionnaire for User Interf ace Satisf action.
+kBYOTS: Build Your Own Theme Song.
+lPTSD: posttraumatic stress disorder .
+mPDS: Posttraumatic Diagnostic Scale for DSM-5.
+nGAD-7: Generalized Anxiety
+stress disorder .
+mPDS: Posttraumatic Diagnostic Scale for DSM-5.
+nGAD-7: Generalized Anxiety Disorder , 7 items.
+oGSE: General Self-ef ficacy.
+pSSMIS-SF: Self-Stigma of Mental Illness Scale–Short Form.
+qSSMIS-A W: Self-Stigma of Mental Illness Scale– Stereotype Awareness.
+rSSMIS-A G: Self-Stigma of Mental Illness Scale–Stereotype Agreement.
+sSSMIS-AP: Self-Stigma of Mental Illness Scale–Stereotype Application.
+tSSMIS-HS: Self-Stigma of Mental Illness Scale–Harm to Self-esteem.
+JMIR Ment Health
+Application.
+tSSMIS-HS: Self-Stigma of Mental Illness Scale–Harm to Self-esteem.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 7 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX uRS-13: Resilience Scale.
+vLSNS-6: Lubben Social Netw ork Scale (social isolation).
+wESSI: ENRICHD Social Support Inventory .
+xVAS: Visual Analog Scale.
+yPGI: Posttraumatic Growth Inventory .
+zCBT : cogniti ve behavioral therap y.
+aaFFMQ: Five
+Scale.
+yPGI: Posttraumatic Growth Inventory .
+zCBT : cogniti ve behavioral therap y.
+aaFFMQ: Five Facet Mindfulness Questionnaire.
+abMSES: Mindfulness Self-Ef ficacy Scale.
+acATMS: Attitudes Toward Mindfulness Scale.
+adMBUS: Mindfulness Beha vior Usage Scale.
+aePSS: Percei ved Stress Scale.
+Purposes of Using MHAs in Racial and Ethnic
+Minority Groups
+The most common purpose for using MHAs was depression
+(¡Aptí vate!, iPST [internet-based problem-solving therap y],
+iBobbly , and a prototype app by
+vate!, iPST [internet-based problem-solving therap y],
+iBobbly , and a prototype app by McCall et al [58]) [54,56-58].
+The iBobbly MHA also addressed impulsi vity; however, this
+was not the main purpose of use.
+Two studies focused on overall psychological well-being
+[59,66]. The BRA VE app was used to promote overall mental
+well-being by including help-seeking behaviors, general mental
+health, and cultural resilience as outcome measures. Agapie et
+al [66] included a mix of MHAs, with the aim of
+cultural resilience as outcome measures. Agapie et
+al [66] included a mix of MHAs, with the aim of measuring
+their effect on psychological well-being using qualitati ve
+methods.
+The other apps in this review had various purposes. The Build
+Your Own Theme Song (BYOTS) app was aimed at reducing
+anxiety and negative thoughts. The Sanadak app [65] aimed to
+reduce posttraumatic stress disorder (PTSD) symptoms, whereas
+Mindful You [67] aimed to reduce stress.Inter vention Characteristics
+A total of 20
+whereas
+Mindful You [67] aimed to reduce stress.Inter vention Characteristics
+A total of 20 apps were investig ated in this review; 8 MHAs
+(including 2 prototypes) were included in 14 of the 15 studies
+[54,56-59,63-67], whereas 1 study [66] included 12 self-help
+MHAs that were qualitati vely investig ated.
+Of the 20 apps, 8 (40%) were based on cogniti ve behavioral
+therap y (CBT) [65,66] or variations of the CBT approach, such
+as problem-solving therap y [56], acceptance-based therap y [57],
+and
+of the CBT approach, such
+as problem-solving therap y [56], acceptance-based therap y [57],
+and behavioral activation therap y [54]. Five (25%) apps were
+based on mindfulness [66,67], and the 7 (35%) apps could be
+described as miscellaneous: the prototype by McCall et al [58],
+which included the elements of CBT and psychotherap y [58];
+the BYOTS app, which is based on musical cogniti ve
+restructuring [63]; and the BRA VE app, which is based on
+offering information and role model videos aimed at
+[63]; and the BRA VE app, which is based on
+offering information and role model videos aimed at providing
+coping skills [59]. The remaining 4 miscellaneous apps were
+described as “wellness hacks” by Agapie et al [66]: Covid
+Coach, Daylio, Moodflo w, and Talk Life. The full list of MHAs
+categorized by therapeutic approach is shown in Textbox 1.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 8 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL
+.org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX Textbox 1. Therapeutic approach of the 20 mental health apps included in this review.
+Cogniti ve beha vioral therapy–based apps
+• Sanadak [65]
+• Internet-based problem-solving therap y [56]
+• ¡Aptí vate! [54]
+• iBobbly [57]
+• Mindshift [66]
+• Sanvello [66]
+• Woebot [66]
+• Wysa [66]
+Mindfulness-based apps
+• Headspace [66]
+• Insight Timer [66]
+• Shine [66]
+• Smiling Mind [66]
+• Mindful You
+apps
+• Headspace [66]
+• Insight Timer [66]
+• Shine [66]
+• Smiling Mind [66]
+• Mindful You [67]
+Miscellaneous apps
+• Prototype by McCall et al [58]
+• Build Your Own Theme Song [63]
+• BRA VE [59]
+• Covid Coach [66]
+• Daylio [66]
+• Moodflo w [66]
+• Talk Life [66]
+Consideration of Racial and Ethnic Minority Groups
+While Developing MHAs
+Of all the MHAs mentioned, 7 apps targeted racial and ethnic
+minority groups specif ically: ¡Aptí vate!, iBobbly , BRA VE,
+BYOTS, the prototype app by McCall et al
+groups specif ically: ¡Aptí vate!, iBobbly , BRA VE,
+BYOTS, the prototype app by McCall et al [58], Sanadak, and
+Mindful You. The inclusion of racial and ethnic minority groups
+was ensured by codeveloping the app with the target population,
+by using workshops [56], intervie ws [55,59], usability trials
+[58], or working with culturally informed organizations [63].
+¡Aptí vate! [54] was developed in Spanish language to be
+acceptable to the Hispanic population. Both Sanadak and
+Mindful You were
+in Spanish language to be
+acceptable to the Hispanic population. Both Sanadak and
+Mindful You were developed with the specif ic needs of racial
+and ethnic minority groups in mind and tailored to the type of
+material used in the apps.
+Examining the Acceptability of MHAs Among Racial
+and Ethnic Minority Groups
+To measure the acceptability of MHAs among racial and ethnic
+minority groups, 8 studies referred to app use and interacti ve
+data [54,56,57,59-61,65,67] in 6 MHAs. Studies reported
+studies referred to app use and interacti ve
+data [54,56,57,59-61,65,67] in 6 MHAs. Studies reported good
+adherence to the specif ied MHAs throughout the set duration
+period in Hispanic, Aboriginal, Torres Strait Islander , and
+American Indian and Alaska Native individuals. Adherencedata ranged from 81.8% to 91.2% of participants using and
+interacting with the app.
+For the ¡Aptí vate! app, participants were asked to use the app
+within the 8 weeks provided. The retention rate was 100% in
+the
+were asked to use the app
+within the 8 weeks provided. The retention rate was 100% in
+the first week but decreased to 50% by the eighth week. This
+study suggests that the 50% drop in retention can be explained
+by the local versus remote recruitment of Latina participants.
+Those who attended baseline visits in person were more likely
+to use the app more frequently than those who did remotely .
+Dahne et al [54] also reported that 50% of Hispanic participants
+who continued using ¡Aptí vate! 2
+.
+Dahne et al [54] also reported that 50% of Hispanic participants
+who continued using ¡Aptí vate! 2 months after enrollment
+showed a high level of acceptability . Pratap et al [56] also
+recruited Hispanic and Latina participants and conducted a
+randomized controlled trial for 3 months to evaluate the iPST
+app. Engagement and retention rates were assessed based on
+the number of completed surveys. The study reported 34.4%
+dropouts in the Hispanic and Latino population. Of those who
+dropped out,
+The study reported 34.4%
+dropouts in the Hispanic and Latino population. Of those who
+dropped out, more than half reported making ≤US $20,000
+annually . Of those who used the app, Hispanic and Latina
+participants showed a 50% decrease in engagement from week
+1 to week 4. It is important to note that this is based on the
+completion of the assessment and, therefore, is not an accurate
+representation of app use.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 9 https://mental.jmir
+of app use.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 9 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX The BRA VE app was also used in an 8-week trial [60], with an
+overall retention rate of 87%. Among the participants in the
+BRA VE arm, 41 American Indian and Alaska Native
+participants opted out during the interv ention and 25 opted out
+at crosso ver. This suggests a dropout rate of only 13% [59].
+The iBobbly app
+and 25 opted out
+at crosso ver. This suggests a dropout rate of only 13% [59].
+The iBobbly app was used by Aboriginal and Torres Strait
+Islander participants in a 6-week trial. The app had the lowest
+dropout rate (3%) of all other MHAs in this review. The study
+argues that this was due to technical issues and speculated that
+some participants might have felt self-conscious about sharing
+their use data [57].
+Sanadak was designed for Syrian participants, and they were
+asked to use the app
+use data [57].
+Sanadak was designed for Syrian participants, and they were
+asked to use the app regularly for 4 weeks. The retention rate
+was 87.2%, with a dropout rate of 12.8%, where most
+participants refused to continue. Upon further analysis, Röhr et
+al [65] claimed that there was no signif icant difference between
+participants who completed the study and those who did not.
+Finally , Watson-Singleton et al [67] explored the Mindful You
+app. African American participants were asked to use the
+et al [67] explored the Mindful You
+app. African American participants were asked to use the app
+for 2 weeks. The study reported a dropout rate of 45%, which
+the study found difficult to explain because the app was designed
+specif ically for African Americans. Participants who continued
+using the app felt positi ve about Mindful You, giving the app
+4.38 stars out of 5.
+Overall, dropout rates were signif icantly higher among Hispanic
+and Latino participants than among non-Hispanic
+rates were signif icantly higher among Hispanic
+and Latino participants than among non-Hispanic participants,
+with the latter staying on average 18.5 days longer .
+Qualitati ve studies measured the acceptability of MHAs using
+intervie ws [55], workshops and focus groups [63], surveys
+[40,62], and questionnaires [58].
+Participants were intervie wed about the iBobbly app in terms
+of acceptability , cultural appropriateness, and whether the app
+provided help with their feelings and created
+, cultural appropriateness, and whether the app
+provided help with their feelings and created distractions. The
+Aboriginal and Torres Strait Islander participants reported that
+iBobbly was acceptable, especially in terms of accessibility .
+Moreo ver, the participants felt a sense of privacy that was valued
+more than talking with a therapist or a family member .
+Participants also spok e of the “shame” attached to young
+Aboriginal people when asking for help, and so the iBobbly
+app was seen as
+“shame” attached to young
+Aboriginal people when asking for help, and so the iBobbly
+app was seen as culturally appropriate. Povey et al [64] also
+explored the iBobbly app and compared it with a therapist-led
+app. Aboriginal and Torres Strait Islander participants showed
+enthusiasm when they helped design the AIMhi- Y app [43].
+Barnett et al [63] conducted focus groups regarding the BYOTS
+app designed for Black and biracial girls, and they were
+prompted to use the app 3 times a day for 1 week.
+for Black and biracial girls, and they were
+prompted to use the app 3 times a day for 1 week. This study
+did not mention dropout rates. However, using focus groups,
+the study showed that Black and biracial girls found the BYOTS
+app acceptable and useful in daily situations.
+Agapie et al [66] explored a variety of apps with Hispanic and
+Latina participants. They were asked to use 1 app from each
+category weekly for a 5-week period and then complete a focus
+group at the end of each week. Every
+weekly for a 5-week period and then complete a focus
+group at the end of each week. Every week participants would
+use a different app and then the last week they chose their
+favorite. There were no official use data; participants were asked
+to report how often they used the app, and they were most likelyto report “a few days a week. ” It seems that mindfulness apps
+were more acceptable, with 60% of participants reporting
+continued use. During the focus groups, participants noted that
+the apps
+of participants reporting
+continued use. During the focus groups, participants noted that
+the apps were easy to use and accessible. However, the
+participants generally preferred to use the apps with more free
+content. Some participants reported concern about whether the
+app was validated by professionals and expressed the need to
+feel safe.
+Both Lungu and Sun [40] and Malone y et al [62] used a
+questionnaire to assess the acceptability of MHAs in general.
+Of the 75.3% Asian American young adults
+to assess the acceptability of MHAs in general.
+Of the 75.3% Asian American young adults who endorsed
+seeking mental health help on the web, only 22% were interested
+in MHAs [40]. Asian American participants were more likely
+to be in the “No therap y” and “Online only” groups compared
+with White participants. Similarly , 56% of the Jamaican
+participants were interested in using MHAs. However, shame,
+stigma, and embarrassment were reported to be the major
+barriers to seeking help. However, using
+and embarrassment were reported to be the major
+barriers to seeking help. However, using a questionnaire, McCall
+et al [58] found that African American women reported that the
+prototype app was easy to use and provided culturally helpful
+information for anxiety and depression.
+Overall, the apps were acceptable both quantitati vely through
+use data and qualitati vely, as participants described their
+engagement with and enthusiasm for the apps. However, dropout
+rates among some racial and ethnic
+with and enthusiasm for the apps. However, dropout
+rates among some racial and ethnic minority groups remain
+high, and there is some discrepanc y in the measurement of
+acceptability .
+Examining the Effecti veness of MHAs With Racial
+and Ethnic Minority Groups
+Outcome Measures and Study Design
+Nine of the 15 studies included in this review were quantitati ve
+[40,54,56,57,59,61,62,65,67], 4 used mixed methods
+[55,58,60,63], and 2 were qualitati ve [64,66].
+In terms of quantitati ve studies, 3
+mixed methods
+[55,58,60,63], and 2 were qualitati ve [64,66].
+In terms of quantitati ve studies, 3 studies [54,56,57] assessed
+depression levels in Hispanic and Indigenous Australian
+individuals. Two studies assessed mental health resilience in
+American Indian and Alaska Native populations [59,61]. One
+study assessed the levels of PTSD in Syrian refugees [65], and
+the other focused on mindfulness in Black African Americans
+[67]. The last 2 measured the recepti veness of web-based mental
+health
+in Black African Americans
+[67]. The last 2 measured the recepti veness of web-based mental
+health support and MHAs with Jamaican [62] and Asian
+American [40] participants.
+Four studies adopted mixed methods designs [55,58,60,63] and
+assessed Aboriginal and Torres Strait Islander , Black and
+biracial, and Indigenous Australian population. Three of these
+studies explored named MHAs: BRA VE [60], iBobbly [55],
+and BYOTS [63]. The remaining was an unnamed app, and the
+study explored its usability
+iBobbly [55],
+and BYOTS [63]. The remaining was an unnamed app, and the
+study explored its usability [58]. All studies, except for the one
+by Stephens et al [60], used surveys [55,58,62,63] and focus
+groups [63] or intervie ws [55,56] or cogniti ve walkthrough and
+think-aloud methods [58]. Stephens et al [60] did not use any
+measures, as they reported lessons learned from recruiting and
+engaging participants from the previous BRA VE study [59].
+Outcome measures that were used by Tighe et al [55]
+from the previous BRA VE study [59].
+Outcome measures that were used by Tighe et al [55] and Povey
+et al [64] were appropriately translated to and validated in other
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 10 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX languages to suit the ethnicity of the sample. Surveys,
+workshops, and intervie ws were developed and appro ved by
+mental health professionals of the target
+and intervie ws were developed and appro ved by
+mental health professionals of the target ethnicity .
+Finally , the 2 qualitati ve studies focused on measuring the
+acceptability of the respecti ve MHAs and discussing barriers
+to continued use [64,66]. All the outcome measures are
+presented in Table 1.
+Effectiveness
+Studies that explored a specif ic app assessed its effectiveness
+by using either weekly assessments [54,56,65] or pre- and
+postinterv ention changes in outcome measure
+using either weekly assessments [54,56,65] or pre- and
+postinterv ention changes in outcome measure scores
+[57,59,61,63,67]. Outcome measures were divided into clinical
+outcomes (eg, depression, anxiety , and suicidality) and other
+behavioral outcomes (eg, distress, resilience, and self-ef ficacy).
+Quantitati ve studies on clinical outcomes that measured
+effectiveness using weekly assessments had inconclusi ve results.
+The ¡Aptí vate! app [54] reported signif icantly lower depressi ve
+symptoms
+inconclusi ve results.
+The ¡Aptí vate! app [54] reported signif icantly lower depressi ve
+symptoms in Hispanic adults than in the no-treatment group;
+however, depressi ve symptoms did not differ on average across
+time between the 2 groups. Pratap et al [56] found impro vement
+in depression scores among Hispanic and non-Hispanic
+participants, regardless of the treatment arm and ethnicity .
+However, they noted no evidence of any clinically meaningful
+changes between the iPST and the control group.
+they noted no evidence of any clinically meaningful
+changes between the iPST and the control group. The authors
+noted that only participants who reported severe depressi ve
+symptoms showed the greatest decline; however, this only lasted
+until week 4 of the study . Tighe et al [57] reported a decline in
+depressi ve symptoms among Aboriginal and Torres Strait
+Islander participants, but no signif icant reduction was observ ed
+in the primary outcome of suicidality in Indigenous
+but no signif icant reduction was observ ed
+in the primary outcome of suicidality in Indigenous Australian
+participants. In addition, no signif icant relationship between
+use time and any of the outcome measures was observ ed. The
+Sanadak app [65] also showed no signif icant differences in
+PTSD symptoms between the interv ention and control groups
+after 4 weeks and 4 months of follow-up.
+Other behavioral outcomes were also explored by quantitati ve
+studies. For instance, Pratap et al [56]
+behavioral outcomes were also explored by quantitati ve
+studies. For instance, Pratap et al [56] explored functional
+impairment in addition to depressi ve symptoms and found no
+difference in disability outcomes across treatment arms and no
+difference between Hispanic and non-Hispanic participants.
+Tighe et al [57] explored psychological distress and impulsi vity
+as secondary outcomes. The iBobbly app was associated with
+a signif icant decrease in Kessler Psychological Distress Scale
+scores after
+app was associated with
+a signif icant decrease in Kessler Psychological Distress Scale
+scores after 6 weeks; however, there was no signif icant change
+in impulsi vity [57]. Rushing et al [59] included the following
+secondary outcomes: self-ef ficacy, self-esteem, resilience,
+coping strate gies, substance use, and cultural identity . They
+found that American Indian and Alaska Native participants who
+reported better health on average at baseline were more likely
+to report stronger cultural
+who
+reported better health on average at baseline were more likely
+to report stronger cultural identity , cultural resilience, and
+positi ve coping strate gies. No signif icant differences emer ged
+in any of the primary outcomes of the BRA VE app (help
+seeking, self-ef ficacy related to mental health, and negative
+coping) [59,61]. A surprising finding for the BRA VE app was
+that higher scores on help-seeking attitude at baseline were
+associated with a decrease in the number of clicks
+scores on help-seeking attitude at baseline were
+associated with a decrease in the number of clicks or
+engagement with the app. However, it is important to note thatWrobel et al [61] reported that the engagement data were highly
+skewed, with some participants clicking an average of 3.4 times,
+but some users click ed 49 times. Finally , Röhr et al [65] included
+the secondary outcomes: self-ef ficacy, self-stigma, and
+resilience. They found that after using the Sanadak app, Syrian
+refugees showed
+self-stigma, and
+resilience. They found that after using the Sanadak app, Syrian
+refugees showed no differences in any of the secondary
+outcomes, except for self-stigma. Syrian refugees reported lower
+levels of self-stigma following the use of the Sanadak app.
+Quantitati ve evidence from mixed methods studies also showed
+inconclusi ve results on both clinical and behavioral outcomes.
+Neal-Barnett et al [63] concluded that Black and biracial girls
+who used the BYOTS app reported signif icantly
+et al [63] concluded that Black and biracial girls
+who used the BYOTS app reported signif icantly lower negative
+and anxious thoughts on day 7 than on day 1. Although this
+study showed a positi ve result, the app was used for only 1
+week, so there is still uncertainty regarding whether these
+impro vements would last. Watson-Singleton et al [67] reported
+that Black African American participants who used Mindful
+You showed a signif icant decrease in stress levels after 2 weeks.
+They also showed
+who used Mindful
+You showed a signif icant decrease in stress levels after 2 weeks.
+They also showed increased capacity for emotional regulation
+and a signif icant increase in self-ef ficacy and mindfulness
+behaviors. However, there were no signif icant differences in
+the endorsements of mindfulness attrib utes, attitudes, or
+knowledge.
+Finally , of the 2 qualitati ve studies, the one by Agapie et al [66]
+used a focus group to ask about the percei ved effectiveness of
+the different apps that the
+al [66]
+used a focus group to ask about the percei ved effectiveness of
+the different apps that the participants used. Hispanic and Latina
+participants reported that all the apps used had small positi ve
+impacts on their mental health. Miscellaneous apps were ranked
+as the most effective in impro ving mental health well-being,
+followed by CBT apps and mindfulness apps. Povey et al [64]
+focused only on acceptability , whereas McCall et al [58]
+explored usability rather than the effectiveness of
+on acceptability , whereas McCall et al [58]
+explored usability rather than the effectiveness of the app.
+Barriers to MHA Use Within Racial and Ethnic
+Minority Groups
+Several barriers to MHAs were reported by the studies, ranging
+from cost to cultural appropriateness. Four studies did not
+explicitly report any barriers; however, they did highlight that
+not all clients may respond to self-guided treatment
+[54,58,63,65].
+One of the most common barriers to using MHAs was the lack
+of personal touch.
+of the most common barriers to using MHAs was the lack
+of personal touch. Aboriginal and Torres Strait Islanders, who
+used the iBobbly app, reported the need for more cultural content
+that related to their community [64]. This barrier was also true
+for American Indian and Alaska Native participants who used
+the BRA VE app [59]. Rushing et al [59] reported that due to
+the lack of representation in the media, participants reacted
+positi vely to both study arms, as they both contained
+in the media, participants reacted
+positi vely to both study arms, as they both contained cultural
+content. Participants who used the iBobbly app reported that
+such apps were not given enough community awareness and
+were therefore less likely to be used [64]. Rushing et al [59]
+also found that those with higher help-seeking tendencies were
+less likely to use the BRA VE app, which they hypothesized
+was because they were more likely to have support from people
+around them. The need for a personal
+because they were more likely to have support from people
+around them. The need for a personal touch was common even
+across the multiple apps explored by Agapie et al [66], with
+Hispanic and Latina participants reporting that the content was
+not specif ic enough for them.
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 11 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX The second most common barrier was stigma.
+purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX The second most common barrier was stigma. Islander
+participants who used the iBobbly app reported that others may
+not engage with the app due to stigma surrounding mental health
+[55]. Pratap et al [56] also noted similar concerns among
+Hispanic participants when using the iPST app. Jamaican
+participants have gone as far as to describe using MHAs as
+embarrassing, relating to the stigma attached to recei ving mental
+health support [62].
+The
+MHAs as
+embarrassing, relating to the stigma attached to recei ving mental
+health support [62].
+The third barrier was the cost. This was not so common but was
+mentioned by both Islander and Hispanic participants [64,66].
+Agapie et al [66] found that Hispanic participants were more
+likely to use apps that were richer in free content compared with
+those that required a subscription. Other barriers included the
+repetiti veness of the MHA that was described by Rushing et al
+[59] as “message fatigue,
+the
+repetiti veness of the MHA that was described by Rushing et al
+[59] as “message fatigue, ” as lack of engagement was evident
+after the 10th text sent by the BRA VE app. Furthermore, literac y
+and language barriers were brought up by Islander participants
+who argued that some people in their community may not be
+comfortable using English [64]. Finally , technical issues were
+also identif ied as barriers to using MHAs. For instance, Tighe
+et al [55] failed to gather use data for 21 out of the
+barriers to using MHAs. For instance, Tighe
+et al [55] failed to gather use data for 21 out of the 61
+participants due to internet connecti vity issues, a technical
+problem with their device, or an unchar ged battery . Stephens
+et al [60] also noted that some participants lost access to their
+mobile phones and were thus unable to interact with the content
+of the BRA VE app.
+Discussion
+Principal Findings
+This scoping review aimed to (1) describe the purposes of using
+MHAs in racial and ethnic
+Findings
+This scoping review aimed to (1) describe the purposes of using
+MHAs in racial and ethnic minority groups, (2) examine the
+acceptability of MHAs among those groups, (3) examine the
+effectiveness of MHAs with the groups, (4) identify the barriers
+to MHA use within the groups, and (5) identify the gaps in the
+literature. Overall, our research pooled findings from 15
+publications and highlighted important findings regarding the
+evidence related to MHA use among the racial and
+and highlighted important findings regarding the
+evidence related to MHA use among the racial and ethnic
+minority groups. Overall, MHAs were used for different
+purposes such as impro ving depression, decreasing
+psychological distress, increasing cultural resilience, and
+promoting help-seeking behavior. Fundamentally , most MHAs
+targeting racial and ethnic minority groups are underpinned by
+CBT and focus on depressi ve symptoms. In terms of
+acceptability , MHAs appear to be of interest among
+and focus on depressi ve symptoms. In terms of
+acceptability , MHAs appear to be of interest among racial and
+ethnic minority groups; however, there is limited and mixed
+evidence of their effectiveness. Barriers to use include
+interv ention-specif ic characteristics (eg, repetiti veness of the
+tasks), user-specif ic characteristics (eg, stigma), and
+technology-specif ic characteristics (eg, internet connecti vity).
+Finally , several gaps in the literature, namely , the participant
+pool, MHAs
+connecti vity).
+Finally , several gaps in the literature, namely , the participant
+pool, MHAs design, study design, and study location, were
+identif ied. Taken together , these findings need to be considered
+to deepen our knowledge of MHA use and experiences among
+racial and ethnic minority groups.
+Regarding evidence based on the intended purpose of using
+MHAs in racial and ethnic minority groups, most of the apps
+included in our review focused on depression and psychologicaldistress. Although
+most of the apps
+included in our review focused on depression and psychologicaldistress. Although depression is one of the most common mental
+health disorders with a high prevalence among young people
+[68], the fact that it is one of the main purposes of the use of
+MHAs in this population is relevant. For instance, people from
+racial and ethnic minority backgrounds experience increased
+challenges compared with the majority population including
+social inequities, discrimination, and disparities
+compared with the majority population including
+social inequities, discrimination, and disparities in living
+conditions and work environments that may increase the risk
+of developing depression and psychological distress [26-28].
+Islander participants who used the iBobbly app noted the need
+of more cultural content that was specif ic for them to increase
+engagement with the MHA [64]. However, Watson-Singleton
+et al [67] reported a 45% dropout rate from Mindful You despite
+having created a
+Watson-Singleton
+et al [67] reported a 45% dropout rate from Mindful You despite
+having created a culturally specif ic app for Black African
+American population. Thus, there seems to be uncertainty about
+what specif ic changes would keep racial and ethnic minority
+groups engaged in MHAs. Another common challenge
+experienced by racial and ethnic minority groups is the stigma
+against mental health, which can form a barrier to accessing
+mental health support [33-35]. Stigma was a common barrier
+to
+which can form a barrier to accessing
+mental health support [33-35]. Stigma was a common barrier
+to using MHAs across Islander , Hispanic, and Jamaican
+participants [56,62,64]. Only one app in this review addressed
+this issue and focused on impro ving help-seeking behaviors
+[59]. However, the app reported no signif icant impro vement in
+help-seeking behavior. In contrast, Röhr et al [65] found that a
+secondary outcome of the Sanadak app was reduced self-stigma
+in Syrian refugees. Therefore,
+that a
+secondary outcome of the Sanadak app was reduced self-stigma
+in Syrian refugees. Therefore, future studies should aim to
+impro ve help-seeking behaviors and reduce mental health stigma
+in people from racial and ethnic minority backgrounds.
+This review noted two critical observ ations regarding
+acceptability: (1) the measurements used and (2) attitudes of
+racial and ethnic minority groups toward MHAs. We followed
+the definition by Sekhon et al [52] for measuring acceptability:
+the
+groups toward MHAs. We followed
+the definition by Sekhon et al [52] for measuring acceptability:
+the willingness to participate and the adherence to the MHA.
+In our review, 8 studies measured acceptability using use or
+interacti ve data [54,56,57,59-61,64,67], and 7 used qualitati ve
+methods such as intervie ws, workshops, and surveys
+[40,55,58,62-64,66]. How acceptability is measured in these
+studies is essential, as it can affect how an MHA is percei ved.
+For instance, in our review, the
+is essential, as it can affect how an MHA is percei ved.
+For instance, in our review, the iBobbly app was investig ated
+using both use data [55] and qualitati ve methods [57]. The
+findings showed that iBobbly was not acceptable in terms of
+use data; however, qualitati ve evidence showed that Aboriginal
+and Torres Strait Islanders reported that the iBobbly app was
+acceptable and culturally appropriate, and it reduced stigma
+surrounding mental health issues. Our review further highlights
+the
+and it reduced stigma
+surrounding mental health issues. Our review further highlights
+the heterogeneity in the definition and measurement of
+acceptability , making it difficult to draw conclusions.
+Second, there seems to be ambi valence around racial and ethnic
+minority groups in terms of the acceptability of MHAs. Hispanic
+and Latina participants showed a high willingness to use MHAs
+[54,56] but showed a lack of engagement and high dropout rates
+[54,56]. In contrast, Agapie et al [66] found
+but showed a lack of engagement and high dropout rates
+[54,56]. In contrast, Agapie et al [66] found that 60% of
+Hispanic participants used the mindfulness apps even after the
+trial. Similarly , this review shows how many among Black and
+African American participants find MHAs useful and acceptable
+[62,63,67]. However, in the study by Watson-Singleton et al
+[67], almost half of the Black American participants dropped
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 12 https://mental.jmir
+American participants dropped
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 12 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX out for no given reason. In the study by Malone y et al [62]
+Jamaican participants explained stigma and embarrassment as
+major barriers to use. Similarly , the BRA VE app was found to
+be helpful for American Indian and Alaska Native participants;
+however, upon closer examination of the interacti
+American Indian and Alaska Native participants;
+however, upon closer examination of the interacti ve data,
+Wrobel et al [61] found that engagement was lower than
+expected. The study that used the iBobbly app showed that
+Aboriginal and Torres Strait Islander participants were highly
+willing to use MHAs [55]; however, there was still a lack of
+interest in MHAs among them [55]. The other 2 racial and ethnic
+minority groups included in this study were Syrian refugees
+and Asian American individuals,
+ethnic
+minority groups included in this study were Syrian refugees
+and Asian American individuals, who both showed high interest
+in MHAs and high dropout rates [66] or would rather use
+Facebook [40].
+Overall, despite the high willingness of racial and ethnic
+minority groups to use MHAs, evidence reports an overall mixed
+view of engagement. More research adopting appropriate and
+standardized methods for measuring acceptability should be
+considered in the future.
+Of note, 2 user-specif ic factors
+for measuring acceptability should be
+considered in the future.
+Of note, 2 user-specif ic factors are related to the acceptability
+of MHAs. First is the level of psychological distress among
+racial and ethnic minority groups. In our review, we observ ed
+that Indigenous Australians with higher levels of distress were
+more likely to use MHAs and adhere to them [57]. However,
+in qualitati ve studies, Indigenous Australians and Aboriginal
+and Torres Strait Islanders reported that in extreme
+studies, Indigenous Australians and Aboriginal
+and Torres Strait Islanders reported that in extreme distress,
+they might not benef it from MHAs and FTF therap y would be
+more appropriate [55,64].
+The second factor is help-seeking behavior as shown in the
+BRA VE study . Stephens et al [60] and Wrobel et al [61] found
+that surprisingly , those who scored high on help-seeking
+behavior showed less engagement with the BRA VE app. It was
+suggested that these participants might already have had
+less engagement with the BRA VE app. It was
+suggested that these participants might already have had their
+own ways to deal with distress and, therefore, were less likely
+to use other methods such as the BRA VE app. This corroborates
+the findings of Lungu and Sun [40], who suggest that some
+people from ethnic minority groups prefer to seek other forms
+of support (eg, Facebook). Facebook is not a MHA; however,
+some participants were more comfortable to reveal information
+on Facebook than attend
+MHA; however,
+some participants were more comfortable to reveal information
+on Facebook than attend FTF therap y. It would be helpful to
+understand the ways in which participants adapted to seek help,
+as it seems to influence engagement.
+Regarding the effectiveness of the apps, the review found only
+2 quantitati vely effective apps: BYOTS and Mindful You
+[63,67], which corroborates the findings from previous reviews
+that reported limited or mixed evidence of the effectiveness of
+MHAs [17,21,69].
+previous reviews
+that reported limited or mixed evidence of the effectiveness of
+MHAs [17,21,69]. Previous reviews revealed that most MHAs
+claim effectiveness; however, there is no scientif ic evidence
+supporting their claims. This highlights the dire need for
+regulations on MHAs that are available on app stores. The
+BYOTS and Mindful You apps were also trialed for only 1 and
+2 weeks, respecti vely; therefore, we cannot confidently assume
+that they will be effective for longer periods [63].
+vely; therefore, we cannot confidently assume
+that they will be effective for longer periods [63]. However, the
+fact that these MHAs were effective in reducing negative and
+anxious thoughts in Black and African Americans is in line with
+previous literature that showed that when given access to
+treatment, Black Americans benef it and engage more fromtherap y than White Americans [70]. Qualitati ve data found that
+Aboriginal youth in the study by Tighe et al [55] reported
+enjoying the iBobbly app
+data found that
+Aboriginal youth in the study by Tighe et al [55] reported
+enjoying the iBobbly app even if it did not impro ve their clinical
+symptoms. Similarly , the participants who used the BRA VE
+app showed a signif icant positi ve impro vement, but it was not
+different from those who recei ved science, technology ,
+engineering, and mathematics (STEM) messages [59].
+Moreo ver, Sanadak app, which was used by Röhr et al [65], did
+not signif icantly decrease PTSD symptoms;
+ver, Sanadak app, which was used by Röhr et al [65], did
+not signif icantly decrease PTSD symptoms; however,
+participants’ self-stigma toward mental health was notably
+reduced. Overall, little is known about how users interact with
+MHAs in clinically meaningful ways.
+In terms of app-specif ic factors that affect effectiveness,
+evidence shows that users prefer using mobile apps in short
+bursts of time [19] highlighting that long-term use might result
+in repetition for app users. A possible
+of time [19] highlighting that long-term use might result
+in repetition for app users. A possible solution might be to have
+users regularly engage with the app to impro ve its benef its [22].
+Stephens et al [60] suggested creating a “pause” in the BRA VE
+messages so that users continue to be engaged and avoid “text
+fatigue. ” Future studies should investig ate the features that can
+encourage engagement among MHAs users. This review
+highlights the importance of co-design approaches and
+engagement among MHAs users. This review
+highlights the importance of co-design approaches and cultural
+adaptations. Ramos et al [71] noted that culturally inspired
+MHAs may be more appealing to racial and ethnic minority
+groups and can lead to increased interv ention uptak e. All the
+MHAs included in this study , except ¡Aptí vate! [54] and iPST
+[56], were designed with the guidance of racial and ethnic
+minority groups. The inclusion of these groups in the process
+of creating the app prevents
+ethnic
+minority groups. The inclusion of these groups in the process
+of creating the app prevents stereotyping and ensures the most
+culturally relevant factors to the user [71]. ¡Aptí vate! [54] and
+iPST [56] only included accessible language as a culturally
+adapti ve factor in apps. This is in line with the review by Ramos
+et al [71], who found that almost 58% of the MHAs included
+only 1 criterion, suggesting that the inclusion of culturally
+relevant criteria is far from the norm. Our review
+suggesting that the inclusion of culturally
+relevant criteria is far from the norm. Our review also showed
+that a common barrier was that there was not enough cultural
+content, even for apps specif ically designed for racial and ethnic
+minority groups [64]. Future studies should consider the impact
+of cultural factors on the effectiveness of MHAs. Furthermore,
+future studies would benef it from exploring these factors from
+a qualitati ve perspecti ve for more insights, as this review shows
+only
+these factors from
+a qualitati ve perspecti ve for more insights, as this review shows
+only 1 effective MHA despite including many culturally
+adapti ve factors.
+Obser vations and Gaps in the Field With Suggestions
+for Futur e Resear ch
+Four important observ ations emer ged around the potential gaps
+in the literature: participant pool, MHA design, study design,
+and location of the study .
+Participant Pool
+The participants recruited in the studies that we reviewed were
+primarily Hispanic and
+Pool
+The participants recruited in the studies that we reviewed were
+primarily Hispanic and Latina or Black and biracial. Therefore,
+there is a need to recruit participants in MHA research from a
+wider racial and ethnic minority background. Another important
+observ ation in the review is that only 2 studies [54,64] included
+a greater number of unemplo yed than emplo yed participants.
+The remaining studies included either emplo yed participants or
+those who attended colle ges or schools. Future
+studies included either emplo yed participants or
+those who attended colle ges or schools. Future research should
+JMIR Ment Health 2023 | vol. 10 | e48991 | p. 13 https://mental.jmir .org/2023/1/e48991
+(page number not for citation purposes)Saad et al JMIR MENT AL HEAL TH
+XSL•FO
+RenderX also include low-income racial and ethnic minority populations
+to help find ways to effectively incorporate MHA technology
+as an accessible mental health support tool.
+MHA Design
+Regarding the MHA design, the
+MHA technology
+as an accessible mental health support tool.
+MHA Design
+Regarding the MHA design, the apps in this review were
+primarily CBT based [54,64] or inspired by it using
+acceptance-based therap y [55,57], problem-solving therap y
+[56], cogniti ve musical restructuring [63], or a mixture of
+psychotherap y and CBT [58,59,66]. Therefore, more research
+is needed to explore different theoretical underpinnings to
+identify what works for whom, in what conte xt, and among
+different
+theoretical underpinnings to
+identify what works for whom, in what conte xt, and among
+different cultures.
+Study Design
+Most of the included studies were quantitati ve, which arguably
+did not explain why the apps were ineffective. Strate gies such
+as intervie ws or workshops might help better explore the barriers
+experienced by participants and help tailor targeted
+interv entions. For instance, studies with mixed methods design
+offered valuable insights into the strengths and barriers of
+studies with mixed methods design
+offered valuable insights into the strengths and barriers of MHAs
+[55,58,60,63]. Although qualitati ve research takes time, future
+MHA research should consider qualitati ve research as the
+benef icial next step to progress in the field of MHAs for racial
+and ethnic minority populations.
+Study Location
+A total of 10 studies were conducted in the United States
+[40,54,56,58-61,63,66,67], 2 in Australia [57,64], 1 in Canada
+[55], 1 in the United Kingdom [62],1 in
+2 in Australia [57,64], 1 in Canada
+[55], 1 in the United Kingdom [62],1 in German y [65]. Overall,
+more studies are needed globally to achie ve generalizability of
+the findings and impro ve our understanding of MHA use among
+people of racial and ethnic minorities. More research is needed
+to explore whether MHA might be incorporated into existingservices as a source of additional support to help overcome
+some of the existing barriers to service receipt among racial and
+ethnic minority
+to help overcome
+some of the existing barriers to service receipt among racial and
+ethnic minority groups.
+Limitations
+This review benef ited from independent screening by 2
+researchers, and this minimized selection bias. Similarly , 2
+reviewers were involved in quality appraisal, thereby reducing
+any bias in the assessments. However, this study has some
+limitations. Although our search terms were guided by previous
+systematic reviews including racial and ethnic minority groups,
+this is not an
+guided by previous
+systematic reviews including racial and ethnic minority groups,
+this is not an extensi ve list of all terminology related to racial
+and ethnic minority groups; therefore, the review was limited
+to the search terms used. Moreo ver, as the researchers involved
+could only read English, several studies that may have been
+relevant to this review were excluded. However, despite not
+imposing limitations on the country of origin and an extensi ve
+list of racial and ethnic minority
+limitations on the country of origin and an extensi ve
+list of racial and ethnic minority group–related search terms,
+we were only able to include 15 studies; this demonstrates a
+dearth of evidence of MHAs among racial and ethnic minority
+groups, which highlights the need for further investig ation.
+Conclusions
+In this review, we aimed to explore the use of MHAs among
+racial and ethnic minority groups. This review synthesized data
+from 15 publications and reviewed 7 interv entions.
+minority groups. This review synthesized data
+from 15 publications and reviewed 7 interv entions. Although
+acceptability seems fairly consistent, more research is needed
+to support MHA effectiveness and overcome existing barriers.
+Overall, the literature on MHAs among racial and ethnic
+minority groups is still scarce, and there is still much left to
+understand. Future app developers should consider including
+racial and ethnic minority groups’ input in the development of
+MHAs as well as widening
+including
+racial and ethnic minority groups’ input in the development of
+MHAs as well as widening the scope of MHAs to focus on a
+range of disorders and use different theoretical approaches.
+Conflicts of Inter est
+None declared.
+Multimedia Appendix 1
+PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) checklist for scoping reviews.
+[PDF File (Adobe PDF File), 516 KB-Multimedia Appendix 1]
+Multimedia Appendix 2
+Scoping review search terms.
+[DOCX File , 28 KB-Multimedia
+Appendix 1]
+Multimedia Appendix 2
+Scoping review search terms.
+[DOCX File , 28 KB-Multimedia Appendix 2]
+Refer ences

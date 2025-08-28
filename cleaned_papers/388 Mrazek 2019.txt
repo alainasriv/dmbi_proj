@@ -1,0 +1,593 @@
+The  future  of  mindfulness  training  is  digital,  and
+the  future  is  now$
+Alissa  J  Mrazek,  Michael  D  Mrazek,  Casey  M  Cherolini,
+Jonathan  N  Cloughesy,  David  J  Cynman,  Lefeba  J  Gougis,  Alex  P  Landry,
+Jordan  V  Reese  and  Jonathan  W  Schooler
+Digital  mindfulness-based  interventions  (d-MBIs)  present  a
+promising  path  for  the  scalable  dissemination  of  mindfulness
+instruction  in  the  21st  century.  Smartphone  applications  and
+web-based  platforms  can  offer  potential  advantages  over
+traditional  face-to-face  formats  through  enhanced
+accessibility,  standardization,  personalization,  and  efﬁcacy  of
+mindfulness  training.  A  growing  body  of  research  has
+documented  that  a  digital  approach  to  teaching  mindfulness
+can  improve  measures  of  attention,  stress,  depression,  and
+anxiety.  However,  effective  digital  mindfulness  instruction  must
+overcome  a  variety  of  challenges,  including  the  possibility  of
+low  engagement,  shallow  learning,  and  unaddressed  obstacles
+or  frustrations.  Fortunately,  best  practices  from  multiple  ﬁelds
+of  research  provide  strategies  to  overcome  these  challenges.
+Address
+Dept.  of  Psychological  &  Brain  Sciences,  University  of  California  Santa
+Barbara,  United  States
+Corresponding  authors:
+Mrazek,  Alissa  J  (alissa.mrazek@psych.ucsb.edu ),
+Mrazek,  Michael  D  (mrazek@ucsb.edu )
+Current  Opinion  in  Psychology  2019,  28:81–86
+This  review  comes  from  a  themed  issue  on  Mindfulness
+Edited  by  Amit  Bernstein ,  Dave  Vago  and  Thorsten  Barnhofer
+For  a  complete  overview  see  the  Issue  and  the  Editorial
+Available  online  28th  November  2018
+https://doi.org/10.1016/j.copsyc.2018.11.0122352-250X/ ã 2018  Elsevier  Ltd.  All  rights  reserved.
+Since  mindfulness  apps  began  circulating  in  2007,  digital
+mindfulness  training  has  reached  millions  of  people  all
+over  the  world  [1,2].  There  are  now  thousands  of
+mindfulnessapps  on  the  market,  and  these  apps  attracted
+more  than  $150  million  of  venture  capital  in  2017  alone
+[1,3].  Traditional  face-to-face  programs  like  Mindfulness-
+Based  Stress  Reduction  are  also  being  turned  into
+e-courses,  while  digital  mindfulness  teacher  training
+programs  are  growing  in  popularity  as  well  [4,5].  Thismeteoric  rise  of  digital  mindfulness-based  interventions
+(d-MBIs)  presents  an  unprecedented  opportunity  to
+deliver  high-quality  training  to  an  increasingly  internet-
+connected  global  audience.  Here  we  review  the  promise,
+existing  research,  challenges,  and  best  practices  for  this
+new  era  of  mindfulness  training.
+Promise
+There  are  several  potential  advantages  to  a  digital
+approach  to  mindfulness  training,  including  enhanced
+accessibility,  standardization,  personalization,  and
+efﬁcacy.
+Accessibility
+A  key  beneﬁt  of  d-MBIs  is  that  they  can  reduce
+geographical,  logistical,  and  ﬁnancial  constraints  that
+would  otherwise  prevent  access  to  high  quality  training
+[6,7].  Users  also  report  enjoying  the  greater  accessibility
+and  scheduling  ﬂexibility  of  digital  training  [6,8].  In  one
+study,  users  of  a  d-MBI  reported  that  the  training’s
+accessibility  facilitated  their  engagement  by  allowing
+them  to  access  it  across  devices  and  at  the  times  of  their
+choosing  [9/C15].
+Standardization
+Even  a  great  curriculum  can  fail  to  provide  beneﬁts  if  it  is
+delivered  ineffectively.  Digital  training  provides  the
+opportunity  to  standardize  key  elements  of  course  con-
+tent  and  presentation,  thereby  ensuring  that  all  users
+receive  the  same  high-quality  instruction  [10,11].
+Personalized  learning
+Digital  training  can  also  provide  content  that  is  tailored  to
+the  abilities,  interests,  and  values  of  individual  users.  For
+example,  d-MBIs  can  provide  users  with  immediate
+personalized  feedback,  which  is  challenging  to  achieve
+in  traditional  classrooms  with  many  students  [10,12].
+Overall,  a  personalized  approach  that  tailors  the  curricu-
+lum  to  individual  students  has  been  shown  to  heighten
+both  engagement  and  learning  outcomes  [12,13].
+Efﬁcacy
+Although  one  might  assume  that  in-person  instruction
+would  produce  superior  learning  outcomes,  research
+$The  writing  of  this  article  was  supported  by  the  U.S.  Department  of  Education’s  Institute  of  Education  Sciences  (grant  number  R305A170445).Available  online  at  www.sciencedirect.com
+ScienceDirect
+www.sciencedirect.com  Current  Opinion  in  Psychology  2019,  28:81–86 suggests  that  well-designed  digital  training  can  elicit
+equal  or  even  greater  outcomes  [8,12,14].  For  instance,
+one  comparative  study  found  that  both  d-MBI’s  and  face-
+to-face  mindfulness  interventions  were  equally  effective
+in  helping  reduce  perceived  levels  of  depression,  anxiety,
+and  stress  [15].
+Existing  research
+A  large  and  growing  body  of  research  suggests  that  face-
+to-face  mindfulness  interventions  can  lead  to  a  myriad  of
+beneﬁts  [16].  Can  strictly  digital  MBIs  that  lack  face-to-
+face  interaction  deliver  beneﬁts  as  well?  Although  much
+less  research  exists,  here  we  provide  a  brief  review  of
+recent  research  into  the  effects  of  d-MBIs  on  three
+categories  of  outcomes:  ﬁrst,  mindfulness  and  attention,
+second,  stress,  and  third,  depression  and  anxiety.
+Mindfulness
+Stjernsward  &  Hansson  [17]  administered  a  d-MBI  to
+97  individuals  experiencing  distress  due  to  a  mental
+illness  in  their  family.  The  eight-week  course  was
+adapted  from  the  standard  MBSR  training  protocol  and
+included  a  total  of  960  minutes  of  mindfulness  practice.
+Completion  of  the  intervention  was  associated  with  a
+signiﬁcant  increase  at  post-test  and  3-month  follow  up
+in  the  Acting  with  Awareness  subscale  of  the  Five  Facet
+Mindfulness  Questionnaire  (FFMQ;  e.g.  “I  ﬁnd  myself
+doing  things  without  paying  attention” ;  reverse  coded).
+Shore  et  al.  [18/C15]  delivered  a  much  less  intensive  d-MBI  to
+110  university  students.  After  completing  just  an  hour-
+long  introduction  to  mindfulness,  participants  reported
+improvements  on  the  Acting  with  Awareness  subscale  of
+the  FFMQ  at  post-test  and  1-week  follow  up  assess-
+ments.  Noone  and  Hogan  [19]  reported  a  similar  increase
+in  their  participants’  scores  on  the  FFMQ  following  a
+brief  d-MBI.
+Kemper  [20]  also  investigated  the  effects  of  a  one-hour  d-
+MBI  among  health  professionals.  Completion  of  the
+module  was  associated  with  signiﬁcant  improvements
+on  the  Mindfulness  Attention  Awareness  Scale  (MAAS).
+Participants  who  engaged  in  a  four-week  d-MBI  using  the
+mobile  phone  application  Headspace  reported  similar
+improvements  on  the  MAAS  [21].
+Stress
+A  comprehensive  meta-analysis  by  Jayawardene  and  col-
+leagues  [22/C15/C15]  considered  eight  separate  randomized  con-
+trolled  trials  that  measured  the  effects  of  digital  mindful-
+ness  interventions  on  stress.  The  digital  interventions
+were  all  administered  online,  and  most  were  adapted
+from  the  MBSR  protocol  [23],  although  they  varied  in
+duration  from  two  to  twelve  weeks.  Meta-analysis  of  the
+eight  studies  found  a  signiﬁcant  medium  effect  size  for
+the  mindfulness  interventions  on  perceived  stress.Further  research  utilizing  a  variety  of  d-MBIs  and  partic-
+ipant  populations  has  provided  additional  support  for  the
+efﬁcacy  of  d-MBIs  in  reducing  stress  [24–28 ].  However,
+failures  to  replicate  this  stress  effect  have  occurred
+[29,30].
+Depression  &  anxiety
+Boettcher  et  al.  [31]  analyzed  the  effect  of  an  eight-week
+d-MBI  on  reducing  depression  and  anxiety  among  a
+sample  of  participants  diagnosed  with  an  anxiety  disorder.
+The  d-MBI  decreased  both  depressive  symptoms  and
+anxiety.  Similarly,  Querstret  et  al.  [32]  found  that  a  four-
+week  d-MBI  that  consisted  of  lessons  and  guided  medita-
+tions  also  reduced  depressive  symptoms  and  anxiety  in  a
+community  sample.  Krusche  et  al.  [33]  utilized  the  same
+course  as  Querstret  et  al.  [32],  and  reported  similar  reduc-
+tions  in  depression  for  those  participants  who  completed
+the  course.  Finally,  additional  studies  found  a  two-week
+d-MBI  to  signiﬁcantly  decrease  anxiety  and  depression  in
+university  staff  and  students  [18/C15,34].
+Across  these  categories  of  outcomes,  this  review  suggests
+that  d-MBIs  may  be  a  promising  approach  for  delivering
+mindfulness  training;  however,  this  work  has  limitations
+due  to  the  nascence  of  d-MBIs.  For  example,  a  quarter  of
+the  studies  described  did  not  include  a  control  condition.
+Additionally,  completion  rates  were  often  quite  low.
+Across  the  studies  described,  the  average  attrition  rate
+was  34.5%.  Even  with  participants  who  technically  com-
+pleted  the  intervention,  44%  of  the  studies  we  reviewed
+mentioned  problems  with  adherence;  participants  were
+not  fully  engaging  in  the  lessons  and  activities  as
+prescribed.  These  challenges,  amongst  others,  are
+necessary  to  acknowledge  and  address  as  d-MBIs  become
+increasingly  commonplace.
+Challenges
+While  d-MBIs  have  many  potential  advantages,  they  also
+face  numerous  challenges.  A  review  of  the  literature
+reveals  at  least  six  categories  of  challenges  that  many
+d-MBIs  must  strive  to  overcome,  most  of  which  are
+challenges  for  in-person  training  programs  as  well.
+Selecting  an  audience
+No  two  audiences  are  the  same.  Middle  school  students
+and  military  veterans,  for  instance,  have  dramatically
+different  needs,  interests,  and  capabilities.  d-MBIs  must
+be  sensitive  to  the  distinguishing  characteristics  of  their
+chosen  target  audience.  For  example,  d-MBIs  that
+include  a  spiritual  dimension  risk  having  users  with  strong
+religious  afﬁliations  feel  that  mindfulness  is  inconsistent
+with  their  religious  beliefs  [35].
+Selecting  objectives
+A  d-MBI  lacking  clear  objectives  may  fail  to  reach  its  full
+potential  impact  on  valued  outcome  measures.  This  is
+because  different  approaches  to  teaching  mindfulness82  Mindfulness
+Current  Opinion  in  Psychology  2019,  28:81–86  www.sciencedirect.com may  be  best  suited  for  achieving-speciﬁc  outcomes.  For
+example,  Querstret  et  al.  [36/C15]  observed  that  although  a
+d-MBI  improved  three  facets  of  mindfulness,  only  one
+facet,  Acting  with  Awareness,  mediated  the  effects  of  the
+d-MBI  on  key  outcome  measures  of  work-related  rumi-
+nation,  fatigue,  and  sleep  quality.  One  resulting  hypoth-
+esis  is  that  a  d-MBI  designed  at  the  outset  to  improve  a
+speciﬁc  outcome  may  be  most  effective  if  instructional
+emphasis  is  placed  on  the  facets  of  mindfulness  most
+likely  to  mediate  that  outcome.
+Audience  diversity
+It  is  also  important  for  d-MBIs  to  address  individual
+differences  within  their  target  audience.  For  example,
+a  portion  of  users  will  possess  a  ﬁxed  mindset  about  their
+ability  to  be  mindful,  believing  that  this  capacity  is
+immutable.  This,  in  turn,  can  lead  to  decreased  effort
+[37,38].  Individuals  with  a  ﬁxed  mindset  would  therefore
+beneﬁt  from  tailored  instruction  that  would  promote  a
+growth  mindset.
+Maintaining  engagement
+As  described  brieﬂy  above,  users  of  many  d-MBIs  have
+problematically  low  adherence.  Several  studies  assessing
+d-MBIs  report  high  participant  drop-out,  with  one  review
+paper  reporting  attrition  rates  ranging  from  7.7%  to  52.3%
+[39].  Furthermore,  some  participants  report  having  difﬁ-
+culty  staying  engaged  with  d-MBI  exercises.  Instead,
+users  sometimes  end  up  using  the  meditation  practices
+as  a  time  to  intentionally  engage  in  ruminative  thinking
+and  to  create  a  mental  to-do  list  [40/C15].
+Effective  learning
+Effective  learning  includes  not  only  the  retention  of
+factual  knowledge,  but  also  a  conceptual  understanding
+that  allows  for  the  ﬂexible  use,  transfer,  and  application  of
+knowledge  across  contexts  [41].  Achieving  effective
+learning  is  a  challenge  in  any  context,  and  this  is  certainly
+true  for  d-MBIs.  Participants  of  MBIs  have  reported
+struggling  to  grasp  the  core  concepts  of  mindfulness,
+expressed  uncertainty  that  they’re  practicing  correctly,
+or  misinterpreted  the  purpose  of  the  intervention  entirely
+[40/C15,42].
+Troubleshooting
+It  is  inevitable  that  individuals  will  encounter  obstacles
+and  frustration  when  training  in  mindfulness.  Users  of  d-
+MBIs  have  reported  experiencing  negative  thoughts  and
+anxious  feelings  during  meditations  [9/C15,40/C15],  as  well  as  a
+desire  to  discuss  these  emerging  thoughts  and  feelings
+with  an  instructor  or  peers  [9/C15].  Other  challenges  that  arise
+are  discomfort,  difﬁculty  sustaining  focus,  feeling  self-
+critical,  and  doubts  that  mindfulness  is  helpful  [40/C15].
+Leaving  these  challenges  unaddressed  leads  to  decreased
+engagement  [9/C15,40/C15,43].Best  practices
+Although  d-MBIs  face  numerous  challenges,  these  issues
+can  be  mitigated  by  creatively  applying  the  best  practices
+in  digital  learning.
+Deﬁning  and  understanding  your  audience
+If  program  creators  are  to  build  optimally  effective  d-
+MBIs,  they  must  ﬁrst  select  and  understand  their  audi-
+ence.  Deﬁning-speciﬁc  target  audience  demographics
+early  on  paves  the  way  for  user  research.  Conducting  user
+research  on  target  audience  behaviors,  needs,  and  moti-
+vations  can  inform  the  design  and  content  of  a  d-MBI.
+User  research  methodologies  can  include  surveys,  focus
+groups,  persona  development,  and  individual  interviews,
+among  others  [44].
+Selecting  learning  objectives  and  target  outcomes
+After  deﬁning  and  understanding  a  target  audience,  pro-
+gram  creators  can  make  an  informed  decision  when
+selecting  learning  objectives  and  training  outcomes  that
+are  most  relevant  to  their  audience.  For  example,  if  the
+target  audience  has  a  clinical  diagnosis  of  ADHD,  learn-
+ing  objectives  might  consist  of  cultivating  a  growth  mindset
+about  attention  and  a  target  outcome  might  be  improving
+sustained  attention.  Selected  learning  objectives  and  target
+outcomes  can  then  inform  the  design  of  program  content
+to  increase  the  d-MBI’s  relevance  and  efﬁcacy  [45].
+Addressing  audience  diversity
+Members  of  a  speciﬁc  target  audience  often  share  certain
+characteristics,  but  heterogeneity  will  undoubtedly  exist.
+Personalization  of  program  content  can  facilitate  individ-
+ual  engagement  and  improve  learning  outcomes  by  align-
+ing  a  user’s  experience  with  their  existing  knowledge,
+interests,  and  goals  [46,47,48/C15].
+Maintaining  engagement
+Sustained  engagement  throughout  the  entirety  of  a  d-
+MBI  is  essential.  This  can  be  achieved  through  person-
+alization  [12,13],  chunking  content  into  short  segments
+[49],  enhancing  intrinsic  motivation  by  designing  content
+that  is  truly  interesting  [48/C15],  and  embedding  frequent
+constructive  learning  exercises  that  help  users  engage
+with  content  [50].
+Effective  learning
+A  number  of  best  practices  exist  for  enhancing  the  effec-
+tiveness  of  digital  instruction  [49].  For  example,  materials
+should  be  broken  into  segments  and  reviewed  regularly
+[51].  It  is  also  well-established  that  including  graphics  and
+visuals  signiﬁcantly  improves  learning  [52].  Digital
+instruction  is  also  enhanced  when  extraneous  words,
+graphics,  and  sounds  are  omitted  [53].  Working  memory
+capacity  is  limited,  so  presentational  clutter  can  prevent
+processing  of  key  concepts  [49].Digital  mindfulness-based  interventions  Mrazek  et  al.  83
+www.sciencedirect.com  Current  Opinion  in  Psychology  2019,  28:81–86 Troubleshooting
+d-MBIs  possess  the  capability  to  proactively  address
+challenges  that  may  be  faced  by  users.  Anticipating
+common  challenges  early  on,  identifying  challenges  as
+they  arise,  and  offering  support  in  an  efﬁcient  and  acces-
+sible  manner  can  mitigate  many  issues  that  occur  [54,55].
+For  example,  when  a  challenge  is  identiﬁed,  users  can  be
+directed  to  a  support  page  that  provides  responses  to  a  list
+of  common  challenges  experienced.  Moreover,  discussion
+forums  can  connect  users,  providing  a  community  of
+individuals  who  may  be  willing  to  listen,  offer  support,
+and  share  their  own  challenges.  If  possible,  trained  staff
+and  counselors  can  provide  emotional  support  when
+necessary  [56].
+Conclusion
+Given  the  widespread  use  of  mindfulness  apps  and  digital
+courses,  d-MBIs  are  rapidly  becoming  the  predominant
+way  that  people  around  the  world  are  introduced  to
+mindfulness.  This  understandably  gives  some  people
+pause,  as  the  direct  transmission  of  mindfulness  training
+from  instructor  to  student  has  been  the  norm  until
+recently.  As  noted,  although  this  distribution  method  is
+promising,  there  are  challenges  to  a  digital  approach.  The
+list  of  challenges  described  presently  is  not  a  complete
+account,  and  additional  obstacles  such  as  community
+building  and  embodiment  are  important  for  d-BMIs  to
+address.
+Despite  these  challenges,  there  is  now  evidence  that  the
+intersection  of  mindfulness  and  technology  is  already
+producing  d-MBIs  capable  of  eliciting  meaningful
+beneﬁts.  Arguably,  the  rapidly  unfolding  digital  revolu-
+tion  could  succeed  not  only  in  improving  the  accessibility
+of  mindfulness  training,  but  also  in  increasing  its  efﬁcacy.
+If  the  design  of  d-MBIs  is  guided  by  emerging  literature
+on  best  practices  and  combined  with  an  empirical
+approach  of  constant  iteration  and  improvement,  the
+highest  quality  mindfulness  training  may  eventually  be
+accessible  to  anyone  with  an  internet-connected  device.
+Then  wherever  you  go,  there  it  is.
+Conﬂict  of  interest  statement
+Nothing  declared.
+References  and  recommended  reading
+Papers  of  particular  interest,  published  within  the  period  of  review,
+have  been  highlighted  as:
+/C15  of  special  interest
+/C15/C15  of  outstanding  interest
+1.  Chaykowski  K,  Headspace  Meet:  The  App  That  Made  Meditation  A
+$250  Million  Business .  Forbes;  2017  .  (accessed  August  15,  2018)
+https://www.forbes.com/sites/kathleenchaykowski/2017/01/08/
+meet-headspace-the-app-that-made-meditation-a-250-million-business/#233f2b131f1b .
+2. Payne  HE,  Lister  C,  West  JH,  Bernhardt  JM:  Behavioral
+functionality  of  mobile  apps  in  health  interventions:  asystematic  review  of  the  literature .  JMIR  Mhealth  Uhealth  2015,
+3  http://dx.doi.org/10.2196/mhealth.3335 .
+3.  Garlick  H:  The  Madness  of  Mindfulness .  Financial  Times;  2017  .
+(accessed  August  15,  2018)  https://www.ft.com/content/
+9b8c0c6e-e805-11e6-967b-c88452263daf .
+4.  Potter  D,  Palouse  mindfulness,  Mindfulness  Based  Stress
+Reduction.  (n.d.).
+5.  Greene  D,  Mullins  M,  Baggett  P,  Cherry  D:  Self-care  for  helping
+professionals:  students’  perceived  stress,  coping  self-
+efﬁcacy,  and  subjective  experiences .  J  Baccalaureate  Soc  Work
+2017,  22:1-16  http://dx.doi.org/10.18084/1084-7219.22.1.1 .
+6.  Asuncion  JV,  Fichten  CS,  Ferraro  V,  Chwojka  C,  Barile  M,
+Nguyen  MN,  Wolforth  J:  Multiple  perspectives  on  the
+accessibility  of  e-learning  in  Canadian  colleges  and
+universities .  Assist  Technol  2010,  22:187-199  http://dx.doi.org/
+10.1080/10400430903519944 .
+7.  Fichten  CS,  Asuncion  JV,  Barile  M,  Fossey  M,  de  Simone  C:
+Access  to  educational  and  instructional  computer
+technologies  for  post-secondary  students  with  disabilities:
+lessons  from  three  empirical  studies .  J  Educ  Media  2000,
+25:179-201  http://dx.doi.org/10.1080/1358165000250303 .
+8.  Bernard  RM,  Abrami  PC,  Lou  Y,  Borokhovski  E,  Wade  A,
+Wozney  L,  Wallet  PA,  Fiset  M,  Huang  B:  How  does  distance
+education  compare  with  classroom  instruction?  A  meta-
+analysis  of  the  empirical  literature .  Rev  Educ  Res  2004,  74:379-
+439  http://dx.doi.org/10.3102/00346543074003379 .
+9.
+/C15Stjernswa ¨rd  S,  Hansson  L:  Outcome  of  a  web-based
+mindfulness  intervention  for  families  living  with  mental  illness
+–  a  feasibility  study .  Inform  Health  Soc  Care  2017,  42:97-108
+http://dx.doi.org/10.1080/17538157.2016.1177533 .
+This  d-MBI  was  used  with  97  participants  who  had  a  relative  diagnosed
+with  mental  illness.  Results  showed  signiﬁcant  improvements  in  levels  of
+mindfulness,  perceived  stress,  caregiver  burden,  and  self-compassion
+from  pre  to  post  and  at  follow-up.  d-MBI  satisfaction  and  feasibility  were
+rated  high  amongst  participants.
+10.  Puzziferro  M,  Shelton  K:  A  model  for  developing  high-quality
+online  courses:  integrating  a  systems  approach  with  learning
+theory .  J  Asynchronous  Learn  Netw  2008,  12:119-136.
+11.  Clarke  T,  Kenney  J,  Hermens  A:  The  political  economy  of  e-
+learning  educational  development:  strategies,
+standardisation  and  scalability .  Educ  +  Train  2004,  46:370-379
+http://dx.doi.org/10.1108/00400910410555286 .
+12.  Dixson  MD:  Creating  effective  student  engagement  in  online
+courses:  what  do  students  ﬁnd  engaging?  J  Scholarsh  Teach
+Learn  2010,  10:1-13.
+13.  Wang  T-H:  Developing  an  Assessment-Centered  E-Learning
+System  For  Improving  Student  Learning  Effectiveness  -
+ScienceDirect .  Elsevier;  2013  .  (accessed  August  13,  2018)  https://
+www.sciencedirect.com/science/article/pii/S0360131513003266 .
+14.  Maki  RH,  Maki  WS:  Online  Courses,  Handbook  of  Applied
+Cognition .  Wiley-Blackwell;  2008:527-552  http://dx.doi.org/
+10.1002/9780470713181.ch20 .
+15.  Krusche  A,  Cyhlarova  E,  Williams  JMG:  Mindfulness  online:  an
+evaluation  of  the  feasibility  of  a  web-based  mindfulness
+course  for  stress,  anxiety  and  depression .  BMJ  Open  2013,  3
+http://dx.doi.org/10.1136/bmjopen-2013-003498  e003498.
+16.  David  Creswell  J:  Mindfulness  Interventions .  Annu  Rev  Psychol
+2017,  68:491-516.
+17.  Stjernswa ¨rd  S,  Hansson  L:  User  value  and  usability  of  a  web-
+based  mindfulness  intervention  for  families  living  with  mental
+health  problems .  Health  Soc  Care  Commun  2017,  25:700-709
+http://dx.doi.org/10.1111/hsc.12360 .
+18.
+/C15Shore  R,  Strauss  C,  Cavanagh  K,  Hayward  M,  Ellett  L:  A
+randomised  controlled  trial  of  a  brief  online  mindfulness-
+based  intervention  on  paranoia  in  a  non-clinical  sample .
+Mindfulness  2018,  9:294-302  http://dx.doi.org/10.1007/s12671-
+017-0774-2 .
+After  delivering  just  an  hour-long  d-MBI  that  introduced  110  participants
+to  mindfulness,  Shore et  al.  reported  improvements  in  participant  scores84  Mindfulness
+Current  Opinion  in  Psychology  2019,  28:81–86  www.sciencedirect.com on  the  Acting  with  Awareness  subscale  of  the  FFMQ  at  post-test  and  1-
+week  follow  up  assessments.
+19.  Noone  C,  Hogan  MJ:  A  randomised  active-controlled  trial  to
+examine  the  effects  of  an  online  mindfulness  intervention  on
+executive  control,  critical  thinking  and  key  thinking
+dispositions  in  a  university  student  sample .  BMC  Psychol  2018,
+6(13)  http://dx.doi.org/10.1186/s40359-018-0226-3 .
+20.  Kemper  KJ:  Brief  online  mindfulness  training:  immediate
+impact .  J  Evid  Based  Complement  Altern  Med  2017,  22:75-80
+http://dx.doi.org/10.1177/2156587216639199 .
+21.  Bennike  IH,  Wieghorst  A,  Kirk  U:  Online-based  mindfulness
+training  reduces  behavioral  markers  of  mind  wandering .  J
+Cogn  Enhanc  2017,  1:172-181  http://dx.doi.org/10.1007/s41465-
+017-0020-9 .
+22.
+/C15/C15Jayawardene  WP,  Lohrmann  DK,  Erbe  RG,  Torabi  MR:  Effects  of
+preventive  online  mindfulness  interventions  on  stress  and
+mindfulness:  a  meta-analysis  of  randomized  controlled  trials .
+Prevent  Med  Rep  2017,  5:150-159  http://dx.doi.org/10.1016/j.
+pmedr.2016.11.013 .
+This  comprehensive  meta-analysis  of  eight  separate  randomized  con-
+trolled  trials  found  a  signiﬁcant,  medium  effect  size  for  d-MBIs  on
+perceived  stress.  The  digital  interventions  were  all  administered  online,
+and  most  were  adapted  from  the  MBSR  protocol,  although  they  varied  in
+duration  from  two  to  twelve  weeks.
+23.  Kabat-Zinn  J:  Mindfulness-based  interventions  in  context:
+past,  present,  and  future .  Clin  Psychol:  Sci  Pract  2003,  10:144-
+156  http://dx.doi.org/10.1093/clipsy.bpg016 .
+24.  Gu  J,  Cavanagh  K,  Strauss  C:  Investigating  the  speciﬁc  effects
+of  an  online  mindfulness-based  self-help  intervention  on
+stress  and  underlying  mechanisms .  Mindfulness  2018,  9:1245-
+1257  http://dx.doi.org/10.1007/s12671-017-0867-y .
+25.  Economides  M,  Martman  J,  Bell  MJ,  Sanderson  B:  Improvements
+in  stress,  affect,  and  irritability  following  brief  use  of  a
+mindfulness-based  smartphone  app:  a  randomized  controlled
+trial.  Mindfulness  2018:1-10  http://dx.doi.org/10.1007/s12671-
+018-0905-4 .
+26.  Yang,  Schamber,  Meyer,  Gold:  Happier  healers:  randomized
+controlled  trial  of  mobile  mindfulness  for  stress  management .
+J  Altern  Complement  Med  2018,  24  (accessed  August  16,  2018)
+https://www.liebertpub.com/doi/abs/10.1089/acm.2015.0301 .
+27.  Bailey  NW,  Nguyen  J,  Bialylew  E,  Corin  SE,  Gilbertson  T,
+Chambers  R,  Fitzgerald  PB:  Effect  on  well-being  from  an  online
+mindfulness  intervention:  “Mindful  in  May,” .  Mindfulness
+2018:1-11  http://dx.doi.org/10.1007/s12671-018-0910-7 .
+28.  Spadaro  KC,  Hunker  DF:  Exploring  the  effects  of  an  online
+asynchronous  mindfulness  meditation  intervention  with
+nursing  students  on  stress,  mood,  and  cognition:  a  descriptive
+study .  Nurse  Educ  Today  2016,  39:163-169  http://dx.doi.org/
+10.1016/j.nedt.2016.02.006 .
+29.  Ralston  E:  The  inﬂuence  of  an  application-based  mindfulness
+intervention  on  self-reported  rumination,  stress,  emotional
+intelligence  and  life  satisfaction  in  undergraduate  students .
+MMU  Psychol  J  2016  .  (accessed  August  16,  2018)  https://
+e-space.mmu.ac.uk/617889/ .
+30.  Lindsay,  Young,  Smyth,  Brown,  Creswell,  Acceptance  lowers
+stress  reactivity:  dismantling  mindfulness  training  in  a  randomized
+controlled  trial,  (n.d.).  doi:https://doi.org/10.1016/j.psyneuen.
+2017.09.015 .
+31.  Boettcher  J,  A˚stro¨m  V,  Pa˚hlsson  D,  Schenstro ¨m  O,  Andersson  G,
+Carlbring  P:  Internet-based  mindfulness  treatment  for  anxiety
+disorders:  a  randomized  controlled  trial.  Behav  Ther  2014,
+45:241-253  http://dx.doi.org/10.1016/j.beth.2013.11.003 .
+32.  Querstret  D,  Cropley  M,  Fife-Schaw  C:  The  effects  of  an  online
+mindfulness  intervention  on  perceived  stress,  depression  and
+anxiety  in  a  non-clinical  sample:  a  randomised  waitlist  control
+trial.  Mindfulness  2018,  9:1825-1836  http://dx.doi.org/10.1007/
+s12671-018-0925-0 .
+33.  Krusche  A,  Dymond  M,  Murphy  SE,  Crane  C:  Mindfulness  for
+pregnancy:  a  randomised  controlled  study  of  online
+mindfulness  during  pregnancy .  Midwifery  2018,  65:51-57  http://
+dx.doi.org/10.1016/j.midw.2018.07.005 .34.  Cavanagh  K,  Strauss  C,  Cicconi  F,  Grifﬁths  N,  Wyper  A,  Jones  F:  A
+randomised  controlled  trial  of  a  brief  online  mindfulness-
+based  intervention .  Behav  Res  Ther  2013,  51:573-578  http://dx.
+doi.org/10.1016/j.brat.2013.06.003 .
+35.  Sobczak  LR,  West  LM:  Clinical  considerations  in  using
+mindfulness-  and  acceptance-based  approaches  with  diverse
+populations:  addressing  challenges  in  service  delivery  in
+diverse  community  settings .  Cogn  Behav  Pract  2013,  20:13-22
+http://dx.doi.org/10.1016/j.cbpra.2011.08.005 .
+36.
+/C15Querstret  D,  Cropley  M,  Fife-Schaw  C:  Internet-based
+instructor-led  mindfulness  for  work-related  rumination,
+fatigue,  and  sleep:  assessing  facets  of  mindfulness  as
+mechanisms  of  change.  A  randomized  waitlist  control  trial.  J
+Occupa  Health  Psychol  2017,  22:153-169  http://dx.doi.org/
+10.1037/ocp0000028 .
+Querstret,  Cropley  &  Fife-Schaw  administered  a  four-week  d-MBI  that
+consisted  of  lessons  and  guided  meditations  to  a  community  sample.  The
+researchers  reported  signiﬁcant  reductions  in  both  depressive  symptoms
+and  anxiety  in  participants  who  completed  their  brief  d-MBI.
+37.  Hong  Y,  Chiu  C,  Dweck  CS,  Lin  M-S,  Wan  W:  Implicit  theories,
+attributions,  and  coping:  a  meaning  system  approach .  J  Pers
+Soc  Psychol  1999,  77:588-599  http://dx.doi.org/10.1037/0022-
+3514.77.3.588 .
+38.  Robins  RW,  Pals  JL:  Implicit  self-theories  in  the  academic
+domain:  implications  for  goal  orientation,  attributions,  affect,
+and  self-esteem  change .  Self  Identity  2002,  1:313-336  http://dx.
+doi.org/10.1080/15298860290106805 .
+39.  Fish  J,  Brimson  J,  Lynch  S:  Mindfulness  interventions  delivered
+by  technology  without  facilitator  involvement:  what  research
+exists  and  what  are  the  clinical  outcomes?  Mindfulness  2016,
+7:1011-1023  http://dx.doi.org/10.1007/s12671-016-0548-2 .
+40.
+/C15Banerjee  M,  Cavanagh  K,  Strauss  C:  A  qualitative  study  with
+healthcare  staff  exploring  the  facilitators  and  barriers  to
+engaging  in  a  self-help  mindfulness-based  intervention .
+Mindfulness  2017,  8:1653-1664  http://dx.doi.org/10.1007/
+s12671-017-0740-z .
+Banerjee,  Cavanagh  &  Strauss  interviewed  16  healthcare  staff  members
+who  participated  in  a  mindfulness-based  self-help  intervention.  “Attitude
+towards  engagement”,  “intervention  characteristics”,  “process  of
+change”  and  “perceived  consequences”  were  identiﬁed  as  four  over-
+arching  themes  that  characterized  facilitation  and  hinderance  to  engage-
+ment  in  the  intervention.  Key  facilitators  to  engagement  reported  by  the
+sample  included  shorter  practices,  motivation  to  reduce  stress,  and  an
+increased  feeling  of  control  over  thoughts.
+41.  National  Research  Council,  D.  of  B.  and  S.S.  and  Education,  B.  on
+B.  Sciences  Cognitive,  and  Sensory,  C.  on  D.  in  the  S.  of  L.  with
+additional  material  from  the  C.  on  L.R.  and  E.  Practice:  How  People
+Learn:  Brain,  Mind,  Experience,  and  School:  Expanded  Edition .
+National  Academies  Press;  2000.
+42.  Moss  D,  Waugh  M,  Barnes  R:  A  tool  for  life?  Mindfulness  as  self-
+help  or  safe  uncertainty .  Int  J  Qual  Stud  Health  Well-Being  2008,
+3:132-142  http://dx.doi.org/10.1080/17482620801939592 .
+43.  Banerjee  M,  Cavanagh  K,  Strauss  C:  Barriers  to  mindfulness:  a
+path  analytic  model  exploring  the  role  of  rumination  and  worry
+in  predicting  psychological  and  physical  engagement  in  an
+online  mindfulness-based  intervention .  Mindfulness  (NY)  2018,
+9:980-992  http://dx.doi.org/10.1007/s12671-017-0837-4 .
+44.  Baxter  K,  Courage  C,  Caine  K:  Understanding  Your  Users:  A
+Practical  Guide  to  User  Research  Methods .  2nd  ed..  Morgan
+Kaufmann;  2015.
+45.  National  Research  Council:  Knowing  What  Students  Know:  The
+Science  and  Design  of  Educational  Assessment .  Washington,  DC:
+The  National  Academies  Press;  2001  http://dx.doi.org/10.17226/
+10019 .
+46.  Grant  LK,  Courtoreille  M:  Comparison  of  ﬁxed-item  and
+response-sensitive  versions  of  an  online  tutorial .  Psychol  Rec
+2007,  57:265-272  http://dx.doi.org/10.1007/BF03395576 .
+47.  Wang  KH,  Wang  TH,  Wang  WL,  Huang  SC:  Learning  styles  and
+formative  assessment  strategy:  enhancing  student
+achievement  in  web-based  learning .  J  Comput  Assist  Learn
+2006,  22:207-217  http://dx.doi.org/10.1111/j.1365-
+2729.2006.00166.x .Digital  mindfulness-based  interventions  Mrazek  et  al.  85
+www.sciencedirect.com  Current  Opinion  in  Psychology  2019,  28:81–86 48.
+/C15Harackiewicz  JM,  Smith  JL,  Priniski  SJ:  Interest  matters:  the
+importance  of  promoting  interest  in  education .  Policy  Insights
+Behav  Brain  Sci  2016,  3:220-227  http://dx.doi.org/10.1177/
+2372732216655542 .
+Enhancing  interest  is  a  priority  for  educators  if  students  are  to  most  effectively
+attend  and  engage  with  their  academics.  Situational  interest  evoked  by
+feelings  of  enjoyment  and  excitement  toward  a  topic  can  transform  over  time
+into  durable  individual  interest  in  particular  subjects.  The  incorporation  of
+attention-grabbing  structural  features,  context  personalization,  problem-
+based  learning,  and  utility-value  interventions  can  be  used  to  develop  interest.
+49.  Clark  RC,  Mayer  RE:  e-Learning  and  the  Science  of  Instruction:
+Proven  Guidelines  for  Consumers  and  Designers  of  Multimedia
+Learning .  4th  ed..  Hoboken,  New  Jersey:  John  Wiley  &  Sons,  Inc;
+2016  .  (accessed  August  15,  2018)  In:  https://www.wiley.com/
+en-us/e+Learning+and+the+Science+of+Instruction%3A+Proven
++Guidelines+for+Consumers+and+Designers+of+Multimedia
++Learning%2C+4th+Edition-p-9781119158660 .
+50.  Means  B,  Toyama  Y,  Murphy  R,  Bakia  M,  Jones  K:  Evaluation  of
+Evidence-Based  Practices  in  Online  Learning:  A  Meta-Analysis  and
+Review  of  Online  Learning  Studies .  Washington,  D.C:  U.S.
+Department  of  Education,  Ofﬁce  of  Planning,  Evaluation,  and
+Policy  Development;  2009  .  (accessed  August  15,  2018)  In:  http://
+repository.alt.ac.uk/629/ .51.  Bernard  RM,  Abrami  PC,  Borokhovski  E,  Wade  CA,  Tamim  RM,
+Surkes  MA,  Bethel  EC:  A  meta-analysis  of  three  types  of
+interaction  treatments  in  distance  education .  Rev  Educ  Res
+2009,  79:1243-1289  http://dx.doi.org/10.3102/
+0034654309333844 .
+52.  Butcher  KR:  The  Multimedia  Principle .  In  The  Cambridge
+Handbook  of  Multimedia  Learning,  2nd  ed..  Edited  by  Mayer  RE.
+New  York,  NY:  Cambridge  University  Press;  2014:117-134.
+53.  Mayer  RE,  Jackson  J:  The  case  for  coherence  in  scientiﬁc
+explanations:  quantitative  details  can  hurt  qualitative
+understanding .  J  Exp  Psychol:  Appl  2005,  11:13.
+54.  Castles  J:  Persistence  and  the  adult  learner:  factors  affecting
+persistence  in  open  university  students .  Act  Learn  Higher
+Educ  2004,  5:166-179  http://dx.doi.org/10.1177/
+1469787404043813 .
+55.  Perry  B,  Boman  J,  Care  WD,  Edwards  M,  Park  C:  Why  do
+students  withdraw  from  online  graduate  nursing  and  health
+studies  education?  J  Educ  Online  2008,  5:1-17.
+56.  Mu¨ller  T:  Persistence  of  women  in  online  degree-completion
+programs .  Int  Rev  Res  Open  Distrib  Learn  2008,  9:1-18.86  Mindfulness
+Current  Opinion  in  Psychology  2019,  28:81–86  www.sciencedirect.com
