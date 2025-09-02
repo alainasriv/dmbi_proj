@@ -1,15 +1,15 @@
 
 [
     {
-        "phenomenon": "Digital Mindfulness",
-        "definition": "The practice of using digital tools and resources to engage in mindfulness activities that improve mental well-being."
+        "phenomenon": "Adherence",
+        "definition": "Remaining engaged with and consistently following the intended course of a digital mindfulness-based intervention. This includes sustained participation, regular practice, completion of program activities, and factors that enable individuals to “stick with” or stay with the intervention or their mindfulness practice over time. "
     },
     {
-        "phenomenon": "Cognitive Load",
-        "definition": "The total amount of mental effort being used in the working memory."
+        "phenomenon": "Dropout",
+        "definition": "The action of discontinuing or leaving a digital mindfulness-based intervention before completing the intended program, or the intended duration of their practice. Dropout can be operationalized as declines in participation or engagement. Some studies use dropout rates, missed sessions, or attrition to quantify this concept. It reflects a reduction or cessation in use or practice of mindfulness or meditation despite initial enrolment or initiation of the practice. "
     },
     {
-        "phenomenon": "Flow State",
-        "definition": "A mental state in which a person is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of an activity."
+        "phenomenon": "Accessibility",
+        "definition": "The degree to which a digital mindfulness-based intervention is easy to reach, use, utilize, and benefit from. Accessibility encompasses the removal of barriers to use, the ease of utilization across diverse users, and the potential to broaden participation through design features, delivery formats, or contextual supports that enhance reach and equity. "
     }
 ]
