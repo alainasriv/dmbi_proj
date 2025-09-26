@@ -11,40 +11,47 @@ import os
 import re
 import json
 
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_openai import ChatOpenAI
 
 from chunking import chunking
 
+
 class prompt():
-    def __init__(self, chunked_docs, outcome_definition, api_key):
+    def __init__(self, chunked_docs, outcome_definition):
         self.chunked_docs       = chunked_docs
         self.outcome_definition = outcome_definition
-        self.api_key            = api_key
 
-    def _find_factors_to_result(self, phenomenon_definition, chunk):
-        openai.api_key = os.getenv("OPENAI_API_KEY")
+    def _find_factors_to_result(self, phenomenon_definition, chunk, response_format):
         messages = [
             {"role": "system", 
-            "content": ("You are an assistant specialized in summarizing and identifying key factors within a given context. You don't have specific domain knowledge at all, "
-            "but you excel at extracting relevant information from text.")},
+            "content": (
+                "You are an assistant skilled at extracting and summarizing key factors from text. "
+                "While you do not possess specific domain expertise, you excel in information retrieval from provided content."
+            )},
             {"role": "user", "content": (
-                f"You are provided with context from a study on digital mindfulness-based interventions in psychology. "
-                f"Your task is to identify and describe factors that contribute to the following phenomenon: \n\n"
+                f"You are provided with context from a research study on digital mindfulness-based interventions. "
+                f"Your task is to identify factors in the context that contributes to each of the following phenomena individually:\n\n"
                 f"{phenomenon_definition}\n\n"
                 f"Here is the context:\n{chunk}\n\n"
-                "Please identify all relevant factors from the context and explain, in one sentence each, how they contribute to the phenomenon. "
+                "Your response should follow this format:\n"
+                f"{response_format}\n\n"
+                "For each phenomenon, identify all relevant factors from the context." 
+                "For each factor, quote the specific part of the context that describe how this factor contribute to this phenomenon.  "
+                "Citations are provided within the context, enclosed in parentheses and formatted like 'Author et al., Year'. "
+                "If there are multiple citations, they are separated by a semicolon ';'. Please copy these citations directly into your response. "
                 "If no factors are evident, respond with 'There are no related factors in this chunk.'"
+
             )}
         ]
-        response = openai.ChatCompletion.create(
-            model="gpt-4o",
-            messages=messages,
-            max_tokens=1000,
-            temperature=0
-        )
-        return response.choices[0].message['content'].strip()
+        response = client.chat.completions.create(model="gpt-4o",
+        messages=messages,
+        max_tokens=1000,
+        temperature=0)
+        return response.choices[0].message.content.strip()
     def _find_factor_relation(self):
         ''' a prompt TBD. input: list of factors. output: find in context their relation, if the context mentioned. '''
         pass
@@ -59,23 +66,32 @@ class prompt():
     def generate_summary_files(self): 
         outcome_definition  = self.outcome_definition
         chunks              = self.chunked_docs
-        for index, item in enumerate(outcome_definition, start=1):
-            term        = item['phenomenon']
-            definition  = item['definition']
-            print(f"Start processing {item['phenomenon']} related causes")
-            result = []
-            output_file = term + '.txt'
-            for chunk in chunks:
-                result.append(self._find_factors_to_result(definition, chunk))
-            print(f"Start saving {item['phenomenon']} related causes")
-            self.write_summaries_to_txt(result, output_file)
-            print(f"End saving {item['phenomenon']} related causes")
-            # TODO: Make it more robust by removing summary list, but saving them chunk by chunk. 
+
+        phenomena_def = "\n\n".join(
+            f"- **{item['phenomenon']}**: {item['definition']}" for item in outcome_definition
+        )
+        expected_format = "\n".join(
+            f"The factors contributing to {item['phenomenon']} are: (list all factors contributing to {item['phenomenon']} only)"
+            for item in outcome_definition
+        )
+
+
+
+        result = []
+        output_file = 'response.txt'
+        for chunk in chunks:
+            print(f'processing chunk {i}')
+            result.append(self._find_factors_to_result(phenomena_def, chunk, response_format=expected_format))
+        print(f"Start saving response")
+        self.write_summaries_to_txt(result, output_file)
+        print(f"End saving response")
+        # TODO: Make it more robust by removing summary list, but saving them chunk by chunk. 
+
         print("Done with generating summary files")
 
 
 
-    
+
 
 if __name__ == "__main__":
     path = os.getcwd()
@@ -83,7 +99,7 @@ if __name__ == "__main__":
     chunk_folder = os.path.join(path, chunk_subpath)
     chunk = chunking(chunk_folder)
     documents = chunk.load_chunks()
-    
+
     outcome_filename = 'outcome_definition.json'
     with open(os.path.join(path, outcome_filename)) as outcome_file:
         outcome_definition = json.load(outcome_file)
@@ -91,5 +107,5 @@ if __name__ == "__main__":
     generate_prompt = prompt(chunked_docs = documents, outcome_definition = outcome_definition)
     generate_prompt.generate_summary_files()
 
-   
+
 
