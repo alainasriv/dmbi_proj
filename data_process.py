@@ -77,7 +77,7 @@ class data_processor():
     # %% 
     def load_all_papers(self, folder, loader):
         path = self.path
-        directory = os.path.join(path + folder)
+        directory = os.path.join(path, folder)
         if not Path(directory).exists():
             raise FileNotFoundError(f"Folder '{directory}' was not found")
         files = os.listdir(directory)
@@ -146,7 +146,7 @@ class data_processor():
         for name, text in papers.items():
             if name.endswith(".pdf"):
                 name = name[:-4]
-            path = os.path.join(folder + name + '.txt')
+            path = os.path.join(folder, name, '.txt')
             with open(path, "w") as f:
                 f.write(text)
                 print(f"Saving completed for file '{name}. ")
@@ -168,7 +168,7 @@ def main():
     #         name = name[:-4]
     #     print(os.path.join(path + '/cleaned_papers/' + name + '.txt'))
 
-    processor.save_to_text(sections, os.path.join(path + '/cleaned_papers/'))
+    processor.save_to_text(sections, os.path.join(path, '/cleaned_papers/'))
 
     return sections
 

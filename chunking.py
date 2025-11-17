@@ -20,7 +20,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
 class chunking():
-    def __init__(self, output_folder):
+    def __init__(self, output_folder=None):
         self.output_folder = output_folder
 
     def make_chunks(self, docs):
@@ -31,46 +31,54 @@ class chunking():
         return chunks
     def save_chunks_to_text(self, docs):
         output_folder = self.output_folder
-        # Ensure the output directory exists
-        os.makedirs(output_folder, exist_ok=True)
+        if output_folder==None:
+            raise ValueError("output folder cannot be None. ")
+        else:
+            # Ensure the output directory exists
+            os.makedirs(output_folder, exist_ok=True)
 
-        # Group documents by metadata
-        grouped_documents = defaultdict(list)
-        for doc in docs:
-            metadata = doc.metadata['source'].rsplit('/', 1)[-1]       # define metadata = the file name
-            grouped_documents[metadata].append(doc.page_content)
+            # Group documents by metadata
+            grouped_documents = defaultdict(list)
+            for doc in docs:
+                metadata = doc.metadata['source'].rsplit('/', 1)[-1]       # define metadata = the file name
+                grouped_documents[metadata].append(doc.page_content)
 
-        # Write grouped documents to separate files
-        for metadata, contents in grouped_documents.items():
-            file_path = os.path.join(output_folder, metadata)
-            with open(file_path, 'w', encoding='utf-8') as file:
-                for content in contents:
-                    file.write(content + '\n')
-            print(f"Documents saved with metadata '{metadata}'")
+            # Write grouped documents to separate files
+            for metadata, contents in grouped_documents.items():
+                file_path = os.path.join(output_folder, metadata)
+                with open(file_path, 'w', encoding='utf-8') as file:
+                    for content in contents:
+                        file.write(content + '\n')
+                print(f"Documents saved with metadata '{metadata}'")
 
     def save_chunk_for_later_loading(self, docs):
-
         output_folder = self.output_folder
-        # Ensure the output directory exists
-        os.makedirs(output_folder, exist_ok=True)
-        # Save the Document object to a file
-        
-        filepath = os.path.join(output_folder, 'document.pkl')
-        with open(filepath, 'wb') as f:
-            pickle.dump(docs, f)
-            print('chunks saved to document.pkl')
+        if output_folder==None:
+            raise ValueError("output folder cannot be None. ")
+        else:
+            # Ensure the output directory exists
+            os.makedirs(output_folder, exist_ok=True)
+            # Save the Document object to a file
+            
+            filepath = os.path.join(output_folder, 'document.pkl')
+            with open(filepath, 'wb') as f:
+                pickle.dump(docs, f)
+                print('chunks saved to document.pkl')
 
     def load_chunks(self):
         load_folder = self.output_folder
-        # filepath = os.path.join(load_folder + 'document.pkl')
-        filepath = os.path.join(load_folder, 'document.pkl')
-    
-        if not os.path.exists(filepath):
-            print(f"File {filepath} does not exist.")
+        if load_folder==None:
+            raise ValueError("output folder cannot be None. ")
+        else:
+            # filepath = os.path.join(load_folder + 'document.pkl')
+            filepath = os.path.join(load_folder, 'document.pkl')
+        
+            if not os.path.exists(filepath):
+                print(f"File {filepath} does not exist.")
 
-        with open(filepath, 'rb') as f:
-            loaded_doc = pickle.load(f)
-        return loaded_doc
+            with open(filepath, 'rb') as f:
+                loaded_doc = pickle.load(f)
+            return loaded_doc
 
 
 
