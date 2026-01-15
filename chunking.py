@@ -20,13 +20,17 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 
 class chunking():
-    def __init__(self, output_folder=None):
+    def __init__(self, output_folder=None, chunk_size=500, chunk_overlap=100):
         self.output_folder = output_folder
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
 
     def make_chunks(self, docs):
+        chunk_size = self.chunk_size
+        chunk_overlap = self.chunk_overlap
         separators = ['\n\n', ' ', '']
         text_splitter = RecursiveCharacterTextSplitter(separators=separators, 
-                                                keep_separator=False, chunk_size=500, chunk_overlap=100)
+                                                keep_separator=False, chunk_size=chunk_size, chunk_overlap=chunk_overlap)
         chunks = text_splitter.split_documents(docs)
         return chunks
     def save_chunks_to_text(self, docs):
