@@ -67,7 +67,7 @@ class prompt():
         return messages
         
     def _message_consolidate_factors(self, chunk):
-        ''' a prompt TBD. input: list of factors. output: find in context their relation, if the context mentioned. '''
+        ''' a prompt integrating raw factors. '''
         # Check if 'outcome_definition' is in kwargs, else raise an error
         if 'outcome_definition' in self.kwargs:
             outcome_definition = self.kwargs['outcome_definition']
@@ -81,81 +81,139 @@ class prompt():
                 "role": "system",
                 "content": (
                     "You are an expert assistant in academic text analysis and synthesis. "
-                    "You excel at consolidating semantically similar information and producing clear, concise, non-redundant summaries. "
-                    "Always aim to merge factors with similar meanings."
-                ),
+                    "You specialize in consolidating semantically similar information and producing clear, concise, non-redundant summaries."
+                )
+            },
+            {
+                "role": "user",
+                "content": (
+                    "Task: Summarize and consolidate key factors from provided academic context paragraphs.\n\n"
+                    "Context:\n"
+                    f"- Definition: {phenomenon_definition}\n"
+                    "- The following are context paragraphs. Each includes a quotation, a citation (author, year), and sometimes an explanation (prefixed with ': ').\n\n"
+                    f"{chunk}\n\n"
+                    "Instructions:\n"
+                    f"1. Identify all unique factors that contribute to {outcome_definition['phenomenon']}.\n"
+                    "2. Merge factors with similar meanings into a single, clearly named factor. The factor's name should make its relationship to the phenomenon obvious.\n"
+                    "3. For each factor, provide a concise explanation of its contribution to the phenomenon.\n"
+                    "4. List all unique citations (author, year) supporting each factor, and provide the count of unique citations. Do not count duplicates.\n"
+                    # "5. For each factor, describe any relationships it has with other factors you generate, including:\n"
+                    # "   - Factor: the other factor that this factor is related to. \n"
+                    # "   - Conditions: Specify 'when/for whom/under what implementation' the above relationship holds. Include all contradictory or alternative conditions if present.\n"
+                    # "   - Evidence_span: Provide the minimal text snippet (or pointer) justifying the above conditions.\n"
+                    f"5. Include the study ID from the metadata: {chunk.metadata}\n"
+                    "6. Rank the consolidated factors from most to least cited (by unique citation count).\n"
+                    "7. Output as a numbered list. For each factor, include:\n"
+                    "   - A clear summary of the consolidated factor\n"
+                    "   - A concise explanation/description\n"
+                    "   - Number of unique citations and their list\n"
+                    # "   - Any relevant conditions and evidence_spans for relationships with other factors\n"
+                    "   - Study_id: {chunk.metadata}\n\n"
+                    "Example format:\n"
+                    "1. [Consolidated Factor 1]\n"
+                    "   - Description: ...\n"
+                    "   - Citations: N (list)\n"
+                    "   - Study_id: ...\n"
+                    "2. [Consolidated Factor 2]\n"
+                    "   - Description: ...\n"
+                    "   - Citations: M (list)\n"
+                    # "   - Condition1: ...\n"
+                    # "   - Evidence_span1: ...\n"
+                    "   - Study_id: ...\n"
+                    "3. [Consolidated Factor 3]\n"
+                    "   - Description: ...\n"
+                    "   - Citations: X (list)\n"
+                    # "   - Condition1: ...\n"
+                    # "   - Evidence_span1: ...\n"
+                    # "   - Condition2: ...\n"
+                    # "   - Evidence_span2: ...\n"
+                    "   - Study_id: ...\n\n"
+                    "Guidelines:\n"
+                    "- Always merge similar factors and avoid redundancy.\n"
+                    "- Ensure each summary is clear, unique, and directly related to the phenomenon.\n"
+                )
+            }
+        ]
+
+        return message
+    
+    def _message_final_factors(self, chunk):
+        ''' a prompt prodiucing final combined factors. '''
+        # Check if 'outcome_definition' is in kwargs, else raise an error
+        if 'outcome_definition' in self.kwargs:
+            outcome_definition = self.kwargs['outcome_definition']
+        else:
+            raise ValueError("The keyword argument 'outcome_definition' is required.")
+        phenomenon_definition = "\n\n".join(
+            f"- **{outcome_definition['phenomenon']}**: {outcome_definition['definition']}"
+        )
+        message = [
+            {
+                "role": "system",
+                "content": (
+                    "You are an expert in academic text analysis and synthesis. "
+                    "You excel at merging semantically similar information and generating clear, concise, non-redundant summaries."
+                )
+            },
+            {
                 "role": "user",
                 "content": (
                     "Task: Summarize and consolidate key factors from academic context paragraphs.\n\n"
-                    "Context provided:\n"
-                    f"- A definition: {phenomenon_definition}\n"
-                    "- A set of context paragraphs. Each paragraph includes a quotation, a citation (author, year), and sometimes an explanation (which starts with ': ').\n\n"
-                    "Instructions:\n"
-                    "1. Read and understand the provided definition and all context paragraphs below:\n"
+                    "Context:\n"
+                    f"- Definition: {phenomenon_definition}\n"
+                    "- Below is a set of enumerated factors. Each includes a description, summary explanation, citation count and list, relation to other factors (with conditions and evidence_spans), frequency, and study IDs.\n\n"
                     f"{chunk}\n\n"
-                    f"2. Identify all factors that contribute to {outcome_definition['phenomenon']}. Merge factors that have similar meanings, even if expressed differently, into a single, clearly worded factor.\n"
-                    "3. For each consolidated factor, count the number of unique citations (author, year) that reference that factor. If a citation repeats for the same factor, count it only once.\n"
-                    "4. Rank the consolidated factors from most to least cited (by unique citation count).\n"
-                    "5. Assign a frequency label to each factor:\n"
-                    "   - 'high frequency' for the top 1-2 most cited factors\n"
-                    "   - 'common' for factors in the middle\n"
-                    "   - 'less common' for the least cited factors\n"
-                    "6. Output a numbered list. For each factor, include:\n"
-                    "   - A concise summary of the consolidated factor\n"
-                    "   - The number of unique citations\n"
-                    "   - The frequency label\n\n"
+                    "Instructions:\n"
+                    f"1. Review the definition and all factors provided above.\n"
+                    f"2. Consolidate all factors that contribute to {outcome_definition['phenomenon']}. Merge factors with similar meanings into a single, clearly named factor that directly expresses its relation to {outcome_definition['phenomenon']}.\n"
+                    "3. For each consolidated factor, provide a clear description and an explanation of how it contributes to the phenomenon.\n"
+                    "4. List all unique supporting citations (author, year) for each factor, and state the number of unique citations. Count repeat citations only once.\n"
+                    # "5. If there are 'factors', 'conditions' and 'evidence_span' in context, then for each factor, consolidate its relationships to other factors, including:\n"
+                    # "   - Factor: the other factor that this factor is related to. \n"
+                    # "   - Conditions: Specify 'when/for whom/under what implementation' the above relationship holds. Include all contradictory or alternative conditions if present.\n"
+                    # "   - Evidence_span: Provide the minimal text snippet (or pointer) justifying the above conditions.\n"
+                    " If there is none, the skip this part. \n"
+                    "5. Pool all unique study_ids from the context for each consolidated factor.\n"
+                    "6. Rank the factors from most to least cited (by unique citation count).\n"
+                    "7. Assign a frequency label to each factor based on citation count and any frequency annotations in the context:\n"
+                    "   - 'high frequency' for factors that appear repeatedly or are labeled 'high frequency'\n"
+                    "   - 'common' for factors in the middle range\n"
+                    "   - 'less common' for rarely seen factors or those labeled 'less common'\n"
+                    "8. Format your output as a numbered list. For each factor, include:\n"
+                    "   - A concise summary of the factor\n"
+                    "   - Description and explanation\n"
+                    "   - Number and list of unique citations\n"
+                    "   - Frequency label\n"
+                    # "   - For each related factor: Condition(s) and Evidence_span(s) supporting the relationship\n"
+                    "   - Study_id: pooled unique study_ids\n\n"
                     "Example output:\n"
-                    "1. [Summary of consolidated factor 1]\n"
-                    "   - Citations: N\n"
+                    "1. [Consolidated Factor 1]\n"
+                    "   - Description: [Explanation]\n"
+                    "   - Citations: N ([citation1], [citation2], ...)\n"
                     "   - Frequency: high frequency\n"
-                    "2. [Summary of consolidated factor 2]\n"
-                    "   - Citations: M\n"
-                    "   - Frequency: common\n"
-                    "3. [Summary of consolidated factor 3]\n"
-                    "   - Citations: X\n"
-                    "   - Frequency: less common\n\n"
+                    # "   - Condition1: [Qualifier relating to factor X]\n"
+                    # "   - Evidence_span1: [Text snippet for factor X]\n"
+                    # "   - Condition2: [Qualifier relating to factor Y]\n"
+                    # "   - Evidence_span2: [Text snippet for factor Y]\n"
+                    "   - Study_id: [id1, id2, ...]\n"
+                    "2. [Consolidated Factor 2]\n"
+                    "   - Description: ...\n"
+                    "   - Citations: ...\n"
+                    "   - Frequency: ...\n"
+                    # "   - Condition1: ...\n"
+                    # "   - Evidence_span1: ...\n"
+                    "   - Study_id: ...\n"
+                    "...\n\n"
                     "Guidelines:\n"
-                    "- Merge similar factors; avoid redundancies.\n"
-                    "- Make each summary clear and unique.\n"
-                    )
+                    "- Always merge factors with similar meanings to avoid redundancy.\n"
+                    "- Present each summary clearly and uniquely.\n"
+                    "- Only count each citation once per factor.\n"
+                    "- Consolidate and clarify conditions and evidence_spans from the context for each factor.\n"
+                )
             }
+        ]
 
-        #     {"role": "system", 
-        #     "content": (
-        #         "You are an expert assistant in academic text analysis and synthesis. "
-        #         "You excel at consolidating semantically similar information and producing clear, concise summaries."
-        #     )},
-        #     {"role": "user", "content": (
-        #         f"You are given a set of context paragraphs, each containing a quotation, its citation in the format (author, year), and optionally an explanation (starting with ": ").\n"
-        #         f"Your task:\n"
-        #         f"1. Carefully read and understand the definition of this terminology: {phenomenon_definition} and all context paragraphs.\n"
-        #         f"2. Here is the context: \n{chunk}\n\n"
-        #         f"2. Identify all factors that contribute to {outcome_definition['phenomenon']}, even if they are described using different words or phrases. Pay careful attention to similarities in meaning and intent, and consolidate such factors into a single, clearly worded factor.\n"
-        #         f"3. For each consolidated factor, count the number of unique citations (author, year) that reference this factor (count each citation only once per factor, even if it appears in multiple paragraphs).\n"
-        #         f"4. Rank the consolidated factors from most to least frequently cited, according to the number of unique citations.\n"
-        #         f"5. Assign a frequency label to each factor:\n"
-        #         f"- 'high frequency' for the top 1-2 most cited factors,\n"
-        #         f"- 'common' for factors in the middle range,\n"
-        #         "- 'less common' for the least cited factors.\n\n"
-        #         "6. Output a numbered list where each entry includes:\n"
-        #         "- A concise summary of the consolidated factor,\n"
-        #         "- The number of unique citations,\n"
-        #         "- The frequency label.\n"
-        #         "\n Example output:\n\n"
-        #         "1. [Summary of consolidated factor 1]\n"
-        #         "- Citations: N\n"
-        #         "- Frequency: high frequency\n"
-        #         "2. [Summary of consolidated factor 2]\n"
-        #         "- Citations: M\n"
-        #         "- Frequency: common\n"
-        #         "3. [Summary of consolidated factor 3]\n"
-        #         "- Citations: X\n"
-        #         "- Frequency: less common\n\n"
-        #         "Please ensure that factors with similar meanings are merged, and avoid listing redundant or overlapping factors. Provide clear and distinct summaries for each consolidated factor."
-        #     )
-        # }
-            
-    ]
+
         return message
 
     def generate_response(self, message_func, include_chunk=False):
@@ -180,9 +238,9 @@ class prompt():
                 else:
                     raise TypeError("chunks are either list of Documents or strings")
             message  = message_func(chunk)
-            response = client.chat.completions.create(model="gpt-4o",
+            response = client.chat.completions.create(model="gpt-5.2",
             messages=message,
-            max_tokens=max_tokens,
+            max_completion_tokens=max_tokens,
             temperature=0)
             results.append(response.choices[0].message.content.strip())
         
